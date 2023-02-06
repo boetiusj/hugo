@@ -13,14 +13,14 @@
 <meta name="theme-name" content="megakit" />
 
 <!-- bootstrap.min css -->
-<link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+<link rel="stylesheet" href={{ absURL "plugins/bootstrap/bootstrap.min.css" }}>
 <!-- Icon Font Css -->
-<link rel="stylesheet" href="plugins/themify/css/themify-icons.css">
-<link rel="stylesheet" href="plugins/fontawesome/css/all.min.css">
-<link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
+<link rel="stylesheet" href={{ absURL "plugins/themify/css/themify-icons.css" }}>
+<link rel="stylesheet" href={{ absURL "plugins/fontawesome/css/all.min.css" }}>
+<link rel="stylesheet" href={{ absURL "plugins/magnific-popup/magnific-popup.css" }}>
 <!-- Owl Carousel CSS -->
-<link rel="stylesheet" href="plugins/slick/slick.css">
-<link rel="stylesheet" href="plugins/slick/slick-theme.css">
+<link rel="stylesheet" href={{ absURL "plugins/slick/slick.css" }}>
+<link rel="stylesheet" href={{ absURL "plugins/slick/slick-theme.css" }}>
 
 <!-- Main Stylesheet -->
 {{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
@@ -33,4 +33,4 @@
 <link rel = 'stylesheet' href = '{{ $styles.Permalink }}' integrity = '{{ $styles.Data.Integrity }}' crossorigin="anonymous">
 
 <!--Favicon-->
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="icon" href="/images/favicon.png" type="image/x-icon">

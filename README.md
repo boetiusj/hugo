@@ -13,7 +13,7 @@ Here's what I have done:
 Here’s what I’d like:
 1. Create work environment in Git - https://github.com/boetiusj/hugo-dev
      All files - Hugo, theme and data - stored on Git
-2. Replicate my existing site (crestwoodpainting.com) in Hugo
+2. Replicate my existing site (https://crestwoodpainting.com) in Hugo
      Critical that calendar booking button functionality remain unchanged.
      Advise which layout features, images, etc. must be revised or updated
      Home page should have sections so that I might add a new section or change background color etc.

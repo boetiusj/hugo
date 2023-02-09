@@ -1,3 +1,6 @@
 title = "Crestwood Painting"
 baseURL = "https://crestwoodpainting.com/"
 paginate = 10
+[taxonomies]
+category = "categories"
+tag = "tags"

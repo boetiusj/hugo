@@ -2,3 +2,24 @@
 blogPageSidebarOn = true
 # number of latest posts to show on blog sidebar
 latestPosts = 3
+email = "support@gmail.com"
+phone = "+23-345-67890"
+copyright = "Copyright &copy; 2020, Designed &amp; Developed by [Themefisher](https://themefisher.com/)"
+[comments]
+enable = false
+[[socials]]
+platform = "facebook"
+profile = "https://www.facebook.com/themefisher"
+icon = "facebook-f" # fab fa-facebook-f
+[[socials]]
+platform = "twitter"
+profile = "https://twitter.com/themefisher"
+icon = "twitter" # fab fa-twitter
+[[socials]]
+platform = "github"
+profile = "https://github.com/themefisher/"
+icon = "github" # fab fa-github
+[[socials]]
+platform = "pinterest"
+profile = "https://www.pinterest.com/themefisher"
+icon = "pinterest-p" # fab fa-pinterest-p

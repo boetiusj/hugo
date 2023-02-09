@@ -1,5 +1,5 @@
 title = "Crestwood Painting"
-baseURL = "https://crestwoodpainting.com/"
+baseURL = "https://crestwoodpainting.netlify.app/"
 paginate = 10
 [taxonomies]
 category = "categories"

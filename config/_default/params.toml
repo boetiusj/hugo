@@ -2,24 +2,24 @@
 blogPageSidebarOn = true
 # number of latest posts to show on blog sidebar
 latestPosts = 3
-email = "support@gmail.com"
-phone = "+23-345-67890"
-copyright = "Copyright &copy; 2020, Designed &amp; Developed by [Themefisher](https://themefisher.com/)"
+email = "admin@crestwoodpainting.com"
+phone = "+1 816-805-4515"
+copyright = "Copyright &copy; 2007, Designed &amp; Developed by [Crestwood Painting](https://crestwoodpainting.com/)"
 [comments]
 enable = false
 [[socials]]
 platform = "facebook"
-profile = "https://www.facebook.com/themefisher"
+profile = "https://www.facebook.com/CrestwoodPainting" 
 icon = "facebook-f" # fab fa-facebook-f
 [[socials]]
 platform = "twitter"
-profile = "https://twitter.com/themefisher"
+profile = "https://twitter.com/CrestwoodPaint"
 icon = "twitter" # fab fa-twitter
 [[socials]]
-platform = "github"
-profile = "https://github.com/themefisher/"
-icon = "github" # fab fa-github
+platform = "instagram"
+profile = "https://www.instagram.com/crestwoodpainting/"
+icon = "instagram" # fab fa-instagram
 [[socials]]
 platform = "pinterest"
-profile = "https://www.pinterest.com/themefisher"
+profile = "https://www.pinterest.com/crestwoodpaint/"
 icon = "pinterest-p" # fab fa-pinterest-p

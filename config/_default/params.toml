@@ -1,0 +1,4 @@
+# enable sidebar on main blog page
+blogPageSidebarOn = true
+# number of latest posts to show on blog sidebar
+latestPosts = 3

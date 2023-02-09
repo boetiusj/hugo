@@ -1,2 +1,3 @@
 title = "Crestwood Painting"
 baseURL = "https://crestwoodpainting.com/"
+paginate = 10

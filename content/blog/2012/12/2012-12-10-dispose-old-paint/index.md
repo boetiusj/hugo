@@ -13,7 +13,7 @@ tags:
   - "paint-disposal"
 ---
 
-\[caption id="attachment\_1153" align="alignright" width="200"\]![Old Paint - Disposal](images/OldPaintCans_opt.jpg "Old Paint Needing Recycling") Best to take old paint to the local recycling center for safe and legal disposal.\[/caption\]
+\[caption id="attachment\_1153" align="alignright" width="200"\]![Old Paint - Disposal](/images/OldPaintCans_opt.jpg "Old Paint Needing Recycling") Best to take old paint to the local recycling center for safe and legal disposal.\[/caption\]
 
 Painters in Kansas City - whether DIY painters or pro's - all have the same challenge at the end of a job: how to get rid of old or leftover paint. There are the environmentally responsible options and then the legally questionable options. Let's take a look at both.
 

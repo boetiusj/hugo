@@ -14,7 +14,7 @@ tags:
 coverImage: "Lead-Safe-Certified-1-e1514657696358.jpg"
 ---
 
-![Lead paint certified Crestwood Painting](images/Lead-Safe-Certified-1-e1514657696358.jpg)
+![Lead paint certified Crestwood Painting](/images/Lead-Safe-Certified-1-e1514657696358.jpg)
 
 Crestwood Painting has been [EPA Lead-Safe certified](https://crestwoodpainting.com/lead-paint-safety/) since 2011, many of our Job Leads have also been trained and certified, as well.
 

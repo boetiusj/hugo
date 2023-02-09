@@ -14,7 +14,7 @@ tags:
   - "sub-contractor"
 ---
 
-![crestwood painting van who is your painter - kansas city](images/Who-Is-crop-close_opt.jpg "Crestwood Painting Van")Who is working on your project? And exactly how are they being paid - as an [employee or sub-contractor](https://crestwoodpainting.com/compare-paint-bids/)? It really _does_ make a difference and it really _can_ cost you money. Here's why:
+![crestwood painting van who is your painter - kansas city](/images/Who-Is-crop-close_opt.jpg "Crestwood Painting Van")Who is working on your project? And exactly how are they being paid - as an [employee or sub-contractor](https://crestwoodpainting.com/compare-paint-bids/)? It really _does_ make a difference and it really _can_ cost you money. Here's why:
 
 ### Risk to Homeowners
 

@@ -12,7 +12,7 @@ tags:
   - "kitchen"
 ---
 
-[![paint touch up](images/Nail-Polish-300x300.jpg)](https://crestwoodpainting.com/cwp/wp-content/uploads/2014/07/Nail-Polish.jpg)A homeowner asked about touch-up painting for trim and kitchen cabinets - this explanation really clicked for her.
+[![paint touch up](/images/Nail-Polish-300x300.jpg)](https://crestwoodpainting.com/cwp/wp-content/uploads/2014/07/Nail-Polish.jpg)A homeowner asked about touch-up painting for trim and kitchen cabinets - this explanation really clicked for her.
 
 Nails usually follow a three step process:
 

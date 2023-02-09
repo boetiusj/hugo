@@ -26,7 +26,7 @@ tags:
   - "trim"
 ---
 
-\[caption id="attachment\_1288" align="alignright" width="199"\]![Paint sheen crestwood interior](images/Sheen-Stripes_opt-199x300.jpg "Wall With Low and High Sheen Stripes") Sheen describes the amount of light reflected.\[/caption\]
+\[caption id="attachment\_1288" align="alignright" width="199"\]![Paint sheen crestwood interior](/images/Sheen-Stripes_opt-199x300.jpg "Wall With Low and High Sheen Stripes") Sheen describes the amount of light reflected.\[/caption\]
 
 Everybody knows about color; not many know about sheen. But it is just as  important when choosing paints. So here we go!
 
@@ -40,7 +40,7 @@ Sheen is another way to say "light reflectance". Kitchen cabinets are usually hi
 - Paint is more porous and so can be more difficult to clean
 - High quality flat paint always outperforms lower quality
 
-### [![paint sheens interior kansas city](images/Paint-Sheens_opt.jpg "How Paint Sheens Reflect Light Differently")](https://crestwoodpainting.com/cwp/wp-content/uploads/2013/01/Paint-Sheens_opt.jpg)Egg-Shell, Satin, Semi-Gloss, Gloss, High Gloss
+### [![paint sheens interior kansas city](/images/Paint-Sheens_opt.jpg "How Paint Sheens Reflect Light Differently")](https://crestwoodpainting.com/cwp/wp-content/uploads/2013/01/Paint-Sheens_opt.jpg)Egg-Shell, Satin, Semi-Gloss, Gloss, High Gloss
 
 - Enhance surface imperfections through reflection
 - Somewhat easier to clean because the surface is less porous

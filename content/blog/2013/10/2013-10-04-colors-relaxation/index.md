@@ -15,7 +15,7 @@ tags:
   - "interior-painting"
 ---
 
-![blue relaxing paint color](images/Relaxing-Paint-Colors.jpg "Blue - Relaxing Paint Color")
+![blue relaxing paint color](/images/Relaxing-Paint-Colors.jpg "Blue - Relaxing Paint Color")
 
 This update from Kansas City color consultant Diane Stewart ([ColorSenseConsulting.com](https://crestwoodpainting.com/colors-relaxation/)) gives the low-down on color - relaxing color. We've referred many customers to Diane; if you're in a color quandary please give her a call.
 

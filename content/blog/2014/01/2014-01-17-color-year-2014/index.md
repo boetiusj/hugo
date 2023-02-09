@@ -12,7 +12,7 @@ tags:
   - "neutral-colors"
 ---
 
-\[caption id="attachment\_2067" align="alignright" width="180"\]![color of the year 2014](images/coloc-14-e1514757889294.jpg) Some day we'll laugh about this...\[/caption\]
+\[caption id="attachment\_2067" align="alignright" width="180"\]![color of the year 2014](/images/coloc-14-e1514757889294.jpg) Some day we'll laugh about this...\[/caption\]
 
 New colors are declared "trendy" by those that know such things. Usually it warrants nothing more than a harrumph, but in this case it's very clear that somebody got carried away with their Barney/Cookie Monster childhood.
 

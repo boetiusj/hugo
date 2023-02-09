@@ -10,7 +10,7 @@ tags:
   - "spray-painting"
 ---
 
-![Spray paint kansas city](images/Spray.jpg)
+![Spray paint kansas city](/images/Spray.jpg)
 
 Spraying allows for the most efficient and consistent application of paint.
 

@@ -13,7 +13,7 @@ tags:
   - "prep-work"
 ---
 
-\[caption id="attachment\_908" align="alignright" width="225"\]![Clean paint contractor kansas city](images/KrudKutter.jpg "Krud Kutter For Pre-Painting Cleaning") The "secret" weapon in our cleaning arsenal.\[/caption\]
+\[caption id="attachment\_908" align="alignright" width="225"\]![Clean paint contractor kansas city](/images/KrudKutter.jpg "Krud Kutter For Pre-Painting Cleaning") The "secret" weapon in our cleaning arsenal.\[/caption\]
 
 [Interior painting in Kansas City](https://crestwoodpainting.com/interior-painter-kansas-city/) starts with prep work and that prep work starts with cleaning. Krud Kutter is the cleaning solution of choice for Crestwood Painting. Whether there are layers of dust on base molding or kid grunge on [kitchen cabinets](https://crestwoodpainting.com/painting-kitchen-cabinets/), this is the first line of attack. Armed with a toothbrush (yes, really), spray bottle and a clean rag it makes short work of an unpleasant task.
 

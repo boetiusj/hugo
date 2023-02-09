@@ -13,7 +13,7 @@ tags:
   - "rain"
 ---
 
-![Online Reviews Crestwood Painting](images/Online-Reviews-e1514762076243.jpg "Online Reviews")
+![Online Reviews Crestwood Painting](/images/Online-Reviews-e1514762076243.jpg "Online Reviews")
 
 This was a review of the painting work we did for a new homeowner. Realtors had a very involved deal and rainy weather made this a bit of a challenge but the rain eventually stopped, the [exterior painting](https://crestwoodpainting.com/exterior-painting-kansas-city/) was soon completed and the homeowner is quite delighted!
 

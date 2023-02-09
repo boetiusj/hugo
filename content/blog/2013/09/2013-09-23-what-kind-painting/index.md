@@ -15,7 +15,7 @@ tags:
   - "wallpaper-2"
 ---
 
-[![Painted small ranch](images/Painted-small-ranch_opt-e1514756332916.jpg "Painted Small Ranch Home")](https://crestwoodpainting.com/cwp/wp-content/uploads/2013/09/Painted-small-ranch_opt.jpg)There is often a pleasant laugh when the answer is "Well, we'll paint your shoes if you stand still long enough." But every once in a while we stumble on a nice story...
+[![Painted small ranch](/images/Painted-small-ranch_opt-e1514756332916.jpg "Painted Small Ranch Home")](https://crestwoodpainting.com/cwp/wp-content/uploads/2013/09/Painted-small-ranch_opt.jpg)There is often a pleasant laugh when the answer is "Well, we'll paint your shoes if you stand still long enough." But every once in a while we stumble on a nice story...
 
 This small ranch style house was owned by a single lady on full disability. Her insurance company told her to paint or they would drop her coverage. Needless to say, when your insurance company calls your home is usually in some kind of disrepair. She called several painters and finally chose Crestwood for her exterior project.
 

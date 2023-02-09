@@ -12,7 +12,7 @@ tags:
   - "online-reviews"
 ---
 
-![Paint estimate Kansas City Crestwood Painting](images/Estimate-definition-1_opt.jpg "Definition of Estimate")The first question most homeowners ask a contractor is “Can I get an estimate?” But there really are four questions you should ask _before_ that one. The first three questions are for your contractor, the last is for you to ask yourself:
+![Paint estimate Kansas City Crestwood Painting](/images/Estimate-definition-1_opt.jpg "Definition of Estimate")The first question most homeowners ask a contractor is “Can I get an estimate?” But there really are four questions you should ask _before_ that one. The first three questions are for your contractor, the last is for you to ask yourself:
 
 > Online reviews (testimonials, feedback, etc.) are uncensored and honest. There will likely be a balance between negative and positive. No reviews? Then you better ask lots of good questions.
 

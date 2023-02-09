@@ -12,7 +12,7 @@ tags:
   - "painting-insurance"
 ---
 
-![Careful Crestwood painters](images/Rose-bushes-300x225.jpg)
+![Careful Crestwood painters](/images/Rose-bushes-300x225.jpg)
 
 If paint contractors are clear in what they are providing and customers are clear in what they are getting then everybody will be happy, yes? So why are happy customer/contractor experiences relatively rare? The answer is the dreaded [_Unmet Expectations_](https://crestwoodpainting.com/reviews/).
 
@@ -42,4 +42,4 @@ If the rose bushes are not mentioned at all you're setting yourself up to have s
 
 It's been wisely said that "a job well specified is half delivered". Give Crestwood Painting a call if you'd like to see what _Met_ Expectations feel like.
 
-[![](images/Ann-Davis.jpg)](https://crestwoodpainting.com/video-testimonials/)
+[![](/images/Ann-Davis.jpg)](https://crestwoodpainting.com/video-testimonials/)

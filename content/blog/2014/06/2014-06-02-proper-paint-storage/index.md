@@ -11,7 +11,7 @@ tags:
   - "latex-paint"
 ---
 
-\[caption id="attachment\_2226" align="alignright" width="200"\]![paint storage](images/Leftover-paint-e1514664930984.jpg) Properly stored paint can last many years.\[/caption\]
+\[caption id="attachment\_2226" align="alignright" width="200"\]![paint storage](/images/Leftover-paint-e1514664930984.jpg) Properly stored paint can last many years.\[/caption\]
 
 The leftover (latex) paint in your basement will, sooner or later, become a disposal problem. Here's how to make sure your next can of paint remains in usable condition.
 

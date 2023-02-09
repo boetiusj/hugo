@@ -11,7 +11,7 @@ tags:
   - "painters"
 ---
 
-![Painter Jake](images/Painter-Jake.jpg "Painter Jake")For the second summer in a row, Jake (our favorite college student) has returned to his natural state as a studious Missouri Tiger. Finance or some other dry-but-potentially-rewarding field.
+![Painter Jake](/images/Painter-Jake.jpg "Painter Jake")For the second summer in a row, Jake (our favorite college student) has returned to his natural state as a studious Missouri Tiger. Finance or some other dry-but-potentially-rewarding field.
 
 Jake is an agreeable, easy-going guy that just grinned when the guys suggested he stay and paint rather than go back to school. He didn't blabber all day, he showed up on time and worked like a horse. All that and everybody liked him, too.
 

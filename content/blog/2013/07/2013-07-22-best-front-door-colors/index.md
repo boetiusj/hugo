@@ -15,7 +15,7 @@ tags:
   - "roof"
 ---
 
-![Front door paint colors yellow](images/Yellow-Front-Door-Curb-Appeal_opt.jpg "Yellow Front door ")Diane Stewart, the Color Consultant at Kansas City's own [Color Sense Consulting](https://crestwoodpainting.com/best-front-door-colors/), is a wealth of experience and information when choosing paint colors. Here Diane talks about some of the factors in choosing which color for your front door.
+![Front door paint colors yellow](/images/Yellow-Front-Door-Curb-Appeal_opt.jpg "Yellow Front door ")Diane Stewart, the Color Consultant at Kansas City's own [Color Sense Consulting](https://crestwoodpainting.com/best-front-door-colors/), is a wealth of experience and information when choosing paint colors. Here Diane talks about some of the factors in choosing which color for your front door.
 
 > The color of your front door should always make a good impression. Choosing a great paint color, along with a decorative wreath or plaque, gives you an opportunity to be creative, and set your house apart.
 >

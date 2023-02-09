@@ -15,7 +15,7 @@ tags:
   - "walls"
 ---
 
-\[caption id="attachment\_1148" align="alignright" width="200"\]![Kansas City paint roller cover](images/tn_Pro-DooZ_opt-1.jpg "Best Interior Paint Roller Cover") This is the roller cover that delivers the best results for interior painting in Kansas City.\[/caption\]
+\[caption id="attachment\_1148" align="alignright" width="200"\]![Kansas City paint roller cover](/images/tn_Pro-DooZ_opt-1.jpg "Best Interior Paint Roller Cover") This is the roller cover that delivers the best results for interior painting in Kansas City.\[/caption\]
 
 Like everything else, paint roller covers can be simple but also pretty complex at the same time. Size, shape, materials and construction all play a role. Even location - [Kansas City painters](https://crestwoodpainting.com/interior-painter-kansas-city/) prefer the Purdy brand while Wooster products are generally preferred to the East. While most homeowners run to the hardware store and pick up whatever looks like it might do the job, the professionals at Crestwood Painting will weigh the many factors and choose the roller cover that will give the desired finished results. Here's what we look for.
 

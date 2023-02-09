@@ -31,7 +31,7 @@ JCH Optimize Pro - optimize css, js files - used by Fiverr freelancer
 
 No Drips
 
-![painter](images/Green-transparent.png)
+![painter](/images/Green-transparent.png)
 
 No Drama
 

@@ -11,7 +11,7 @@ tags:
   - "painters"
 ---
 
-![Painters Whites kansas city painter crestwood painting](images/painters-whites.jpg "Painter In Painting Whites")There is no single answer. Grizzled old union painters as well as younger pros all agree that professional painters in Kansas City wear "painters whites" - but nobody seems to know why.
+![Painters Whites kansas city painter crestwood painting](/images/painters-whites.jpg "Painter In Painting Whites")There is no single answer. Grizzled old union painters as well as younger pros all agree that professional painters in Kansas City wear "painters whites" - but nobody seems to know why.
 
 - Whites distinguish painters from other trades.
 - White connotes [cleanliness](https://crestwoodpainting.com/reviews/) to customers.

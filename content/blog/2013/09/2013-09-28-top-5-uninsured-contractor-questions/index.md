@@ -11,7 +11,7 @@ tags:
   - "painting-insurance"
 ---
 
-![uninsured paint contractor](images/Scream-225x300.jpg "No Insurance? - Scream!")
+![uninsured paint contractor](/images/Scream-225x300.jpg "No Insurance? - Scream!")
 
 What happens if you hire an uninsured contractor? A few pointed questions to your agent and you'll soon see who pays if you hire an uninsured contractor - you do. Almost always. A Farm Bureau Insurance agent offered some specific cases that are very helpful.
 

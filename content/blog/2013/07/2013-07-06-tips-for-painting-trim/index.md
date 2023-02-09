@@ -15,7 +15,7 @@ tags:
   - "trim"
 ---
 
-![White Trim paint](images/White-Trim-paint-169x300.jpg "Door with white trim")Trim color, [especially for interiors](https://crestwoodpainting.com/interior-painter-kansas-city/), often defaults to a generic "white". Color consultant Diane Stewart with [Color Sense Consulting](http://www.colorsenseconsulting.com/) explains very clearly why there's more to it than meets the eye.
+![White Trim paint](/images/White-Trim-paint-169x300.jpg "Door with white trim")Trim color, [especially for interiors](https://crestwoodpainting.com/interior-painter-kansas-city/), often defaults to a generic "white". Color consultant Diane Stewart with [Color Sense Consulting](http://www.colorsenseconsulting.com/) explains very clearly why there's more to it than meets the eye.
 
 "Trim is often an afterthought, but it should be the right color to complement the walls. Trim is sort of like the black outline around illustrations, or piping on a fabric. It should highlight and accent the main attraction in the middle, but it’s not meant to draw attention to itself. Unfortunately, that’s just what bright white trim does. I’m not sure why this became popular, but I try to steer my clients away from it as much as possible.
 

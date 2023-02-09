@@ -8,11 +8,11 @@ Markdown homepage, footer, etc. here: https://drive.google.com/drive/folders/1-4
 
 
 Round 2
-1. Implement existing calendar booking button functionality. There are two site pages for customer bookings: 
+1. Implement existing calendar booking button functionality. There are two site pages for customer bookings:
      Direct - http://crestwoodpainting.com/book-us/
      Call Center - http://crestwoodpainting.com/call-center/
 PHP and JSON files here: https://drive.google.com/drive/folders/1-ym1hPr2ECyUDeOvifeJk6fQGTt637Pq?usp=share_link
 2. Google analytics, FB, etc. code (in header partial?)
-3. Advise on hosting options. 
+3. Advise on hosting options.
 4. Implement host
 5. Set up SSL

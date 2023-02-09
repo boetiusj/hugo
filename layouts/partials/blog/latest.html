@@ -1,0 +1,19 @@
+<div class="sidebar-widget latest-post card border-0 p-4 mb-3">
+  <h5>Latest Posts</h5>
+  {{- $max := default 3 site.Params.latestPosts }}
+  {{- $tally := 0 }}
+  {{ $title := .Title }}
+  {{ range $index,$_ := (first $max (partialCached "func/getPosts" .)) }}
+    {{ if and (ne .Title $title) (lt $tally $max) }}
+    <div class="media border-bottom py-3">
+      {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
+      <a href="{{ .Permalink }}"><img loading="lazy" class="mr-4" src="{{ $image }}" alt="blog"></a>
+      <div class="media-body">
+        <h6 class="my-2"><a href="#">{{ safeHTML .Title }}</a></h6>
+        <span class="text-sm text-muted">{{ dateFormat "02 Jan, 2006" .Date }}</span>
+      </div>
+    </div>
+    {{ end }}
+    {{ $tally = add $tally 1 }}
+  {{ end }}
+</div>

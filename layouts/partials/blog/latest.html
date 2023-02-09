@@ -9,7 +9,7 @@
       {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
       <a href="{{ .Permalink }}"><img loading="lazy" class="mr-4" src="{{ $image }}" alt="blog"></a>
       <div class="media-body">
-        <h6 class="my-2"><a href="#">{{ safeHTML .Title }}</a></h6>
+        <h6 class="my-2"><a href="{{ .Permalink }}">{{ safeHTML .Title }}</a></h6>
         <span class="text-sm text-muted">{{ dateFormat "02 Jan, 2006" .Date }}</span>
       </div>
     </div>

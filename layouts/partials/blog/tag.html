@@ -1,0 +1,3 @@
+{{ $key := .key }}
+{{ $ctx := .ctx }}
+<a href={{ absLangURL $key }}/{{ (replace $ctx.Name "#" "%23") | urlize }}/>{{ $ctx.Name }} ({{ default 2 $ctx.Count }})</a>

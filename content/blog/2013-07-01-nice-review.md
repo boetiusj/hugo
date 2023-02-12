@@ -1,6 +1,6 @@
 ---
 title: "Nice Painting Review!"
-slug: "nice-review"
+url: "nice-review"
 description: "Another nice review from a happy customer "
 keywords: "painter review, kansas city, crestwood painting"
 canonical: "https://crestwoodpainting.com/painting-review/"

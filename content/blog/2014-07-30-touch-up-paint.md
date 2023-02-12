@@ -1,6 +1,6 @@
 ---
 title: "Touch-up Paint vs Fingernail Polish"
-slug: "touch-up-paint"
+url: "touch-up-paint"
 description: "-"
 keywords: "-"
 canonical: "-"

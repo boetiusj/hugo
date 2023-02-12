@@ -1,6 +1,6 @@
 ---
 title: "Employees or Sub-Contractors?"
-slug: "employees-or-sub-contractors"
+url: "employees-or-sub-contractors"
 description: "Some of the factors to consider when choosing a painting contractor in Kansas City."
 keywords: "paint contractor employees crestwood"
 canonical: "https://crestwoodpainting.com/employees-or-sub-contractors/"

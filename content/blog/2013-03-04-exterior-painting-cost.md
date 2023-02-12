@@ -1,6 +1,6 @@
 ---
 title: "How Much Does Exterior Painting Cost?"
-slug: "exterior-painting-cost"
+url: "exterior-painting-cost"
 description: "- "
 keywords: "- "
 canonical: "- "

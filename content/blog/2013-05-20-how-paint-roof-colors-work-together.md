@@ -1,6 +1,6 @@
 ---
 title: "How Paint and Roof Colors Work Together"
-slug: "how-paint-roof-colors-work-together"
+url: "how-paint-roof-colors-work-together"
 description: "Learn about how other fixed elements (roof, landscaping, foundation, etc.) can affect exterior paint color choices."
 keywords: "paint color roof choose kansas city crestwood"
 canonical: "https://crestwoodpainting.com/how-paint-roof-c…rs-work-together/"

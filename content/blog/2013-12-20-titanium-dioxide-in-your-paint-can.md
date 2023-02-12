@@ -1,6 +1,6 @@
 ---
 title: "Titanium Dioxide in Your Paint Can"
-slug: "titanium-dioxide-in-your-paint-can"
+url: "titanium-dioxide-in-your-paint-can"
 description: "Ingredients have a significant effect on the final price of a gallon of paint."
 keywords: "painting contractor"
 canonical: "https://crestwoodpainting.com/titanium-dioxide-in-your-paint-can/"

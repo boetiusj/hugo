@@ -1,6 +1,6 @@
 ---
 title: "Choose the Right Paint Sheen"
-slug: "choose-right-paint-sheen"
+url: "choose-right-paint-sheen"
 description: "Some of the factors involved in choosing paint sheens."
 keywords: "Paint sheen color crestwood painting"
 canonical: "https://crestwoodpainting.com/choose-right-paint-sheen/"

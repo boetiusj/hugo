@@ -1,6 +1,6 @@
 ---
 title: "How to Dispose of Old Paint"
-slug: "dispose-old-paint"
+url: "dispose-old-paint"
 description: "The best options for Kansas city homeowners to dispose of old paint."
 keywords: "Paint disposal kansas city crestwood"
 canonical: "https://crestwoodpainting.com/dispose-old-paint/"

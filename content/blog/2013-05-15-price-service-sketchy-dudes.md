@@ -1,6 +1,6 @@
 ---
 title: "Price, Service &amp; Sketchy Dudes"
-slug: "price-service-sketchy-dudes"
+url: "price-service-sketchy-dudes"
 description: "Best to work with a painting contractor that screens employees so no sketchy dudes on your project."
 keywords: "contractor employees background checks crestwood painting"
 canonical: "https://crestwoodpainting.com/price-service-sketchy-dudes/"

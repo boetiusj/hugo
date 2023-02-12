@@ -1,6 +1,6 @@
 ---
 title: "Paint Estimates - Drop In or Drop Off?"
-slug: "paint-estimates-drop-in-or-drop-off"
+url: "paint-estimates-drop-in-or-drop-off"
 description: "Here's what to consider when you get a proposal from a contractor you've never even met."
 keywords: "painting contract proposal crestwood kansas city"
 canonical: "https://crestwoodpainting.com/paint-estimates-drop-in-or-drop-off/"

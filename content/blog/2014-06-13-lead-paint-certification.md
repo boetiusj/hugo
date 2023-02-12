@@ -1,6 +1,6 @@
 ---
 title: "Lead Paint Certification: Why It's Important"
-slug: "lead-paint-certification"
+url: "lead-paint-certification"
 description: "EPA Lead Paint certified (RRP) - Crestwood Painting"
 keywords: "painter certification, kansas city, lead paint,"
 canonical: "https://crestwoodpainting.com/lead-paint-certification-important/"

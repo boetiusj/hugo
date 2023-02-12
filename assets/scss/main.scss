@@ -1,35 +1,27 @@
-@import "variables.scss";
-
-@import "mixins.scss";
-
-@import "media-query.scss";
-
-@import "typography.scss";
-
-@import "common.scss";
-
-@import "main.scss";
-
-@import "templates/header.scss";
-
-@import "templates/navigation.scss";
-@import "templates/backgrounds.scss";
-
-@import "templates/slider.scss";
-@import "templates/intro.scss";
-@import "templates/about.scss";
-@import "templates/counter.scss";
-@import "templates/team.scss";
-
-@import "templates/service.scss";
-@import "templates/cta.scss";
-@import "templates/review.scss";
-@import "templates/pricing.scss";
-@import "templates/portfolio.scss";
-@import "templates/contact.scss";
-@import "templates/blog.scss";
-@import "templates/single-post.scss";
-@import "templates/blog-sidebar.scss";
-
-@import "templates/footer.scss";
-@import "templates/responsive.scss";
+@import
+  "variables.scss",
+  "mixins.scss",
+  "media-query.scss",
+  "typography.scss",
+  "common.scss",
+  "main.scss",
+  "templates/header.scss",
+  "templates/navigation.scss",
+  "templates/backgrounds.scss",
+  "templates/slider.scss",
+  "templates/intro.scss",
+  "templates/about.scss",
+  "templates/counter.scss",
+  "templates/team.scss",
+  "templates/service.scss",
+  "templates/cta.scss",
+  "templates/review.scss",
+  "templates/pricing.scss",
+  "templates/portfolio.scss",
+  "templates/contact.scss",
+  "templates/blog.scss",
+  "templates/single-post.scss",
+  "templates/blog-sidebar.scss",
+  "templates/footer.scss",
+  "templates/responsive.scss",
+  "custom";

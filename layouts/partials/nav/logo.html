@@ -1,0 +1,9 @@
+{{ $title := split site.Title " " }}
+<a class="navbar-brand" href={{ absURL "/" }}>
+  {{ index $title 0 }} <span>{{ index $title 1 }}</span>
+</a>
+
+<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample09"
+  aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="fa fa-bars"></span>
+</button>

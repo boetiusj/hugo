@@ -1,6 +1,6 @@
 ---
 title: "Another Bright Spot"
-slug: "another-bright-spot"
+url: "another-bright-spot"
 description: "-"
 keywords: "-"
 canonical: "-"

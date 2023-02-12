@@ -1,6 +1,6 @@
 ---
 title: "How to Test Paint Colors"
-slug: "how-to-test-paint-colors"
+url: "how-to-test-paint-colors"
 description: "Helpful info when thinking about exterior painting."
 keywords: "paint colors test"
 canonical: "https://crestwoodpainting.com/how-to-test-paint-colors/"

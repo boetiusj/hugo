@@ -1,6 +1,6 @@
 ---
 title: "Tips n' Tricks - Vinyl Window Trim Color"
-slug: "tips-n-tricks-vinyl-window-trim-color"
+url: "tips-n-tricks-vinyl-window-trim-color"
 description: "-"
 keywords: "-"
 canonical: "-"

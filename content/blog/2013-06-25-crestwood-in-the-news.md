@@ -1,6 +1,6 @@
 ---
 title: "Crestwood in the News!"
-slug: "crestwood-in-the-news"
+url: "crestwood-in-the-news"
 description: "A local news interview about outdoor work during a very rainy Kansas City summer."
 keywords: "crestwood painting news channel 41 interview rainy"
 canonical: "https://crestwoodpainting.com/crestwood-in-the-news/"

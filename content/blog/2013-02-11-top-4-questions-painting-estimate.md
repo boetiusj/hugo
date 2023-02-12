@@ -1,6 +1,6 @@
 ---
 title: "Top 4 Questions Before a Painting Estimate"
-slug: "top-4-questions-painting-estimate"
+url: "top-4-questions-painting-estimate"
 description: "Here are some key points to consider before a paint estimator knocks at your door."
 keywords: "painter questions kansas city crestwood"
 canonical: "https://crestwoodpainting.com/top-4-questions-painting-estimate/"

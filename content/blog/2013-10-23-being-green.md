@@ -1,6 +1,6 @@
 ---
 title: "Why It's Easy Being Green"
-slug: "being-green"
+url: "being-green"
 description: "-"
 keywords: "-"
 canonical: "-"

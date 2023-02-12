@@ -1,6 +1,6 @@
 ---
 title: "What Kind of Painting Do You Do?"
-slug: "what-kind-painting"
+url: "what-kind-painting"
 description: "Crestwood Painting has painted corporate offices and home basements, removed wallpaper and repaired plaster before painting living rooms."
 keywords: "painting kansas city crestwood"
 canonical: "https://crestwoodpainting.com/what-kind-painting/"

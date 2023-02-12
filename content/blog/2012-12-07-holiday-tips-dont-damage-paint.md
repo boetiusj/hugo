@@ -1,6 +1,6 @@
 ---
 title: "Holiday Decorating Tips to Not Damage Your New Paint"
-slug: "holiday-tips-dont-damage-paint"
+url: "holiday-tips-dont-damage-paint"
 description: "Painters Tape helps with holiday decorating."
 keywords: "holiday damage paint kansas city crestwood"
 canonical: "https://crestwoodpainting.com/holiday-tips-dont-damage-paint/%20"

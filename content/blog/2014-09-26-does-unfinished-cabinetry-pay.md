@@ -1,6 +1,6 @@
 ---
 title: "Does Unfinished Cabinetry Pay?"
-slug: "does-unfinished-cabinetry-pay"
+url: "does-unfinished-cabinetry-pay"
 description: "Should you paint unfinished cabinets? Some things you might consider."
 keywords: "painting cabinets, unfinished, kansas city, crestwood painting"
 canonical: "https://crestwoodpainting.com/does-unfinished-cabinetry-pay/"

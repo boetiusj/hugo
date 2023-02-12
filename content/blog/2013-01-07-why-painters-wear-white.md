@@ -1,6 +1,6 @@
 ---
 title: "Why Do Painters Wear White?"
-slug: "why-painters-wear-white"
+url: "why-painters-wear-white"
 description: "Answers to the ageless question Why do painters wear white?"
 keywords: "Painters wear white crestwood painting"
 canonical: "https://crestwoodpainting.com/why-painters-wear-white/"

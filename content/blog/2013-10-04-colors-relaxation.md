@@ -1,6 +1,6 @@
 ---
 title: "Best Colors For Relaxation"
-slug: "colors-relaxation"
+url: "colors-relaxation"
 description: "Color experts in Kansas City help with choosing the best paint colors - whether interior or exterior."
 keywords: "paint colors, choose paint, crestwood painting"
 canonical: "https://crestwoodpainting.com/colors-relaxation/"

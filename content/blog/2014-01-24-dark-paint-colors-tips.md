@@ -1,6 +1,6 @@
 ---
 title: "Tips For Dark Paint Colors"
-slug: "dark-paint-colors-tips"
+url: "dark-paint-colors-tips"
 description: "All about dark paint colors - why more labor is required and why they don't cover as well."
 keywords: "paint color tips crestwood painting"
 canonical: "https://crestwoodpainting.com/dark-paint-colors-tips/"

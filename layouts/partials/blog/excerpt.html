@@ -8,9 +8,6 @@
         {{ with .Params.categories }}
         <span class="text-muted text-capitalize d-inline-block mr-3"><i class="ti-pencil-alt mr-2"></i>{{ index . 0 }}</span>
         {{ end }}
-        {{ with .Params.comments }}
-        <span class="text-muted text-capitalize d-inline-block mr-3"><i class="ti-comment mr-2"></i> {{ len . }} Comments</span>
-        {{ end }}
         <span class="text-black text-capitalize d-inline-block mr-3"><i class="ti-time mr-1"></i> {{ dateFormat "2nd January, 2006" .Date }}</span>
       </div>
 

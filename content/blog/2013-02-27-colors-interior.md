@@ -1,6 +1,6 @@
 ---
 title: "Paint Colors - Go Neutral, Or Not?"
-slug: "colors-interior"
+url: "colors-interior"
 description: "Many factors come into play when choosing interior paint colors: window direction, existing furnishings, homeowner preference."
 keywords: "paint colors interior kansas city"
 canonical: "https://crestwoodpainting.com/colors-interior/"

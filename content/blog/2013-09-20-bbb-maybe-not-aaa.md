@@ -1,6 +1,6 @@
 ---
 title: "The BBB - Maybe Not AAA"
-slug: "bbb-maybe-not-aaa"
+url: "bbb-maybe-not-aaa"
 description: "- "
 keywords: "- "
 canonical: "- "

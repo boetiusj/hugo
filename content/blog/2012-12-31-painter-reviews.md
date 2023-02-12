@@ -1,6 +1,6 @@
 ---
 title: "Rave Review!"
-slug: "painter-reviews"
+url: "painter-reviews"
 description: "Kind words from a lady that didn't hire - but wishes that she had."
 keywords: "house painting review, Crestwood Painting, Kansas City"
 canonical: "https://crestwoodpainting.com/painter-reviews/"

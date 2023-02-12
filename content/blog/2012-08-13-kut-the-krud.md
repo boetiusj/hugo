@@ -1,6 +1,6 @@
 ---
 title: "Kut the Krud"
-slug: "kut-the-krud"
+url: "kut-the-krud"
 description: "Crestwood Painting's \"secret\" weapon in cleaning and paint prep."
 keywords: "paint prep cleaning crestwood painting"
 canonical: "https://crestwoodpainting.com/kut-the-krud/"

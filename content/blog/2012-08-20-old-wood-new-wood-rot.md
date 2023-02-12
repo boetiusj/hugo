@@ -1,6 +1,6 @@
 ---
 title: "Old Wood, New Wood &amp; Wood Rot"
-slug: "old-wood-new-wood-rot"
+url: "old-wood-new-wood-rot"
 description: "All about wood rot and the "
 keywords: "painting prep wood rot kansas city"
 canonical: "https://crestwoodpainting.com/old-wood-new-wood-rot/"

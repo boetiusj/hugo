@@ -1,6 +1,6 @@
 ---
 title: "Painting Interior Trim - Joint Gaps"
-slug: "painting-interior-trim-joint-gaps"
+url: "painting-interior-trim-joint-gaps"
 description: "What and how different interior wood trim elements should be prepped before painting."
 keywords: "painting interior trim prep crestwood "
 canonical: "https://crestwoodpainting.com/painting-interior-trim-joint-gaps/"

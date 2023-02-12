@@ -1,6 +1,6 @@
 ---
 title: "Properly Painted Walls - What to Look For"
-slug: "properly-painted-walls"
+url: "properly-painted-walls"
 description: "A clear explanation of just what \"properly painted walls\" are."
 keywords: "interior painting properly painted walls"
 canonical: "https://crestwoodpainting.com/properly-painted-walls/"

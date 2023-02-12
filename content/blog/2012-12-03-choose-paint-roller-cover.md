@@ -1,6 +1,6 @@
 ---
 title: "How to Choose a Paint Roller Cover"
-slug: "choose-paint-roller-cover"
+url: "choose-paint-roller-cover"
 description: "Tips and tricks for choosing the best roller cover for a specific painting project."
 keywords: "paint roller cover nap crestwood painting"
 canonical: "https://crestwoodpainting.com/choose-paint-roller-cover/"

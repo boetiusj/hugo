@@ -1,6 +1,6 @@
 ---
 title: "Top 3 Things to NOT Caulk"
-slug: "top-3-things-to-not-caulk"
+url: "top-3-things-to-not-caulk"
 description: "Caulking is key to proper paint prep - here's what to caulk and what not to caulk."
 keywords: "painting caulk kansas city crestwood"
 canonical: "https://crestwoodpainting.com/top-3-things-to-not-caulk/"

@@ -1,6 +1,6 @@
 ---
 title: "Gluten Free Paint"
-slug: "gluten-free-paint"
+url: "gluten-free-paint"
 description: "-"
 keywords: "-"
 canonical: "-"

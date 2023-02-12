@@ -1,6 +1,6 @@
 ---
 title: "Everything is Jake!"
-slug: "everything-jake"
+url: "everything-jake"
 description: "- "
 keywords: "- "
 canonical: "- "

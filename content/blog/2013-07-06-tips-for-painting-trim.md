@@ -1,6 +1,6 @@
 ---
 title: "Tips For Painting Trim"
-slug: "tips-for-painting-trim"
+url: "tips-for-painting-trim"
 description: "A closer look at the factors involved in choosing interior trim paint colors."
 keywords: "paint color interior trim crestwood"
 canonical: "https://crestwoodpainting.com/tips-for-painting-trim/"

@@ -1,6 +1,6 @@
 ---
 title: "Top 3 Must-Haves When Hiring A Paint Contractor"
-slug: "top-3-must-haves-hiring-contractor"
+url: "top-3-must-haves-hiring-contractor"
 description: "Basic items that protect homeowners from poorly written proposals."
 keywords: "hire kansas city paint contractor"
 canonical: "https://crestwoodpainting.com/top-3-must-haves-hiring-contractor/"

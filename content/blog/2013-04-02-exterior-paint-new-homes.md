@@ -1,6 +1,6 @@
 ---
 title: "Exterior Paint on New Homes"
-slug: "exterior-paint-new-homes"
+url: "exterior-paint-new-homes"
 description: "Paint applied by home builders is known to be lower quality. Here are some options to remedy the situation."
 keywords: "exterior paint new homes kansas city builder grade"
 canonical: "https://crestwoodpainting.com/exterior-paint-new-homes/"

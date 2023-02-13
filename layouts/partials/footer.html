@@ -54,7 +54,7 @@
       <div class="row">
         <div class="col-lg-6">
           <div class="copyright">
-            {{ markdownify $config.copyright }}
+            {{ replace .Site.Copyright "{year}" now.Year }}
           </div>
         </div>
         <div class="col-lg-6 text-left text-lg-right">

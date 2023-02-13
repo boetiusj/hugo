@@ -4,7 +4,7 @@ blogPageSidebarOn = true
 latestPosts = 3
 email = "admin@crestwoodpainting.com"
 phone = "+1 816-805-4515"
-copyright = "Copyright &copy; 2007 [Crestwood Painting](https://crestwoodpainting.com/)"
+copyright = "Copyright &copy; -{year} Crestwood Painting"
 [comments]
 enable = false
 [[socials]]

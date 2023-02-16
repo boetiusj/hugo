@@ -1,6 +1,7 @@
 title = "Crestwood Painting"
 baseURL = "https://crestwoodpainting.netlify.app/"
 paginate = 10
+googleAnalytics = "UA-1372967-1"
 [taxonomies]
 category = "categories"
 # tag = "tags"

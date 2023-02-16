@@ -40,8 +40,7 @@
       <div class="col-lg-3 col-sm-6">
         <div class="widget">
           <div class="logo mb-4">
-            {{- $title := split site.Title " " }}
-            <h3>{{ index $title 0 }}<span>{{ index $title 1 }}</span></h3>
+            {{ partial "nav/logo" . }}
           </div>
           <h6><a href="mailto:{{ $config.email }}">{{ $config.email }}</a></h6>
           <a href="tel:{{ $config.phone }}"><span class="text-color h4">{{ $config.phone }}</span></a>

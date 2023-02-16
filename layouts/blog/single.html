@@ -11,19 +11,8 @@
 							<img loading="lazy" src="/images/blog/2.jpg" alt="blog" class="img-fluid rounded">
 
 							<div class="blog-item-content bg-white p-5">
-								<div class="blog-item-meta bg-gray pt-2 pb-1 px-3">
-									<!-- <span class="text-muted text-capitalize mr-3"><i class="ti-pencil-alt mr-2"></i>Creativity</span> -->
-									{{ with .Params.categories }}
-									<span class="text-muted text-capitalize mr-3"><i class="ti-pencil-alt mr-2"></i>{{ delimit . ", " }}</span>
-									{{ end }}
-									{{ if $config.comments.enable }}
-									<span class="text-muted text-capitalize mr-3"><i class="ti-comment mr-2"></i>5 Comments</span>
-									{{ end }}
-									<span class="text-black text-capitalize mr-3"><i class="ti-time mr-1"></i>{{ dateFormat "2nd January, 2006" .Date }}</span>
-								</div>
 
 								{{ .Content }}
-
 								<div class="tag-option mt-5 d-block d-md-flex justify-content-between align-items-center">
                   {{ partial "blog/share" . }}
 								</div>

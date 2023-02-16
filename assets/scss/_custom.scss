@@ -3,6 +3,14 @@
     max-width: 640px;
   }
 }
+.excerpt{
+  &_preview {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    object-position: center top;
+  }
+}
 .nav {
   &_logo {
     max-width: 225px;

@@ -9,6 +9,12 @@
   }
 }
 .blog-item-content {
+  flex: 1;
+  display: flex;
+  flex-flow: column;
+  p {
+    flex: 1;
+  }
   h3 {
     line-height: 36px;
   }
@@ -110,5 +116,10 @@ blockquote::before, .quote::before {
 }
 
 .blog-item {
+  &, &-wrap {
+    display: flex;
+    flex-flow: column;
+  }
+  flex: 1;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05)
 }

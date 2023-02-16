@@ -1,24 +1,24 @@
 [[company]]
-name = "Terms & Conditions"
-url = "#"
+name = "Reviews"
+url = "/reviews/"
 [[company]]
-name = "Privacy Policy"
-url = "#"
+name = "Project Map"
+url = "/map/"
 [[company]]
-name = "Support"
-url = "#"
+name = "Virtual Estimates"
+url = "/virtual-estimate/"
 [[company]]
-name = "FAQ"
-url = "#"
+name = "Payments"
+url = "/payments/"
 [[links]]
-name = "About"
-url = "#"
+name = "Video Reviews"
+url = "/video-testimonials/"
 [[links]]
-name = "Services"
-url = "#"
+name = "RRP Brochure"
+url = "lead-paint-safety"
 [[links]]
-name = "Blogs"
-url = "#"
+name = "Privacy"
+url = "privacy-policy"
 [[links]]
-name = "Contact"
-url = "#"
+name = "Employment"
+url = "/employment/"

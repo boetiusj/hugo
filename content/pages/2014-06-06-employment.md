@@ -1,9 +1,9 @@
 ---
 title: "Jobs for Stable Painters"
-url: "painter-jobs-ad"
+url: "/employment/"
+canonical: "/painter-jobs-ad/"
 description: "Join a stable, friendly and positive trade company. Learn it from the ground up. Or, upgrade and leave your current dead-end behind."
 keywords: "job, painter, employment, career, job opportunities, painting trade, training"
-canonical: "https://crestwoodpainting.com/painter-jobs-ad/"
 date: "2014-06-06"
 ---
 

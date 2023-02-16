@@ -313,13 +313,4 @@
 		</div>
 	</div>
 </section>
-<ol>
-	{{ range where site.RegularPages "Section" "!=" "blog" }}
-	<li>
-		<a href="{{ .Permalink }}">{{ .Title }}</a>
-	</li>
-	{{ end }}
-</ol>
-
-
 {{ end }}

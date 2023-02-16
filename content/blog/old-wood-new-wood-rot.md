@@ -9,9 +9,7 @@ categories:
   - "painting-challenges"
 tags:
   - "exterior-painting"
-  - "plywood"
   - "re-siding"
-  - "wood-rot"
 ---
 
 \[caption id="attachment\_964" align="alignright" width="259"\]![painting wood rot kansas city crestwood](/images/WoodRot.jpg "Wood Rot") Poor material selection means this design can only fail.\[/caption\]

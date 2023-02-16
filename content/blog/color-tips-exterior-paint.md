@@ -8,14 +8,11 @@ date: "2013-02-05"
 categories:
   - "color-choices"
 tags:
-  - "accent-colors"
-  - "brick"
   - "color-consulting"
   - "contrasting-colors"
   - "exterior-painting"
   - "front-door"
   - "neutral-colors"
-  - "stone"
   - "trim"
 ---
 

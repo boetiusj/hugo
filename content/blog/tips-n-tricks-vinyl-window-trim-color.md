@@ -11,7 +11,6 @@ tags:
   - "contrasting-colors"
   - "exterior-painting"
   - "trim"
-  - "vinyl-windows"
 ---
 
 ![white wall tire vinyl window options](/images/white-wall-tire_opt.jpg "White Wall Tire")Vinyl windows can be kind of tricky when it comes to trim colors – they are almost always stark white and generally cannot be painted (see below). Some lean to matching trim color to the vinyl – this gives a hospital-feeling white-on-white look that lacks visual interest. It also ranks a solid “Zero” on the Warmth scale.

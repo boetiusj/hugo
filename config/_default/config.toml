@@ -3,4 +3,4 @@ baseURL = "https://crestwoodpainting.netlify.app/"
 paginate = 10
 [taxonomies]
 category = "categories"
-tag = "tags"
+# tag = "tags"

@@ -1,6 +1,6 @@
 +++
 title = "Example Article"
-categories = ["Example"]
+categories = ["General"]
 image = "/images/Rose-bushes.jpg"
 date = 2023-02-08
 +++

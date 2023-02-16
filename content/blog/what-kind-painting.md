@@ -12,7 +12,6 @@ tags:
   - "estimates"
   - "exterior-painting"
   - "office"
-  - "wallpaper-2"
 ---
 
 [![Painted small ranch](/images/Painted-small-ranch_opt-e1514756332916.jpg "Painted Small Ranch Home")]/cwp/wp-content/uploads/2013/09/Painted-small-ranch_opt.jpg)There is often a pleasant laugh when the answer is "Well, we'll paint your shoes if you stand still long enough." But every once in a while we stumble on a nice story...

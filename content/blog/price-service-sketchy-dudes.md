@@ -10,7 +10,6 @@ categories:
 tags:
   - "estimates"
   - "painters"
-  - "subcontractor"
 ---
 
 \[caption id="attachment\_3132" align="alignright" width="300"\]![painter background check kansas city](/images/Sketchy-painter-dude-e1512251628124-300x300.jpg) Some painters are best qualified for someone else's project.\[/caption\]

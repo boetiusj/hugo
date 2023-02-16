@@ -8,7 +8,7 @@ date: "2011-05-05"
 coverImage: "arts-crafts-house.jpg"
 ---
 
-[![choose paint colors kansas city crestwood painting](images/House-shingle-gable_opt.jpg)]/cwp/wp-content/uploads/2011/05/House-shingle-gable_opt.jpg)
+[![choose paint colors kansas city crestwood painting](images/House-shingle-gable_opt.jpg)](/cwp/wp-content/uploads/2011/05/House-shingle-gable_opt.jpg)
 
 Professional help means you can see “new” colors before work even gets started.
 
@@ -26,4 +26,4 @@ Not sure where to start with color options? Try these Online Painters:
 
 [Sherwin Williams Color Visualize](https://www.sherwin-williams.com/visualizer#/active/default)r and [Benjamin Moore's Color Gallery](https://www.benjaminmoore.com/en-us/color-overview)  are both helpful online color tools.  They are good guides, but it's still best to put paint on the wall rather than rely on a computer monitor.
 
-[![paint colors, painter review, crestwood painting](images/A-Google-User27.jpg)]/reviews/)
+[![paint colors, painter review, crestwood painting](images/A-Google-User27.jpg)](/reviews/)

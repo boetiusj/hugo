@@ -80,7 +80,7 @@ Is there some interior painting on your list? Maybe kitchen cabinets, home offic
     Customers always love their exterior paint colors when they work with a color professional.
 
 - **How can I compare estimates?
-    **Easy to compare [Apples to Apples]/compare-paint-bids/).
+    **Easy to compare [Apples to Apples](/compare-paint-bids/).
 
 - **How about just a "ballpark" estimate?
     **Of course. Our exterior painting projects are only sometimes under $5000 and are usually less than $15k.

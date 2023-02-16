@@ -19,11 +19,11 @@ As professional painters in Kansas City, we often are asked to repaint walls tha
 
 ## No Fuzzies
 
-[Proper prep work]/painting-interior-trim-joint-gaps/) is key, of course. Let's start with the wall surface itself: it's not uncommon for existing paint to have roller fuzzies, bits of dried paint or other contaminants on the wall surface. The walls should be sanded to remove these imperfections. Careful though - too much sanding will remove roller stipple. Then you'll have a smooth spot in the middle of your otherwise stippled wall.
+[Proper prep work](/painting-interior-trim-joint-gaps/) is key, of course. Let's start with the wall surface itself: it's not uncommon for existing paint to have roller fuzzies, bits of dried paint or other contaminants on the wall surface. The walls should be sanded to remove these imperfections. Careful though - too much sanding will remove roller stipple. Then you'll have a smooth spot in the middle of your otherwise stippled wall.
 
 ## Communicate
 
-Next comes holes, chips, wallpaper lines, cracks, etc. This requires a clear conversation with your painter - everybody needs to understand and agree on what the expectations are. This is about balancing time and cost with your expectations. Age matters here, too - 80 year old [plaster walls]/plaster-repair-kansas-city/) are often held to a different standard than 15 year old drywall.
+Next comes holes, chips, wallpaper lines, cracks, etc. This requires a clear conversation with your painter - everybody needs to understand and agree on what the expectations are. This is about balancing time and cost with your expectations. Age matters here, too - 80 year old [plaster walls](/plaster-repair-kansas-city/) are often held to a different standard than 15 year old drywall.
 
 Once the prep work has been defined and then completed as agreed, it's time to start putting paint on the wall. But how to know what a properly painted surface is? The [Painting & Decorating Contractors of America](http://pdca.org) have objective standards for painting work.
 
@@ -36,4 +36,4 @@ If you can see:
 -  runs or drips
 - paint is where it shouldn't be
 
-These are conditions that should be remedied. [Clear communication]/reviews/) with your painter will go a long way in preventing these situations.
+These are conditions that should be remedied. [Clear communication](/reviews/) with your painter will go a long way in preventing these situations.

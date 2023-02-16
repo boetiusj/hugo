@@ -25,7 +25,7 @@ Golden Oak cabinets have got to go! Paint will transform a kitchen without the c
 - Thoroughly clean to remove fingerprints & PB&J grunge
 - Prime and paint
 - Install new, clean and cool hardware
-- [Leave you in peace]/painting-kitchen-cabinets/) to enjoy your new refuge
+- [Leave you in peace](/painting-kitchen-cabinets/) to enjoy your new refuge
 
 ## The Cost to Paint Cabinets in Kansas City:
 
@@ -33,7 +33,7 @@ Golden Oak cabinets have got to go! Paint will transform a kitchen without the c
 - Generally, Kansas City kitchens are in the $3000 (smallish, no island) to $6000 (with island, med. size kitchen). Or more.
 - Usually three to five low-stress days
 - No tear-out, no mess, no plumbing
-- [Bathroom vanities]/does-unfinished-cabinetry-pay/) can be painted too
+- [Bathroom vanities](/does-unfinished-cabinetry-pay/) can be painted too
 
 ## Paint For Kitchen Cabinets
 
@@ -44,6 +44,6 @@ Golden Oak cabinets have got to go! Paint will transform a kitchen without the c
 
 ## Unfinished Cabinets
 
-It's generally not much of a savings to purchase unfinished cabinets and then to [paint unfinished cabinets]/does-unfinished-cabinetry-pay/) on site - but send us a photo and we can discuss.
+It's generally not much of a savings to purchase unfinished cabinets and then to [paint unfinished cabinets](/does-unfinished-cabinetry-pay/) on site - but send us a photo and we can discuss.
 
-[![Cabinet painting kansas city crestwood](images/Jimmy-E.jpg)]/reviews/)
+[![Cabinet painting kansas city crestwood](images/Jimmy-E.jpg)](/reviews/)

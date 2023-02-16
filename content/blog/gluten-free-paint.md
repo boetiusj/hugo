@@ -9,7 +9,7 @@ categories:
   - "home-maintenance-tips"
 ---
 
-[![Overused words](/images/Overused.jpg)]/cwp/wp-content/uploads/2014/01/Overused.jpg)Like, whatever! Know what I'm sayin'?
+[![Overused words](/images/Overused.jpg)](/cwp/wp-content/uploads/2014/01/Overused.jpg)Like, whatever! Know what I'm sayin'?
 
 Some of the [over-used](http://www.bbc.co.uk/news/magazine-23362207) words for 2013. Example: "As artisan painters, Crestwood strives for world-class performance 24/7. At the end of the day, we follow best practices to build our brand. Whatever." Here's another: Our painters may take a selfie with your dog, but there will be absolutely no twerking."
 

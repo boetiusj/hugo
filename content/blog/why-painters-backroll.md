@@ -19,7 +19,7 @@ Exterior house paint in Kansas City is applied in two ways: Spray only or spray 
 
 And what about just brushing paint? Well, you _could_ brush an entire house, but that hasn’t happened in over 50 years.
 
-So with only two options, one of the most common questions we get is “[How does Crestwood Painting apply exterior paint?]/exterior-painting-kansas-city/)”
+So with only two options, one of the most common questions we get is “[How does Crestwood Painting apply exterior paint?](/exterior-painting-kansas-city/)”
 
 There are a range of opinions on this, but understanding the factors involved can help homeowners make the best decision.
 
@@ -32,7 +32,7 @@ An even, consistent paint film will give a home the longest-lasting protection f
 - Consistent paint thickness per manufacturer’s specs
 - More efficient application
 - Less chance of drips or runs
-- Easier [color transitions]/daunting-colors/) (light to dark no problem)
+- Easier [color transitions](/daunting-colors/) (light to dark no problem)
 - All areas of the house get exactly the same consistent coverage
 
 ### Spray & Backroll
@@ -48,7 +48,7 @@ On a breezy Kansas City summer day the paint can easily “skin over” before i
 - Slower
 - Widely varying paint thickness
 - Timing is critical
-- [Weather]/video-testimonials/) is a factor
+- [Weather](/video-testimonials/) is a factor
 - “Easy” areas get backrolled, "hard" areas don't
 - Unnecessary multiple existing coats
 - Pointless on smoother surface

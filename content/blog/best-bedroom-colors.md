@@ -15,7 +15,7 @@ tags:
   - "interior-painting"
 ---
 
-![Bedroom paint colors kansas city painter crestwood painting](/images/BedroomPaintColors-236x300.jpg "Blue Bedroom")Bedrooms can be either a relaxing refuge or a nondescript place to hang your clothes - I choose relaxing refuge. Here's my favorite [color consultant]/colors-relaxation/) Diane Stewart at Color Sense Consulting:
+![Bedroom paint colors kansas city painter crestwood painting](/images/BedroomPaintColors-236x300.jpg "Blue Bedroom")Bedrooms can be either a relaxing refuge or a nondescript place to hang your clothes - I choose relaxing refuge. Here's my favorite [color consultant](/colors-relaxation/) Diane Stewart at Color Sense Consulting:
 
 Your bedroom is a private place to relax, refresh, reflect, and dream. It's your refuge from the world. Creating a comfort zone before decorating public areas should be a priority, but often the reverse is true.
 

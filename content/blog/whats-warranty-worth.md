@@ -26,7 +26,7 @@ There are two kinds of warranties:
 
 ### Material Warranty
 
-Crestwood Painting uses only lifetime warranty Sherwin Williams Duration for our [exterior painting projects]/exterior-painting-cost/). But we don't mention the paint warranty because it just never comes into play - really. Most paint reps will give a few gallons to a good contractor to take care of a customer - no trouble at all. But it almost never happens if a contractor uses top-notch paint like Duration. Which leads us to the...
+Crestwood Painting uses only lifetime warranty Sherwin Williams Duration for our [exterior painting projects](/exterior-painting-cost/). But we don't mention the paint warranty because it just never comes into play - really. Most paint reps will give a few gallons to a good contractor to take care of a customer - no trouble at all. But it almost never happens if a contractor uses top-notch paint like Duration. Which leads us to the...
 
 ### Labor Warranty
 
@@ -38,6 +38,6 @@ If you've hired a contractor that has earned your trust and confidence, then fre
 
 You call your contractor and he answers with a smile and a cheerful "No problem - we'll take care of that!" Paint is ordered and work is promptly scheduled. You can expect to see a slight color mismatch from age, sun, weather, etc. where the repair is made.
 
-As of this writing (August '13) we've had one single call in seven years in business for exterior touch-up work. The paint had faded  after only three years (it was a difficult color - a deep Hershey chocolate). Sherwin Williams gladly provided all the material needed, I told the customer "No problem - we'll take care of that!" And three days later the [customer was delighted]/reviews/) again.
+As of this writing (August '13) we've had one single call in seven years in business for exterior touch-up work. The paint had faded  after only three years (it was a difficult color - a deep Hershey chocolate). Sherwin Williams gladly provided all the material needed, I told the customer "No problem - we'll take care of that!" And three days later the [customer was delighted](/reviews/) again.
 
 Even better - there was no color mismatch because we repainted the whole section!

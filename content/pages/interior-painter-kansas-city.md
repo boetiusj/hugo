@@ -13,8 +13,8 @@ Crestwood Painting can transform the interior of a single room or your entire h
 
 - Considerate workers respect your home
 - Clean, straight lines enhance architectural detail
-- The [right colors]/chameleon-colors/) help create the mood you're after
-- [Kitchen cabinets]/cabinet-painting/) can also be freshened up
+- The [right colors](/chameleon-colors/) help create the mood you're after
+- [Kitchen cabinets](/cabinet-painting/) can also be freshened up
 
 > The cost for painting in Kansas City? $680 per day per painter.
 
@@ -32,13 +32,13 @@ Crestwood Painting can transform the interior of a single room or your entire h
 Generally, the price for professional painting in Kansas City starts at $680 per day per painter, including tools and some paint. But, like most things, there are several factors that affect the price. Best to just have a frank discussion about those factors and how they play into a budget discussion. Among them:
 
 - What will be painted - walls, ceiling, trim or all?
-- Surface condition ([plaster repair]/plaster-repair-kansas-city/) needed?)
+- Surface condition ([plaster repair](/plaster-repair-kansas-city/) needed?)
 - Color change
 - Ceiling height
 - Furniture, etc. to move?
 - Deep colors (lipstick red, electric blue) require more prep work
 
-Sometimes it can be tough to evaluate different proposals: this one includes paint, that one charges extra for materials. Here's a [little help when comparing proposals.]/compare-paint-bids/) Info hound? Take a look at our [Frequently Asked Questions]/faqs/).
+Sometimes it can be tough to evaluate different proposals: this one includes paint, that one charges extra for materials. Here's a [little help when comparing proposals.](/compare-paint-bids/) Info hound? Take a look at our [Frequently Asked Questions](/faqs/).
 
 ## Paint for Interiors
 
@@ -47,4 +47,4 @@ Poor quality paint is false economy - whether in an office or a dining room. It 
 - 100% acrylic paint protects longest and is easy to clean
 - Professional work practices mean consistent sheen and even coverage
 
-[![house painting review kansas city](images/Susan-Conley.jpg)]/reviews/)
+[![house painting review kansas city](images/Susan-Conley.jpg)](/reviews/)

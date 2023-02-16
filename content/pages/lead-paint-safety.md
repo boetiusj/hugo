@@ -17,7 +17,7 @@ Lead in paint has been outlawed since 1978. If your home was built before that 
 
 If a pre-'78 home is proved to have no lead in the work surfaces then lead-safe practices do not have to be followed. But the test procedures are fraught with their own set tangled rules - so we just assume lead on every project and work accordingly.
 
-This means more more prep work than most contractors will do: we cover gardens to keep paint chips out, we sweep and vacuum driveways and decks and very often [customers tell us the yard is cleaner]/reviews/) than it was when we started!
+This means more more prep work than most contractors will do: we cover gardens to keep paint chips out, we sweep and vacuum driveways and decks and very often [customers tell us the yard is cleaner](/reviews/) than it was when we started!
 
 We equip our painters with gloves and proper breathing protection when they're scraping, too. And soap to wash hands before lunch and at the end of the day.
 

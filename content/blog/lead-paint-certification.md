@@ -16,7 +16,7 @@ coverImage: "Lead-Safe-Certified-1-e1514657696358.jpg"
 
 ![Lead paint certified Crestwood Painting](/images/Lead-Safe-Certified-1-e1514657696358.jpg)
 
-Crestwood Painting has been [EPA Lead-Safe certified]/lead-paint-safety/) since 2011, many of our Job Leads have also been trained and certified, as well.
+Crestwood Painting has been [EPA Lead-Safe certified](/lead-paint-safety/) since 2011, many of our Job Leads have also been trained and certified, as well.
 
 Lead in paint has been outlawed since 1978. If your home was built before that the EPA says that lead-safe work practices must be followed. That means lots of tape and plastic to protect your home and family (and your contractor).
 

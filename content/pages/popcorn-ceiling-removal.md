@@ -11,7 +11,7 @@ date: "2011-09-18"
 
 Removing popcorn ceilings is very much a Good News / Bad News sort of thing:
 
-- Good News - we've had good results and [happy customers]/reviews/)
+- Good News - we've had good results and [happy customers](/reviews/)
 - Bad News - it may contain asbestos
 
 > If the test sample contains no asbestos we'd be happy to discuss the options!
@@ -29,7 +29,7 @@ Popcorn texture was used as a lower cost alternative crack repair. Or, it was us
 
 After popcorn is removed there will likely be damaged or poorly finished corners or joints which should be repaired. Then all surfaces should be sealed for a consistent appearance. An then, of course, painting comes last.
 
-Popcorn texture removal is often part of a [larger interior painting project]/interior-painter-kansas-city/). DIY removal is sometimes an option. But, this is very much a messy, low glamour sort of project. Some people have tried to short circuit the process and just paint over the popcorn to freshen it up. Bad Move - latex paint will loosen the popcorn and some of it will peel right off.
+Popcorn texture removal is often part of a [larger interior painting project](/interior-painter-kansas-city/). DIY removal is sometimes an option. But, this is very much a messy, low glamour sort of project. Some people have tried to short circuit the process and just paint over the popcorn to freshen it up. Bad Move - latex paint will loosen the popcorn and some of it will peel right off.
 
 ### Cost of Popcorn Removal
 

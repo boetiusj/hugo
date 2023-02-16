@@ -12,11 +12,11 @@ Our painting is Prompt & Tidy - so is our communication.
 <!-- \[lcf\_contact\_form\] -->
 {{< contact >}}
 
-[Jobs with Crestwood]/employment/) - we hire good people. Know anybody that might be a good fit?
+[Jobs with Crestwood](/employment/) - we hire good people. Know anybody that might be a good fit?
 
-[Online Payments]/payments/) - easy and secure through PayPal (no PP account needed)
+[Online Payments](/payments/) - easy and secure through PayPal (no PP account needed)
 
-[Warranty Info]/warranty/) - we stand behind our work
+[Warranty Info](/warranty/) - we stand behind our work
 
   
 Mailing address:

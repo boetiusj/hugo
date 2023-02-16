@@ -14,7 +14,7 @@ tags:
   - "office"
 ---
 
-[![Painted small ranch](/images/Painted-small-ranch_opt-e1514756332916.jpg "Painted Small Ranch Home")]/cwp/wp-content/uploads/2013/09/Painted-small-ranch_opt.jpg)There is often a pleasant laugh when the answer is "Well, we'll paint your shoes if you stand still long enough." But every once in a while we stumble on a nice story...
+[![Painted small ranch](/images/Painted-small-ranch_opt-e1514756332916.jpg "Painted Small Ranch Home")](/cwp/wp-content/uploads/2013/09/Painted-small-ranch_opt.jpg)There is often a pleasant laugh when the answer is "Well, we'll paint your shoes if you stand still long enough." But every once in a while we stumble on a nice story...
 
 This small ranch style house was owned by a single lady on full disability. Her insurance company told her to paint or they would drop her coverage. Needless to say, when your insurance company calls your home is usually in some kind of disrepair. She called several painters and finally chose Crestwood for her exterior project.
 
@@ -22,6 +22,6 @@ We, of course, were not the lowest proposal she received and it stretched her bu
 
 Fast forward some weeks: the house has been completely freshened up, the lady is just pleased as punch and her neighbor across the street has hired us to paint her house. Woo-hoo!
 
-So what kind of painting do we do? We've painted ultra-modern interiors and ultra-traditional exteriors. We've re-branded a [stockbroker's office]/office-painting-experts/) and de-branded the exterior of commercial buildings. We've [painted kitchen cabinets]/painting-kitchen-cabinets/) (goodbye Golden Oak!), stripped wallpaper, patched living room ceilings and painted basements.
+So what kind of painting do we do? We've painted ultra-modern interiors and ultra-traditional exteriors. We've re-branded a [stockbroker's office](/office-painting-experts/) and de-branded the exterior of commercial buildings. We've [painted kitchen cabinets](/painting-kitchen-cabinets/) (goodbye Golden Oak!), stripped wallpaper, patched living room ceilings and painted basements.
 
 But it's always a nice treat to deal with a nice lady that truly appreciates the good work our painters do.

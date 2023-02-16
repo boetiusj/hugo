@@ -25,16 +25,6 @@
 								{{ .Content }}
 
 								<div class="tag-option mt-5 d-block d-md-flex justify-content-between align-items-center">
-									{{ with .Params.tags }}
-									<ul class="list-inline">
-										<li>Tags:</li>
-											{{ range . }}
-												<li class="list-inline-item">
-													<a href=/tags/{{ (replace . "#" "%23") | urlize }}/ rel="tag">{{ . }}</a>
-												</li>
-											{{ end }}
-									</ul>
-									{{ end }}
                   {{ partial "blog/share" . }}
 								</div>
 							</div>

@@ -17,7 +17,7 @@ tags:
 
 ![blue relaxing paint color](/images/Relaxing-Paint-Colors.jpg "Blue - Relaxing Paint Color")
 
-This update from Kansas City color consultant Diane Stewart ([ColorSenseConsulting.com]/colors-relaxation/)) gives the low-down on color - relaxing color. We've referred many customers to Diane; if you're in a color quandary please give her a call.
+This update from Kansas City color consultant Diane Stewart ([ColorSenseConsulting.com](/colors-relaxation/)) gives the low-down on color - relaxing color. We've referred many customers to Diane; if you're in a color quandary please give her a call.
 
 "Many people say they don’t understand color, but they’re affected by it every day whether they realize it or not. Colors evoke emotions, bring up memories, and affect moods. These responses vary, but there are some universal reactions to color.
 

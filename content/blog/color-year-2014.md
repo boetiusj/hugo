@@ -18,6 +18,6 @@ New colors are declared "trendy" by those that know such things. Usually it warr
 
 Where would one use such a color? Options are limited as this color will likely induce motion sickness. Maybe a roller coaster? Primary school? Dandy sport coat?
 
-Depending on your appetite for risk you might try this paint color in your living room - but understand the in-laws might not have a positive reaction. [Last year's color](https://crestwoodpainting.com/being-green/ "Why It’s Easy Being Green") was a good bit more tolerable.
+Depending on your appetite for risk you might try this paint color in your living room - but understand the in-laws might not have a positive reaction. [Last year's color]/being-green/ "Why It’s Easy Being Green") was a good bit more tolerable.
 
 Crestwood Painting customers are a bit more courageous with color; nonetheless, this year's color of the year might be a bit much. If you do find yourself so possessed please let me know - I'll be over for a photo before we're asked to repaint.

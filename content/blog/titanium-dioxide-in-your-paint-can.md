@@ -26,4 +26,4 @@ The key take-away here? Continue to buy good quality paint – it just doesn’t
 
 Like more info? Need to know how resins, binders and pigments all play together in the can? Give us a call – we’ll put on our propeller hat and play the Paint Geek!
 
-[![customer review painter kansas city](/images/Ben-S..jpg)](https://crestwoodpainting.com/reviews/)
+[![customer review painter kansas city](/images/Ben-S..jpg)]/reviews/)

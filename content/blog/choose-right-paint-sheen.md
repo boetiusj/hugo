@@ -40,7 +40,7 @@ Sheen is another way to say "light reflectance". Kitchen cabinets are usually hi
 - Paint is more porous and so can be more difficult to clean
 - High quality flat paint always outperforms lower quality
 
-### [![paint sheens interior kansas city](/images/Paint-Sheens_opt.jpg "How Paint Sheens Reflect Light Differently")](https://crestwoodpainting.com/cwp/wp-content/uploads/2013/01/Paint-Sheens_opt.jpg)Egg-Shell, Satin, Semi-Gloss, Gloss, High Gloss
+### [![paint sheens interior kansas city](/images/Paint-Sheens_opt.jpg "How Paint Sheens Reflect Light Differently")]/cwp/wp-content/uploads/2013/01/Paint-Sheens_opt.jpg)Egg-Shell, Satin, Semi-Gloss, Gloss, High Gloss
 
 - Enhance surface imperfections through reflection
 - Somewhat easier to clean because the surface is less porous
@@ -53,9 +53,9 @@ You can see that it's not just a choice of Flat or Gloss. Each manufacturer has 
 
 It's important to know that sheens are _not_ consistent between product lines: Cashmere Flat has a very different look that SuperPaint Flat.
 
-There are rules of thumb for sheen, but they are only a very rough guide. For example, I like a bit of [sheen on the exterior](https://crestwoodpainting.com/exterior-paint-important/), but my wife does not. Therefore our house is, of course, flat sheen.
+There are rules of thumb for sheen, but they are only a very rough guide. For example, I like a bit of [sheen on the exterior]/exterior-paint-important/), but my wife does not. Therefore our house is, of course, flat sheen.
 
-- **Flat** - ideal for ceilings, master bedrooms and [formal living rooms](https://crestwoodpainting.com/interior-painter-kansas-city/). The minimal light reflectance creates a soothing, comforting environment.
+- **Flat** - ideal for ceilings, master bedrooms and [formal living rooms]/interior-painter-kansas-city/). The minimal light reflectance creates a soothing, comforting environment.
 - **Eggshell** - slightly more light reflectance than Flat and is ideal for living spaces and bedrooms.
 - **Satin** - the middle sheen that's suitable for almost all applications. This finish is excellent for family rooms, kids' rooms and hallways.
 - **Semi-Gloss** - can reflect 35 to 50% of the light that enters a room. Good for areas with more use that may require frequent cleaning such as bathrooms, kitchens and trim.

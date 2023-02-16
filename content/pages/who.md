@@ -21,14 +21,14 @@ So far, it's paid off:
 
 - We're in our 14th year
 - Business improves, year after year
-- Rave reviews, [feedback](https://crestwoodpainting.com/reviews/) & testimonials
+- Rave reviews, [feedback]/reviews/) & testimonials
 - Oodles of referrals from current customers
 
 The business geeks say that's not enough. So here's the rest of the story:
 
 ### Solid People
 
-Every company succeeds with their people. At Crestwood Painting we patiently [wait for the right people,](https://crestwoodpainting.com/crestwood-people/) then we [carefully screen](#background) to be sure. Only then does the training start - Core Values, customer service, role playing, safety, painting techniques, etc.
+Every company succeeds with their people. At Crestwood Painting we patiently [wait for the right people,]/crestwood-people/) then we [carefully screen](#background) to be sure. Only then does the training start - Core Values, customer service, role playing, safety, painting techniques, etc.
 
 Of course, some companies compromise when they hire and it's usually the customer that suffers. Read more about that below...
 
@@ -52,7 +52,7 @@ I burst through the door with the announcement and it wasn't good. From my belov
 
 In less than 5 minutes and without benefit of caffeine the ladies told me the company would be called Crestwood Painting. I said "OK" - and that was it.
 
-Take a look here to read about where [No Drips, No Drama](https://crestwoodpainting.com/crestwood-people/#nodrips) came from.
+Take a look here to read about where [No Drips, No Drama]/crestwood-people/#nodrips) came from.
 
 ### Schedule Driven
 
@@ -76,4 +76,4 @@ Among the top contractor complaints are schedule related. If you goof and hire a
 
 Give us a call and see for yourself how pleasant it is to work with true professional painters.
 
-[![painter review testimonial kansas city crestwood](images/Ted-Goff.jpg)](https://crestwoodpainting.com/reviews/)
+[![painter review testimonial kansas city crestwood](images/Ted-Goff.jpg)]/reviews/)

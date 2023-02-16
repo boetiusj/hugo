@@ -16,7 +16,7 @@ tags:
 
 ![Painting news](/images/Painting-news.jpg)
 
-"How much time do you have?" was the answer when a TV reporter asked for a comment on the effect weather has had on [our business](https://crestwoodpainting.com/exterior-painting-kansas-city/). Lindsay Shively (KSHB Fox 41 News) called at 10am, I was in front of a camera at 10:30 and we had a rain shower at 11!
+"How much time do you have?" was the answer when a TV reporter asked for a comment on the effect weather has had on [our business]/exterior-painting-kansas-city/). Lindsay Shively (KSHB Fox 41 News) called at 10am, I was in front of a camera at 10:30 and we had a rain shower at 11!
 
 Here's the transcript and the [link to the video](https://web.archive.org/web/20130811035433/http://www.kshb.com:80/dpp/weather/weather_news/wet-weather-is-bad-news-for-painting-business):
 

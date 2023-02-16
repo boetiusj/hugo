@@ -3,7 +3,7 @@ title: "Everything is Jake!"
 url: "everything-jake"
 description: "- "
 keywords: "- "
-canonical: "- "
+canonical: "https://crestwoodpainting.com"
 date: "2013-09-08"
 categories:
   - "painting-reviews"

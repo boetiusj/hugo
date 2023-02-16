@@ -16,7 +16,7 @@ tags:
 
 \[caption id="attachment\_964" align="alignright" width="259"\]![painting wood rot kansas city crestwood](/images/WoodRot.jpg "Wood Rot") Poor material selection means this design can only fail.\[/caption\]
 
-"Wood rot” is a term we hear often. Homeowners in Kansas City often assume that peeling paint or any less-than-ideal appearance is wood rot. Not so – sometimes it really is wood rot but just as often it is simply a [solid paint job](https://crestwoodpainting.com/reviews/) away from being just fine.
+"Wood rot” is a term we hear often. Homeowners in Kansas City often assume that peeling paint or any less-than-ideal appearance is wood rot. Not so – sometimes it really is wood rot but just as often it is simply a [solid paint job]/reviews/) away from being just fine.
 
 ### Homes Built Before 1940
 
@@ -25,7 +25,7 @@ The first thing to look at is the age of the house – homes built before 1940 a
 - Built before 1940 – “old growth” wood
 - Weathers well
     
-    \[caption id="" align="alignright" width="176"\][![old growth lumber](/images/WoodOldGrowth.jpg "Old Growth Lumber - Common In Homes Build Before 1940")](https://crestwoodpainting.com/cwp/wp-content/uploads/2012/08/WoodOldGrowth.jpg) Wood from old growth lumber is denser and more durable than fast growth lumber.\[/caption\]
+    \[caption id="" align="alignright" width="176"\][![old growth lumber](/images/WoodOldGrowth.jpg "Old Growth Lumber - Common In Homes Build Before 1940")]/cwp/wp-content/uploads/2012/08/WoodOldGrowth.jpg) Wood from old growth lumber is denser and more durable than fast growth lumber.\[/caption\]
 - Takes paint well
 - Repairs well
 
@@ -42,6 +42,6 @@ As the supply of existing old lumber shrank, younger and faster-growing trees we
 
 Design changes drive much of the wood rot problem. As exterior plywood become a cost-effective alternative there were changes in trim detail. This solved one problem but often created others - see the picture to the right.
 
-Because of these material and design changes and the consequences of those decisions, there are whole tracts of homes in many cities in which the [entire exterior shell](https://crestwoodpainting.com/exterior-painting-kansas-city/) has been compromised. Re-siding is the only option - either remove-and-replace or put new right over the old.
+Because of these material and design changes and the consequences of those decisions, there are whole tracts of homes in many cities in which the [entire exterior shell]/exterior-painting-kansas-city/) has been compromised. Re-siding is the only option - either remove-and-replace or put new right over the old.
 
-Regardless of the age of your home, Crestwood Painting has [painters that are well-trained](https://crestwoodpainting.com/crestwood-people/) and well-equipped to handle whatever challenge your home might present - old or new. Give us a call.
+Regardless of the age of your home, Crestwood Painting has [painters that are well-trained]/crestwood-people/) and well-equipped to handle whatever challenge your home might present - old or new. Give us a call.

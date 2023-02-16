@@ -3,7 +3,7 @@ title: "PDCA Residential Forum"
 url: "pdcaresforum"
 description: "-"
 keywords: "-"
-canonical: "-"
+canonical: "https://crestwoodpainting.com"
 date: "2013-08-14"
 ---
 

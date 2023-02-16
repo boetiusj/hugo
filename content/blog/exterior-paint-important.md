@@ -29,4 +29,4 @@ However, one client had her house painted, then was horrified to see that the gr
 
 But, knowing how important color is, she sucked it up, hired me to tweak the color scheme, and is paying to have it repainted! While I admire her for being able to admit she made a mistake, if she had hired an experienced color consultant in the first place, she wouldn’t be paying for another paint job.
 
-A [color consultation](https://crestwoodpainting.com/color-it-beautiful/) can save you time, money, and energy. Get the colors right from the start by calling Diane Stewart at 913-284-6621.
+A [color consultation]/color-it-beautiful/) can save you time, money, and energy. Get the colors right from the start by calling Diane Stewart at 913-284-6621.

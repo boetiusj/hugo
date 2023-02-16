@@ -9,7 +9,7 @@ date: "2011-09-21"
 
 > I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed.
 
-Reviews of our house painters - interior and exterior. Check out [video testimonials](https://crestwoodpainting.com/video-testimonials/), too!
+Reviews of our house painters - interior and exterior. Check out [video testimonials]/video-testimonials/), too!
 
 **Deliver results and finish in a timely fashion**
 4/2020
@@ -633,7 +633,7 @@ Balamba A.
 
 **Exceptionally helpful**
 4/15/2013
-Crestwood Painting is an excellent example of getting what you pay for. While they were our most expensive estimate by a solid 20% over the next-highest competitor, I would absolutely (and likely will, down the line) use them again. We took a bit of a chance and chose them based on their stellar reputation and my excellent first impression during the initial estimate. I'm glad we made the choice we did. I heartily recommend their services.  The staff are exceptionally helpful and [communicate](https://crestwoodpainting.com/reviews/) plan and changes therein as they develop. You will always be kept abreast of progress, hitches in the plan, possible improvements to your home, and other issues. Everyone I encountered was very friendly and easy to work with. I admit that I was a particularly difficult customer, for a variety of reasons, but Crestwood took all the flak I and my realtor could throw at them in stride. They were always professional and worked hard to make sure I was satisfied with progress and the results.  I am certainly very happy with the work Crestwood Painting did. They scraped the house well and painted fairly quickly, despite being repeatedly delayed by rain. As they worked, they were very clean and kept their tools [Alex T.](#organized1)
+Crestwood Painting is an excellent example of getting what you pay for. While they were our most expensive estimate by a solid 20% over the next-highest competitor, I would absolutely (and likely will, down the line) use them again. We took a bit of a chance and chose them based on their stellar reputation and my excellent first impression during the initial estimate. I'm glad we made the choice we did. I heartily recommend their services.  The staff are exceptionally helpful and [communicate]/reviews/) plan and changes therein as they develop. You will always be kept abreast of progress, hitches in the plan, possible improvements to your home, and other issues. Everyone I encountered was very friendly and easy to work with. I admit that I was a particularly difficult customer, for a variety of reasons, but Crestwood took all the flak I and my realtor could throw at them in stride. They were always professional and worked hard to make sure I was satisfied with progress and the results.  I am certainly very happy with the work Crestwood Painting did. They scraped the house well and painted fairly quickly, despite being repeatedly delayed by rain. As they worked, they were very clean and kept their tools [Alex T.](#organized1)
 
 [
 
@@ -843,7 +843,7 @@ Nathan B.
 
 **High Level of Professionalism**
 April 28, 2010
-Mike and crew did a fantastic job on our 1920 Arts and Crafts condominium six-plex. The time put in on preparation, the application of fresh color, and the overall care that was evident in every step of the process made for a seamless endeavor which paid great dividends for us (the property owners). We highly recommend Mike and his crew for all your painting needs. The high level of professionalism, along with a great end result make it a "Win / Win" company to do business with.
+Mike and crew did a fantastic job on our 1920 Arts and Crafts condominium six-plex. The time put in on preparation, the application of fresh color, and the overall care that was evident in every step of the process made for a seamless endeavor which paid great dividends for us (the property owners). We highly recommend Mike and his crew for all your painting needs. The high level of professionalism, along with a great end result make it a "Win / Winpany to do business with.
 Patton J.
 
 **Polite, Professional and Thorough - "AAAAA" Rating**

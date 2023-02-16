@@ -17,7 +17,7 @@ tags:
 
 Unfinished cabinetry has some downsides to be aware of.
 
-A family called to meet and talk about [interior painting](https://crestwoodpainting.com/interior-painter-kansas-city/) - the entire house. They had hired a "friend" that had been "recommended" as a "good painter" that "needed some help". This painter was not up to the task and had managed to create chaos throughout the home.
+A family called to meet and talk about [interior painting]/interior-painter-kansas-city/) - the entire house. They had hired a "friend" that had been "recommended" as a "good painter" that "needed some help". This painter was not up to the task and had managed to create chaos throughout the home.
 
 Here's what caught my eye: there were two bathrooms with a vanity in each - both unfinished. They had planned to paint the cabinets themselves. This sort of thing  starts with the best of intentions - a nice cabinet for a very attractive price. This is okay, but only if:
 
@@ -26,7 +26,7 @@ Here's what caught my eye: there were two bathrooms with a vanity in each - both
 
 ### Stain or Paint?
 
-On balance, staining unfinished vanities is easier than painting. Staining eliminates sanding primer and caulking joints. Stain also helps blend normal surface wear and tear - you're less likely to notice varnish wear off; you'll very quickly see that wear in a painted surface. Finally, the average homeowner is more likely to achieve satisfactory results when staining and varnishing whereas [painting cabinetry](https://crestwoodpainting.com/painting-kitchen-cabinets/) requires more deliberate skill.
+On balance, staining unfinished vanities is easier than painting. Staining eliminates sanding primer and caulking joints. Stain also helps blend normal surface wear and tear - you're less likely to notice varnish wear off; you'll very quickly see that wear in a painted surface. Finally, the average homeowner is more likely to achieve satisfactory results when staining and varnishing whereas [painting cabinetry]/painting-kitchen-cabinets/) requires more deliberate skill.
 
 Purchasers of unfinished cabinetry may not realize the labor that goes into making their purchase look beautiful:
 
@@ -54,6 +54,6 @@ You're always better to take advantage of a cabinet manufacturer's factory-perfe
 
 What's it cost to paint or stain bathroom vanities? Generally, $100 per lineal foot is a good guide. So, a 5' vanity will be about $500 and a 3' vanity will be around $350. This assumes there is other work being done and, of course, your mileage may vary depending on the painter you call.
 
-[![interior painting plaster](/images/Brian-Burge.jpg)](https://crestwoodpainting.com/plaster-repair-kansas-city/)
+[![interior painting plaster](/images/Brian-Burge.jpg)]/plaster-repair-kansas-city/)
 
 5 Star Crestwood Review

@@ -6,7 +6,20 @@
         <div class="section-title pt-5 text-center">
           <h1>404</h1>
           <p>Page not found</p>
+          <style>
+            #test-ol {
+              display: grid;
+              grid-template-columns: repeat(3, 1fr);
+            }
+          </style>
         </div>
+        <ol id="test-ol">
+          {{ range where site.RegularPages "Section" "!=" "blog" }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+          {{ end }}
+        </ol>
       </div>
     </div>
   </div>

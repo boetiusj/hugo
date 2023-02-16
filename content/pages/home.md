@@ -20,11 +20,11 @@ We are painting contractors in Kansas City specializing in enhancing the charm o
 - Estimates with all the important details mean satisfaction when the project is complete.
 - Work area is neat and tidy -- because we are guests in your home.
 
-Take a look at the [Project Map](https://crestwoodpainting.com/map/ "Project Map") - zoom out to see the wide range of neighborhoods in which we've worked.
+Take a look at the [Project Map]/map/ "Project Map") - zoom out to see the wide range of neighborhoods in which we've worked.
 
 ## Search for Reviews of Kansas City Painters
 
-See what our customers say about us on the [Reviews page](https://crestwoodpainting.com/reviews/ "Online Reviews – Painters in Kansas City"). Or, just search "painters kansas city" for reviews on over a half-dozen sites.
+See what our customers say about us on the [Reviews page]/reviews/ "Online Reviews – Painters in Kansas City"). Or, just search "painters kansas city" for reviews on over a half-dozen sites.
 
 We carry both liability and workman's compensation insurance for our employees. That's peace of mind for both our customers and our workers.
 

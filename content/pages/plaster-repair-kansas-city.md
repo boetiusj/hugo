@@ -24,7 +24,7 @@ Plaster and drywall repair will make your Kansas City home look fresh and clean.
 - Seal the room to help prevent dust migration
 - Tape n' tarp to protect your possessions
 - Firmly fasten loose plaster
-- [Nail pops](https://crestwoodpainting.com/nail-pops/) are often part of this work
+- [Nail pops]/nail-pops/) are often part of this work
 - Paper tape helps prevent the crack from "telegraphing" through
 - Skim and sand smooth for a seamless appearance
 
@@ -32,13 +32,13 @@ Plaster and drywall repair will make your Kansas City home look fresh and clean.
 
 - $680 (1 day minimum)
 - Factors: Surface condition, ceiling height, furniture, carpet, etc.
-- The cost for plaster repair in Kansas City is usually quoted as part of an [interior painting project](https://crestwoodpainting.com/interior-painter-kansas-city/)
+- The cost for plaster repair in Kansas City is usually quoted as part of an [interior painting project]/interior-painter-kansas-city/)
 - Matching existing texture becomes more of an art project
 
 ## The Material
 
 - A wide range of crack repair and plaster products mean almost every situation can be addressed - drywall, traditional plaster.
 - Professional techniques ensure a smooth surface
-- [Popcorn ceiling texture](https://crestwoodpainting.com/popcorn-ceiling-removal/) can also be removed - just ask!
+- [Popcorn ceiling texture]/popcorn-ceiling-removal/) can also be removed - just ask!
 
-[![exterior painting kansas city crestwood](images/Alexis-Delaney.jpg)](https://crestwoodpainting.com/painter-reviews/)
+[![exterior painting kansas city crestwood](images/Alexis-Delaney.jpg)]/painter-reviews/)

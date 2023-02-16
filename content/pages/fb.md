@@ -3,7 +3,7 @@ title: "FB"
 url: "fb"
 description: "-"
 keywords: "-"
-canonical: "-"
+canonical: "https://crestwoodpainting.com"
 date: "2017-12-02"
 ---
 

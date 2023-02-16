@@ -3,7 +3,7 @@ title: "Frequently Asked Question's"
 # url: "FAQs - Important Kansas City Painting Questions"
 url: "/faqs/"
 description: "painting, faq, customer, Kansas City, questions"
-keywords: "https://crestwoodpainting.com/faqs/"
+keywords: /faqs/"
 date: "2011-08-29"
 ---
 
@@ -41,7 +41,7 @@ Good questions help homeowners make good decisions.
 **Here's the pecking order: glossy, semi-gloss, satin, eggshell, flat. Different manufacturers may use different terms or may offer a smaller selection of sheens. Higher gloss is easier to clean but shows off surface imperfections. Front doors are often painted with a glossy finish, trim often has some sheen to it and exterior walls are often flat, although some homes look quite attractive with some sheen to them.
 
 **What about lead paint?
-**The [EPA's lead brochure](https://crestwoodpainting.com/lead-paint-safety/) is a good overview. For exterior painting, options run from ignoring the hazard up to workers in HazMat suits. As a practical matter,light scraping followed by the right primer is the route taken most often. Restoration (complete removal of all old paint) is costly and is usually only considered for small areas.
+**The [EPA's lead brochure]/lead-paint-safety/) is a good overview. For exterior painting, options run from ignoring the hazard up to workers in HazMat suits. As a practical matter,light scraping followed by the right primer is the route taken most often. Restoration (complete removal of all old paint) is costly and is usually only considered for small areas.
 
 > EPA WARNING! Removing or disturbing old paint from interior or exterior surfaces by sanding, scraping, abrading, or other means may produce dust, debris, or fumes that contain lead. Exposure to lead dust, debris or fumes may cause brain damage or other adverse health effects, especially in children and pregnant women. Structures built before 1978 should be tested by a licensed inspector prior to removing or disturbing old paint. For more information, call the National Lead Information Center at 1-800-424-LEAD.
 
@@ -51,7 +51,7 @@ Good questions help homeowners make good decisions.
 Painting older houses is a series of trade-offs. Cost is weighed against desired appearance, proper prep, hassle, lead paint concerns, materials used and durability. Generally speaking, paint on a well-prepped house should last 7 to 10 years. Longer if the underlying paint is in good shape, shorter if you've got problems like excessive interior moisture, leaky gutters or mildew.
 
 **Are more colors better?
-**The use of color should be driven by the style of the home. Victorian, brick colonial and Arts & Crafts styles will each use color differently to show the home to its best advantage. Whether your home is brick, wood siding or shingles, stone or stucco, the natural colors and textures can be enhanced by the use of color. Often similar colors with slight shading differences are used to subtly "suggest" details and features rather than "advertise" them. Think of a blue house with bright red trim and a yellow door - fine for a quirky beach cottage but not suited for most Kansas City neighborhoods. See the [Color Ideas page](https://crestwoodpainting.com/color-help/) for some ideas on how to make it happen.
+**The use of color should be driven by the style of the home. Victorian, brick colonial and Arts & Crafts styles will each use color differently to show the home to its best advantage. Whether your home is brick, wood siding or shingles, stone or stucco, the natural colors and textures can be enhanced by the use of color. Often similar colors with slight shading differences are used to subtly "suggest" details and features rather than "advertise" them. Think of a blue house with bright red trim and a yellow door - fine for a quirky beach cottage but not suited for most Kansas City neighborhoods. See the [Color Ideas page]/color-help/) for some ideas on how to make it happen.
 
 **The case for inexpensive paint.
 **There is none. As with almost any product, you usually get what you pay for. Purchasing paint strictly on the basis of price will end up costing you more in the long run. Here's why. As long as you're comparing two similar types of paint (i.e. interior wall paint, exterior trim paint), price differences usually reflect a difference in the quality and/or the amount of the key ingredients. Since it's the ingredients that affect such important qualities as durability, flow, hide and leveling, the better the quality of the paint the easier it will be to apply and the longer it will normally last. In fact, a top-quality paint (or primer, or caulk) can last up to twice as long as a low-end paint, lowering the cost per year of service. Materials are a relatively small part of the overall cost of a paint job. Saving a few hundred on materials simply doesn't pay.

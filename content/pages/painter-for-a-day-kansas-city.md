@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/painter-for-a-day-kansas-city/"
 date: "2011-09-21"
 ---
 
-[![painter for a day Crestwood kansas city](images/Painter-for-a-Day-Crestwood_opt-1024x1024.jpg)](https://crestwoodpainting.com/cwp/wp-content/uploads/2011/09/Painter-for-a-Day-Crestwood_opt.jpg)
+[![painter for a day Crestwood kansas city](images/Painter-for-a-Day-Crestwood_opt-1024x1024.jpg)]/cwp/wp-content/uploads/2011/09/Painter-for-a-Day-Crestwood_opt.jpg)
 
 A hassle-free way to hire a professional painter for small projects.
 

@@ -3,7 +3,7 @@ title: "Tips n' Tricks - Vinyl Window Trim Color"
 url: "tips-n-tricks-vinyl-window-trim-color"
 description: "-"
 keywords: "-"
-canonical: "-"
+canonical: "https://crestwoodpainting.com"
 date: "2013-11-21"
 categories:
   - "painting-tips"

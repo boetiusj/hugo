@@ -3,7 +3,7 @@ title: "Project Photos"
 url: "gallery"
 description: "Photos of Crestwood Painting home and office projects in Kansas City"
 keywords: "photo painting house office kansas city Crestwood painting"
-canonical: "-"
+canonical: "https://crestwoodpainting.com"
 date: "2013-12-13"
 ---
 

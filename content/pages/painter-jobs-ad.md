@@ -15,7 +15,7 @@ Pay: $18 (no experience at all!) - $30 (skilled, reliable, friendly) to start
 Full Time Opportunity Available!
 
 Are you ready to work with a **well-established, professional** painting company that is concerned about you and your **quality of life**? We offer a stable workplace with respectful co-workers, consistent year-round paychecks and amazing benefits!
-Read on, or [start the process now](https://crestwoodpainting.com/employment/).
+Read on, or [start the process now]/employment/).
 
 * * *
 
@@ -72,6 +72,6 @@ How much will you get paid? - _Compensation_
     - Company-provided uniforms
     - Ongoing, regular training
 
-To arrange a confidential interview, [click here](https://crestwoodpainting.com/employment/) to begin the process. We'll be in touch to see what you find interesting about this opportunity.
+To arrange a confidential interview, [click here]/employment/) to begin the process. We'll be in touch to see what you find interesting about this opportunity.
 
 Search "crestwood painting" to see our reviews and get a good idea what we're all about.

@@ -14,7 +14,7 @@ tags:
 
 ![Careful Crestwood painters](/images/Rose-bushes-300x225.jpg)
 
-If paint contractors are clear in what they are providing and customers are clear in what they are getting then everybody will be happy, yes? So why are happy customer/contractor experiences relatively rare? The answer is the dreaded [_Unmet Expectations_](https://crestwoodpainting.com/reviews/).
+If paint contractors are clear in what they are providing and customers are clear in what they are getting then everybody will be happy, yes? So why are happy customer/contractor experiences relatively rare? The answer is the dreaded [_Unmet Expectations_]/reviews/).
 
 Let's say the paint contractor hired to paint your house drips on your new patio. You assumed he would properly protect your home, he assumed you wanted the work done fast and cheap. If he didn't have a written contract then shame on everybody. If he did have a contract did it clearly specify these gems?
 
@@ -24,7 +24,7 @@ Let's say the paint contractor hired to paint your house drips on your new patio
 
 ## Inclusions
 
-This is, of course, the work that will be done. In our case it would read something like "[Paint house and garage](https://crestwoodpainting.com/exterior-painting-kansas-city/) only, including all previously painted doors, windows, soffits, fascia, etc." Also included should be the materials used, time to completion, and yes, surfaces to be protected.
+This is, of course, the work that will be done. In our case it would read something like "[Paint house and garage]/exterior-painting-kansas-city/) only, including all previously painted doors, windows, soffits, fascia, etc." Also included should be the materials used, time to completion, and yes, surfaces to be protected.
 
 > A job well specified is half delivered
 
@@ -42,4 +42,4 @@ If the rose bushes are not mentioned at all you're setting yourself up to have s
 
 It's been wisely said that "a job well specified is half delivered". Give Crestwood Painting a call if you'd like to see what _Met_ Expectations feel like.
 
-[![](/images/Ann-Davis.jpg)](https://crestwoodpainting.com/video-testimonials/)
+[![](/images/Ann-Davis.jpg)]/video-testimonials/)

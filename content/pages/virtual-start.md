@@ -40,7 +40,7 @@ date: "2020-04-02"
     **Great paint colors make Crestwood Painting look good – that’s why we discourage DIY colors. :)
     When you drive up to your home you want to say “That’s my house and I flippin’ love it!” and not “uh oh, think we goofed”. A professional that knows exterior paint colors will make that happen.
 - **How can I compare estimates?
-    **Easy to compare [Apples to Apples](https://crestwoodpainting.com/compare-paint-bids/).
+    **Easy to compare [Apples to Apples]/compare-paint-bids/).
 - **How about just a “ballpark” estimate?
     **Of course. Our exterior painting projects are only sometimes under $5000 and are usually less than $15k.
 - **What about repair work needed?

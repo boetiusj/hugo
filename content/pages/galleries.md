@@ -3,7 +3,7 @@ title: "Galleries"
 url: "galleries"
 description: "-"
 keywords: "-"
-canonical: "-"
+canonical: "https://crestwoodpainting.com"
 date: "2017-01-17"
 ---
 

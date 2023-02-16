@@ -57,7 +57,7 @@ OSHA 10 - This is the safety standard in the construction industry - 2 days of 
 
 ![crestwood painting lead safe certified](images/Lead-Safe-Certified-1-e1513957322333.jpg)
 
-RRP - The US EPA requires [lead paint certification](https://www.epa.gov/lead/renovation-repair-and-painting-program) for both companies and select employees. This [training has several benefits](https://crestwoodpainting.com/lead-paint-safety/): it's the law, to be sure, but it's also the best way for our employees to work safely around this hazard as well as protect your family. It's an eight hour class given off-site by a certified training provider. Attendees get a thick binder, a smiling-face certificate and the knowledge that they (and their company) are complying with the law.
+RRP - The US EPA requires [lead paint certification](https://www.epa.gov/lead/renovation-repair-and-painting-program) for both companies and select employees. This [training has several benefits]/lead-paint-safety/): it's the law, to be sure, but it's also the best way for our employees to work safely around this hazard as well as protect your family. It's an eight hour class given off-site by a certified training provider. Attendees get a thick binder, a smiling-face certificate and the knowledge that they (and their company) are complying with the law.
 
 What if a painter doesn’t have the right equipment? What if he’s improvising on your stairway, reaching just that last little bit? Sure, he might fall and hurt himself. But he might also bring two gallons of red paint down with him – an unfortunate accident now becomes a complete disaster. In _your_ home. And just like that, his problem is now your problem.
 
@@ -73,7 +73,7 @@ We carry $2M liability as well as the required workman's compensation insurance.
 
 ![crestwood painting customer feedback](images/NPS-e1513962161355.jpg)
 
-Our Project Leads are responsible for a No Drama experience. They deliver our Net Promoter Score card at the end of the project - this way, the customer knows they have a voice in how the project was conducted and the Lead gets [direct feedback](https://crestwoodpainting.com/reviews/) on how he did.
+Our Project Leads are responsible for a No Drama experience. They deliver our Net Promoter Score card at the end of the project - this way, the customer knows they have a voice in how the project was conducted and the Lead gets [direct feedback]/reviews/) on how he did.
 
 Crestwood Painting has an average NPS of 90+ (Amazon's score is 69, Nordstrom's is 31). We've tracked NPS for 3 years and have several hundred cards averaging, yes, over 90!
 
@@ -119,4 +119,4 @@ No Drips, No Drama means
 - On-time starts
 - We own our work
 
-[![customer review painter kansas city crestwood painting](images/Kristy-Glorfeld.jpg)](https://crestwoodpainting.com/reviews/)
+[![customer review painter kansas city crestwood painting](images/Kristy-Glorfeld.jpg)]/reviews/)

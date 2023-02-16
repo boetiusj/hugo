@@ -9,18 +9,18 @@ date: "2012-08-27"
 
 ![painting estimate request](images/Thank-You-2-e1514038961814.jpg)A confirmation is on its way. Til then - some things to consider:
 
-1. [Insurance?](https://crestwoodpainting.com/estimate-thanks/#insurance)
-2. [Employees or Contractors?](https://crestwoodpainting.com/estimate-thanks/#employees)
-3. [Send a Copy](https://crestwoodpainting.com/estimate-thanks/#prove)
-4. [New or Old?](https://crestwoodpainting.com/estimate-thanks/#neworold)
-5. [Which Paint?](https://crestwoodpainting.com/estimate-thanks/#whichpaint)
-6. [What's Proper?](https://crestwoodpainting.com/estimate-thanks/#proper)
-7. [Up Front?](https://crestwoodpainting.com/estimate-thanks/#upfront)
-8. [Start & Finish?](https://crestwoodpainting.com/estimate-thanks/#start)
-9. [Protection?](https://crestwoodpainting.com/estimate-thanks/#protection)
-10. [Butts & Music?](https://crestwoodpainting.com/estimate-thanks/#butts)
-11. [What Do You Know?](https://crestwoodpainting.com/estimate-thanks/#know)
-12. [Lead - Tell Me About It.](https://crestwoodpainting.com/estimate-thanks/#lead)
+1. [Insurance?]/estimate-thanks/#insurance)
+2. [Employees or Contractors?]/estimate-thanks/#employees)
+3. [Send a Copy]/estimate-thanks/#prove)
+4. [New or Old?]/estimate-thanks/#neworold)
+5. [Which Paint?]/estimate-thanks/#whichpaint)
+6. [What's Proper?]/estimate-thanks/#proper)
+7. [Up Front?]/estimate-thanks/#upfront)
+8. [Start & Finish?]/estimate-thanks/#start)
+9. [Protection?]/estimate-thanks/#protection)
+10. [Butts & Music?]/estimate-thanks/#butts)
+11. [What Do You Know?]/estimate-thanks/#know)
+12. [Lead - Tell Me About It.]/estimate-thanks/#lead)
 
 > "May I have a copy of your insurance certificate for my files?"
 

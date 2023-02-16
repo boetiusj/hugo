@@ -43,7 +43,7 @@ Be sure to ask these questions _before_ you make your hiring decision.
     
 6. ####     What is a properly painted surface?![pdca kansas city crestwood painting](images/PDCA-e1513993940539.jpg)
     
-    The PDCA (Painting & Decorating Contractors of America, [pca.org](https://pcapainted.org)) has established clear standards for its members, from accepted production rates to appropriate materials and application techniques. Objective standards make it easy for homeowner and painter to agree on what a [properly painted surface](https://crestwoodpainting.com/12-questions-ask-painter/#properlypainted) is. Membership in trade organizations indicates a level of professional commitment.
+    The PDCA (Painting & Decorating Contractors of America, [pca.org](https://pcapainted.org)) has established clear standards for its members, from accepted production rates to appropriate materials and application techniques. Objective standards make it easy for homeowner and painter to agree on what a [properly painted surface]/12-questions-ask-painter/#properlypainted) is. Membership in trade organizations indicates a level of professional commitment.
     
 7. ####     Do you require any payment up front?
     

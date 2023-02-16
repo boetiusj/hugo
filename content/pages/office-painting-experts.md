@@ -11,7 +11,7 @@ date: "2017-01-16"
 
 This busy network office continued to hum while Crestwood Painting quietly did their thing.
 
-Clean and quiet, efficient and pleasant - our painters make it easy for your office routine to continue uninterrupted - No Drips, No Drama. That's the kind of [painter your office can work with](https://crestwoodpainting.com/office-painting-case-study/).
+Clean and quiet, efficient and pleasant - our painters make it easy for your office routine to continue uninterrupted - No Drips, No Drama. That's the kind of [painter your office can work with]/office-painting-case-study/).
 
 We'll work around your schedule to minimize disruptions. Use zero VOC paint so nobody breathes nasty stuff. We'll keep our gear in a tidy, out-of-the-way corner - and make sure it stays that way. What your office doesn't need is scruffy station-wagon dudes rockin' out while you're working.
 
@@ -41,7 +41,7 @@ Whether you need to paint an executive area, a cafeteria, an auditorium or just
 
 - Servers, monitors, cabling - We'll cover everything with the appropriate material (light plastic over that graphics monitor, not a cruddy drop cloth) and be sure to steer clear of anything that's plugged in.
 
-- Security concerns - You want assurance that your service contractor isn't going to steal from your company or any of your employees. [Background checks](https://crestwoodpainting.com/crestwood-people/#background) will help, so will [consistent raving reviews](https://crestwoodpainting.com/reviews/). We'll also go over access procedures, work hours, safety protocols, service elevators, janitor's closet, etc.
+- Security concerns - You want assurance that your service contractor isn't going to steal from your company or any of your employees. [Background checks]/crestwood-people/#background) will help, so will [consistent raving reviews]/reviews/). We'll also go over access procedures, work hours, safety protocols, service elevators, janitor's closet, etc.
 
 ## Details Matter With Commercial Painting
 
@@ -77,7 +77,7 @@ We have a one day ($600) minimum - this allows us to arrive, set up and be most 
 
 Crestwood Painting screens our painters so that you'll only have the kind of painters your office staff can feel safe with. We do hire nice people that enjoy their co-workers and take pride in doing a great job. We don't hire thieves, we don't hire felons - criminal background screens make sure of that. All employees communicate clearly in English and wear professional painters' white pants and Crestwood Painting uniform shirts.
 
-[Safety matters so we make sure to train our employees](https://crestwoodpainting.com/crestwood-people/) on how to safely work in office environments. We'll use the right ladder for hallways, the right ladder for stairs. We'll use caution tape to flag an area so your nice office people don't wind up in our wet paint. Drop cloths when they're needed, doors closed where possible. We're even equipped to set up temporary barrier walls if that's a better option.
+[Safety matters so we make sure to train our employees]/crestwood-people/) on how to safely work in office environments. We'll use the right ladder for hallways, the right ladder for stairs. We'll use caution tape to flag an area so your nice office people don't wind up in our wet paint. Drop cloths when they're needed, doors closed where possible. We're even equipped to set up temporary barrier walls if that's a better option.
 
 ## What if Something Goes Wrong
 
@@ -113,4 +113,4 @@ Call Crestwood Painting for your office painting needs. We're an established and
 
 ![office painting kansas city Bluebird](images/Bluebird-1-e1514492828611.jpeg)
 
-[![commercial painting senior crestwood ](images/Sunrise-Senior-Living-347x450.jpeg)](https://crestwoodpainting.com/reviews/)
+[![commercial painting senior crestwood ](images/Sunrise-Senior-Living-347x450.jpeg)]/reviews/)

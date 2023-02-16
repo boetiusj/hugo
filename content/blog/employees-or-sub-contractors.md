@@ -14,11 +14,11 @@ tags:
   - "sub-contractor"
 ---
 
-![crestwood painting van who is your painter - kansas city](/images/Who-Is-crop-close_opt.jpg "Crestwood Painting Van")Who is working on your project? And exactly how are they being paid - as an [employee or sub-contractor](https://crestwoodpainting.com/compare-paint-bids/)? It really _does_ make a difference and it really _can_ cost you money. Here's why:
+![crestwood painting van who is your painter - kansas city](/images/Who-Is-crop-close_opt.jpg "Crestwood Painting Van")Who is working on your project? And exactly how are they being paid - as an [employee or sub-contractor]/compare-paint-bids/)? It really _does_ make a difference and it really _can_ cost you money. Here's why:
 
 ### Risk to Homeowners
 
-Any contractor, whether an individual or business,  should have [proper insurance](https://crestwoodpainting.com/top-5-uninsured-contractor-what-ifs/) - both workman's compensation and business liability. It is ultimately the customers' responsibility to ensure that there are no breaks in the insurance chain.  Workman's compensation is required by law; business liability is simply common sense and good judgement. If there is an accident (and improper, or no, insurance) there will be liability - it just won't be covered. At that point the customer is front and center in the liability chain.
+Any contractor, whether an individual or business,  should have [proper insurance]/top-5-uninsured-contractor-what-ifs/) - both workman's compensation and business liability. It is ultimately the customers' responsibility to ensure that there are no breaks in the insurance chain.  Workman's compensation is required by law; business liability is simply common sense and good judgement. If there is an accident (and improper, or no, insurance) there will be liability - it just won't be covered. At that point the customer is front and center in the liability chain.
 
 ### Supervision or Workers
 
@@ -26,7 +26,7 @@ Communication is key in every business. Anything less than 100% crystal-clear co
 
 ### Safety on the Job
 
-A sub that can't (or won't) afford proper insurance is also likely to skimp on equipment. Safety equipment, first aid equipment, production equipment - and the [training & proper usage of that equipment](https://crestwoodpainting.com/who/). The low subcontractor price may be attractive but that looks less enticing when faced with an injury.
+A sub that can't (or won't) afford proper insurance is also likely to skimp on equipment. Safety equipment, first aid equipment, production equipment - and the [training & proper usage of that equipment]/who/). The low subcontractor price may be attractive but that looks less enticing when faced with an injury.
 
 ### Courtesy
 

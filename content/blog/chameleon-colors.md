@@ -16,7 +16,7 @@ tags:
 
 ![paint color sample](/images/PQI-color-samples-300x300.jpg)
 
-We transformed the [inside of a nice Brookside home](https://crestwoodpainting.com/interior-painter-kansas-city/) and the homeowner ran into exactly what's described here: colors that on one wall or time of day looked completely different than another. The homeowner was surprised, but Debby Zimmer at Paint Quality Institute explains what's going on:
+We transformed the [inside of a nice Brookside home]/interior-painter-kansas-city/) and the homeowner ran into exactly what's described here: colors that on one wall or time of day looked completely different than another. The homeowner was surprised, but Debby Zimmer at Paint Quality Institute explains what's going on:
 
 "Deep, highly saturated shades have been popular for years, but the palette that’s in vogue right now is just the opposite. Interior designers and colorists are favoring lighter hues that just tease the eye with subtle hints of color.
 
@@ -30,7 +30,7 @@ Because the new tints are not pure yellows, greens, or whatever, many have a cha
 
 During the daytime, a wall color might appear to be in the pale green family, but at night, under artificial light, it may take on a yellow caste. Likewise, a light bluish tint might gravitate toward pale gray in dimmer light.
 
-Because the new tints are so [changeable under different lighting conditions](https://crestwoodpainting.com/colors-relaxation/), a useful recommendation is to apply some sizable swatches of the paint color to several of your walls and live with them for a day or two before fully committing to the color. That way, you can be sure you’ll like your new choice at every time of day or night.
+Because the new tints are so [changeable under different lighting conditions]/colors-relaxation/), a useful recommendation is to apply some sizable swatches of the paint color to several of your walls and live with them for a day or two before fully committing to the color. That way, you can be sure you’ll like your new choice at every time of day or night.
 
 The emerging trend to tints is part of the natural ebb and flow that occurs in the paint industry every five years or so, and this stage of the cycle offers some tangible rewards to those who jump on board.
 

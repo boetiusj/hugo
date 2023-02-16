@@ -3,7 +3,7 @@ title: "Motivation"
 url: "zig"
 description: "-"
 keywords: "-"
-canonical: "-"
+canonical: "https://crestwoodpainting.com"
 date: "2015-04-04"
 ---
 

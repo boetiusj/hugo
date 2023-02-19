@@ -36,3 +36,9 @@
     transform: scale(1.01);
   }
 }
+
+.section {
+  @media screen and (max-width: 667px) {
+    padding: 50px 0;
+  }
+}

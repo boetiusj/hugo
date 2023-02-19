@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/cabinet-painting/"
 date: "2011-09-21"
 ---
 
-![](images/Finished-Kitchen.jpg)
+![](/images/Finished-Kitchen.jpg)
 
 Painted kitchen cabinets update a dark 70's look.
 
@@ -46,4 +46,4 @@ Golden Oak cabinets have got to go! Paint will transform a kitchen without the c
 
 It's generally not much of a savings to purchase unfinished cabinets and then to [paint unfinished cabinets](/does-unfinished-cabinetry-pay/) on site - but send us a photo and we can discuss.
 
-[![Cabinet painting kansas city crestwood](images/Jimmy-E.jpg)](/reviews/)
+[![Cabinet painting kansas city crestwood](/images/Jimmy-E.jpg)](/reviews/)

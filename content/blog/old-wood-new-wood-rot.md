@@ -23,7 +23,7 @@ The first thing to look at is the age of the house – homes built before 1940 a
 - Built before 1940 – “old growth” wood
 - Weathers well
     
-    \[caption id="" align="alignright" width="176"\][![old growth lumber](/images/WoodOldGrowth.jpg "Old Growth Lumber - Common In Homes Build Before 1940")](/cwp/wp-content/uploads/2012/08/WoodOldGrowth.jpg) Wood from old growth lumber is denser and more durable than fast growth lumber.\[/caption\]
+    \[caption id="" align="alignright" width="176"\][![old growth lumber](/images/WoodOldGrowth.jpg "Old Growth Lumber - Common In Homes Build Before 1940")](/2012/08/WoodOldGrowth.jpg) Wood from old growth lumber is denser and more durable than fast growth lumber.\[/caption\]
 - Takes paint well
 - Repairs well
 

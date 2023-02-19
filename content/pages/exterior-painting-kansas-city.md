@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/exterior-painting-kansas-city/"
 date: "2011-09-18"
 ---
 
-![exterior painting gray white](images/January-scaled.jpg)
+![exterior painting gray white](/images/January-scaled.jpg)
 
 Painting is the most cost-effective way to transform and beautify your Kansas City home. Choose a house painter with a proven track record, [rave online reviews](/reviews/) and the business skill to deliver a glitch-free experience.
 
@@ -50,4 +50,4 @@ Crestwood Painting trains our workers to be efficient, but not fast. We stand by
     - Clean lines
     - More consistent coverage
 
-[![customer review exterior painting kansas city](images/Alex-T.-409x450.jpg)](/painter-reviews-nice-surprise/)
+[![customer review exterior painting kansas city](/images/Alex-T.-409x450.jpg)](/painter-reviews-nice-surprise/)

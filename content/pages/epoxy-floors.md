@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com"
 date: "2016-04-18"
 ---
 
-![Epoxy Floor - Kansas City](images/Epoxy-Floor-300x300.jpg)
+![Epoxy Floor - Kansas City](/images/Epoxy-Floor-300x300.jpg)
 
 Epoxy floors are the most durable and easy to clean flooring option available. Whether for restaurants or medical clinics, garages or schools there's no flooring solution more durable and sanitary.
 
@@ -30,7 +30,7 @@ Generally in the $5 per square foot range but of course that depends on a range 
 
 First, there's a primer coat, then a 100% solids base coat (acrylic colored paint chips) followed by one or two topcoats of clear epoxy or polyurethane. Generally, this system will be between 30 and 40 mils in thickness and is flexible and durable enough to last 15-20 years or more.
 
-[Epoxy Floor Coatings guide](/cwp/wp-content/uploads/2016/04/SHERW1144-Epoxy-Coatings-Guide.pdf) - this free download is a great overview of the materials used.
+[Epoxy Floor Coatings guide](/2016/04/SHERW1144-Epoxy-Coatings-Guide.pdf) - this free download is a great overview of the materials used.
 
 ## Service Area for Epoxy Floors
 

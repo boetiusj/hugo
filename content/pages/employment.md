@@ -9,7 +9,7 @@ date: "2014-06-06"
 
 ##
 
-![](images/Green-transparent.jpg)
+![](/images/Green-transparent.jpg)
 
 Safe Jobs, Great People
 

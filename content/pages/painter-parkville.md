@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com"
 date: "2014-01-03"
 ---
 
-![Painter Parkville Crestwood ](images/Parkville-300x199.jpg)
+![Painter Parkville Crestwood ](/images/Parkville-300x199.jpg)
 
 Crestwood has done both exterior and interior painting in Parkville. Homes or offices - we take the same care in performing our work. Well-trained employees applying the very best materials. Because we use low VOC "green" paints you might not even smell our work!
 

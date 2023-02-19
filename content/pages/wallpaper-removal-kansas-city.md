@@ -8,7 +8,7 @@ date: "2011-09-18"
 coverImage: "tn_Wallpaper-removal.jpg"
 ---
 
-![wallpaper removal kansas city crestwood painting](images/tn_Wallpaper-removal.jpg)
+![wallpaper removal kansas city crestwood painting](/images/tn_Wallpaper-removal.jpg)
 
 Safe wallpaper removal with a non-toxic, no-odor solution. Then carefully wash the walls to thoroughly remove adhesive residue.
 
@@ -44,4 +44,4 @@ Removal costs start at $600 per day per painter. Generally, one painter can remo
 - Our workers love it - no mask or gloves required!
 - Leaves no chemical residue on your walls
 
-![painter review crestwood painting kansas city](images/Bryant-Borchers.jpg)
+![painter review crestwood painting kansas city](/images/Bryant-Borchers.jpg)

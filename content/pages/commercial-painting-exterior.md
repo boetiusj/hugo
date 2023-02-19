@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/commercial-painting-exterior/"
 date: "2017-07-08"
 ---
 
-![Commercial exterior painting kansas city](images/MN-front-e1485211429554.jpg)
+![Commercial exterior painting kansas city](/images/MN-front-e1485211429554.jpg)
 
 This brand new senior health center in Olathe, KS was painted safely and ahead of schedule. A clear plan was key.
 
@@ -20,7 +20,7 @@ Proof of proper insurance, sure - but also consistent training and screening of 
 1. Disruption - we'll work around entrances at off-peak times and will work with your staff to ensure proper communication about work flow. There's usually caution tape where appropriate and signage to advise and direct traffic.
 2. Noise - painting shouldn't disrupt. Clear communication means expectations are clear for all involved. Best to let us know if we need to avoid an area at certain times so exterior painting doesn't distract your staff.
 
-![exterior commercial painting](images/Lift-1-1024x1024.jpg)
+![exterior commercial painting](/images/Lift-1-1024x1024.jpg)
 
 Aerial lifts allow efficient painting and avoids the distractions of noisy ladders.
 
@@ -50,7 +50,7 @@ We'll go through our commercial painting checklist to be sure to cover the top p
 
 As a rule of thumb, commercial painting in Kansas City starts at $1200 for small projects; the scale changes quite a bit with larger projects like those pictured. Give us a call and we'll let you know how efficient we can be with your project.
 
-![commercial safety painting kansas city](images/Safety-Bollards-300x300.jpg)
+![commercial safety painting kansas city](/images/Safety-Bollards-300x300.jpg)
 
 Commercial maintenance painting: Safety yellow paint helps heavy equipment to steer clear.
 

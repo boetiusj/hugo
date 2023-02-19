@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/plaster-repair-kansas-city/"
 date: "2011-09-21"
 ---
 
-![plaster drywall repair Kansas City Crestwood Painting](images/Plaster-Repair-e1514494678849.jpg)
+![plaster drywall repair Kansas City Crestwood Painting](/images/Plaster-Repair-e1514494678849.jpg)
 
 Repairing plaster cracks is an important first step in freshening up the appearance and feel of any room.
 
@@ -41,4 +41,4 @@ Plaster and drywall repair will make your Kansas City home look fresh and clean.
 - Professional techniques ensure a smooth surface
 - [Popcorn ceiling texture](/popcorn-ceiling-removal/) can also be removed - just ask!
 
-[![exterior painting kansas city crestwood](images/Alexis-Delaney.jpg)](/painter-reviews/)
+[![exterior painting kansas city crestwood](/images/Alexis-Delaney.jpg)](/painter-reviews/)

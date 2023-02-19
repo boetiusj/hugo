@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/office-painting-case-study/"
 date: "2017-06-02"
 ---
 
-![office painting commercial kansas city](images/Office-2-e1514756940438.jpg)
+![office painting commercial kansas city](/images/Office-2-e1514756940438.jpg)
 
 Completely freshened up, this office incubator has a clean and contemporary feel.
 
@@ -27,7 +27,7 @@ We were introduced to the general contractor, given a best-case timeline and, af
 
 ## **Challenge I - Carpet Adhesive**
 
-![floor prep carpet adhesive removal](images/Floor-before-300x300.jpg)
+![floor prep carpet adhesive removal](/images/Floor-before-300x300.jpg)
 
 Carpet adhesive: nasty, sticky and gummy.
 
@@ -43,7 +43,7 @@ The GC turned over the work space right on schedule and two weeks later we were 
 
 ## **The Materials**
 
-![painting break room kansas city](images/Breakroom-300x300.jpg)
+![painting break room kansas city](/images/Breakroom-300x300.jpg)
 
 Newly painted break room is comfortable and inviting.
 
@@ -62,7 +62,7 @@ Office walls - Sherwin Williams Super Paint, flat sheen. Often a satin sheen is 
 
 ## **Challenge II - Dry Erase Boards**
 
-![office painting whiteboard dry erase kansas city](images/Classroom-edited.jpg)
+![office painting whiteboard dry erase kansas city](/images/Classroom-edited.jpg)
 
 Custom-sized whiteboards take full advantage of large walls.
 

@@ -14,7 +14,7 @@ tags:
   - "contrasting-colors"
 ---
 
-[![paint colors crestwood painting](/images/Color-Of-The-Year-Emerald_opt1-300x3001-300x300.jpg)](/cwp/wp-content/uploads/2013/10/Color-Of-The-Year-Emerald_opt1-300x3001.jpg)Diane Stewart at [Color Sense Consulting](/being-green/) is often asked "What is the most versatile color?" Here's her answer:
+[![paint colors crestwood painting](/images/Color-Of-The-Year-Emerald_opt1-300x3001-300x300.jpg)](/2013/10/Color-Of-The-Year-Emerald_opt1-300x3001.jpg)Diane Stewart at [Color Sense Consulting](/being-green/) is often asked "What is the most versatile color?" Here's her answer:
 
 "Many people would like to know which color is the most foolproof option. There really isn't an easy answer since so many things should be considered when choosing paint colors.
 

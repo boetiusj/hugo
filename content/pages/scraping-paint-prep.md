@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/scraping-paint-prep-kansas-city/"
 date: "2011-08-28"
 ---
 
-![scraping paint, peeling, house exterior kansas city](images/Peeling-green-gable_opt.jpg)
+![scraping paint, peeling, house exterior kansas city](/images/Peeling-green-gable_opt.jpg)
 
 Simply using the right tool can make a big difference in how long your paint job lasts.
 
@@ -25,11 +25,11 @@ Scraping is defined as removing loose paint; restoration is defined as removing 
 
 ### The Solution
 
-![Paint scraper steel kansas city crestwood](images/Steel-scraper_opt.jpg)
+![Paint scraper steel kansas city crestwood](/images/Steel-scraper_opt.jpg)
 
 Steel is not.
 
-![paint scraper carbide kansas city crestwood](images/Carbide-scraper_opt.jpg)
+![paint scraper carbide kansas city crestwood](/images/Carbide-scraper_opt.jpg)
 
 Carbide is cool.
 
@@ -39,4 +39,4 @@ Rather than rely strictly on labor, there are products now available that allow 
 
 Using more effective scrapers and taking advantage of new paint technologies, painters can deliver an environmentally friendly, aesthetically pleasing and longer lasting paint job than was available in the past.
 
-![painter review online crestwood painting](images/Ty-Esser.jpg)
+![painter review online crestwood painting](/images/Ty-Esser.jpg)

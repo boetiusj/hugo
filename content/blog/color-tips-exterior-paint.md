@@ -29,7 +29,7 @@ There are many factors to consider when planning an [exterior color scheme](/ext
 1. Be aware that fixed surfaces such as brick, stone, roofing materials, and clad surfaces need to be part of the color equation.
 2. Muted, earthy tones are usually the best bet if you want your home to fit into the landscape. Think locally, and paint accordingly.
     
-    \[caption id="" align="alignright" width="280"\][![home harsh color contrast crestwood painting kansas city](/images/StewartBefore_opt.jpg "Home With A Stark Color Contrast ")](/cwp/wp-content/uploads/2013/01/StewartBefore_opt.jpg) Before: Harsh contrasts make for a jumbled appearance.\[/caption\]
+    \[caption id="" align="alignright" width="280"\][![home harsh color contrast crestwood painting kansas city](/images/StewartBefore_opt.jpg "Home With A Stark Color Contrast ")](/2013/01/StewartBefore_opt.jpg) Before: Harsh contrasts make for a jumbled appearance.\[/caption\]
     
 3. Using a bright color for the body of your house may not be appropriate for certain house styles or neighborhoods. Save the brighter colors for accents.
 4. You can use the image of a man's suit to help you visualize basic color schemes: siding = suit, trim = shirt, and door = tie. This usually translates to a medium color for siding, lighter one for the trim, and more intense color for the door.

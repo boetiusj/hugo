@@ -8,7 +8,7 @@ date: "2011-09-27"
 coverImage: "Cropped-e1513965769859.jpg"
 ---
 
-![house painter kansas city](images/Cropped-e1513965769859.jpg)
+![house painter kansas city](/images/Cropped-e1513965769859.jpg)
 
 Since 2007 we've focused on:
 
@@ -36,7 +36,7 @@ http://crestwoodpainting.com/price-service-sketchy-dudes/
 
 ### Insurance & Licensing
 
-![crestwood painting business license kcmo](images/KCMO-biz-license-e1513961088421-150x150.jpeg)
+![crestwood painting business license kcmo](/images/KCMO-biz-license-e1513961088421-150x150.jpeg)
 
 - KCMO business license
 - Business liability and workman's compensation insurance - $2M
@@ -56,7 +56,7 @@ Take a look here to read about where [No Drips, No Drama](/crestwood-people/#nod
 
 ### Schedule Driven
 
-![crestwood painting schedule](images/Schedule-e1513968886159.jpeg)
+![crestwood painting schedule](/images/Schedule-e1513968886159.jpeg)
 
 Best to look for a company that sets expectations for employees as effectively as those for customers. Those things that are expected of every service company, but often not delivered:
 
@@ -76,4 +76,4 @@ Among the top contractor complaints are schedule related. If you goof and hire a
 
 Give us a call and see for yourself how pleasant it is to work with true professional painters.
 
-[![painter review testimonial kansas city crestwood](images/Ted-Goff.jpg)](/reviews/)
+[![painter review testimonial kansas city crestwood](/images/Ted-Goff.jpg)](/reviews/)

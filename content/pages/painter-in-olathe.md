@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/painter-in-olathe/"
 date: "2014-01-04"
 ---
 
-Crestwood has done both exterior and interior painting in Olathe[![paint contractor olathe ks crestwood](images/Olathe.jpg)](/cwp/wp-content/uploads/2014/01/Olathe.jpg). Homes or offices - we take the same care in performing our work. Well-trained employees applying the very best materials. Because we use low VOC "green" paints you might not even smell our work!
+Crestwood has done both exterior and interior painting in Olathe[![paint contractor olathe ks crestwood](/images/Olathe.jpg)](/images/Olathe.jpg). Homes or offices - we take the same care in performing our work. Well-trained employees applying the very best materials. Because we use low VOC "green" paints you might not even smell our work!
 
 Take a look at [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter"). Painting isn't something most people do very often so it helps to ask the right questions when you're meeting with paint contractors.
 

@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/compare-paint-bids/"
 date: "2011-08-28"
 ---
 
-![Apples to Apples comparison](images/ApplesOranges_opt.jpg)
+![Apples to Apples comparison](/images/ApplesOranges_opt.jpg)
 
 Important to ask "How confident am I that this contractor can do what he says?"
 

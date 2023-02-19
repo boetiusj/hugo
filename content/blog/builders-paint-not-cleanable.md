@@ -23,7 +23,7 @@ Builders paint is used because it costs less. It costs less because, very simply
 
 Builders often choose poor quality, low cost paint because they assume the home buyer will never know the difference. But they do - really. How can you tell if you're dealing with builders paint?
 
-\[caption id="attachment\_1215" align="alignright" width="118"\][![burnish marks paint kansas city crestwood painting](/images/Burnish-II-labeled_opt.jpg "Wall With Builders Paint and Burnish Marks")](/cwp/wp-content/uploads/2012/12/Burnish-II-labeled_opt.jpg) Paint in family hallways see lots of rough treatment.\[/caption\]
+\[caption id="attachment\_1215" align="alignright" width="118"\][![burnish marks paint kansas city crestwood painting](/images/Burnish-II-labeled_opt.jpg "Wall With Builders Paint and Burnish Marks")](/2012/12/Burnish-II-labeled_opt.jpg) Paint in family hallways see lots of rough treatment.\[/caption\]
 
 - The paint burnishes easily when rubbed, whether from busy kid hands or an elbow carrying too many grocery bags (burnishing happens when the paint film won't hold up to friction and is actually polished to a different sheen)
 - The paint scrubs right off during routine cleaning. Very often, the newly cleaned spot looks worse than the original dirty spot

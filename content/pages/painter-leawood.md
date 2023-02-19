@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/painter-in-olathe/"
 date: "2014-01-04"
 ---
 
-[![Painter leawood ks crestwood](images/Leawood2.jpg)](/cwp/wp-content/uploads/2014/01/Leawood2.jpg)
+[![Painter leawood ks crestwood](/images/Leawood2.jpg)](/images/Leawood2.jpg)
 
 Crestwood has done both exterior and interior painting in Leawood. Homes or offices - we take the same care in performing our work. Well-trained employees applying the very best materials. Because we use low VOC "green" paints you might not even smell our work!
 

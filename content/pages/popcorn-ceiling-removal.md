@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/popcorn-ceiling-removal/"
 date: "2011-09-18"
 ---
 
-![popcorn ceiling texture removal cost kansas city](images/popcorn-ceiling-300x200.jpg)
+![popcorn ceiling texture removal cost kansas city](/images/popcorn-ceiling-300x200.jpg)
 
 Removing popcorn ceilings is very much a Good News / Bad News sort of thing:
 
@@ -35,4 +35,4 @@ Popcorn texture removal is often part of a [larger interior painting project](/i
 
 After popcorn ceiling material has been tested by a certified lab it's time to think about removal. Generally, popcorn removal runs about $5 per square foot for flat ceilings. Of course, a two story vaulted ceiling will cost quite a bit more and removal for a 10' x 10' bedroom will also be quite a bit more.
 
-![online painting review crestwood painting](images/A-Google-User6.jpg)
+![online painting review crestwood painting](/images/A-Google-User6.jpg)

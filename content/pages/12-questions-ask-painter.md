@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/12-questions-ask-painter/"
 date: "2011-08-28"
 ---
 
-![painter questions kansas city](images/check-e1513993569887.jpg)
+![painter questions kansas city](/images/check-e1513993569887.jpg)
 
 Be sure to ask these questions _before_ you make your hiring decision.
 
@@ -36,12 +36,12 @@ Be sure to ask these questions _before_ you make your hiring decision.
     
 5. ####     Which brand of paint do you recommend?
     
-    ![crestwood painting kansas city](images/Suppliers-e1513993066551.jpg)
+    ![crestwood painting kansas city](/images/Suppliers-e1513993066551.jpg)
     
     Painters establish a relationship with a particular store for a variety of reasons – knowledgeable help, quality products or attractive pricing. If a painter is reluctant to use another product, it’s fair to ask why. Strong belief in a product based on experience is fine, but when a financial incentive trumps all else, the advice you get may not be in your best interest.
     All of this assumes quality materials – if you’re being steered toward a low cost product, find another painter. When it comes to paint, you never get more than you pay for. Also, most professionals do not use paint from the Big Box chain stores for several reasons: product quality is one, but also lower quality, limited selection, poor service and availability.
     
-6. ####     What is a properly painted surface?![pdca kansas city crestwood painting](images/PDCA-e1513993940539.jpg)
+6. ####     What is a properly painted surface?![pdca kansas city crestwood painting](/images/PDCA-e1513993940539.jpg)
     
     The PDCA (Painting & Decorating Contractors of America, [pca.org](https://pcapainted.org)) has established clear standards for its members, from accepted production rates to appropriate materials and application techniques. Objective standards make it easy for homeowner and painter to agree on what a [properly painted surface](/12-questions-ask-painter/#properlypainted) is. Membership in trade organizations indicates a level of professional commitment.
     

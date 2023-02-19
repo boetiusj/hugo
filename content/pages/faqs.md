@@ -7,7 +7,7 @@ keywords: /faqs/"
 date: "2011-08-29"
 ---
 
-![paint FAQ questions kansas city crestwood painting](images/FAQ-pic_opt.jpg)
+![paint FAQ questions kansas city crestwood painting](/images/FAQ-pic_opt.jpg)
 
 Good questions help homeowners make good decisions.
 

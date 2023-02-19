@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/payments/"
 date: "2011-05-05"
 ---
 
-![](images/pixel.gif)
+![](/images/pixel.gif)
 
 - Easy - click the yellow button
 - Universal - most cards accepted (Paypal account not necessary)

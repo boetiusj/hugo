@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/lead-paint-safety/"
 date: "2017-12-02"
 ---
 
-![Crestwood Painting RRP certificate](images/Lead-Safe-Certified-1-e1514657696358.jpg)
+![Crestwood Painting RRP certificate](/images/Lead-Safe-Certified-1-e1514657696358.jpg)
 
 Lead paint regulations have been enforced since 2010. Now, the EPA is making it easier for homeowners to find certified contractors.
 
@@ -29,4 +29,4 @@ There is a slight cost difference in complying: more time in implementing lead-s
 
 It feels good to do the right thing. All that, and a contractor's nod to the Girl Scouts, to boot!
 
-[![](images/Renovate-Right-image-577x900.jpg)](http://www.cpsc.gov/PageFiles/121915/renovateright.pdf)
+[![](/images/Renovate-Right-image-577x900.jpg)](http://www.cpsc.gov/PageFiles/121915/renovateright.pdf)

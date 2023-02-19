@@ -9,6 +9,6 @@ date: "2015-06-07"
 
 Thanks very much.
 
-[![Kansas City EPA certified painter](images/Gray-Lead-Safe-Certified-Logo.jpg)](/cwp/wp-content/uploads/2011/05/Gray-Lead-Safe-Certified-Logo.jpg)
+[![Kansas City EPA certified painter](/images/Gray-Lead-Safe-Certified-Logo.jpg)](/images/Gray-Lead-Safe-Certified-Logo.jpg)
 
-![customer review painter kansas city crestwood painting](images/Kristy-Glorfeld.jpg)
+![customer review painter kansas city crestwood painting](/images/Kristy-Glorfeld.jpg)

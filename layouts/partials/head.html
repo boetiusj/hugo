@@ -27,4 +27,12 @@
 <link rel = 'stylesheet' href = '{{ $styles.Permalink }}' integrity = '{{ $styles.Data.Integrity }}' crossorigin="anonymous">
 
 <!--Favicon-->
-<link rel="icon" href="/images/favicon.png" type="image/x-icon">
+{{- $iconsPath := "favicons/" }}
+<link rel="apple-touch-icon" sizes="180x180" href='{{ absURL (printf "%sapple-touch-icon.png" $iconsPath) }}'>
+<link rel="icon" href="/favicons/favicon.ico" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="32x32" href='{{ absURL (printf "%sfavicon-32x32.png" $iconsPath) }}'>
+<link rel="icon" type="image/png" sizes="16x16" href='{{ absURL (printf "%sfavicon-16x16.png" $iconsPath) }}'>
+<link rel="manifest" href='{{ absURL (printf "%ssite.webmanifest" $iconsPath) }}'>
+<link rel="mask-icon" href='{{ absURL (printf "%ssafari-pinned-tab.svg" $iconsPath) }}'  color="#004750">
+<link rel="shortcut icon" href='{{ absURL (printf "%sfavicon.ico" $iconsPath) }}'>
+<meta name="msapplication-config" content='{{ absURL (printf "%sbrowserconfig.xml" $iconsPath) }}'>

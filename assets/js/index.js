@@ -1,43 +1,67 @@
-const job_types = ['Exterior', 'Cabinet', 'Interior', 'Commercial', 'Wildcard'];
+const job_types = ['exterior', 'cabinets', 'interior', 'commercial', 'wildcard'];
 const row_numbers = [...Array(15).keys()];
 
-const endpoint = "https://sheets.googleapis.com/v4/spreadsheets/1Wo4d7bNVA9CemGYMH4-XaW53SwkE_dkOv13zCrSOcfY/values/Zip%20Filter?&key=AIzaSyA-m6bw9367TTpdjbqO-IHwLveJ6xJpT6M";
+const ga_sheets_endpoint = "https://sheets.googleapis.com/v4/spreadsheets/1Wo4d7bNVA9CemGYMH4-XaW53SwkE_dkOv13zCrSOcfY/values/Zip%20Filter?&key=AIzaSyA-m6bw9367TTpdjbqO-IHwLveJ6xJpT6M";
 
 let zip_checkup = [];
 
-const user_zip = 64114; // from form field;
-const job_type = 'Wildcard'; // from form field;
+let user_zip = empty_string;
+let job_type = empty_string;
 
 function checkAvailability(row = []) {
-  const index = job_types.indexOf(job_type);
-  const start = index * 3;
-  const end = (index + 1) * 3;
+  const multiplier = 4;
+  const index = job_types.indexOf(job_type.toLowerCase());
+  const start = index * multiplier;
+  const end = (index + 1) * multiplier;
   const values_range = row_numbers.slice(start, end);
   const zip = values_range[0];
   const city = values_range[1];
   const state = values_range[2];
 
-  zip_checkup = user_zip == row[zip] ?
-     [row[zip], row[city], row[state]] : [];
+  zip_checkup = user_zip == row[zip] ? [row[zip], row[city], row[state]] : [];
+  return zip_checkup;
 }
 
-function toggleBookForm(parent) {
-  zips.values.forEach(row => zip_checkup.length ? false : checkAvailability(row));
+function toggleBookForm(iframe) {
 
-  if(zip_checkup.length) {
-    // load form iframe
-    // populate form iframe with values
-    // double check $zip1
-    const form =  `
-      <div class="show_if_found">
-        <iframe style="width: 100%; height: 1000px; border: 0px; background-color: transparent;" src="https://crestwood-calls.youcanbook.me/?noframe=true&skipHeaderFooter=true&CITY=${zip_checkup[1]}&STATE=${zip_checkup[2]}&ZIP=${zip_checkup[0]}&TYPE=${job_type}" width="300" height="150" frameborder="0">
-          <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
-        </iframe>
-      </div>`;
-    console.log(form);
-  } else {
-    // redirect to regret;
-  }
+  fetch(ga_sheets_endpoint)
+  .then(response => response.json())
+  .then(function(data) {
+    data.values.forEach(row => zip_checkup.length ? false : checkAvailability(row));
+    if(zip_checkup.length) {
+      // double check $zip1
+      const query =  `&CITY=${zip_checkup[1]}&STATE=${zip_checkup[2]}&ZIP=${zip_checkup[0]}&TYPE=${job_type}`;
+      iframe.src = `${iframe.src}${query}`;
+      pushClass(iframe.closest('.booking'), active_class);
+    } else {
+      window.location.href = iframe.parentNode.dataset.regrets;
+    }
+  });
+
 }
 
-toggleBookForm();
+function sanitizeZip(zip) {
+  return zip.length == 9 || zip.length == 10 ?
+    zip.replace(hyphen_string, empty_string).substring(0, 5) :
+    zip;
+}
+
+function checkServiceArea() {
+  const forms = elems('form');
+  forms.forEach(form => {
+    form.addEventListener('submit', (event) => {
+      const target = event.target;
+      if(target.closest('.booking') && (form.id == 'bookform')) {
+        event.preventDefault();
+        const data = formValues(form);
+        user_zip = data.zip.trim(empty_string);
+        user_zip = sanitizeZip(user_zip);
+        job_type = data.jobtype.trim(empty_string);
+
+        toggleBookForm(elem('iframe', form.parentNode));
+      }
+    })
+  })
+}
+
+checkServiceArea();

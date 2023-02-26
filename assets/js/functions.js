@@ -101,3 +101,44 @@ function hasClasses(el) {
     return classes.length
   }
 }
+
+function formValues(form, raw = false) {
+  const isValidElement = element => {
+    return element.name && element.value;
+  };
+
+  const isValidValue = element => {
+    return (!['checkbox', 'radio'].includes(element.type) || element.checked);
+  };
+
+  const isCheckbox = element => element.type === 'checkbox';
+  const isMultiSelect = element => element.options && element.multiple;
+
+  const getSelectValues = options => [].reduce.call(options, (values, option) => {
+    return option.selected ? values.concat(option.value) : values;
+  }, []);
+
+  const formToJSON = elements => [].reduce.call(elements, (data, element) => {
+    if (isValidElement(element) && isValidValue(element)) {
+      if (isCheckbox(element)) {
+        data[element.name] = (data[element.name] || []).concat(element.value);
+      } else if (isMultiSelect(element)) {
+        data[element.name] = getSelectValues(element);
+      } else {
+        data[element.name] = element.value;
+      }
+    }
+    delete data.submit;
+    return data;
+  }, {});
+  const data = formToJSON(form.elements);
+
+  if(raw) {
+    return {
+      raw: data,
+      data:   JSON.stringify(data, null, "  "),
+    };
+  }
+
+  return data;
+}

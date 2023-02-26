@@ -1,6 +1,12 @@
-<div class="hide_if_found">
-  <form method="post" action="/book-us/" class="book-form">
-    <input name="zip" required="" inputmode="numeric" type="text" pattern="^[0-9]{5}([- /]?[0-9]{4})?$" style="width: 300px" maxlength="10" size="15" placeholder="Let's start with your Zip code" autofocus="">
+{{ $formURL := "https://crestwoodpainting.youcanbook.me/" }}
+{{ $regretsURL := "/regrets/" }}
+{{ if .Get 0 }}
+  {{ $formURL = "https://crestwood-calls.youcanbook.me/" }}
+  {{ $regretsURL = "/call-center-regrets/" }}
+{{ end }}
+<div class="booking" data-regrets="{{ $regretsURL }}">
+  <form method="post" action="/book-us/" id="bookform">
+    <input name="zip" required="" inputmode="numeric" type="text" pattern="^[0-9]{5}([- /]?[0-9]{4})?$" style="width: 300px" maxlength="10" size="15" placeholder="Let's start with your Zip code" autofocus="" class="form-control">
     <br>
     <br>
     <p>
@@ -14,7 +20,10 @@
       <input type="radio" id="jobcomm" name="jobtype" value="commercial">
       <label for="jobcomm">Commercial / Office</label>
     </p>
-    <input type="submit" name="submit" value="CHECK SERVICE AREA">
+    <input type="submit" name="submit" class="btn btn-main" value="CHECK SERVICE AREA">
   </form>
+  <iframe style="width: 100%; height: 1000px; border: 0px; background-color: transparent;" src="{{ $formURL }}?noframe=true&skipHeaderFooter=true" width="300" height="150" frameborder="0">
+    <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
+  </iframe>
 </div>
 <br><br>

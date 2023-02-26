@@ -12,7 +12,9 @@ tags:
   - "re-siding"
 ---
 
-\[caption id="attachment\_964" align="alignright" width="259"\]![painting wood rot kansas city crestwood](/images/WoodRot.jpg "Wood Rot") Poor material selection means this design can only fail.\[/caption\]
+<!-- \[caption id="attachment\_964" align="alignright" width="259"\] -->
+![painting wood rot kansas city crestwood](/images/WoodRot.jpg "Wood Rot") Poor material selection means this design can only fail.
+<!-- \[/caption\] -->
 
 "Wood rot” is a term we hear often. Homeowners in Kansas City often assume that peeling paint or any less-than-ideal appearance is wood rot. Not so – sometimes it really is wood rot but just as often it is simply a [solid paint job](/reviews/) away from being just fine.
 
@@ -22,7 +24,7 @@ The first thing to look at is the age of the house – homes built before 1940 a
 
 - Built before 1940 – “old growth” wood
 - Weathers well
-    
+
     \[caption id="" align="alignright" width="176"\][![old growth lumber](/images/WoodOldGrowth.jpg "Old Growth Lumber - Common In Homes Build Before 1940")](/2012/08/WoodOldGrowth.jpg) Wood from old growth lumber is denser and more durable than fast growth lumber.\[/caption\]
 - Takes paint well
 - Repairs well
@@ -33,7 +35,7 @@ As the supply of existing old lumber shrank, younger and faster-growing trees we
 
 - Built after 1960 – fast growth wood
 -  Degrades rapidly to weather
-    
+
 - Softer, more difficult to repair
 
 ### Design and Economics

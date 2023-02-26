@@ -12,7 +12,9 @@ tags:
   - "latex-paint"
 ---
 
-\[caption id="attachment\_2007" align="alignright" width="180"\]![paint ingredients titanium dioxide kansas city](/images/Titanium-Dioxide-e1514499225663.jpg) paint ingredients titanium dioxide kansas city\[/caption\]
+<!-- \[caption id="attachment\_2007" align="alignright" width="180"\] -->
+![paint ingredients titanium dioxide kansas city](/images/Titanium-Dioxide-e1514499225663.jpg) paint ingredients titanium dioxide kansas city
+<!-- \[/caption\] -->
 
 Met our paint supplier rep this week. He tells me there’s going to be a price increase effective early next year – 5-6% for paint. We’ve had steady increases for at least the last 5 years.
 

@@ -17,7 +17,7 @@ Our painting is Prompt & Tidy - so is our communication.
 
 [Warranty Info](/warranty/) - we stand behind our work
 
-Mailing address:
-Crestwood Painting
-236 W. 73rd Terr.
+Mailing address:\
+Crestwood Painting\
+236 W. 73rd Terr.\
 Kansas City, MO 64114

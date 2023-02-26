@@ -26,7 +26,9 @@ tags:
   - "trim"
 ---
 
-\[caption id="attachment\_1288" align="alignright" width="199"\]![Paint sheen crestwood interior](/images/Sheen-Stripes_opt-199x300.jpg "Wall With Low and High Sheen Stripes") Sheen describes the amount of light reflected.\[/caption\]
+<!-- \[caption id="attachment\_1288" align="alignright" width="199"\] -->
+![Paint sheen crestwood interior](/images/Sheen-Stripes_opt-199x300.jpg "Wall With Low and High Sheen Stripes") Sheen describes the amount of light reflected.
+<!-- \[/caption\] -->
 
 Everybody knows about color; not many know about sheen. But it is just as  important when choosing paints. So here we go!
 

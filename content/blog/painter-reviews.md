@@ -13,7 +13,9 @@ tags:
   - "painters"
 ---
 
-\[caption id="attachment\_1198" align="alignright" width="200"\]![Reviews, Referrals, feedback - crestwood painting kansas city](/images/Rave-Reviews_opt.jpg "Rave Review") Our customers are our best advertisement!\[/caption\]
+<!-- \[caption id="attachment\_1198" align="alignright" width="200"\] -->
+![Reviews, Referrals, feedback - crestwood painting kansas city](/images/Rave-Reviews_opt.jpg "Rave Review") Our customers are our best advertisement!
+<!-- \[/caption\] -->
 
 This was a nice treat on New Years Eve - [positive feedback](/reviews/) from a lady that _didn't_ hire us! Proposal sent in Feb.,  last contact was mid-March - then this arrived in December. Fortunately, [Crestwood Painting customers](/video-testimonials/) don't have this kind of experience.
 

@@ -14,7 +14,9 @@ tags:
   - "wood"
 ---
 
-\[caption id="attachment\_1363" align="alignright" width="300"\]![Updated Golden Oak - this young couple was delighted with the transformation.](/images/Finished-uppers_opt.jpg "Updated Golden Oak Kitchen Cabinets") Updated Golden Oak - this young couple was delighted with the transformation.\[/caption\]
+<!-- \[caption id="attachment\_1363" align="alignright" width="300"\] -->
+![Updated Golden Oak - this young couple was delighted with the transformation.](/images/Finished-uppers_opt.jpg "Updated Golden Oak Kitchen Cabinets") Updated Golden Oak - this young couple was delighted with the transformation.
+<!-- \[/caption\] -->
 
 Golden Oak cabinets are so last century. But re-staining or painting kitchen cabinets is not as straight-forward as painting your living room. Here's what to look for:
 

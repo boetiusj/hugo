@@ -3,7 +3,7 @@ title: "What Color Should I Paint My Living Room?"
 url: "color-help"
 description: "Choose the right colors for your home - with confidence. The right resources make it easy."
 keywords: "house paint, colors, living room color, exterior colors, kansas city, crestwood painting"
-canonical: "https://crestwoodpainting.com/color-help/"
+canonical: "/color-help/"
 date: "2011-05-05"
 coverImage: "arts-crafts-house.jpg"
 ---

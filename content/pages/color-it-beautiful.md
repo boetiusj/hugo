@@ -7,10 +7,10 @@ canonical: "https://crestwoodpainting.com/color-it-beautiful/"
 date: "2011-08-28"
 ---
 
-#### **Color It Beautiful**
+### Color It Beautiful*
 
-01:00 AM EDT on Sunday, August 19, 2007
-By Cindy Hoedel
+01:00 AM EDT on Sunday, August 19, 2007\
+By Cindy Hoedel\
 McClatchy Newspapers
 
 KANSAS CITY, MO -- A great exterior paint job should make you think, “What a lovely home,” not “What great colors.”

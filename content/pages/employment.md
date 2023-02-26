@@ -7,8 +7,6 @@ keywords: "job, painter, employment, career, job opportunities, painting trade, 
 date: "2014-06-06"
 ---
 
-##
-
 ![](/images/Green-transparent.jpg)
 
 Safe Jobs, Great People

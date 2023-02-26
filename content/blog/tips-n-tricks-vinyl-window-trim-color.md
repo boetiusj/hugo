@@ -23,7 +23,9 @@ An off-white trim color will soften the transition from the harsh white of the v
 
 ### And Why Not Just Paint Vinyl Windows?
 
-\[caption id="attachment\_1720" align="alignright" width="180"\]![Vinyl-Window-paint](/images/Vinyl-Window-paint.jpg "Vinyl Window Paint") Off-white trim color helps soften the harsh appearance of white vinyl windows.\[/caption\]
+<!-- \[caption id="attachment\_1720" align="alignright" width="180"\] -->
+![Vinyl-Window-paint](/images/Vinyl-Window-paint.jpg "Vinyl Window Paint") Off-white trim color helps soften the harsh appearance of white vinyl windows.
+<!-- \[/caption\] -->
 
 Short answer: manufacturer’s warranty. Window manufacturers are concerned that paint colors may increase heat gain and cause vinyl seams to pop, whole windows to swell out of their openings and Saturn to change it’s orbit. The darker the color the greater the possibility of planetary mis-alignment. So manufacturers opt to say “No” to any paint at all on their products.
 

@@ -7,8 +7,6 @@ canonical: "https://crestwoodpainting.com/jobs-fb/"
 date: "2018-03-01"
 ---
 
-###
-
 ![](/images/Green-transparent.jpg)
 
 Need a solid career option? A painting job with a future?

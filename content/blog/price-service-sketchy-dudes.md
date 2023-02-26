@@ -12,7 +12,9 @@ tags:
   - "painters"
 ---
 
-\[caption id="attachment\_3132" align="alignright" width="300"\]![painter background check kansas city](/images/Sketchy-painter-dude-e1512251628124-300x300.jpg) Some painters are best qualified for someone else's project.\[/caption\]
+<!-- \[caption id="attachment\_3132" align="alignright" width="300"\] -->
+![painter background check kansas city](/images/Sketchy-painter-dude-e1512251628124-300x300.jpg) Some painters are best qualified for someone else's project.
+<!-- \[/caption\] -->
 
 Several factors should be considered when hiring a contractor. The type and quality of painter that will work on your project is right at the top. Below are some thoughts on hiring a contractor that most people don't address.
 

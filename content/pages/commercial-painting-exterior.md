@@ -3,7 +3,7 @@ title: "Commercial Painting - Exterior"
 url: "commercial-painting-exterior"
 description: "Painting a commercial building should be easy, quiet and fast. Call us today for a No Drips, No Drama commercial painting experience! 816-805-4515"
 keywords: "commercial exterior painting, Kansas City, office"
-canonical: "https://crestwoodpainting.com/commercial-painting-exterior/"
+canonical: "/commercial-painting-exterior/"
 date: "2017-07-08"
 ---
 

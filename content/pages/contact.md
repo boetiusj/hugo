@@ -9,7 +9,6 @@ date: "2011-09-21"
 
 Our painting is Prompt & Tidy - so is our communication.
 
-<!-- \[lcf\_contact\_form\] -->
 {{< contact >}}
 
 [Jobs with Crestwood](/employment/) - we hire good people. Know anybody that might be a good fit?
@@ -18,7 +17,6 @@ Our painting is Prompt & Tidy - so is our communication.
 
 [Warranty Info](/warranty/) - we stand behind our work
 
-  
 Mailing address:
 Crestwood Painting
 236 W. 73rd Terr.

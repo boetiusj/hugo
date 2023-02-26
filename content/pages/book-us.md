@@ -7,9 +7,4 @@ canonical: "https://crestwoodpainting.com/book-us/"
 date: "2014-07-26"
 ---
 
-**What Type of Work?**
-
- Interior
- Cabinets
- Exterior
- Commercial / Office
+{{< booking >}}

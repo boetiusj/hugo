@@ -2,6 +2,7 @@
 title: "Notes - Site"
 url: "notes-site"
 date: "2018-04-28"
+image: "/images/Rose-bushes.jpg"
 categories:
   - "general"
 ---
@@ -22,7 +23,9 @@ No Drama
 
 [Book an Estimate Now](https://crestwoodpainting.youcanbook.me/)
 
+{{< text true >}}
 Note: We'll show up on time & do what we say.
+{{< text >}}
 
 - Easy - not salesy
 - 30 min. or less

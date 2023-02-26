@@ -3,6 +3,94 @@ title: "Book an estimate time online or Call 816-805-4515!"
 description: "Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company,\" Mission Hills, keywords: \"Prairie Village, Leawood, House Painter, Exterior House Painting, Wood Finishing, Interior Painting,"
 canonical: "https://crestwoodpainting.com"
 date: "2011-05-04"
+# delete / comment out stats block to hide
+# stats block starts
+stats:
+  - title: Projects Done
+    count: 1730
+    countModifier: +
+  - title: User Worldwide
+    count: 125 
+    countModifier: M
+  - title: Available Country
+    count: 39
+    countModifier: ''
+  - title: Award Winner
+    count: 14
+    countModifier: ''
+# stats block ends
+about:
+  headline: "What we are"
+  title: "We are dynamic team of creative people"
+  subtitle: "We are Perfect Solution"
+  description: "We provide consulting services in the area of IFRS and management reporting, helping
+  companies to reach their highest level. We optimize business processes, making them easier."
+  show: true # turn to false to hide
+  image: "/images/about/home-8.jpg"
+  cta:
+    url: "#"
+    label: "Get started"
+
+intro:
+  title: "We work with business & provide solution to client with their business problem"
+  headline: "We are creative & expert people"
+  show: true # turn to false to hide
+  showValues: true # turn to false to hide
+  values: # or benefits/qualities
+    - title: Modern & Responsive design
+      summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
+      icon: desktop
+    - title: Awarded licensed company
+      summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
+      icon: medall
+    - title: Build your website Professionally
+      icon: layers-alt
+      summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
+
+cta:
+  title: "Entrust Your Project to Our Best Team of Professionals"
+  headline: "We create for you"
+  description: "Have any project on mind? For immidiate support :"
+  phone: +23 876 65 455
+  show: true # turn to false to hide
+  image:  "/images/bg/home-3.jpg"
+cta2: # section shows at the very bottom near the footer
+  headline: "For Every type business"
+  show: true # turn to false to hide
+  title: "Entrust Your Project to Our Best Team of Professionals"
+  button:
+    url: "/contact"
+    label: "Contact Us"
+hero:
+  headline: Prepare for new future
+  title: Our work is <br>presentation of our <br>capabilities.
+  image: "/images/bg/home-1.jpg"
+  button:
+    url: "/contact/"
+    label: Get Started
+services:
+  title: We provide a wide range of creative Services
+  headline: Our Services
+  show: true # turn to false to hide
+  solutions:
+    - name: "Web development"
+      description: "A digital agency isn't here to replace your internal team, we're here to partner"
+      icon: "desktop"
+    - name: "Interface Design."
+      description: "A digital agency isn't here to replace your internal team, we're here to partner"
+      icon: "layers"
+    - name: "Business Consulting."
+      description: "A digital agency isn't here to replace your internal team, we're here to partner"
+      icon: "bar-chart"
+    - name: "Branding."
+      description: "A digital agency isn't here to replace your internal team, we're here to partner"
+      icon: "vector"
+    - name: "App development."
+      description: "A digital agency isn't here to replace your internal team, we're here to partner"
+      icon: "android"
+    - name: "Content creation."
+      description: "A digital agency isn't here to replace your internal team, we're here to partner"
+      icon: "pencil-alt"
 ---
 
 <!-- 2011-05-04-home.md -->
@@ -31,14 +119,14 @@ EXTERIOR | INTERIOR
 Residential Painting
 NO DRIPS, NO DRAMA
 Living Room painting in Kansas City
- 
+
 
 Interior painting Kansas City
 
 Fine Interiors
 Peace of mind painters.
 
- 
+
 
 Exterior paint colors in Kansas City
 
@@ -75,8 +163,6 @@ Communication awesome – calls were answered, e-mails returned – this is NOT 
 — JUSTIN F.
 The crew was extremely thorough, quiet, polite and very, very tidy.
 — MELISSA Q.
-
-
 
 
 ## Our Promise:

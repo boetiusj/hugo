@@ -1,11 +1,15 @@
 <ul class="list-inline">
-  <li class="list-inline-item"> Share: </li>
-  <li class="list-inline-item"><a href="#" ><i class="fab fa-facebook-f"
-        aria-hidden="true"></i></a></li>
-  <li class="list-inline-item"><a href="#" ><i class="fab fa-twitter"
-        aria-hidden="true"></i></a></li>
-  <li class="list-inline-item"><a href="#" ><i class="fab fa-pinterest-p"
-        aria-hidden="true"></i></a></li>
-  <li class="list-inline-item"><a href="#" ><i class="fab fa-google-plus"
-        aria-hidden="true"></i></a></li>
+	<li class="list-inline-item">Share:</li>
+	<li class="list-inline-item">
+		<a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">
+			<i class="fab fa-facebook-f"
+			aria-hidden="true"></i>
+		</a>
+	</li>
+	<li class="list-inline-item">
+		<a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}" >
+			<i class="fab fa-twitter"
+			aria-hidden="true"></i>
+		</a>
+	</li>
 </ul>

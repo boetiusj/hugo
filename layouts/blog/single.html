@@ -8,9 +8,9 @@
 				<div class="row">
 					<div class="col-lg-12 mb-5">
 						<div class="single-blog-item">
-							<img loading="lazy" src="/images/blog/2.jpg" alt="blog" class="img-fluid rounded">
+							<img loading="lazy" src={{ default "/images/blog/2.jpg" .Params.image }} alt="blog" class="w-100 img-fluid rounded">
 
-							<div class="blog-item-content bg-white p-5">
+							<div class="blog-item-content bg-white p-5 content">
 
 								{{ .Content }}
 								<div class="tag-option mt-5 d-block d-md-flex justify-content-between align-items-center">

@@ -1,0 +1,20 @@
+<!-- no title include -->
+<!-- Slider Start -->
+{{ $hero := .Params.hero }}
+{{ $bg := default "/images/bg/home-1.jpg" $hero.image }}
+<section class="slider" style="--bg: url({{ $bg }})">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-9 col-md-10">
+				<div class="block">
+					<span class="d-block mb-3 text-white text-capitalize">{{ $hero.headline }}</span>
+					<h1 class="animated fadeInUp mb-5">{{ safeHTML $hero.title }}</h1>
+					{{ with $hero.cta }}
+					<a href="{{ .url }}"  class="btn btn-main animated fadeInUp btn-round-full" aria-label="Get started">{{ .label }}<i class="btn-icon fa fa-angle-right ml-2"></i></a>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Section Intro Start -->

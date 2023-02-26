@@ -56,3 +56,11 @@
     }
   }
 }
+
+.map {
+  overflow: hidden;
+  iframe {
+    width: 100%;
+    transform: scale(1.01);
+  }
+}

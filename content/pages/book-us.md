@@ -7,4 +7,4 @@ canonical: "https://crestwoodpainting.com/book-us/"
 date: "2014-07-26"
 ---
 
-{{< booking >}}
+{{< book-form >}}

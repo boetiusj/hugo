@@ -1,18 +1,10 @@
 ---
 title: "Virtual Estimate"
-url: "virtual-estimate"
+url: "virtual-estimate" # will be overriden by override in virtual-start.md
 description: "Virtual estimates for painting work in Kansas City. We want our workers and our customers to be safe."
 keywords: "painting, estimate, virtual estimate, Crestwood Painting, Kansas City"
 canonical: "https://crestwoodpainting.com/virtual-estimates/"
 date: "2020-03-23"
 ---
 
-  
-  
-
-Primary Type of Work?
-
- Interior
- Cabinets
- Exterior
- Commercial / Office
+{{< book-form "https://cwp-virtual.youcanbook.me/" >}}

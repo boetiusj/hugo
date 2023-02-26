@@ -1,6 +1,6 @@
 ---
 title: "Thanks Very Much!"
-url: "virtual-estimate"
+url: "virtual-estimate" 
 description: "Virtual estimates for painting work in Kansas City. We want our workers and our customers to be safe."
 keywords: "painting, estimate, virtual estimate, Crestwood Painting, Kansas City"
 canonical: "https://crestwoodpainting.com/virtual-estimates/"

@@ -1,0 +1,6 @@
+{{ range .Params.faqs }}
+  <strong>{{ .question }}</strong>
+  <div>
+    {{ partial "func/getMarkdown" (dict "content" .answer) }}
+  </div>
+{{ end }}

@@ -70,3 +70,14 @@ This a bare bones gallery that will keep images defined in markdown list inline.
 ```
 
 Currently it's implemented on the regrets page
+
+### FAQs
+
+In the frontmatter of a page, add the faqs like in [this page](./content/pages/faqs.md)
+
+```markdown
+faqs:
+  - question: Oil or Latex?
+    answer: |
+      Short answer - latex.
+```

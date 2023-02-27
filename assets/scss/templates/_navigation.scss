@@ -27,7 +27,9 @@
 
   .btn{
     padding: .7rem 1.5rem .5rem;
-    // color: $light;
+    &:hover {
+      color: $light;
+    }
     @include desktop {
       margin: 15px 0 10px;
     }

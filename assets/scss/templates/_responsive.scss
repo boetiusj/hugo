@@ -1,7 +1,5 @@
 /*=== MEDIA QUERY ===*/
-@include large-desktop{
- 
-}
+@include large-desktop{}
 
 @include desktop{
   .slider .block h1 {
@@ -28,7 +26,7 @@
 
 @include tablet{
   .navbar-toggler{
-    color: $light;
+    // color: $light;
   }
   .bg-about{
     display: none;
@@ -54,7 +52,7 @@
   }
 
   .navbar-toggler{
-    color: $light;
+    // color: $light;
   }
   .slider .block h1 {
       font-size: 38px;
@@ -92,7 +90,7 @@
   }
 
   .navbar-toggler{
-    color: $light;
+    // color: $light;
   }
 
   .content-title {

@@ -11,7 +11,6 @@ Our painting is Prompt & Tidy - so is our communication.
 
 {{< contact >}}
 
-[Jobs with Crestwood](/employment/) - we hire good people. Know anybody that might be a good fit?
 
 [Online Payments](/payments/) - easy and secure through PayPal (no PP account needed)
 

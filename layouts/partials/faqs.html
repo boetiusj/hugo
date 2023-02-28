@@ -1,5 +1,5 @@
 {{ range .Params.faqs }}
-  <strong>{{ .question }}</strong>
+  <strong id="{{ .id }}">{{ .question }}</strong>
   <div>
     {{ partial "func/getMarkdown" (dict "content" .answer) }}
   </div>

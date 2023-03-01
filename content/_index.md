@@ -59,7 +59,7 @@ cta2: # section shows at the very bottom near the footer
     label: "Contact Us"
 hero:
   headline: No Drips, No Drama
-  title: Painting Kansas City <br>Homes & Offices.
+  title: Painting <br>Kansas City <br>Homes & Offices.
   image: "/images/bg/January.jpg"
   button:
     url: "/book-us/"

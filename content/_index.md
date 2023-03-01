@@ -47,7 +47,7 @@ cta:
   title: "Entrust Your Project to Our Best Team of Professionals"
   headline: "We create for you"
   description: "Have any project on mind? For immidiate support :"
-  phone: +23 876 65 455
+  phone: 816-805-4515
   show: true # turn to false to hide
   image:  "/images/bg/home-3.jpg"
 cta2: # section shows at the very bottom near the footer

@@ -9,9 +9,9 @@ stats:
   - title: Projects Completed
     count: 1730
     countModifier: +
-  - title: States
+  - title: States :)
     count: 2 
-    countModifier: M
+#    countModifier: M
 #  - title: Available Country
 #    count: 39
 #    countModifier: ''
@@ -47,7 +47,7 @@ cta:
   title: "Entrust Your Project to Our Best Team of Professionals"
   headline: "We create for you"
   description: "Have any project on mind? For immidiate support :"
-  phone: +23 876 65 455
+  phone: 816-805-4515
   show: true # turn to false to hide
   image:  "/images/bg/home-3.jpg"
 cta2: # section shows at the very bottom near the footer
@@ -59,8 +59,8 @@ cta2: # section shows at the very bottom near the footer
     label: "Contact Us"
 hero:
   headline: No Drips, No Drama
-  title: Painting Kansas City <br>Homes & Offices.
-  image: "/images/bg/home-1.jpg"
+  title: Painting <br>Kansas City <br>Homes & Offices.
+  image: "/images/bg/January.jpg"
   button:
     url: "/book-us/"
     label: Book an Estimate

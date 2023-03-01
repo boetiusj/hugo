@@ -9,9 +9,9 @@ stats:
   - title: Projects Completed
     count: 1730
     countModifier: +
-  - title: States
+  - title: States :)
     count: 2 
-    countModifier: :)
+#    countModifier: M
 #  - title: Available Country
 #    count: 39
 #    countModifier: ''

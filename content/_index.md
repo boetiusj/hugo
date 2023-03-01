@@ -11,7 +11,7 @@ stats:
     countModifier: +
   - title: States
     count: 2 
-    countModifier: :smiley:
+    countModifier: :)
 #  - title: Available Country
 #    count: 39
 #    countModifier: ''

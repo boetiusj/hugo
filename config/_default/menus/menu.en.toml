@@ -8,8 +8,8 @@ url = "/map/"
 # name = "Virtual Estimates"
 # url = "/virtual-estimate/"
 [[company]]
-name = "Payments"
-url = "/payments/"
+name = "Payment"
+url = "/payment/"
 [[links]]
 name = "Video Reviews"
 url = "/video-testimonials/"

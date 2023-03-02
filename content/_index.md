@@ -10,14 +10,14 @@ stats:
     count: 1730
     countModifier: +
   - title: States :)
-    count: 2 
+    count: 2
 #    countModifier: M
 #  - title: Available Country
 #    count: 39
 #    countModifier: ''
 # stats block ends
 about:
- headline: "Who we are"
+  headline: "Who we are"
   title: "Hometown. Local. Waldo - right in the heart of the Heart."
   subtitle: "One project at a time"
   description: "Prompt, courteous, efficient. Clear proposals"

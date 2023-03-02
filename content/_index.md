@@ -21,7 +21,7 @@ about:
   title: "Hometown people.\ 
   City-wide."
   subtitle: "Painting for everybody"
-  description: "Prompt, courteous, efficient. Clear proposals"
+  description: "Prompt and courteous painters work from clear proposals."
   show: true # turn to false to hide
   image: "/images/bg/home-8.jpg"
   cta:
@@ -45,7 +45,7 @@ intro:
       summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
 
 cta:
-  title: "Earning Kansas city's trust for over 15 years."
+  title: "Earning Kansas City's trust for over 15 years."
   headline: "Prompt & Reliable"
   description: "Ready for a painting project? Give us a call!"
   phone: 816-805-4515

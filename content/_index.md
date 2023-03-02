@@ -68,7 +68,6 @@ services:
   title: Painting services in Kansas City
   headline: Services
   show: true # turn to false to hide
-solutions:
     - name: "Exterior painting"
       description: "Careful prep, courteous attention to detail - that's why we have repeat customers"
       icon: "home"

@@ -18,7 +18,8 @@ date: "2011-05-04"
 # stats block ends
 about:
   headline: "Who we are"
-  title: "Hometown. City-wide. <br>Right in the heart of the Heart"
+  title: "Hometown. City-wide.  
+  Painting for everybody."
   subtitle: "One project at a time"
   description: "Prompt, courteous, efficient. Clear proposals"
   show: true # turn to false to hide

@@ -23,7 +23,7 @@ about:
   subtitle: "One project at a time"
   description: "Prompt, courteous, efficient. Clear proposals"
   show: true # turn to false to hide
-  image: "/images/about/Doug Medgyesi.jpg"
+  image: "/images/bg/Doug Medgyesi.jpg"
   cta:
     url: "/book-us"
     label: "Let's get started"

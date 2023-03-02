@@ -5,12 +5,12 @@ canonical: "https://crestwoodpainting.com"
 date: "2011-05-04"
 # delete / comment out stats block to hide
 # stats block starts
-stats:
-  - title: Projects Completed
-    count: 1730
-    countModifier: +
-  - title: States :)
-    count: 2 
+#stats:
+#  - title: Projects Completed
+#    count: 1730
+#    countModifier: +
+#  - title: States :)
+#    count: 2 
 #    countModifier: M
 #  - title: Available Country
 #    count: 39
@@ -52,7 +52,7 @@ cta:
   image:  "/images/bg/home-3.jpg"
 cta2: # section shows at the very bottom near the footer
   headline: "For Every type business"
-  show: true # turn to false to hide
+  show: false # turn to false to hide
   title: "Entrust Your Project to Our Best Team of Professionals"
   button:
     url: "/contact"
@@ -65,10 +65,9 @@ hero:
     url: "/book-us/"
     label: Book an Estimate
 services:
-  title: Painting services in Kansas City
+  title: Trusted & Reliable
   headline: Services
   show: true # turn to false to hide
-solutions:
     - name: "Exterior painting"
       description: "Careful prep, courteous attention to detail - that's why we have repeat customers"
       icon: "home"
@@ -80,7 +79,8 @@ solutions:
       icon: "printer"
     - name: "Cabinets."
       description: "Say goodbye to dated Golden Oak. Thorough cleaning, modern materials."
-      icon: "eye"
+      icon: "eye"  
+#solutions:
 #    - name: "App development."
 #      description: "A digital agency isn't here to replace your internal team, we're here to partner"
 #      icon: "android"

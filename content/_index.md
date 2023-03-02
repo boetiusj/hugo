@@ -23,7 +23,7 @@ about:
   subtitle: "Painting for everybody"
   description: "Prompt, courteous, efficient. Clear proposals"
   show: true # turn to false to hide
-  image: "/images/bg/PainterDoug.jpg"
+  image: "/images/bg/home-8.jpg"
   cta:
     url: "/book-us"
     label: "Let's get started"

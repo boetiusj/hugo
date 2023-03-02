@@ -17,12 +17,12 @@ stats:
 #    countModifier: ''
 # stats block ends
 about:
-  headline: "Who we are"
-  title: "We paint homes & offices in Kansas City"
-  subtitle: "One at a time"
+ headline: "Who we are"
+  title: "Hometown. Local. Waldo - right in the heart of the Heart."
+  subtitle: "One project at a time"
   description: "Prompt, courteous, efficient. Clear proposals"
   show: true # turn to false to hide
-  image: "/images/about/home-8.jpg"
+  image: "/images/about/Doug Medgyesi.jpg"
   cta:
     url: "/book-us"
     label: "Let's get started"

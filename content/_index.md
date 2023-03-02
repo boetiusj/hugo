@@ -65,11 +65,11 @@ hero:
     url: "/book-us/"
     label: Book an Estimate
 services:
-  title: Painting services in Kansas City
+  title: Painting services in Kansas City 
   headline: Services
   show: true # turn to false to hide
     - name: "Exterior painting"
-      description: "Careful prep, courteous attention to detail - that's why we have repeat customers"
+      description: "Careful prep, courteous attention to detail, that's why we have repeat customers"
       icon: "home"
     - name: "Interiors."
       description: "We'll protect your stuff from dust and damage"

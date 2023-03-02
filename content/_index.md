@@ -18,7 +18,7 @@ date: "2011-05-04"
 # stats block ends
 about:
   headline: "Who we are"
-  title: "Hometown. Local. Waldo - right in the heart of the Heart."
+  title: "Hometown. City-wide. <br>Right in the heart of the Heart"
   subtitle: "One project at a time"
   description: "Prompt, courteous, efficient. Clear proposals"
   show: true # turn to false to hide
@@ -59,7 +59,7 @@ cta2: # section shows at the very bottom near the footer
     label: "Contact Us"
 hero:
   headline: No Drips, No Drama
-  title: Painting <br>Kansas City <br>Homes & Offices.
+  title: Painting <br>Kansas City <br>Homes & Offices
   image: "/images/bg/January.jpg"
   button:
     url: "/book-us/"
@@ -80,6 +80,7 @@ services:
     - name: "Cabinets."
       description: "Say goodbye to dated Golden Oak. Thorough cleaning, modern materials."
       icon: "eye"  
+# solutions:
 #    - name: "App development."
 #      description: "A digital agency isn't here to replace your internal team, we're here to partner"
 #      icon: "android"

@@ -18,12 +18,12 @@ date: "2011-05-04"
 # stats block ends
 about:
   headline: "Who we are"
-  title: "Hometown. City-wide.  
-  Painting for everybody."
-  subtitle: "One project at a time"
+  title: "Hometown people.  
+  City-wide."
+  subtitle: "Painting for everybody"
   description: "Prompt, courteous, efficient. Clear proposals"
   show: true # turn to false to hide
-  image: "/images/bg/Doug Medgyesi.jpg"
+  image: "/images/bg/PainterDoug.jpg"
   cta:
     url: "/book-us"
     label: "Let's get started"

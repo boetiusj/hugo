@@ -66,7 +66,7 @@ hero:
     label: Book an Estimate
 services:
   title: Painting services in Kansas City 
-  headline: Services
+  # headline: Services
   show: true # turn to false to hide
     - name: "Exterior painting"
       description: "Careful prep, courteous attention to detail, that's why we have repeat customers"

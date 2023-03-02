@@ -62,8 +62,8 @@ hero:
   title: Painting <br>Kansas City <br>Homes & Offices
   image: "/images/bg/January.jpg"
   button:
-#     url: "/book-us/"
-#     label: Book an Estimate
+    url: "/book-us/"
+    label: Book an Estimate
 # services:
 #   title: Painting services in Kansas City
 #   headline: Services

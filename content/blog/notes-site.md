@@ -25,7 +25,7 @@ No Drama
 
 {{< text true >}}
 Note: We'll show up on time & do what we say.
-{{< text >}}
+{{< /text >}}
 
 - Easy - not salesy
 - 30 min. or less

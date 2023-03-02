@@ -4,9 +4,9 @@ url = "/reviews/"
 [[company]]
 name = "Project Map"
 url = "/map/"
-[[company]]
-name = "Virtual Estimates"
-url = "/virtual-estimate/"
+# [[company]]
+# name = "Virtual Estimates"
+# url = "/virtual-estimate/"
 [[company]]
 name = "Payments"
 url = "/payments/"
@@ -19,6 +19,6 @@ url = "/lead-paint-safety/"
 [[links]]
 name = "Privacy"
 url = "/privacy-policy/"
-[[links]]
-name = "Employment"
-url = "/employment/"
+# [[links]]
+# name = "Employment"
+# url = "/employment/"

@@ -46,8 +46,8 @@ intro:
 
 cta:
   title: "Entrust Your Project to Our Best Team of Professionals"
-  headline: "We create for you"
-  description: "Have any project on mind? For immidiate support :"
+  headline: "Primpt & Reliable"
+  description: "Ready for a painting project? Give us a call!"
   phone: 816-805-4515
   show: true # turn to false to hide
   image:  "/images/bg/home-3.jpg"

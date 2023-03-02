@@ -18,7 +18,7 @@ date: "2011-05-04"
 # stats block ends
 about:
   headline: "Who we are"
-  title: "Hometown people.  
+  title: "Hometown people.\
   City-wide."
   subtitle: "Painting for everybody"
   description: "Prompt, courteous, efficient. Clear proposals"
@@ -45,8 +45,8 @@ intro:
       summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
 
 cta:
-  title: "Entrust Your Project to Our Best Team of Professionals"
-  headline: "Primpt & Reliable"
+  title: "Earning Kansas city's trust for over 15 years."
+  headline: "Prompt & Reliable"
   description: "Ready for a painting project? Give us a call!"
   phone: 816-805-4515
   show: true # turn to false to hide

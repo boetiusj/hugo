@@ -51,13 +51,13 @@ cta:
   phone: 816-805-4515
   show: true # turn to false to hide
   image:  "/images/bg/home-3.jpg"
-cta2: # section shows at the very bottom near the footer
-  headline: "For Every type business"
-  show: true # turn to false to hide
-  title: "Entrust Your Project to Our Best Team of Professionals"
-  button:
-    url: "/contact"
-    label: "Contact Us"
+#cta2: # section shows at the very bottom near the footer
+#  headline: "For Every type business"
+#  show: true # turn to false to hide
+#  title: "Entrust Your Project to Our Best Team of Professionals"
+#  button:
+#    url: "/contact"
+#    label: "Contact Us"
 hero:
   headline: No Drips, No Drama
   title: Painting <br>Kansas City <br>Homes & Offices

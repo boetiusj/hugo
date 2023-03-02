@@ -62,25 +62,25 @@ hero:
   title: Painting <br>Kansas City <br>Homes & Offices
   image: "/images/bg/January.jpg"
   button:
-    url: "/book-us/"
-    label: Book an Estimate
-services:
-  title: Painting services in Kansas City 
-  headline: Services
-  show: false # turn to false to hide
-    - name: "Exterior painting"
-      description: "Careful prep, courteous attention to detail, that's why we have repeat customers"
-      icon: "home"
-    - name: "Interiors."
-      description: "We'll protect your stuff from dust and damage"
-      icon: "brush-alt"
-    - name: "Offices."
-      description: "Quiet and careful, one room at a time - on your schedule."
-      icon: "printer"
-    - name: "Cabinets."
-      description: "Say goodbye to dated Golden Oak. Thorough cleaning, modern materials."
-      icon: "eye"  
-# solutions:
+#     url: "/book-us/"
+#     label: Book an Estimate
+# services:
+#   title: Painting services in Kansas City
+#   headline: Services
+#   show: false # turn to false to hide
+#     - name: "Exterior painting"
+#       description: "Careful prep, courteous attention to detail, that's why we have repeat customers"
+#       icon: "home"
+#     - name: "Interiors."
+#       description: "We'll protect your stuff from dust and damage"
+#       icon: "brush-alt"
+#     - name: "Offices."
+#       description: "Quiet and careful, one room at a time - on your schedule."
+#       icon: "printer"
+#     - name: "Cabinets."
+#       description: "Say goodbye to dated Golden Oak. Thorough cleaning, modern materials."
+#       icon: "eye"  
+# # solutions:
 #    - name: "App development."
 #      description: "A digital agency isn't here to replace your internal team, we're here to partner"
 #      icon: "android"

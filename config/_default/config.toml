@@ -1,5 +1,5 @@
 title = "Crestwood Painting"
-baseURL = "https://crestwoodpainting.netlify.app/"
+baseURL = "https://www.crestwoodpainting.com/"
 paginate = 10
 googleAnalytics = "UA-1372967-1"
 [taxonomies]

@@ -20,9 +20,7 @@
 
 				<div class="testimonial-item-content">
           <span>{{ .headline }}</span>
-					<p class="testimonial-text">{{ markdownify .review }}<br>
-						{{ .client }},<br>
-						{{ default .date .role }}</p>
+					<p class="testimonial-text">{{ markdownify .review }}</p>
 
 					<div class="testimonial-author">
 						<h5 class="mb-0 text-capitalize">{{ .client }}</h5>

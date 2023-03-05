@@ -10,15 +10,25 @@ url = "/map/"
 [[company]]
 name = "Payments"
 url = "/payments/"
-[[links]]
+[[company]]
 name = "Video Reviews"
 url = "/video-testimonials/"
-[[links]]
+[[company]]
 name = "RRP Brochure"
 url = "/lead-paint-safety/"
-[[links]]
+[[company]]
 name = "Privacy"
 url = "/privacy-policy/"
+
+# [[links]]
+# name = "Video Reviews"
+# url = "/video-testimonials/"
+# [[links]]
+# name = "RRP Brochure"
+# url = "/lead-paint-safety/"
+# [[links]]
+# name = "Privacy"
+# url = "/privacy-policy/"
 # [[links]]
 # name = "Employment"
 # url = "/employment/"

@@ -19,7 +19,7 @@ date: "2011-05-04"
 # stats block ends
 about:
   headline: "Who we are"
-  title: "Hometown people.\ 
+  title: "Hometown people. 
   City-wide."
   subtitle: "Painting for everybody"
   description: "Prompt and courteous painters work from clear proposals."

@@ -31,7 +31,7 @@ You're in control of the budget - just let us know how long, give us a priority 
 ## The Cost:
 
 - All tools, sundries, equipment, safety gear included
-- The cost for a Painter For A Day in Kansas City is $680
+- The cost for a Painter For A Day in Kansas City is $840
 
 ## The Material
 

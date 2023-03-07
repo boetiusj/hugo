@@ -16,7 +16,7 @@ Crestwood Painting can transform the interior of a single room or your entire h
 - The [right colors](/chameleon-colors/) help create the mood you're after
 - [Kitchen cabinets](/cabinet-painting/) can also be freshened up
 
-> The cost for painting in Kansas City? $680 per day per painter.
+> The cost for painting in Kansas City? $840 per day per painter.
 
 ## The Interior Paint Process:
 

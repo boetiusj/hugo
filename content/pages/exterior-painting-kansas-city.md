@@ -46,8 +46,6 @@ Crestwood Painting trains our workers to be efficient, but not fast. We stand by
 
 - Best in Class, 100% acrylic paint protects longest
 - Sprayed finish means
-    - No brush marks
-    - Clean lines
-    - More consistent coverage
+- No brush marks - Clean lines- More consistent coverage
 
 [![customer review exterior painting kansas city](/images/Alex-T.-409x450.jpg)](/painter-reviews-nice-surprise/)

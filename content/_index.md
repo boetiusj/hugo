@@ -35,7 +35,7 @@ intro:
   show: true # turn to false to hide
   showValues: true # turn to false to hide
   values: # or benefits/qualities
-    - title:Exterior Painting
+    - title: Exterior Painting
       summary: "Historic older homes and suburban newer homes."
       icon: home
     - title: Interior Painting

@@ -49,7 +49,7 @@ cta:
   title: "Earning Kansas City's trust for over 15 years."
   headline: "Prompt and Reliable"
   description: "Ready for a painting project? Give us a call!"
-  phone: +1 816-805-4515
+  phone: 816-805-4515
   show: true # turn to false to hide
   image:  "/images/bg/home-3.jpg"
 #cta2: # section shows at the very bottom near the footer

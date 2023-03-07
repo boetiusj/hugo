@@ -24,7 +24,7 @@ icon = "twitter" # fab fa-twitter
 platform = "instagram"
 profile = "https://www.instagram.com/crestwoodpainting/"
 icon = "instagram" # fab fa-instagram
-[[socials]]
-platform = "pinterest"
-profile = "https://www.pinterest.com/crestwoodpaint/"
-icon = "pinterest-p" # fab fa-pinterest-p
+# [[socials]]
+# platform = "pinterest"
+# profile = "https://www.pinterest.com/crestwoodpaint/"
+# icon = "pinterest-p" # fab fa-pinterest-p

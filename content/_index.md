@@ -30,20 +30,20 @@ about:
     label: "Let's get started"
 
 intro:
-  title: "We work with business & provide solution to client with their business problem"
-  headline: "We are creative & expert people"
+  title: "The solid choice since 2007"
+  headline: "Clean & Tidy Painters"
   show: true # turn to false to hide
   showValues: true # turn to false to hide
   values: # or benefits/qualities
-    - title: Modern & Responsive design
-      summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
-      icon: desktop
-    - title: Awarded licensed company
-      summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
-      icon: medall
-    - title: Build your website Professionally
-      icon: layers-alt
-      summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
+    - title:Exterior Painting
+      summary: "Historic older homes and suburban newer homes."
+      icon: home
+    - title: Interior Painting
+      summary: "Dust-free, noise-free. No Drips, No Drama."
+      icon: brush-alt
+    - title: Offices
+      icon: printer
+      summary: "Quiet and careful, one room at a time - on your schedule."
 
 cta:
   title: "Earning Kansas City's trust for over 15 years."

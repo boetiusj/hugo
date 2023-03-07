@@ -1,7 +1,7 @@
 ---
 title: "Book an estimate time online or Call 816-805-4515!"
 description: "Professional painting in Kansas City, homes and offices - inside and out"
-keywords: "Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company, Mission Hills,Prairie Village, Leawood, House Painter, Exterior House Painting, Plaster repair, Interior Painting"
+keywords: "Crestwood Painting, Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company, Mission Hills,Prairie Village, Leawood, House Painter, Exterior House Painting, Plaster repair, Interior Painting"
 canonical: "https://crestwoodpainting.com"
 date: "2011-05-04"
 # delete / comment out stats block to hide

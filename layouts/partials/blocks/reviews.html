@@ -4,8 +4,8 @@
 		<div class="row">
 			<div class="col-lg-7 ">
 				<div class="section-title">
-					<span class="h6 text-color">Clients Reviews</span>
-					<h2 class="mt-3 content-title">Check what customers say</h2>
+					<span class="h6 text-color">Crestwood Painting Reviews</span>
+					<h2 class="mt-3 content-title">Customer Talk</h2>
 				</div>
 			</div>
 		</div>
@@ -21,8 +21,7 @@
 				<div class="testimonial-item-content">
           <span>{{ .headline }}</span>
 					<p class="testimonial-text">{{ markdownify .review }}
-						<br>{{ .client }}
-						<br>{{ default .date .role }}
+						<br>{{ .client }} - {{ default .date .role }}
 					</p>
 
 <!--					<div class="testimonial-author">

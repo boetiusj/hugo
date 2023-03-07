@@ -31,7 +31,7 @@ about:
 
 intro:
   title: "The solid choice since 2007"
-  headline: "Clean & Tidy Painters"
+  headline: "Clean and Tidy Painters"
   show: true # turn to false to hide
   showValues: true # turn to false to hide
   values: # or benefits/qualities
@@ -47,7 +47,7 @@ intro:
 
 cta:
   title: "Earning Kansas City's trust for over 15 years."
-  headline: "Prompt & Reliable"
+  headline: "Prompt and Reliable"
   description: "Ready for a painting project? Give us a call!"
   phone: 816-805-4515
   show: true # turn to false to hide
@@ -61,7 +61,7 @@ cta:
 #    label: "Contact Us"
 hero:
   headline: No Drips, No Drama
-  title: Painting <br>Kansas City <br>Homes & Offices
+  title: Painting <br>Kansas City <br>Homes and Offices
   image: "/images/bg/January.jpg"
   button:
     url: "/book-us/"

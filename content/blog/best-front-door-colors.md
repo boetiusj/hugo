@@ -4,7 +4,7 @@ url: "best-front-door-colors"
 description: "A closer look at the factors involved in choosing interior trim paint colors."
 keywords: "paint color interior trim crestwood"
 canonical: "https://crestwoodpainting.com/tips-for-painting-trim/"
-date: "2013-07-22"
+date: "2021-07-22"
 categories:
   - "color-choices"
 tags:
@@ -15,7 +15,9 @@ tags:
   - "roof"
 ---
 
-![Front door paint colors yellow](/images/Yellow-Front-Door-Curb-Appeal_opt.jpg "Yellow Front door ")Diane Stewart, the Color Consultant at Kansas City's own [Color Sense Consulting](/best-front-door-colors/), is a wealth of experience and information when choosing paint colors. Here Diane talks about some of the factors in choosing which color for your front door.
+![Front door paint colors yellow](/images/Yellow-Front-Door-Curb-Appeal_opt.jpg "Yellow Front door ")
+
+Diane Stewart, the Color Consultant at Kansas City's own [Color Sense Consulting](/best-front-door-colors/), is a wealth of experience and information when choosing paint colors. Here Diane talks about some of the factors in choosing which color for your front door.
 
 > The color of your front door should always make a good impression. Choosing a great paint color, along with a decorative wreath or plaque, gives you an opportunity to be creative, and set your house apart.
 >

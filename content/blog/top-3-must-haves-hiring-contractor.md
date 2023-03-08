@@ -4,7 +4,7 @@ url: "top-3-must-haves-hiring-contractor"
 description: "Basic items that protect homeowners from poorly written proposals."
 keywords: "hire kansas city paint contractor"
 canonical: "https://crestwoodpainting.com/top-3-must-haves-hiring-contractor/"
-date: "2014-02-22"
+date: "2022-02-22"
 categories:
   - "how-to-hire-painter"
 tags:

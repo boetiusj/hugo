@@ -2,6 +2,7 @@
 title: "Best Front Door Colors"
 url: "best-front-door-colors"
 description: "A closer look at the factors involved in choosing interior trim paint colors."
+image: "/images/Yellow-Front-Door-Curb-Appeal_opt.jpg"
 keywords: "paint color interior trim crestwood"
 canonical: "https://crestwoodpainting.com/tips-for-painting-trim/"
 date: "2021-07-22"

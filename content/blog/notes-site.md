@@ -11,10 +11,6 @@ Book-us page, before Zip filtering:
 
 {{< book-form >}}
 
-#### Painting Offices & Fine Homes
-
-No Drips
-
 ![painter](/images/Green-transparent.png)
 
 No Drama

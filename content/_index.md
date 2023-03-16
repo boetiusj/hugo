@@ -1,5 +1,5 @@
 ---
-title: "Crestwood Painting | Book us online or Call 816-805-4515!"
+title: "No Drips, No Drama | Book us online or Call 816-805-4515!"
 description: "Crestwood Painting - prompt and tidy pros with organized jobsites and timely finishes. Call us for a No Drips, No Drama experience"
 keywords: "Crestwood Painting, Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company, Mission Hills,Prairie Village, Leawood, House Painter, Exterior House Painting, Plaster repair, Interior Painting"
 canonical: "https://crestwoodpainting.com"

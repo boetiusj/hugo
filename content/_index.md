@@ -1,7 +1,7 @@
 ---
 title: "No Drips, No Drama | Book us online or Call 816-805-4515!"
 description: "Crestwood Painting - prompt and tidy pros with organized jobsites and timely finishes. Call us for a No Drips, No Drama experience"
-keywords: "Crestwood Painting, Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company, Mission Hills,Prairie Village, Leawood, House Painter, Exterior House Painting, Plaster repair, Interior Painting"
+keywords: "Crestwood Painting, Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company, Mission Hills, Lee's Summit, Prairie Village, Leawood, House Painter, Exterior House Painting, Plaster repair, Interior Painting"
 canonical: "https://crestwoodpainting.com"
 date: "2011-05-04"
 # delete / comment out stats block to hide
@@ -30,13 +30,13 @@ about:
     label: "Let's get started"
 
 intro:
-  title: "The solid choice since 2007"
+  title: "Trusted. Since 2007"
   headline: "Clean and Tidy Painters"
   show: true # turn to false to hide
   showValues: true # turn to false to hide
   values: # or benefits/qualities
     - title: Exterior Painting
-      summary: "Historic older homes and suburban newer homes."
+      summary: "Historic homes, contemporary homes, offices too."
       icon: home
     - title: Interior Painting
       summary: "Dust-free, noise-free. No Drips, No Drama."
@@ -48,8 +48,8 @@ intro:
 cta:
   title: "Earning Kansas City's trust for over 15 years."
   headline: "Prompt and Reliable"
-  description: "Ready for a painting project? Give us a call!"
-  phone: 816-805-4515
+  description: "We're ready for your project."
+  phone: <a href="tel:816-805-4515">816-805-4515</a>
   show: true # turn to false to hide
   image:  "/images/bg/home-3.jpg"
 #cta2: # section shows at the very bottom near the footer

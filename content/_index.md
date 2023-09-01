@@ -21,7 +21,7 @@ about:
   headline: "Who we are"
   title: "Hometown people. 
   City-wide."
-  subtitle: "Painting for everybody"
+  subtitle: "We make it easy"
   description: "Prompt and courteous painters work from clear proposals."
   show: true # turn to false to hide
   image: "/images/bg/home-8.jpg"
@@ -36,7 +36,7 @@ intro:
   showValues: true # turn to false to hide
   values: # or benefits/qualities
     - title: Exterior Painting
-      summary: "Historic homes, contemporary homes, offices too."
+      summary: "Historic and contemporary homes, commercial buildings too."
       icon: home
     - title: Interior Painting
       summary: "Dust-free, noise-free. No Drips, No Drama."

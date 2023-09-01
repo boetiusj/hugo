@@ -49,7 +49,7 @@ cta:
   title: "Earning Kansas City's trust for over 15 years."
   headline: "Prompt and Reliable"
   description: "We're ready for your project."
-  phone: <a href="tel:816-805-4515">816-805-4515</a>
+  phone: "816-805-4515"
   show: true # turn to false to hide
   image:  "/images/bg/home-3.jpg"
 #cta2: # section shows at the very bottom near the footer

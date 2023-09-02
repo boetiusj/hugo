@@ -13,7 +13,7 @@ Commercial project? Call us! Previous customer? Definitely call us! Complete the
 
 {{< gallery >}}
 
-a ![Resize](/images/SW-logo.png?height=100px)b ![Resize](/images/Logo-PPG.png?height=120px) c![Resize](/images/Logo-Benjamin-Moore.png?height=120px)
+a ![Sherwin Williams logo](/images/SW-logo.png?height="x100")b ![PPG logo](/images/Logo-PPG.png?height="x120") c![Benjamin Moore logo](/images/Logo-Benjamin-Moore.png?height="x120")
 
 {{< /gallery >}}
 

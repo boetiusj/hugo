@@ -14,8 +14,8 @@ Commercial project? Call us! Previous customer? Definitely call us! Complete the
 {{< gallery >}}
 
 - ![Resize](/images/SW-logo.png?height=100px)
-- ![Resize](/images/Logo PPG.png?height=120px)
-- ![Resize](/images/Logo Benjamin Moore.png?height=120px)
+- ![Resize](/images/Logo-PPG.png?height=120px)
+- ![Resize](/images/Logo-Benjamin-Moore.png?height=120px)
 
 {{< /gallery >}}
 

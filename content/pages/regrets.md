@@ -12,9 +12,9 @@ This zip code is currently unavailable with our online scheduler. Ask the Store 
 Commercial project? Call us! Previous customer? Definitely call us! Complete the form below or call **(816) 805-4515** to leave a message about your project.
 
 {{< gallery >}}
-- ![](/images/SW-logo.png)
-- ![PPG logo 78x60](/images/PPGlogo-e1551206528165.png)
-- ![BM logo 110](/images/BenjaminMoorePaintsLogo-e1604861456953.jpg)
+-![Resize](/images/SW-logo.png?height=120px)
+-![PPG logo](/images/PPG_Logo.svg.png?height=120px)
+-![BM logo 110](/images/BenjaminMoorePaintsLogo-e1604861456953.jpg)
 {{< /gallery >}}
 
 {{< contact >}}

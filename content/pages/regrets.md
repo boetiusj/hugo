@@ -13,8 +13,8 @@ Commercial project? Call us! Previous customer? Definitely call us! Complete the
 
 {{< gallery >}}
 -![Resize](/images/SW-logo.png?height=120px)
--![PPG logo](/images/PPG_Logo.svg.png?height=120px)
--![BM logo 110](/images/BenjaminMoorePaintsLogo-e1604861456953.jpg)
+-![PPG logo](/images/Logo PPG.png?height=120px)
+-![BM logo](/images/Logo Benjamin Moore.png?height=120px)
 {{< /gallery >}}
 
 {{< contact >}}

@@ -15,4 +15,7 @@ Commercial project? Call us! Previous customer? Definitely call us! Complete the
 ![Sherwin Williams logo](/images/SW-logo.png?h=100) ![PPG logo](/images/Logo-PPG.png?h=100) ![Benjamin Moore logo](/images/Logo-Benjamin-Moore.png?h100)
 {{< /gallery >}}
 ___
+![Sherwin Williams logo](/images/SW-logo.png?h=100) ![PPG logo](/images/Logo-PPG.png?h=100) ![Benjamin Moore logo](/images/Logo-Benjamin-Moore.png?h100)
+{{< /gallery >}}
+___
 {{< contact >}}

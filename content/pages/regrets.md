@@ -12,9 +12,11 @@ This zip code is currently unavailable with our online scheduler. Ask the Store 
 Commercial project? Call us! Previous customer? Definitely call us! Complete the form below or call **(816) 805-4515** to leave a message about your project.
 
 {{< gallery >}}
-![Resize](/images/SW-logo.png?height=120px)
-![Resize](/images/Logo PPG.png?height=120px)
-![Resize](/images/Logo Benjamin Moore.png?height=120px)
+
+- ![Resize](/images/SW-logo.png?height=100px)
+- ![Resize](/images/Logo PPG.png?height=120px)
+- ![Resize](/images/Logo Benjamin Moore.png?height=120px)
+
 {{< /gallery >}}
 
 {{< contact >}}

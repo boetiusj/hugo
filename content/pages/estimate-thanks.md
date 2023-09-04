@@ -24,7 +24,7 @@ date: "2012-08-27"
 
 > "May I have a copy of your insurance certificate for my files?"
 
-**{#insurance} Are you insured?** Every painter should carry General Liability insurance with not less than $1 million in coverage. This insurance protects the homeowner from damage done by the painter, e.g. 5 gallons of white latex is spilled on your new roof or a ladder crashes onto your convertible. Repair work? That falls under carpentry and requires a separate rider. Proper insurance is Business 101. Of course, if these accidents really didn’t happen nobody would need insurance.
+** Are you insured?** Every painter should carry General Liability insurance with not less than $1 million in coverage. This insurance protects the homeowner from damage done by the painter, e.g. 5 gallons of white latex is spilled on your new roof or a ladder crashes onto your convertible. Repair work? That falls under carpentry and requires a separate rider. Proper insurance is Business 101. Of course, if these accidents really didn’t happen nobody would need insurance.
 
 > Membership in trade organizations like PCA indicates a level of professional commitment.
 

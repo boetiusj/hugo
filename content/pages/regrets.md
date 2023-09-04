@@ -12,7 +12,7 @@ This zip code is currently unavailable with our online scheduler. Ask the Store 
 Commercial project? Call us! Previous customer? Definitely call us! Complete the form below or call **(816) 805-4515** to leave a message about your project.
 
 {{< gallery >}}
-![Sherwin Williams logo](/images/SW-logo.jpg_142x80.webp), ![PPG logo](/images/Logo-PPG.png), ![Benjamin Moore logo](/images/Logo-Benjamin-Moore.png?h=x80)
+![Sherwin Williams logo](/images/SW-logo.jpg_142x80.webp) ![PPG logo](/images/Logo-PPG.png) ![Benjamin Moore logo](/images/Logo-Benjamin-Moore.png?h=80)
 {{< /gallery >}}
 ___
 {{< contact >}}

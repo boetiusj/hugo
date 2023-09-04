@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/12-questions-ask-painter/"
 date: "2018-08-28"
 ---
 
-![painter questions kansas city](/images/check-e1513993569887.jpg)
+![painter questions kansas city](/images/Checkbox.webp)
 
 Be sure to ask these questions _before_ you make your hiring decision.
 

@@ -36,7 +36,7 @@ Homes more than 30 years old have many layers of (lead) paint, aluminum storm wi
 
 5. #### Which brand of paint do you recommend?
 
-![ppg crestwood painting kansas city](/images/Logo-sq-PPG100.webp) ![sw crestwood painting kansas city](/images/logosq-SW50.webp) ![benjamin moore crestwood painting kansas city](/images/logosqBM50.webp)
+![ppg crestwood painting kansas city](/images/Logo-sq-PPG100.webp) ![sw crestwood painting kansas city](/images/logosq-SW100.webp) ![benjamin moore crestwood painting kansas city](/images/logosqBM100.webp)
 
 Painters establish a relationship with a particular store for a variety of reasons – knowledgeable help, quality products or attractive pricing. If a painter is reluctant to use another product, it’s fair to ask why. Strong belief in a product based on experience is fine, but when a financial incentive trumps all else, the advice you get may not be in your best interest.
 

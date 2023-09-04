@@ -42,15 +42,16 @@ Painters establish a relationship with a particular store for a variety of reaso
 
 All of this assumes quality materials – if you’re being steered toward a low cost product, find another painter. When it comes to paint, you never get more than you pay for. Also, most professionals do not use paint from the Big Box chain stores for several reasons: product quality is one, but also lower quality, limited selection, poor service and availability.
 
-6. #### What is a properly painted surface?![pdca kansas city crestwood painting](/images/PDCA-e1513993940539.jpg)
+6. #### What is a properly painted surface?
+![pdca kansas city crestwood painting](/images/PDCA-e1513993940539.jpg)
 
 The PDCA (Painting & Decorating Contractors of America, [pca.org](https://pcapainted.org)) has established clear standards for its members, from accepted production rates to appropriate materials and application techniques. Objective standards make it easy for homeowner and painter to agree on what a [properly painted surface](/12-questions-ask-painter/#properlypainted) is. Membership in trade organizations indicates a level of professional commitment.
 
-7.#### Do you require any payment up front?
+7. #### Do you require any payment up front?
 
 There’s no right answer here – just some things to be aware of. If your painter is a poor business owner, he may use your up-front payment to take care of last month’s bills and will then be in a big hurry to finish the job so he can pay his workers. You’ve just lost a good bit of leverage to ensure the agreed-upon quality work. A large up-front payment is often an indicator of an under-capitalized business. A reasonable approach is to make a partial payment after a couple of days. The painter has committed labor and equipment to the project and the homeowner sees that work is progressing so both parties have an interest in satisfactory completion.
 
-8.#### Will you start on time every day? Will you finish on time?
+8. #### Will you start on time every day? Will you finish on time?
 
 A motivated and well-run group of painters will arrive when they say they will, work a full day and then return each day until the job is complete. Those crews that don’t will take longer and disrupt your life more than they should.
 

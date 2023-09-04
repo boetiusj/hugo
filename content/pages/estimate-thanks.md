@@ -9,7 +9,7 @@ date: "2012-08-27"
 
 ![painting estimate request](/images/Thank-You-2-e1514038961814.jpg)A confirmation is on its way. Til then - some things to consider:
 
-1. [Insurance?](/estimate-thanks/#insurance)
+1. {Insurance?}(/estimate-thanks/#insurance)
 2. [Employees or Contractors?](/estimate-thanks/#employees)
 3. [Send a Copy](/estimate-thanks/#prove)
 4. [New or Old?](/estimate-thanks/#neworold)

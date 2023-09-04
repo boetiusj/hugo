@@ -12,7 +12,7 @@ tags:
   - "better-business-bureau"
   - "interior-painting"
   - "painting-insurance"
-coverImage: "Lead-Safe-Certified-155.webp"
+coverImage: "/images/Lead-Safe-Certified-155.webp"
 ---
 Crestwood Painting has been [EPA Lead-Safe certified](/lead-paint-safety/) since 2011, many of our Job Leads have also been trained and certified, as well.
 

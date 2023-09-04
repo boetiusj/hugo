@@ -43,7 +43,7 @@ Painters establish a relationship with a particular store for a variety of reaso
 All of this assumes quality materials – if you’re being steered toward a low cost product, find another painter. When it comes to paint, you never get more than you pay for. Also, most professionals do not use paint from the Big Box chain stores for several reasons: product quality is one, but also lower quality, limited selection, poor service and availability.
 
 6. #### What is a properly painted surface?
-![pca paint ed kansas city crestwood painting](/images/PDCA-e1513993940539.jpg)
+![pca paint ed kansas city crestwood painting](/images/logo pca50.webp)
 
 The PCA (Painting Contractors Assoc. [pca.org](https://pcapainted.org)) has established clear standards for its members, from accepted production rates to appropriate materials and application techniques. Objective standards make it easy for homeowner and painter to agree on what a [properly painted surface](/12-questions-ask-painter/#properlypainted) is. Membership in trade organizations indicates a level of professional commitment.
 

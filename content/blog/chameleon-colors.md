@@ -40,14 +40,6 @@ Perhaps even more important is the psychological benefit that comes with a light
 
 If you’re truly serious about doing some interior painting, there’s no time like the present. Adding some light new paint color is the perfect antidote to winter’s shorter days and gloomier weather. You’ll be right in step with the latest trend in interior painting, and you’ll find 2016 to be a far brighter new year!”
 
-For more information on paint color and painting techniques, visit the Paint Quality Institute blog at blog.paintquality.com or its website at www.paintquality.com.
-
 About the PAINT QUALITY INSTITUTE℠
 
-The Paint Quality Institute was formed in 1989 to educate people on the advantages of using quality interior and exterior paints and coatings. The Paint Quality Institute's goal is to provide information on the virtues of quality paint as well as color trends and decorating with paint through a variety of vehicles, including television appearances, newspaper and magazine articles, and instructional literature. Please be sure to visit the Paint Quality Institute at www.paintquality.com. PAINT QUALITY INSTITUTE and PAINTQUALITY.COM are trademarks of The Dow Chemical Company ("Dow") or an affiliated company of Dow.
-
-CONTACT:
-
-Deborah Zimmer
-The Paint Quality Institute℠
-Dow Coating Materials
+PQI has since been shuttered. It was formed in 1989 to educate people on the advantages of using quality interior and exterior paints and coatings. The Paint Quality Institute's goal is to provide information on the virtues of quality paint as well as color trends and decorating with paint through a variety of vehicles, including television appearances, newspaper and magazine articles, and instructional literature.

@@ -7,9 +7,12 @@ coverImage: "/images/Lead-Safe-Certified-155.webp"
 categories:
   - "general"
 ---
+![test alt text](/images/PQI-color-samples-300x300.jpg "Test Title attribute {height='75'}" )
+___
 
+![test alt text](/images/PQI-color-samples-300x300.jpg "Test Title attribute 2 =175x" )
 {{< text true >}}
-Note: We'll show up on time & do what we say.
+Test: < text true >
 {{< /text >}}
 
 A meeting is required. Please no investment properties.

@@ -1,13 +1,13 @@
 ---
 title: "Cabinet Painting"
 url: "cabinet-painting"
-description: "Golden Oak has got to go! Call us today and let's get started on updating to a clean and modern kitchen."
-keywords: "Kitchen cabinet painting, Kansas City painting, Bathroom vanity painting, wall paneling painting, Crestwood Painting"
+description: "Painting cabinets - the easiest way to a clean and modern kitchen."
+keywords: "Kitchen cabinet painting, Kansas City painting, bathroom vanity painting, wall paneling painting, Crestwood Painting"
 canonical: "https://crestwoodpainting.com/cabinet-painting/"
 date: "2011-09-21"
 ---
 
-![kitchen cabinet painting](/images/Finished-Kitchen.jpg "Painted kitchen cabinets update a dark 70's look")
+![kitchen cabinet painting](/images/Finished-Kitchen.jpg "Painted cabinets update this dark 70's kitchen")
 
 Painted kitchen cabinets update a dark 70's look.
 

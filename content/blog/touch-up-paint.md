@@ -1,7 +1,7 @@
 ---
-title: "Touch-ups vs Nail Polish"
+title: "Touch-ups, Nail Polish"
 url: "touch-up-paint"
-description: "Paint touch-ups doen't always look as expected"
+description: "Paint touch-ups - what to look for"
 keywords: "touch-up"
 canonical: "https://crestwoodpainting.com"
 date: "2014-07-30"

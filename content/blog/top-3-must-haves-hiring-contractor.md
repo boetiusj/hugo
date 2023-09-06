@@ -1,10 +1,10 @@
 ---
-title: "Top 3 Must-Haves When Hiring A Paint Contractor"
-url: "top-3-must-haves-hiring-contractor"
-description: "Basic items that protect homeowners from poorly written proposals."
+title: "Top 3 Must-Haves For Hiring A Painter"
+url: "top-3-must-haves-hiring-painter"
+description: "Get these in your painting contract."
 image: "/images/Rose-bushes-300x225.jpg"
 keywords: "hire kansas city paint contractor"
-canonical: "https://crestwoodpainting.com/top-3-must-haves-hiring-contractor/"
+canonical: "https://crestwoodpainting.com/top-3-must-haves-hiring-painter/"
 date: "2022-02-22"
 categories:
   - "how-to-hire-painter"

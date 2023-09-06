@@ -11,6 +11,7 @@ categories:
 tags:
   - "estimates"
   - "painting-insurance"
+  coverImage: "/images/Lead-Safe-Certified-155.webp"
 ---
 
 ![Careful Crestwood painters](/images/Rose-bushes-300x225.jpg "Rose Bushes {height='100';}")

@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/cabinet-painting/"
 date: "2011-09-21"
 ---
 
-![](/images/Finished-Kitchen.jpg)
+![kitchen cabinet painting](/images/Finished-Kitchen.jpg "Painted kitchen cabinets update a dark 70's look")
 
 Painted kitchen cabinets update a dark 70's look.
 
@@ -19,7 +19,7 @@ Golden Oak cabinets have got to go! Paint will transform a kitchen without the c
 
 > Crestwood Painting did a wonderful job on my kitchen cabinets. They gave an accurate and fair estimate, worked full days, and were extremely neat and courteous. They also worked during regular business hours so we could be out of the house.
 
-## The Cabinet Painting Process:
+## The Cabinet Painting Process
 
 - We'll remove existing knobs & pulls (even hinges!)
 - Thoroughly clean to remove fingerprints & PB&J grunge
@@ -27,7 +27,7 @@ Golden Oak cabinets have got to go! Paint will transform a kitchen without the c
 - Install new, clean and cool hardware
 - [Leave you in peace](/painting-kitchen-cabinets/) to enjoy your new refuge
 
-## The Cost to Paint Cabinets in Kansas City:
+## The Cost to Paint Cabinets in Kansas City
 
 - Depends, of course - finish type, number of steps, color
 - Generally, Kansas City kitchens are in the $3000 (smallish, no island) to $6000 (with island, med. size kitchen). Or more.

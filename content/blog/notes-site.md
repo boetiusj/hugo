@@ -11,6 +11,9 @@ categories:
 ___
 
 ![test alt text](/images/PQI-color-samples-300x300.jpg "Test Title attribute 2 =175x" )
+___
+{{< figure src="/images/PQI-color-samples-300x300.jpg" title="Test figure title" caption="Test figure caption" width="200">}}
+
 {{< text true >}}
 Test: < text true >
 {{< /text >}}

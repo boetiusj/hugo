@@ -5,8 +5,7 @@ description: "Get these in your painting contract."
 image: "/images/Rose-bushes-300x225.jpg"
 keywords: "hire kansas city paint contractor"
 canonical: "https://crestwoodpainting.com/top-3-must-haves-hiring-painter/"
-date: "2022-02-22"
-coverImage: "/images/Lead-Safe-Certified-155.webp"
+date: "2022-02-22" 
 categories:
   - "how-to-hire-painter"
 tags:
@@ -14,6 +13,7 @@ tags:
   - "painting-insurance"
 
 ---
+{{< figure src="/images/Rose-bushes-300x225.jpg" title="Rose bushes" caption="Rose bushes" alt=Crestwood Painting rose bushes width="300">}}
 
 ![Careful Crestwood painters](/images/Rose-bushes-300x225.jpg "Rose Bushes {height='100';}")
 

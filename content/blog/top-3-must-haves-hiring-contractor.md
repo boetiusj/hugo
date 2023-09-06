@@ -13,7 +13,7 @@ tags:
   - "painting-insurance"
 
 ---
-{{< figure src="/images/Rose-bushes-300x225.jpg" title="Rose bushes" caption="Rose bushes" alt=Crestwood Painting rose bushes width="300">}}
+{{< figure src="/images/Rose-bushes-300x225.jpg" title="Rose bushes" caption="Rose bushes" alt=Crestwood Painting rose bushes>}}
 
 ![Careful Crestwood painters](/images/Rose-bushes-300x225.jpg "Rose Bushes {height='100';}")
 

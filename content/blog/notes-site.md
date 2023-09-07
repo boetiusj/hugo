@@ -7,18 +7,12 @@ coverImage: "/images/Lead-Safe-Certified-155.webp"
 categories:
   - "general"
 ---
-
-![test alt text](/images/PQI-color-samples-300x300.jpg "Test Title attribute {height='75'}" )
-
-___
-
-![test alt text](/images/PQI-color-samples-300x300.jpg "Test Title attribute 2 =175x" )
 ___
 Figure shortcode
-{{< figure src="/images/PQI-color-samples-300x300.jpg" title="Test figure title" caption="Test figure caption" width="200">}}
+{{< figure src="/images/placehold160x90.svg" title="Test title" caption="Test caption" alt="alt text doesn't appear" width="200">}}
 
 {{< text true >}}
-Test: < text true >
+Test: < text true shortcode >
 {{< /text >}}
 
 A meeting is required. Please no investment properties.

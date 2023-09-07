@@ -18,7 +18,6 @@ tags:
 If paint contractors are clear in what they are providing and customers are clear in what they are getting then everybody will be happy, yes? So why are happy customer/contractor experiences relatively rare? The answer is the dreaded [_Unmet Expectations_](/reviews/).
 
 Let's say the paint contractor hired to paint your house drips on your new patio. You assumed he would properly protect your home, he assumed you wanted the work done fast and cheap. If he didn't have a written contract then shame on everybody. If he did have a contract did it clearly specify these gems?
-
 - Inclusions
 - Exclusions
 - Clarifications

@@ -9,9 +9,9 @@ date: "2015-04-04"
 
 # Zig Ziglar - How to Stay Motivated
 
-### Session 1 - Developing the Qualities of Success
+## Session 1 - Developing the Qualities of Success
 
-\[playlist ids="3676,3677,3678,3679,3680,3681"\]
+[playlist ids="3676,3677,3678,3679,3680,3681"\]
 
 ### Session 2 - Changing the Picture
 

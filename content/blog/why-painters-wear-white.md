@@ -1,4 +1,4 @@
----
+--- 
 title: Why Do Painters Wear White?
 url: why-painters-wear-white
 description: Answers to the ageless question Why do painters wear white?
@@ -11,11 +11,11 @@ categories:
   - how-to-hire-painter
 tags:
   - painters
----
+--- 
 
 {{< figure src="/images/painters-whites.jpg" caption="Why do painters wear whites?, alt="painter wearing white uniform">}}
 
-There is no single answer. Grizzled old union painters as well as younger pros all agree that professional painters in Kansas City wear "painters whites" - but nobody seems to know why.
+There is no single answer. Grizzled old union painters as well as younger pros all agree that professional painters in Kansas City wear "painters whites" - but there doesn't seem to be a clear history. Here are some theories:
 
 - Whites distinguish painters from other trades.
 - White indicates [cleanliness](/reviews/) to customers.

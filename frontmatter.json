@@ -42,6 +42,25 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "url",
+          "name": "url",
+          "type": "string"
+        },
+        {
+          "title": "keywords",
+          "name": "keywords",
+          "type": "choice",
+          "choices": [
+            "Painters wear white crestwood painting",
+            "painters whites"
+          ]
+        },
+        {
+          "title": "canonical",
+          "name": "canonical",
+          "type": "string"
         }
       ]
     }

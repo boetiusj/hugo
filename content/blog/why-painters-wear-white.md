@@ -13,7 +13,7 @@ tags:
   - painters
 ---
 
-![Painters Whites kansas city painter crestwood painting](/images/painters-whites.jpg "Painter In Painting Whites")
+{{< figure src="/images/painters-whites.jpg" caption="Why do painters wear whites?, alt="painter wearing white uniform">}}
 
 There is no single answer. Grizzled old union painters as well as younger pros all agree that professional painters in Kansas City wear "painters whites" - but nobody seems to know why.
 

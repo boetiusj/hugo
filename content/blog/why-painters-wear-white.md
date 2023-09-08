@@ -1,24 +1,28 @@
 ---
-title: "Why Do Painters Wear White?"
-url: "why-painters-wear-white"
-description: "Answers to the ageless question Why do painters wear white?"
-keywords: "Painters wear white crestwood painting"
-canonical: "https://crestwoodpainting.com/why-painters-wear-white/"
-date: "2013-01-07"
+title: Why Do Painters Wear White?
+url: why-painters-wear-white
+description: Answers to the ageless question Why do painters wear white?
+keywords:
+  - Painters wear white crestwood painting
+  - painters whites
+canonical: https://crestwoodpainting.com/why-painters-wear-white/
+date: 2013-01-07
 categories:
-  - "how-to-hire-painter"
+  - how-to-hire-painter
 tags:
-  - "painters"
+  - painters
 ---
 
-![Painters Whites kansas city painter crestwood painting](/images/painters-whites.jpg "Painter In Painting Whites")There is no single answer. Grizzled old union painters as well as younger pros all agree that professional painters in Kansas City wear "painters whites" - but nobody seems to know why.
+![Painters Whites kansas city painter crestwood painting](/images/painters-whites.jpg "Painter In Painting Whites")
+
+There is no single answer. Grizzled old union painters as well as younger pros all agree that professional painters in Kansas City wear "painters whites" - but nobody seems to know why.
 
 - Whites distinguish painters from other trades.
-- White connotes [cleanliness](/reviews/) to customers.
-- Clean whites connotes skill to other painters.
+- White indicates [cleanliness](/reviews/) to customers.
+- Clean whites indicates skill to other painters.
 - White and other light colors are those most commonly chosen for the widest range of applications.
 - White is more comfortable in the summer sun.
-- Long ago there was whitewash - Tom Sawyer obviously wasn't a professional as he didn't dress the part!
+- Before paint was whitewash - not as noticeable on a white uniform.
 - Spackle, plaster, caulk and other common trade materials are all white.
 - White clothing is economical - costs less than dyed clothing.
 - Easy cleaning - white cloth can be bleached easier than colored clothing.

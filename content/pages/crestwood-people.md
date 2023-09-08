@@ -13,8 +13,6 @@ Rather than hiring the usual “painter dudes-with-rough-edges”, we actively s
 
 > It all starts with clear communication.
 
-![crestwood painting e-verify employees](/images/e-Verify-150x150.jpeg)
-
 Personality types - yes, we've been known to run a DISC profile on Project Leads. We're looking for people that respond to words like "careful", "methodical", "planning"and "process" among others. Expressionists may be perfect for painting murals but maybe not a fit for painting walls and trim.
 
 Background check - yes, we do Trust – but we also Verify. We want to be sure that the trust placed in Crestwood Painting is reflected in trustworthy employees. And then US Dept. of Labor E-Verify - so everybody is legal to work.
@@ -63,7 +61,7 @@ What if a painter doesn’t have the right equipment? What if he’s improvising
 
 That’s where consistent training and proper equipment come into play. Having the right equipment means that a Crestwood painter can safely navigate the trickiest of stairways.
 
-### Insurance![](/images/Ins-cert-crop-Edited-e1513964097847.jpg)
+### Insurance![insurance certificate](/images/Ins-cert-crop-Edited-e1513964097847.jpg)
 
 All of our people are properly protected with both business liability and workman's compensation insurance. Our limits have satisfied FedEx, UMKC, Edward Jones, Cintas, large commercial contractors, Bluebird Networks and many others. Also, oodles of homeowners.
 
@@ -93,6 +91,7 @@ Each of our painters works hard to deliver just what our customers expect.
 [![crestwood painting better business bureau bbb accredited kansas city](/images/BBB-accredited-e1513783817879.jpg)](https://www.bbb.org/kansas-city/business-reviews/painting-contractors/crestwood-painting-llc-in-kansas-city-mo-99134487)
 
 Here's a rainy day TV interview:
+{{< youtube PP-qRdjiT3M title="Rainy day interview, Crestwood Painting" width="260" height="146" frameborder="0" modestbranding="true">}}
 
 <iframe src="https://www.youtube.com/embed/PP-qRdjiT3M?rel=0&amp;controls=0&amp;showinfo=0&amp;start=26" width="260" height="146" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 

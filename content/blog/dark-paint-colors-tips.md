@@ -12,7 +12,7 @@ tags:
   - "neutral-colors"
 ---
 
-[![Paint colors - Deep base crestwood painting kansas city](/images/Duration-300x202.jpg)](/2014/01/Duration.jpg)'Dja ever notice that deep paint colors don't seem to cover as well as lighter colors? There's a simple reason for this and it involves a [recent post](/titanium-dioxide-in-your-paint-can/ "Titanium Dioxide in Your Paint Can") about titanium dioxide.
+[![Paint colors - Deep base crestwood painting kansas city](/images/Duration.jpg)](/2014/01/Duration.jpg)'Dja ever notice that deep paint colors don't seem to cover as well as lighter colors? There's a simple reason for this and it involves a [recent post](/titanium-dioxide-in-your-paint-can/ "Titanium Dioxide in Your Paint Can") about titanium dioxide.
 
 Let's say you've chosen a deep orange for your living room - this really happened about three weeks ago (along with deep burgundy, chocolate brown, etc). Because these colors requires so much tint to achieve the deep colors paint manufacturers must remove some other ingredients to make room.
 

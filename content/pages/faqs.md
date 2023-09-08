@@ -81,7 +81,7 @@ faqs:
 
 ---
 
-![paint FAQ questions kansas city crestwood painting](/images/FAQ-pic_opt.jpg)
+![paint FAQ questions kansas city crestwood painting](/images/FAQ-pic.jpg)
 
 Good questions help homeowners make good decisions.
 

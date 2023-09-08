@@ -27,7 +27,7 @@ We were introduced to the general contractor, given a best-case timeline and, af
 
 ## **Challenge I - Carpet Adhesive**
 
-![floor prep carpet adhesive removal](/images/Floor-before-300x300.jpg)
+![floor prep carpet adhesive removal](/images/Floor-before.jpg)
 
 Carpet adhesive: nasty, sticky and gummy.
 

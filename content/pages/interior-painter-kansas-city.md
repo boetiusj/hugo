@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/interior-painter-kansas-city/"
 date: "2011-09-18"
 ---
 
-![interior paint dining room kansas city](/images/DR-Orange-scaled.jpg)
+![interior paint dining room kansas city](/images/DR-Orange.jpg)
 
 Crestwood Painting can transform the interior of a single room or your entire home:
 
@@ -29,7 +29,7 @@ Crestwood Painting can transform the interior of a single room or your entire h
 
 ## The Cost of Interior Painting
 
-Generally, the price for professional painting in Kansas City starts at $680 per day per painter, including tools and some paint. But, like most things, there are several factors that affect the price. Best to just have a frank discussion about those factors and how they play into a budget discussion. Among them:
+Generally, the price for professional painting in Kansas City starts at $840 per day per painter, including tools and some paint. But, like most things, there are several factors that affect the price. Best to just have a frank discussion about those factors and how they play into a budget discussion. Among them:
 
 - What will be painted - walls, ceiling, trim or all?
 - Surface condition ([plaster repair](/plaster-repair-kansas-city/) needed?)

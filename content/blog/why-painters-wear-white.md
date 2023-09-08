@@ -11,7 +11,7 @@ categories:
   - how-to-hire-painter
 tags:
   - painters
---- 
+---  
 
 {{< figure src="/images/painters-whites.jpg" caption="Why do painters wear whites?, alt="painter wearing white uniform">}}
 

@@ -91,7 +91,7 @@ Each of our painters works hard to deliver just what our customers expect.
 [![crestwood painting better business bureau bbb accredited kansas city](/images/BBB-accredited-e1513783817879.jpg)](https://www.bbb.org/kansas-city/business-reviews/painting-contractors/crestwood-painting-llc-in-kansas-city-mo-99134487)
 
 Here's a rainy day TV interview:
-{{< youtube PP-qRdjiT3M title="Rainy day interview, Crestwood Painting" width="260" height="146" frameborder="0" modestbranding="true">}}
+{{< youtube id="PP-qRdjiT3M" title="Rainy day interview, Crestwood Painting" alt="crestwood painting tv interview video" width="300" frameborder="0" modestbranding="true">}}
 
 <!--
 <iframe src="https://www.youtube.com/embed/PP-qRdjiT3M?rel=0&amp;controls=0&amp;showinfo=0&amp;start=26" width="260" height="146" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>

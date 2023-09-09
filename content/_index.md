@@ -23,7 +23,7 @@ about:
   subtitle: "We make it easy"
   description: "Prompt and courteous painters work from clear proposals."
   show: true # turn to false to hide
-  image: "/images/bg/home-8.jpg"
+  image: "/images/bg/bgCanadaLake.webp"
   cta:
     url: "/book-us"
     label: "Let's get started"
@@ -60,7 +60,7 @@ cta:
 hero:
   headline: No Drips, No Drama
   title: Painting Kansas City Homes & Offices
-  image: "/images/bg/January.jpg"
+  image: "/images/bg/January.webp"
   button:
     url: "/book-us/"
     label: Book an Estimate

@@ -1,15 +1,18 @@
 {{ $sidebar := .Get 0 }}
+<form name="contact" class="contact-form width-normal" action="/thank-you/" method="POST" data-netlify="true">
+	<input type="hidden" name="form-name" value="contact" />
+<!--above lines added for Netlify forms-->		
 <section class="contact-form-wrap">
 	<form id="contact-form" class="contact__form py-3 mb-2" method="post" action="index.html">
-		<h3 class="text-md mb-4">Contact Form</h3>
+		<!--<h3 class="text-md mb-4">Contact Us</h3> --> 
 		<div class="form-group">
-			<input name="name" type="text" class="form-control" placeholder="Your Name" required>
+			<input name="name" type="text" class="form-control" placeholder="First and Last, please" autocomplete="off" required>
 		</div>
 		<div class="form-group">
-			<input name="email" type="email" class="form-control" placeholder="Email Address" required>
+			<input name="email" type="email" class="form-control" placeholder="Email Address" autocomplete="off" required>
 		</div>
 		<div class="form-group-2 mb-4">
-			<textarea name="message" class="form-control" rows="4" placeholder="Your Message" required></textarea>
+			<textarea name="message" class="form-control" rows="4" placeholder="Your Message" autocomplete="off" required></textarea>
 		</div>
 		<button class="btn btn-main" name="submit" type="submit">Send Message</button>
 	</form>

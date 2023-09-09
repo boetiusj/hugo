@@ -49,7 +49,7 @@ cta:
   description: "We're ready for your project."
   phone: " 816-805-4515"
   show: true # turn to false to hide
-  image:  "/images/bg/home-3.jpg"
+  image:  "/images/bg/bgCanadaLake.webp"
 #cta2: section shows at the very bottom near the footer
 #  headline: "For Every type business"
 #  show: true # turn to false to hide

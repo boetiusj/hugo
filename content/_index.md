@@ -4,8 +4,6 @@ description: "Crestwood Painting - prompt and tidy pros with organized jobsites 
 keywords: "Crestwood Painting, Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company, Mission Hills, Lee's Summit, Prairie Village, Leawood, House Painter, Exterior House Painting, Plaster repair, Interior Painting"
 canonical: "https://crestwoodpainting.com"
 date: "2011-05-04"
---- 
-
 <!--
 # delete / comment out stats block to hide
 # stats block starts
@@ -95,3 +93,4 @@ hero:
 #      description: "A digital agency isn't here to replace your internal team, we're here to partner"
 #      icon: "pencil-alt"
 -->
+--- 

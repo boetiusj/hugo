@@ -39,8 +39,8 @@ After starting in '07 we needed a name but the obvious "Brookside Painting" URL 
 
 I came home and burst through the door with the announcement. My beloved wife and daughter, in unison, said things like "Oh no" and "you've got to be kidding". They are not marketing experts. In less than 5 minutes they told me the company would be called Crestwood Painting. I shrewdly agreed.
 
-Crestwood is a neighborhood within Brookside, snuggled in just south of UMKC at Oak St.
-
+("Crestwood" is another classic Kansas City neighborhood within Brookside, snuggled in just south of UMKC at Oak St.)
+[![customer review painter kansas city crestwood painting](/images/Kristy-Glorfeld.jpg)](/reviews/)
 ### Schedule Driven
 
 Best to look for a company that sets expectations for painters as effectively as those for customers. Those things that are expected of every service company, but often not delivered:

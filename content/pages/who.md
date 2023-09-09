@@ -15,7 +15,7 @@ coverImage: "Cropped-e1513965769859.jpg"
 - On-time starts, full days
 - Friendly people, tidy work areas
 
-Year after year, it's paid off: we're in our 16th year and business is booming. We continue to get rave reviews, [feedback](/reviews/) & testimonials. Customers tell their friends about us.
+Year after year, it's paid off: we're in our 16th year and business is booming. We continue to get rave [reviews, feedback & testimonials](/reviews/). Customers tell their friends about us.
 
 And it all starts with:
 

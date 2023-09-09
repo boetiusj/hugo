@@ -59,7 +59,7 @@ cta:
 #    label: "Contact Us"
 hero:
   headline: No Drips, No Drama
-  title: Painting Kansas City Homes and Offices
+  title: Painting Kansas City Homes & Offices
   image: "/images/bg/January.jpg"
   button:
     url: "/book-us/"

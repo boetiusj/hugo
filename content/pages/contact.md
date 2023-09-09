@@ -9,7 +9,7 @@ date: "2011-09-21"
 
 Crestwood Painting is Prompt & Tidy - so is our communication.
 
-{{< contact >}}
+{{< contact >}}  
 ___
 
 ## Payments

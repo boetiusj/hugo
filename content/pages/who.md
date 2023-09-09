@@ -1,7 +1,7 @@
 ---
 title: "Our Story"
 url: "who"
-description: "We got started one month BEFORE the Great Recession - we're still here, employing great people and getting great reviews. Check us out!"
+description: "Communicate often, set clear expectations and meet them. Be courteous, responsive, tidy, prompt. Always professional"
 keywords: "no drips no drama, story, who we are, about"
 canonical: "https://crestwoodpainting.com/who/"
 date: "2011-09-27"

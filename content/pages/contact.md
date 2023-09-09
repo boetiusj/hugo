@@ -19,7 +19,7 @@ ___
 ## Warranty
 
 [Warranty Info](/warranty/) - we stand behind our work
-
+___
 Mailing address:\
 Crestwood Painting\
 236 W. 73rd Terr.\

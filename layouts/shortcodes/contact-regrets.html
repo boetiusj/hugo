@@ -1,6 +1,6 @@
 {{ $sidebar := .Get 0 }}
 <form name="contact-regrets" class="contact-form width-normal" action="" method="POST" data-netlify="true">
-	<input type="hidden" name="form-name" value="contact-regrets" />
+	<input type="hidden" name="contact-regrets" value="contact-regrets" />
 <!--above lines added for Netlify forms-->		
 <section class="contact-form-wrap">
 	<form id="contact-form" class="contact__form py-3 mb-2" method="post" action="index.html">
@@ -12,7 +12,7 @@
 			<input name="email" type="email" class="form-control" placeholder="Your Email" autocomplete="off" required>
 		</div>
 		<div class="form-group-2 mb-4">
-			<textarea name="message" class="form-control" rows="4" placeholder="Tell Us" autocomplete="off" required></textarea>
+			<textarea name="message" class="form-control" rows="4" placeholder="Your message" autocomplete="off" required></textarea>
 		</div>
 		<button class="btn btn-main" name="submit" type="submit">Send Message</button>
 	</form>

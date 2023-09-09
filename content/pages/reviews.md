@@ -463,8 +463,7 @@ _12/22/14_\
 The crew at Crestwood Painting was very professional. They were punctual and cleaned up after themselves when the project was finished. The rooms look fantastic! Very happy with their work. Highly recommended.
 Paul C.
 
->  We have peace of mind knowing we can call a contractor that we can trust to be timely, reliable, accurate, clean, tidy, efficient and affordable.
-
+> We have peace of mind knowing we can call a contractor that we can trust to be timely, reliable, accurate, clean, tidy, efficient and affordable.
 **Plan to hire them again**\
 _12/4/14_\
 I highly recommend Crestwood Painting and plan to hire them again when needed. They painted the entire interior of my house. Very professional and knowledgeable consultants to answer all your questions. Speedy high quality service.
@@ -475,7 +474,7 @@ _11/11/14_\
 Mike Kelly with Crestwood Painting gave his paint estimate before we were even organized about the overall project. Mike not only provided thorough, fair quote, he made several key suggestions about how to plan and prep to ensure painting could be done just right. If painting is all about “best preparation,” then the hours of cleaning, scraping, and caulking MADE SURE we were PREPARED. Mike and Erek were onsite frequently. The ending result might be the best paint job this house has ever received.
 Matt P.
 
->  As a normal DIY’er that actually enjoys painting, I am very pleased that I chose Crestwood Painting and would absolutely recommend them.
+>As a normal DIY’er that actually enjoys painting, I am very pleased that I chose Crestwood Painting and would absolutely recommend them.
 
 **My personal experience was great, just like I expected**\
 _9/22/14_\
@@ -633,9 +632,8 @@ Balamba A.
 
 **Exceptionally helpful**\
 _4/15/2013_\
-Crestwood Painting is an excellent example of getting what you pay for. While they were our most expensive estimate by a solid 20% over the next-highest competitor, I would absolutely (and likely will, down the line) use them again. We took a bit of a chance and chose them based on their stellar reputation and my excellent first impression during the initial estimate. I'm glad we made the choice we did. I heartily recommend their services.  The staff are exceptionally helpful and [communicate](/reviews/) plan and changes therein as they develop. You will always be kept abreast of progress, hitches in the plan, possible improvements to your home, and other issues. Everyone I encountered was very friendly and easy to work with. I admit that I was a particularly difficult customer, for a variety of reasons, but Crestwood took all the flak I and my realtor could throw at them in stride. They were always professional and worked hard to make sure I was satisfied with progress and the results.  I am certainly very happy with the work Crestwood Painting did. They scraped the house well and painted fairly quickly, despite being repeatedly delayed by rain. As they worked, they were very clean and kept their tools [Alex T.](#organized1)
-
-[
+Crestwood Painting is an excellent example of getting what you pay for. While they were our most expensive estimate by a solid 20% over the next-highest competitor, I would absolutely (and likely will, down the line) use them again. We took a bit of a chance and chose them based on their stellar reputation and my excellent first impression during the initial estimate. I'm glad we made the choice we did. I heartily recommend their services.  The staff are exceptionally helpful and communicate plan and changes as they develop. You will always be kept abreast of progress, hitches in the plan, possible improvements to your home, and other issues. Everyone I encountered was very friendly and easy to work with. I admit that I was a particularly difficult customer, for a variety of reasons, but Crestwood took all the flak I and my realtor could throw at them in stride. They were always professional and worked hard to make sure I was satisfied with progress and the results.  I am certainly very happy with the work Crestwood Painting did. They scraped the house well and painted fairly quickly, despite being repeatedly delayed by rain.
+Alex T.
 
 4/5/2013
 Crestwood Painting did a fantastic job painting our house.
@@ -643,11 +641,9 @@ Chip L.
 
 > Crestwood Painting was prompt, kept our house clean and completed the project on time.
 
-](#organized1)
-
-[**Very pleased with their prompt response and genuine personal _\interest**\\
+**Very pleased with their prompt response and genuine personal interest**\
 _3_/6/2013_\
-Very pleased with the interior painting Crestwood finished in our home. Our only initial hesitation about requesting a bid from a company from the phone book was that we had no prior recommendations. We were very pleased with their prompt response and genuine personal interest. Crestwood provided a very competitive bid and we received our moneys worth. The job was promptly scheduled and they finished on time. The crew was professional, friendly, arrived on time daily, and did a great job of keeping a clean work space, protecting our belongings, and leaving things well](#organized1) [organized](#organized1) when they left. We plan on having exterior painting done soon and will definitely have Crestwood do the job. Highly recommended!
+Very pleased with the interior painting Crestwood finished in our home. Our only initial hesitation about requesting a bid from a company from the phone book was that we had no prior recommendations. We were very pleased with their prompt response and genuine personal interest. Crestwood provided a very competitive bid and we received our moneys worth. The job was promptly scheduled and they finished on time. The crew was professional, friendly, arrived on time daily, and did a great job of keeping a clean work space, protecting our belongings, and leaving things well organized when they left. We plan on having exterior painting done soon and will definitely have Crestwood do the job. Highly recommended!
 Lynn W.
 
 **I felt confidence in their experience**\

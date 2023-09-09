@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 url: "contact"
-description: "Contact the friendly folks at Crestwood Painting - we'll get right back to you, usually the same business day. Or call 816-805-4515"
+description: "Contact the friendly folks at Crestwood Painting - we'll get right back to you. Or call us: 816-805-4515"
 keywords: "contact, Kansas City painter, crestwood painting"
 canonical: "https://crestwoodpainting.com/contact/"
 date: "2011-09-21"

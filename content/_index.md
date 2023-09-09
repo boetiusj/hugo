@@ -19,7 +19,7 @@ date: "2011-05-04"
 # stats block ends
 about:
   headline: "Who we are"
-  title: "Hometown, friendly people."
+  title: "Same. Local. Owners."
   subtitle: "We make it easy"
   description: "Prompt and courteous painters work from clear proposals."
   show: true # turn to false to hide
@@ -44,10 +44,10 @@ intro:
       summary: "Quiet and careful, one room at a time - on your schedule."
 
 cta:
-  title: "Earning Kansas City's trust for over 15 years."
+  title: "Earning Kansas City's trust for over 16 years."
   headline: "Prompt and Reliable"
   description: "We're ready for your project."
-  phone: " 816-805-4515"
+  phone: "816-805-4515"
   show: true # turn to false to hide
   image:  "/images/bg/bgCanadaLake.webp"
 #cta2: section shows at the very bottom near the footer

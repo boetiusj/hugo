@@ -17,7 +17,7 @@ We'll work around your schedule to minimize disruptions. Use zero VOC paint so n
 
 > We'll prepare a well-planned project sequence so we stay out of the way and finish one area before we move on. We'll communicate that plan so everybody knows what to expect.
 
-# Top 5 Office Painting Concerns
+## Top 5 Office Painting Concerns
 
 - Scattered or disorganized work flow
 - Wet Paint
@@ -46,11 +46,11 @@ Whether you need to paint an executive area, a cafeteria, an auditorium or just
 ## Details Matter With Commercial Painting
 
 - On time - we arrive fully equipped at 7am (or 8, or 9 - you call the shots) and stay on site all day, every day until the project is complete
-- Low profile - we'll set up a shop area in an agreed-upon location and then get right to work. Our clear Scope of Work means we're self sufficient and will need almost no interaction with your office staff.
+- Low profile - we'll set up a shop area in an agreed-upon location and then get right to work. Our clear Scope of Work means we're self sufficient and will need almost no interaction  with your office staff.
 - Furniture - we'll move small furniture for access and return it when done
-    - Wall hangings, nameplates, misc. stuff - sometimes removal makes sense, sometime not. We'll discuss the options before getting started so you know what to expect.
-    - File cabinets - We'll move them (when possible), paint around them or arrange to have them moved while we do our thing. Just let us know what you'd prefer.
-    - Office desk systems - usually we paint around them as access allows. Or, we'll arrange for professional movers to handle this.
+- Wall hangings, nameplates, misc. stuff - sometimes removal makes sense, sometime not. We'll discuss the options before getting started so you know what to expect.
+- File cabinets - We'll move them (when possible), paint around them or arrange to have them moved while we do our thing. Just let us know what you'd prefer.
+- Office desk systems - usually we paint around them as access allows. Or, we'll arrange for professional movers to handle this.
 - End of Day - we'll remove our gear to the shop area and be sure everybody is ready for a fresh start the next day.
 
 ## Cost of Office Painting
@@ -97,6 +97,6 @@ Plugged-in electronics remain plugged in - we'll leave the electrical cover plat
 
 Call Crestwood Painting for your office painting needs. We're an established and proven company with a reputation for safe, on-time production results and delighted customers. Call today to look into a No Drips No Drama experience.
 
-![commercial painting kansas city crestwood](/images/O-UMKC.webp) ![Edward Jones painting office kansas city](/images/O-edwardjones.webp) ![office painting fedex kansas city](/images/O-fedex-logo.webp) ![office painting kansas city crestwood](/images/O-Cintas.webp) ![office painting kansas city UnitedWay](/images/O-UnitedWay.webp) ![commercial painting warehouse Republi](/images/O-Republic.webp) ![commercial office painting k city Thrifty](/images/O-Thrifty.webp) ![office painting kansas city Bluebird](/images/O-Bluebird.webp) 
+![commercial painting kansas city crestwood](/images/O-UMKC.webp) ![Edward Jones painting office kansas city](/images/O-edwardjones.webp) ![office painting fedex kansas city](/images/O-fedex-logo.webp) ![office painting kansas city crestwood](/images/O-Cintas.webp) ![office painting kansas city UnitedWay](/images/O-UnitedWay.webp) ![commercial painting warehouse Republi](/images/O-Republic.webp) ![commercial office painting k city Thrifty](/images/O-Thrifty.webp) ![office painting kansas city Bluebird](/images/O-Bluebird.webp)
 
-[![commercial painting senior crestwood ](/images/O-Sunrise-Senior-Living.webp)](/reviews/)
+[![commercial painting senior crestwood](/images/O-Sunrise-Senior-Living.webp)](/reviews/)

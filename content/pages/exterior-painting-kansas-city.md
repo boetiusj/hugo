@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/exterior-painting-kansas-city/"
 date: "2011-09-18"
 ---
 
-![exterior painting gray white](/images/January-scaled.jpg)
+![exterior painting gray white](/images/x-january.webp)
 
 Painting is the most cost-effective way to transform and beautify your Kansas City home. Choose a house painter with a proven track record, [rave online reviews](/reviews/) and the business skill to deliver a glitch-free experience.
 
@@ -16,7 +16,7 @@ Painting is the most cost-effective way to transform and beautify your Kansas Ci
 - Thorough, methodical prep lasts longest
 - [Certified painters](/lead-paint-certification-important/) mean safe work practices
 
-## The Exterior Painting Process:
+## The Exterior Painting Process
 
 - Set up a tidy, out-of-the-way work area
 - Carefully tarp to catch debris

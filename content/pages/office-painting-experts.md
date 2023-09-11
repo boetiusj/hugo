@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/office-painting-experts/"
 date: "2017-01-16"
 ---
 
-![office painting kansas city](/images/Bluebird-aisle-e1484575560338.jpg)
+![office painting kansas city](/images/O-Bluebird-aisle.webp)
 
 This busy network office continued to hum while Crestwood Painting quietly did their thing.
 
@@ -31,7 +31,7 @@ Whether you need to paint an executive area, a cafeteria, an auditorium or just
 
 - First, we'll prepare a well-planned project sequence so we stay out of the way and finish one area before we move on. We'll communicate that plan so everybody knows what to expect.
 
-![painting office kansas city](/images/Screenshot-2017-06-05-at-10.32.10.jpg)
+![painting office kansas city](/images/O-print-layout.webp)
 
 "A job well-planned is half delivered."
 
@@ -41,7 +41,7 @@ Whether you need to paint an executive area, a cafeteria, an auditorium or just
 
 - Servers, monitors, cabling - We'll cover everything with the appropriate material (light plastic over that graphics monitor, not a cruddy drop cloth) and be sure to steer clear of anything that's plugged in.
 
-- Security concerns - You want assurance that your service contractor isn't going to steal from your company or any of your employees. [Background checks](/crestwood-people/#background) will help, so will [consistent raving reviews](/reviews/). We'll also go over access procedures, work hours, safety protocols, service elevators, janitor's closet, etc.
+- Security concerns - You want assurance that your service contractor take advantage of anything. Good hiring practices will help, so will [consistent raving reviews](/reviews/). We'll also go over access procedures, work hours, safety protocols, service elevators, janitor's closet, etc.
 
 ## Details Matter With Commercial Painting
 
@@ -71,13 +71,13 @@ The short answer is that office painting in Kansas City is generally about $600 
 
 With larger projects the balance between labor and materials changes so a contractor is able to be more efficient, and therefore, more cost-effective.
 
-We have a one day ($600) minimum - this allows us to arrive, set up and be most efficient with our time and your budget. That means that you'll get top value when painting your conference room or front entry.
+We have a one day ($840) minimum - this allows us to arrive, set up and be most efficient with our time and your budget. That means that you'll get top value when painting your conference room or front entry.
 
 ## What Kind of Painters?
 
 Crestwood Painting screens our painters so that you'll only have the kind of painters your office staff can feel safe with. We do hire nice people that enjoy their co-workers and take pride in doing a great job. We don't hire thieves, we don't hire felons - criminal background screens make sure of that. All employees communicate clearly in English and wear professional painters' white pants and Crestwood Painting uniform shirts.
 
-[Safety matters so we make sure to train our employees](/crestwood-people/) on how to safely work in office environments. We'll use the right ladder for hallways, the right ladder for stairs. We'll use caution tape to flag an area so your nice office people don't wind up in our wet paint. Drop cloths when they're needed, doors closed where possible. We're even equipped to set up temporary barrier walls if that's a better option.
+Safety matters so we make sure to train our people on how to safely work in office environments. We'll use the right ladder for hallways, the right ladder for stairs. We'll use caution tape to flag an area so your nice office people don't wind up in our wet paint. Drop cloths when they're needed, doors closed where possible. We're even equipped to set up temporary barrier walls if that's a better option.
 
 ## What if Something Goes Wrong
 

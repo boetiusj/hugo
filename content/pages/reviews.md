@@ -14,138 +14,138 @@ Reviews of our house painters - interior and exterior. Check out [video testimon
 **Deliver results and finish in a timely fashion**\
 _4/2020_\
 Top quality client-driven painting contractor. We are pleased with the experience and results! Our house never looked better - not even when we bought it!
-Honest, professional, big enough to meet our needs with adequate personnel to deliver results and finish in a timely fashion. Small enough to be dealing with the owner throughout. Crestwood are folks we will be glad to recommend to others.
+Honest, professional, big enough to meet our needs with adequate personnel to deliver results and finish in a timely fashion. Small enough to be dealing with the owner throughout. Crestwood are folks we will be glad to recommend to others.\
 Michael G.
 
 **We couldn't recommend them more**\
 _1/2020_\
-The crew was so nice and respectful of our property. They did a great prep job and we are very happy with how everything turned out. Very well done, and we couldn't recommend them more.
+The crew was so nice and respectful of our property. They did a great prep job and we are very happy with how everything turned out. Very well done, and we couldn't recommend them more.\
 Mike L.
 
 **Ben worked efficiently and cleanly**\
 _1/2020_\
-We have now used Crestwood for another painting project! We had our dining room painted. Ben worked efficiently and cleanly and it looks amazing! He showed up early and was very professional. I am so pleased with the finished product!
+We have now used Crestwood for another painting project! We had our dining room painted. Ben worked efficiently and cleanly and it looks amazing! He showed up early and was very professional. I am so pleased with the finished product!\
 Karin W.
 
 **Two projects... incredibly happy**\
 _1/2020_\
-I've used Crestwood Painting for two projects - exterior and interior and been incredibly happy with their service and quality. When we bid our exterior painting their cost was not the cheapest or highest and we selected them based on positive referrals from neighbors. Mike and Ben were so great to work with I didn't even bid our interior work - I went straight to them. They painted our interior while we were on vacation and I was totally comfortable giving Ben access to our house even when we weren't there. With a 100-year-old house there is rarely a straightforward project and Mike provided advice on the best way to approach our projects. When we had a few minor issues, they were resolved quickly with no hesitation. I would absolutely use them again and recommend then to our friends.
+I've used Crestwood Painting for two projects - exterior and interior and been incredibly happy with their service and quality. When we bid our exterior painting their cost was not the cheapest or highest and we selected them based on positive referrals from neighbors. Mike and Ben were so great to work with I didn't even bid our interior work - I went straight to them. They painted our interior while we were on vacation and I was totally comfortable giving Ben access to our house even when we weren't there. With a 100-year-old house there is rarely a straightforward project and Mike provided advice on the best way to approach our projects. When we had a few minor issues, they were resolved quickly with no hesitation. I would absolutely use them again and recommend then to our friends.\
 Katie H.
 
 **Makes a plan, communicates that plan, then follows through**\
 _11/2019_\
-Mike is that rarest of contractors: He provides a budget then stays within in. He makes a plan, communicates that plan, then follows through on the timing. I have had a lot of rehab and renovation work done over the years, and rarely does a contractor deliver in these ways. Moreover, perhaps most importantly, Mike's painting crew was thoughtful and professional. When issues arose, which they always do on 100-year-old homes, Mike's lead painter studied the problem, determined a solution, then communicated both to me. I was pleased in every aspect of this service.
+Mike is that rarest of contractors: He provides a budget then stays within in. He makes a plan, communicates that plan, then follows through on the timing. I have had a lot of rehab and renovation work done over the years, and rarely does a contractor deliver in these ways. Moreover, perhaps most importantly, Mike's painting crew was thoughtful and professional. When issues arose, which they always do on 100-year-old homes, Mike's lead painter studied the problem, determined a solution, then communicated both to me. I was pleased in every aspect of this service.\
 Kim M.
 
 > We had the best experience with Crestwood Painting!
 
 **Very professional and meticulous and friendly!!!**\
 _9/2019_\
-HI Neighbors! We had the best experience with Crestwood Painting! Mike was great to work with and help us figure out what we needed! Then they provided the service of Sherman Williams paint expert that helped us pick out just the right colors! Best of all was Ben and his team…all very professional and meticulous and friendly!!! I would highly recommend Crestwood Painting!!!
+HI Neighbors! We had the best experience with Crestwood Painting! Mike was great to work with and help us figure out what we needed! Then they provided the service of Sherman Williams paint expert that helped us pick out just the right colors! Best of all was Ben and his team…all very professional and meticulous and friendly!!! I would highly recommend Crestwood Painting!!!\
 Susan G.
 
 **Crestwood was the most professional\
 _**7/2019\_\
-_We hired _Crestwood to paint our 23,000 sq foot commercial \building. We got several bids but Crestwood was the most professional, stayed in contact, the crew was nice (and had a good sense of humor) and did a beautiful job. Definitely recommend this company.
+_We hired _Crestwood to paint our 23,000 sq foot commercial \building. We got several bids but Crestwood was the most professional, stayed in contact, the crew was nice (and had a good sense of humor) and did a beautiful job. Definitely recommend this company.\
 Dynel W.
 
 **A rarity when dealing with home service contractors**\
 _7/2019_\
-Very professional, polite, and communicative, a rarity when dealing with home service contractors. Pricing was in line with others who ultimately did not get the job. We chose Crestwood because Mike was very professional, and provided the information that was important to a homeowner who may not know all of the in's and out's of the painting business, but was not trying to oversell their services by creating "problems" that they could solve. He let us know what to expect if we chose his company, and that is exactly how it went. Couldn't be more pleased with the entire experience. I would highly recommend Crestwood Painting.
+Very professional, polite, and communicative, a rarity when dealing with home service contractors. Pricing was in line with others who ultimately did not get the job. We chose Crestwood because Mike was very professional, and provided the information that was important to a homeowner who may not know all of the in's and out's of the painting business, but was not trying to oversell their services by creating "problems" that they could solve. He let us know what to expect if we chose his company, and that is exactly how it went. Couldn't be more pleased with the entire experience. I would highly recommend Crestwood Painting.\
 Wes S.
 
 > Crestwood was the most professional, stayed in contact, the crew was nice (and had a good sense of humor) and did a beautiful job. Definitely recommend this company.
 
 **Boy, do they work clean!**\
 _7/2019_\
-Crestwood did a terrific job! Because of our non-standard interior walls they had to tape and spray most of the rooms, and boy, do they work clean! The house looks beautiful, with zero damage and zero overspray. Props to Doug and Mario for a tough job well done!
+Crestwood did a terrific job! Because of our non-standard interior walls they had to tape and spray most of the rooms, and boy, do they work clean! The house looks beautiful, with zero damage and zero overspray. Props to Doug and Mario for a tough job well done!\
 Tara K.
 
 **Good communication through the entire process**\
 _6/2019_\
-Utilized Crestwood for painting the exterior of my 3-story house. Very fair price. Good communication through the entire process. Cleaned up at the end of each day. And most importantly was completely satisfied with the end product!
+Utilized Crestwood for painting the exterior of my 3-story house. Very fair price. Good communication through the entire process. Cleaned up at the end of each day. And most importantly was completely satisfied with the end product!\
 Todd F.
 
 **Show up on time and get the work done**\
 _6/2019_\
-Crestwood just finished painting the exterior of my two-story, 1930's vintage house. They worked hard to make sure everything was done correctly, and the team did a great job and Mike was happy to be involved throughout the process. Crestwood will show up on time and get the work done, period.
+Crestwood just finished painting the exterior of my two-story, 1930's vintage house. They worked hard to make sure everything was done correctly, and the team did a great job and Mike was happy to be involved throughout the process. Crestwood will show up on time and get the work done, period.\
 Matthew S.
 
 **Completed in a timely manner and with a professional crew**\
 _4/2019_\
-Crestwood did a great job repainting our home. They were on time and completed it within a week. They worked to make sure all of my concerns were addressed following the final walk around. It's nice when projects like this are completed in a timely manner and with a professional crew. I think their prices may be a bit higher than some, but the quality, professionalism and timely completion make it worth it.
+Crestwood did a great job repainting our home. They were on time and completed it within a week. They worked to make sure all of my concerns were addressed following the final walk around. It's nice when projects like this are completed in a timely manner and with a professional crew. I think their prices may be a bit higher than some, but the quality, professionalism and timely completion make it worth it.\
 Jeff H.
 
 **Recommend with gusto**\
 _4/2019_\
-Mike was prompt & professional in meeting and providing a bid. The bid was right on the money, as was the work. We required a patch in our 100-year-old lath & plaster ceiling after the replacement of an upstairs shower. Aaron from Crestwood seamlessly repaired the unsightly hole above our dining room table and provided timely follow up & convenient billing practices. Recommend with gusto.
+Mike was prompt & professional in meeting and providing a bid. The bid was right on the money, as was the work. We required a patch in our 100-year-old lath & plaster ceiling after the replacement of an upstairs shower. Aaron from Crestwood seamlessly repaired the unsightly hole above our dining room table and provided timely follow up & convenient billing practices. Recommend with gusto.\
 Jared B.
 
 > We had a great experience using Crestwood to have our kitchen cabinets painted as well as the walls and the ceiling. They did an excellent job, showed up on time every morning, communicated everything with us so we knew what to expect and finished ahead of schedule.
 
 **Amazing job on our church building!**\
 _4/2019_\
-Crestwood did an amazing job on our church building! They were very friendly, worked efficiently, and finished the job in a timely fashion. Thank you, Crestwood for being reliable and trustworthy!
+Crestwood did an amazing job on our church building! They were very friendly, worked efficiently, and finished the job in a timely fashion. Thank you, Crestwood for being reliable and trustworthy!\
 Heather K.
 
 **We knew what to expect**\
 _12/2018_\
-We had a great experience using Crestwood to have our kitchen cabinets painted as well as the walls and the ceiling. They did an excellent job, showed up on time every morning, communicated everything with us so we knew what to expect and finished ahead of schedule. Not being able to use our kitchen for about a week made me nervous but they made the process as easy as it could be! I feel like our cabinets look brand new and we are very happy with their work. We have used Crestwood before and we would definitely use them again in the future!
+We had a great experience using Crestwood to have our kitchen cabinets painted as well as the walls and the ceiling. They did an excellent job, showed up on time every morning, communicated everything with us so we knew what to expect and finished ahead of schedule. Not being able to use our kitchen for about a week made me nervous but they made the process as easy as it could be! I feel like our cabinets look brand new and we are very happy with their work. We have used Crestwood before and we would definitely use them again in the future!\
 Karin W.
 
 **Pleased by the skill and efficiency of the team**\
 _12/2018_\
-We had difficult old papered walls for Crestwood to deal with and they managed to finish them up looking like new. We are very happy. I was very pleased by the skill and efficiency of the team and their attention to detail. Brandon, the project supervisor, has excellent management skills, very proactive and supportive of team initiatives and tasks while keeping things coordinated and done on schedule.
+We had difficult old papered walls for Crestwood to deal with and they managed to finish them up looking like new. We are very happy. I was very pleased by the skill and efficiency of the team and their attention to detail. Brandon, the project supervisor, has excellent management skills, very proactive and supportive of team initiatives and tasks while keeping things coordinated and done on schedule.\
 Rachel G.
 
 **Polite and professional**\
 _11/2018_\
-It is really easy to find someone to do the job cheaper, the problem is getting someone that is going to do the job correctly. The Gentlemen that came to my home were not only professional they were polite and professional. My family appreciates the work they did but even more than that we respect them as professionals. Thank you it was worth every penny, and like I said my Wife is happy so I am happy.
+It is really easy to find someone to do the job cheaper, the problem is getting someone that is going to do the job correctly. The Gentlemen that came to my home were not only professional they were polite and professional. My family appreciates the work they did but even more than that we respect them as professionals. Thank you it was worth every penny, and like I said my Wife is happy so I am happy.\
 Harold B.
 
 **I am very happy**\
 _11/2018_\
-Crestwood was communicative through the whole process, provided a clear estimate, and began work on time. They were able to start quickly after I accepted the estimate and the painter they sent was personable and professional. I had some ceilings painted and I am very happy with how they turned out and it was done at a reasonable price.
+Crestwood was communicative through the whole process, provided a clear estimate, and began work on time. They were able to start quickly after I accepted the estimate and the painter they sent was personable and professional. I had some ceilings painted and I am very happy with how they turned out and it was done at a reasonable price.\
 Michael H.
 
 **Totally happy**\
 _10/2018_\
-I just used Crestwood and was totally happy. They are local-Waldo too.
+I just used Crestwood and was totally happy. They are local-Waldo too.\
 Melody P.
 
 **Detail oriented management and personnel**\
 _9/2018_\
-Very professional and detail oriented management and personnel.
+Very professional and detail oriented management and personnel.\
 Laura K.
 
 **...for every single painting job we ever do in the future!**\
 _9/2018_\
-Crestwood did an amazing job. Mike and his team were thoroughly professional from start to finish. This was an apartment in a very old building and they did a wonderful job in repairing cracks in both the wood and the plaster. Will absolutely use them for every single painting job we ever do in the future. Thank you Mike!!
+Crestwood did an amazing job. Mike and his team were thoroughly professional from start to finish. This was an apartment in a very old building and they did a wonderful job in repairing cracks in both the wood and the plaster. Will absolutely use them for every single painting job we ever do in the future. Thank you Mike!!\
 Peter H.
 
 **Recommend them to friends and family!**\
 _9/2018_\
-We hired Crestwood Painting to paint the exterior of our house. Mike gave us a bid that was comparable to other companies, but their great reviews set them apart and we decided to hire them. Mike and Brandon were extremely responsive and answered all (a lot) of my questions. David and his crew were great to work with and they had amazing work ethic and updated me on their progress as they worked. We are really pleased with the finished product and the level of detail they put on our house! We would definitely recommend them to friends and family! The only complaint I have through the whole process has nothing to do with Crestwood themselves, but a 3rd party service they offer. I'm going to put it in my review to hopefully help future customers: You have a choice to use a "color consultant" who is affiliated with PPG paints, not Crestwood (Crestwood then uses PPG paints instead of Sherwin Williams if you use the consultant). We decided to use the consultant and gave her a house that had the exact paint color we were wanting. She "matched" the color and gave it to us at our consultation. The whole "consultation" was really unprofessional and rushed, and somehow I felt bad even asking any questions or raising any concerns. Any of our concerns on the color were met with "Well that's the match, it will look different once it's transposed on your house". Well... we decided to trust the color expert and let's just say the color is nowhere near the color we wanted it to be. We called her, again an unprofessional conversation, and the final conclusion is she was going to go look at our house and call us back. It's been a week now and no call. LONG STORY SHORT: use Crestwood Painting, they are amazing, but do not use their 3rd party PPG color consultant.
+We hired Crestwood Painting to paint the exterior of our house. Mike gave us a bid that was comparable to other companies, but their great reviews set them apart and we decided to hire them. Mike and Brandon were extremely responsive and answered all (a lot) of my questions. David and his crew were great to work with and they had amazing work ethic and updated me on their progress as they worked. We are really pleased with the finished product and the level of detail they put on our house! We would definitely recommend them to friends and family! The only complaint I have through the whole process has nothing to do with Crestwood themselves, but a 3rd party service they offer. I'm going to put it in my review to hopefully help future customers: You have a choice to use a "color consultant" who is affiliated with PPG paints, not Crestwood (Crestwood then uses PPG paints instead of Sherwin Williams if you use the consultant). We decided to use the consultant and gave her a house that had the exact paint color we were wanting. She "matched" the color and gave it to us at our consultation. The whole "consultation" was really unprofessional and rushed, and somehow I felt bad even asking any questions or raising any concerns. Any of our concerns on the color were met with "Well that's the match, it will look different once it's transposed on your house". Well... we decided to trust the color expert and let's just say the color is nowhere near the color we wanted it to be. We called her, again an unprofessional conversation, and the final conclusion is she was going to go look at our house and call us back. It's been a week now and no call. LONG STORY SHORT: use Crestwood Painting, they are amazing, but do not use their 3rd party PPG color consultant.\
 Daniel M.
 
 **Respectful of the property, and left everything clean**\
 _9/2018_\
 Crestwood Painting was great. I got 4 reviews - Crestwood was not the highest or the lowest. I had a good conversation with Mike when he gave the bid - he took time to talk about the project, so I always felt I could ask questions or raises issues. They also did a good job of communicating who was the supervisor at the site on any given day. The crew was pleasant and friendly, was respectful of the property, and left everything clean. They worked efficiently and got the job done in a timely manner. Would definitely recommend and would hire again.
-Susan L.
+Susan L.\
 
 **Great company**\
 _8/2018_\
-We had Crestwood Painting do our home interior and it was a great experience. The guys were super friendly and nice and we felt very comfortable having them in our home. I was also amazed at the quality of work and the timely manner in which they finished. Great company and great customer service!
+We had Crestwood Painting do our home interior and it was a great experience. The guys were super friendly and nice and we felt very comfortable having them in our home. I was also amazed at the quality of work and the timely manner in which they finished. Great company and great customer service!\
 Jenna S.
 
 **On time, on budget, great results!**\
 _7/2018_\
-Extremely pleased! Crestwood came highly recommended by our neighbor, a designer for a respected remodeling company. Mike and his talented painters did not disappoint! On time, on budget, great results! Will definitely use Crestwood again.
+Extremely pleased! Crestwood came highly recommended by our neighbor, a designer for a respected remodeling company. Mike and his talented painters did not disappoint! On time, on budget, great results! Will definitely use Crestwood again.\
 Chris R.
 
 **Professional, clean, and on time**\
 _6/2018_\
-The crew was professional, clean, and on time. Could not have asked for a better experience.
+The crew was professional, clean, and on time. Could not have asked for a better experience.\
 Kimberly J.
 
 **Highly recommend this firm**\

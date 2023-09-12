@@ -299,7 +299,7 @@ _1-25-2017_\
 This professional team did an amazing job painting and respecting my preferences, my home and my belongings. They were interested in telling me what they needed and what recommendations they could make for a satisfactory result. I appreciated the initial conversation with Mike but Doug and Cameron were just exceptional. Crestwood gave me a reasonable scope of the project, and even though the first day had an unexpected delay, they recovered quickly, moving the work right along. I could not be more pleased. Thank you!\
 D. Kuhn
 
-The painters were courteous, worked quickly and well, cleaned up well, and were responsive to problems - overall I cannot imagine a better painting experience.
+> The painters were courteous, worked quickly and well, cleaned up well, and were responsive to problems - overall I cannot imagine a better painting experience.
 
 **Exceeded All Of Our Expectations!**\
 _11-15-2016_\

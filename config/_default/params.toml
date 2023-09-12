@@ -3,7 +3,7 @@ blogPageSidebarOn = true
 # number of latest posts to show on blog sidebar
 latestPosts = 3
 email = "admin@crestwoodpainting.com"
-phone = "816-805-4515"
+phone = "tel:+816-805-4515"
 copyright = "Copyright &copy; 2007 - 2023  [Crestwood Painting](https://crestwoodpainting.com/)"
 logo = "/images/crestwoood-painting-logo.png"
 [nav_cta]

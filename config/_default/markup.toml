@@ -22,6 +22,6 @@
 [module.mounts]
   source = 'assets'
   target = 'assets'
-[module.mounts]
+# [module.mounts]
   source = 'static'
   target = 'assets' 

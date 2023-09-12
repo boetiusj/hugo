@@ -11,7 +11,7 @@
 					<span class="h6 text-color">{{ $cta.headline }}</span>
 					<h2 class="mt-2 mb-4">{{ $cta.title }}</h2>
 					<p class="lead mb-4">{{ $cta.description }}</p>
-					<h3><i class="ti-mobile mr-3 text-color">tel:+{{ default site.Params.phone $cta.phone }}</i></h3>
+					<h3><i class="ti-mobile mr-3 text-color"><a href="tel:+{{ default site.Params.phone $cta.phone }}"></a></i></h3>
 				</div>
 			</div>
 		</div>

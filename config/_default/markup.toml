@@ -20,8 +20,8 @@
   startLevel = 2
 # Added 6 lines below 9/2/23 - https://discourse.gohugo.io/t/resize-an-image-with-markdown/34833/11
 #[module.mounts]
-#  source = 'assets'
-#  target = 'assets'
- [module.mounts]
+  source = 'assets'
+  target = 'assets'
+#[module.mounts]
   source = 'static'
   target = 'assets' 

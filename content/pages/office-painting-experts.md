@@ -99,4 +99,4 @@ Call Crestwood Painting for your office painting needs. We're an established and
 
 {{< figure src="/images/O-UMKC.webp" alt="UMKC painting customer" height="50" >}} ![Edward Jones painting office kansas city](/images/O-edwardjones.webp) ![office painting fedex kansas city](/images/O-fedex-logo.webp) ![office painting kansas city crestwood](/images/O-Cintas.webp) ![office painting kansas city UnitedWay](/images/O-UnitedWay.webp) ![commercial painting warehouse Republi](/images/O-Republic.webp) ![commercial office painting k city Thrifty](/images/O-Thrifty.webp) ![office painting kansas city Bluebird](/images/O-Bluebird.webp)
 
-![commercial painting senior crestwood](/images/O-Sunrise-Senior-Living.webp)](/reviews/)
+![commercial painting senior crestwood](/images/r-sunrise-senior-living.webp) 

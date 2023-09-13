@@ -97,6 +97,6 @@ Plugged-in electronics remain plugged in - we'll leave the electrical cover plat
 
 Call Crestwood Painting for your office painting needs. We're an established and proven company with a reputation for safe, on-time production results and delighted customers. Call today to look into a No Drips No Drama experience.
 
-![commercial painting kansas city crestwood](/images/O-UMKC.jpg) ![Edward Jones painting office kansas city](/images/O-edwardjones.webp) ![office painting fedex kansas city](/images/O-fedex-logo.webp) ![office painting kansas city crestwood](/images/O-Cintas.webp) ![office painting kansas city UnitedWay](/images/O-UnitedWay.webp) ![commercial painting warehouse Republi](/images/O-Republic.webp) ![commercial office painting k city Thrifty](/images/O-Thrifty.webp) ![office painting kansas city Bluebird](/images/O-Bluebird.webp)
+![commercial painting kansas city crestwood](/images/O-UMKC.webp) ![Edward Jones painting office kansas city](/images/O-edwardjones.webp) ![office painting fedex kansas city](/images/O-fedex-logo.webp) ![office painting kansas city crestwood](/images/O-Cintas.webp) ![office painting kansas city UnitedWay](/images/O-UnitedWay.webp) ![commercial painting warehouse Republi](/images/O-Republic.webp) ![commercial office painting k city Thrifty](/images/O-Thrifty.webp) ![office painting kansas city Bluebird](/images/O-Bluebird.webp)
 
 [![commercial painting senior crestwood](/images/O-Sunrise-Senior-Living.webp)](/reviews/)

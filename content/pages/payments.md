@@ -14,7 +14,8 @@ date: "2011-05-05"
   <img decoding="async" alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+! [Venmo](https://venmo.com/?txn=pay&audience=private&recipients=Crestwood Painting&note=Painting%20Services)
+
 - Easy - click the yellow button
-- Universal - most cards accepted (Paypal account not necessary)
+- Universal - most cards accepted, account not necessary
 - Secure - no card info sent to Crestwood Painting
-- Print a record of this transaction; payment deducted from the balance due

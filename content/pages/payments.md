@@ -15,7 +15,6 @@ date: "2011-05-05"
 </form>
 
 ![Venmo](Venmo.webp)
-
 https://venmo.com/?txn=pay&audience=private&recipients=@crestwood&note=Painting%20services
 
 - Easy - click the yellow button

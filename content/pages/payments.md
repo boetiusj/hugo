@@ -11,4 +11,5 @@ PayPal or Venmo - easy and secure.
 {{< paypal-form >}} 
 
 {{< figure src="/images/Venmo.webp" link="<https://venmo.com/?txn=pay&audience=private&recipients=@crestwood&note=Painting%20services/>" target="_self" alt="venmo payments" width="120">}}
+
 ___

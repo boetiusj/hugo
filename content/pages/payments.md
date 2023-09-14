@@ -15,8 +15,9 @@ date: "2011-05-05"
 </form>
 {{< figure src="/images/Venmo.webp" link="https://venmo.com/?txn=pay&audience=private&recipients=@crestwood&note=Painting%20services" target="_self"alt="venmo payments" width="200 >}}
 
-![Venmo](Venmo.webp)
+![Venmo](/images/Venmo.webp)
 https://venmo.com/?txn=pay&audience=private&recipients=@crestwood&note=Painting%20services
+
 - Easy - click the yellow button
 - Universal - most cards accepted, account not necessary
 - Secure - no card info sent to Crestwood Painting

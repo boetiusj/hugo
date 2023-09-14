@@ -94,14 +94,14 @@
       "fields": []
     },
     "Figure++": {
-      "description": "",
+      "description": "image with many tags",
       "body": [
         "{{< figure src=\"/images/placehold160x90.svg\" ",
-        "link=\"XYZ\" ",
+        "link=\"<XYZ.com/>\" ",
         "target=\"_self\"",
         "caption=\"No Title, Caption only, width 200\" ",
-        "alt=\"alt text doesn't appear\" ",
-        "width=\"200",
+        "alt=\"doesn't appear\" ",
+        "width=\"200\"",
         "loading=\"lazy\"",
         ">}}"
       ],

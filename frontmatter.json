@@ -89,8 +89,22 @@
       "fields": []
     },
     "Figure": {
-      "description": "",
+      "description": "Image with caption, alt and width",
       "body": "{{< figure src=\"/images/placehold160x90.svg\" caption=\"No Title, Caption only, width 200\" alt=\"alt text doesn't appear\" width=\"200\">}}",
+      "fields": []
+    },
+    "Figure++": {
+      "description": "",
+      "body": [
+        "{{< figure src=\"/images/placehold160x90.svg\" ",
+        "link=\"XYZ\" ",
+        "target=\"_self\"",
+        "caption=\"No Title, Caption only, width 200\" ",
+        "alt=\"alt text doesn't appear\" ",
+        "width=\"200",
+        "loading=\"lazy\"",
+        ">}}"
+      ],
       "fields": []
     }
   },

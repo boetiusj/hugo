@@ -81,7 +81,7 @@ Safety matters so we make sure to train our people on how to safely work in offi
 
 ## What if Something Goes Wrong
 
-Things happen. When you've been in the painting business for more than 10 years you know that, well, things happen. We hire human beings and even well-trained and experienced painters can sometimes make a goof. So we fix it - right there, on the spot.
+Things happen. When you've been in the painting business for more than 15 years you know that, well, things happen. We hire human beings and even well-trained and experienced painters can sometimes make a goof. So we fix it - right there, on the spot.
 
 Some goofs are easy - wrong color, for example, is really no big deal. Or the alarm goes off - we'll contact the right people and take care of it. Other glitches (like paint drips or \[gulp\] spills) are more of a challenge. But we'll address it head-on and remedy the situation in a timely manner.
 

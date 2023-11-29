@@ -5,6 +5,7 @@ description: "Join a stable, friendly and positive trade company. Learn it from 
 keywords: "job, painter, employment, career, job opportunities, painting trade, training"
 canonical: "https://crestwoodpainting.com/painter-jobs-ad/"
 date: "2018-03-25"
+index: false
 ---
 
 Title: Painter - Interior Residential Repaints

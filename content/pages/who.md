@@ -5,6 +5,7 @@ description: "Communicate often, set clear expectations and meet them. Be courte
 keywords: "no drips no drama, story, who we are, about"
 canonical: "https://crestwoodpainting.com/who/"
 date: "2011-09-27"
+index: true
 coverImage: "Cropped-e1513965769859.jpg"
 ---
 

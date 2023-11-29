@@ -5,6 +5,7 @@ description: "Crestwood Painting in Olathe, KS - homes and offices!"
 keywords: "painter leawood ks"
 canonical: "https://crestwoodpainting.com/painter-in-olathe/"
 date: "2014-01-04"
+index: true
 ---
 
 [![Painter leawood ks crestwood](/images/Leawood2.jpg)](/images/Leawood2.jpg)

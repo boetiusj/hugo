@@ -5,6 +5,7 @@ description: "All about proper painting prep work - what you should look for, wh
 keywords: "-"
 canonical: "https://crestwoodpainting.com/scraping-paint-prep-kansas-city/"
 date: "2011-08-28"
+index: true
 ---
 
 ![scraping paint, peeling, house exterior kansas city](/images/Peeling-green-gable_opt.jpg)

@@ -5,6 +5,7 @@ description: "We appreciate your business and hope we will be your painter for l
 keywords: "payment, thank-you, Crestwood Painting"
 canonical: "https://crestwoodpainting.com/payment-thank-you/(opens%20in%20a%20new%20tab)"
 date: "2018-11-12"
+index: false
 ---
 
 We (all) really do appreciate your business!![Online payments crestwood painting kansas city](/images/Thank-You-2-e1514038961814.jpg)

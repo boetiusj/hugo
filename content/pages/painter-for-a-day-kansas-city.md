@@ -5,6 +5,7 @@ description: "Painter For A Day - One fully equipped professional, one busy day.
 keywords: "painter for a day, Kansas City, Crestwood Panting"
 canonical: "https://crestwoodpainting.com/painter-for-a-day-kansas-city/"
 date: "2011-09-21"
+index: true
 ---
 
 [![painter for a day Crestwood kansas city](/images/Painter-for-a-Day-Crestwood_opt-1024x1024.jpg)](/images/Painter-for-a-Day-Crestwood_opt.jpg)

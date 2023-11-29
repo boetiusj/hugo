@@ -5,6 +5,7 @@ description: "Customer video reviews and testimonials given for Crestwood Painti
 keywords: "review painting kansas city Crestwood Painting office interior"
 canonical: "https://crestwoodpainting.com/video-testimonials/"
 date: "2017-12-02"
+index: true
 ---
 
 ### Customer Reviews and Feedback

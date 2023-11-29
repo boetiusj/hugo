@@ -5,6 +5,7 @@ description: "Melissa J. said: \"I have dealt with A LOT of contractors and I ha
 keywords: "customer reviews, testimonials, feedback, Crestwood Painting, painter reviews"
 canonical: "https://crestwoodpainting.com/reviews/"
 date: "2011-09-21"
+index: true
 ---
 
 > I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed.

@@ -5,6 +5,7 @@ description: "Wallpaper removal - good things to consider in Kansas City."
 keywords: "wallpaper removal, kansas city"
 canonical: "https://crestwoodpainting.com/wallpaper-removal-kansas-city/"
 date: "2011-09-18"
+index: true
 coverImage: "tn_Wallpaper-removal.jpg"
 ---
 

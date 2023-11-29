@@ -5,6 +5,7 @@ description: "Crestwood Painting in Overland Park - the Project Map will show yo
 keywords: "-"
 canonical: "https://crestwoodpainting.com"
 date: "2014-01-04"
+index: true
 ---
 
 [![paint contractor overland park crestwood](/images/OPKS.jpg)](/images/OPKS.jpg)Crestwood has done both exterior and interior painting in Overland Park. Homes or offices - we take the same care in performing our work. Well-trained employees applying the very best materials. Because we use low VOC "green" paints you might not even smell our work!

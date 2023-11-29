@@ -5,6 +5,7 @@ description: "Removing popcorn ceiling texture is unpleasant - we'll help find t
 keywords: "ceiling texture removal, popcorn ceiling, Crestwood Painting, Kansas City, paint contractor"
 canonical: "https://crestwoodpainting.com/popcorn-ceiling-removal/"
 date: "2011-09-18"
+index: true
 ---
 
 ![popcorn ceiling texture removal cost kansas city](/images/popcorn-ceiling-300x200.jpg)

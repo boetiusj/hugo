@@ -5,6 +5,7 @@ description: "Painting offices - easy, quiet and fast. Call us today to learn ab
 keywords: "office painting commercial maintenance kansas city"
 canonical: "https://crestwoodpainting.com/office-painting-experts/"
 date: "2017-01-16"
+index: true
 ---
 
 ![office painting kansas city](/images/O-Bluebird-aisle.webp)

@@ -5,6 +5,7 @@ description: "Crestwood Painting in Parkville, MO - the Project Map will show yo
 keywords: "-"
 canonical: "https://crestwoodpainting.com"
 date: "2014-01-03"
+index: true
 ---
 
 ![Painter Parkville Crestwood ](/images/Parkville-300x199.jpg)

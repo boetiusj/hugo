@@ -5,6 +5,7 @@ description: "Crestwood Painting in Lee's Summit - interior specialists"
 keywords: "interior office painting kansas city crestwood"
 canonical: "https://crestwoodpainting.com/painter-lees-summit/"
 date: "2014-01-04"
+index: true
 ---
 
 [![paint contractor lee's summit crestwood](/images/Lees-Summit.jpg)](/images/Lees-Summit.jpg)Crestwood has done both exterior and interior painting in Lee's Summit. Homes or offices - we take the same care in performing our work. Well-trained employees applying the very best materials. Because we use low VOC "green" paints you might not even smell our work!

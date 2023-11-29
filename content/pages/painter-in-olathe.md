@@ -5,6 +5,7 @@ description: "Crestwood Painting in Olathe, KS - homes and offices!"
 keywords: "painter leawood ks"
 canonical: "https://crestwoodpainting.com/painter-in-olathe/"
 date: "2014-01-04"
+index: true
 ---
 
 Crestwood has done both exterior and interior painting in Olathe[![paint contractor olathe ks crestwood](/images/Olathe.jpg)](/images/Olathe.jpg). Homes or offices - we take the same care in performing our work. Well-trained employees applying the very best materials. Because we use low VOC "green" paints you might not even smell our work!

@@ -5,6 +5,7 @@ description: "Neighborhoods in metro Kansas City where Crestwood Painting has wo
 keywords: "project map crestwood painting"
 canonical: "https://crestwoodpainting.com/where/"
 date: "2018-09-27"
+index: true
 ---
 
 Map of some of the 100's and 100's of painting projects we've done - home and office! Click, drag &  zoom to explore painting projects in Kansas City.

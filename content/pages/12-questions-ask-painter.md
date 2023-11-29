@@ -5,6 +5,7 @@ description: "Solid questions to ask a painter - so you BOTH know what to expect
 keywords: "Painter questions, house painter questions, what to ask a painter, exterior painting questions, questions, Kansas City"
 canonical: "https://crestwoodpainting.com/12-questions-ask-painter/"
 date: "2018-08-28"
+index: true
 ---
 
 ![painter questions kansas city](/images/Checkbox.webp)

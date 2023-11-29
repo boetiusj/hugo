@@ -5,6 +5,7 @@ description: "Being safe with lead paint in or around a customer's home is criti
 keywords: "lead paint, kansas city, crestwood painting"
 canonical: "https://crestwoodpainting.com/lead-paint-safety/"
 date: "2017-12-02"
+index: true
 ---
 
 ![Crestwood Painting RRP certificate](/images/Lead-Safe-Certified-1-e1514657696358.jpg)

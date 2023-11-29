@@ -5,6 +5,7 @@ description: "Free help choosing exterior paint colors.  Then, a clear proposal,
 keywords: "exterior house painting, paint colors, Kansas City, Crestwood Painting, Leawood, Mission Hills, Prairie Village,"
 canonical: "https://crestwoodpainting.com/exterior-painting-kansas-city/"
 date: "2011-09-18"
+index: true
 ---
 
 ![exterior painting gray white](/images/x-january.webp)

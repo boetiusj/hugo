@@ -5,6 +5,7 @@ description: "Online painting estimate scheduler: fast and easy. Choose YOUR bes
 keywords: "Online painting estimate, online scheduler, painting appointment, Crestwood Painting, Kansas City painter, estimate schedule appointment"
 canonical: "https://crestwoodpainting.com/book-us/"
 date: "2014-07-26"
+index: true
 ---
 
 {{< book-form >}}

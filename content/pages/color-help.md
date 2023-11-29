@@ -6,6 +6,7 @@ keywords: "house paint, colors, living room color, exterior colors, kansas city,
 canonical: "/color-help/"
 date: "2011-05-05"
 coverImage: "arts-crafts-house.jpg"
+index: true
 ---
 
 [![choose paint colors kansas city crestwood painting](/images/House-shingle-gable_opt.jpg)](/images/House-shingle-gable_opt.jpg)

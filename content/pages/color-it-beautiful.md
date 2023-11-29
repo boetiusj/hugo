@@ -5,6 +5,7 @@ description: "Helpful info on paint colors in Kansas City, from the Kansas City 
 keywords: "paint color, kansas city, crestwood painting"
 canonical: "https://crestwoodpainting.com/color-it-beautiful/"
 date: "2011-08-28"
+index: true
 ---
 
 ### Color It Beautiful*

@@ -5,6 +5,7 @@ description: "What to look for and questions to ask when you're comparing at pai
 keywords: "painting estimate, compare painting prices, kansas city, crestwood painting"
 canonical: "/compare-paint-bids/"
 date: "2011-08-28"
+index: true
 ---
 
 ![Apples to Apples comparison](/images/ApplesOranges_opt.jpg)

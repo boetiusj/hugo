@@ -5,6 +5,7 @@ description: "We appreciate your confidence in booking time to talk about your p
 keywords: "online estimate, calendar booking, schedule calendar, Crestwood Painting"
 canonical: "https://crestwoodpainting.com/estimate-thanks/"
 date: "2012-08-27"
+index: false
 ---
 
 ![painting estimate request](/images/Thank-You-2-e1514038961814.jpg)A confirmation is on its way. Til then - some things to consider:

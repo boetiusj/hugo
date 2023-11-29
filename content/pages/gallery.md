@@ -5,6 +5,7 @@ description: "Photos of Crestwood Painting home and office projects in Kansas Ci
 keywords: "photo painting house office kansas city Crestwood painting"
 canonical: "https://crestwoodpainting.com"
 date: "2013-12-13"
+index: false
 ---
 
 \[fancygallery id="2" album="2"\]

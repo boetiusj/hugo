@@ -5,6 +5,7 @@ description: "Painting cabinets - the easiest way to a clean and modern kitchen.
 keywords: "Kitchen cabinet painting, Kansas City painting, bathroom vanity painting, wall paneling painting, Crestwood Painting"
 canonical: "https://crestwoodpainting.com/cabinet-painting/"
 date: "2011-09-21"
+index: true
 ---
 
 ![kitchen cabinet painting](/images/Finished-Kitchen.jpg "Painted cabinets update this dark 70's kitchen")

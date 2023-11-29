@@ -5,6 +5,7 @@ url: "/faqs/"
 description: "painting, faq, customer, Kansas City, questions"
 keywords: "faqs"
 date: "2011-08-29"
+index: true
 faqs:
   - question: Oil or Latex?
     id: "oil"

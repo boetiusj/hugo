@@ -5,6 +5,7 @@ description: "-"
 keywords: "-"
 canonical: "https://crestwoodpainting.com"
 date: "2017-01-17"
+index: false
 ---
 
 - ![](/images/Living-in-Colors-1024x1024.jpg)

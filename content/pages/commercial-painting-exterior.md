@@ -5,6 +5,7 @@ description: "Painting a commercial building should be easy, quiet and fast. Cal
 keywords: "commercial exterior painting, Kansas City, office"
 canonical: "/commercial-painting-exterior/"
 date: "2017-07-08"
+index: true
 ---
 
 ![Commercial exterior painting kansas city](/images/MN-front-e1485211429554.jpg)

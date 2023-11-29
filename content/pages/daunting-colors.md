@@ -5,6 +5,7 @@ description: "Design professionals help make choosing paint colors a great exper
 keywords: "paint colors, kansas city, Crestwood Painting, color professional"
 canonical: "https://crestwoodpainting.com/daunting-colors/"
 date: "2011-08-28"
+index: true
 ---
 
 ![Paint Color Kansas City](/images/color-chips.jpg)

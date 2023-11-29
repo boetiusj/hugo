@@ -5,6 +5,7 @@ description: "Painting interiors in Kansas City doesn't need to be a hassle. Lea
 keywords: "painting cost, price interior painting, bedroom paint cost, living room, Kansas City"
 canonical: "https://crestwoodpainting.com/interior-painter-kansas-city/"
 date: "2011-09-18"
+index: true 
 ---
 
 ![interior paint dining room kansas city](/images/DR-Orange.jpg)

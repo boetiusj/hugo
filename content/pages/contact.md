@@ -5,6 +5,7 @@ description: "Contact the friendly folks at Crestwood Painting - we'll get right
 keywords: "contact, crestwood painting"
 canonical: "https://crestwoodpainting.com/contact/"
 date: "2011-09-21"
+index: true
 ---
 
 Crestwood Painting is Prompt & Tidy - so is our communication.

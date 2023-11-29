@@ -4,6 +4,7 @@ url: "/home-2/"
 description: "Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company,\" Mission Hills, keywords: \"Prairie Village, Leawood, House Painter, Exterior House Painting, Wood Finishing, Interior Painting,"
 canonical: "https://crestwoodpainting.com"
 date: "2011-05-04"
+index: true
 ---
 
 ## Our Promise:

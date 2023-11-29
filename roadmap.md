@@ -1,3 +1,24 @@
+Dec 1, '23
+CSS: links bolder and underlined in red
+
+Mobile - Reduce logo size
+
+MK items - 
+  a. FAQs from virtual booking, add to main FAQ
+  b. Frontmatter: non-listed pages
+
+Desktop
+1. Fixed header (doesn't move) 
+2. Logo - smaller 
+3. Logos & links: PCA, Lead Safe, SW, BM, PPG? 
+4. Intro: links for icon and titles (Interior, Exterior, Offices)
+5. Testimonial: link excerpt to Reviews
+6. Phone link under booking button
+7. Pages
+    a. 404: 2 columns
+    b. filter pages with frontmatter (index: false)
+    
+- - - - - - - - - - - - - - - - - - - - - - - - 
 Round 1 (Feb 6, '23)
 1. Create work environment in Git - https://github.com/boetiusj/hugo-dev
   All files - Hugo, theme and data - stored on Git

@@ -1,15 +1,14 @@
 Dec 1, '23
 
-CSS: links bolder and underlined in red
-Mobile - 
-  Reduce logo size
-MK items
-  FAQs from virtual booking, add to main FAQ
-  Frontmatter: non-listed pages
-Desktop
-  Fixed header
-  Logo - smaller
-  Logos & links: PCA, Lead Safe, SW, BM, PPG?
+1. CSS: links bolder and underlined in red
+2. Mobile - Reduce logo size
+MK items - 
+  a. FAQs from virtual booking, add to main FAQ
+  b. Frontmatter: non-listed pages
+3. Desktop
+3a. Fixed header (doesn't move)
+3b. Logo - smaller
+3c. Logos & links: PCA, Lead Safe, SW, BM, PPG?
   Intro: links for icon and titles (Interior, Exterior, Offices)
   Testimonial: link excerpt to Reviews
   Phone link under booking button

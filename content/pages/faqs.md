@@ -78,7 +78,7 @@ faqs:
   - question: How to test if paint is oil or latex?
     id: test-oil-latex
     answer: |
-      First, scrub a small area with a solution of household detergent and warm water. Rinse well and towel dry. Then soak a cotton ball, Q-tip or soft rag in alcohol and rub it back and forth over the cleaned area. If paint comes off, it's latex. If not, it's oil-based. In either case, proper prep is key.
+        First, scrub a small area with a solution of household detergent and warm water. Rinse well and towel dry. Then soak a cotton ball, Q-tip or soft rag in alcohol and rub it back and forth over the cleaned area. If paint comes off, it's latex. If not, it's oil-based. In either case, proper prep is key.
 
 - question: How will you send the proposal?
     id: sendproposal
@@ -115,7 +115,7 @@ faqs:
 - question: How about just a “ballpark” estimate?
     id: ballpark
     answer: |
-     Of course it depends. Exterior painting projects are only sometimes under $5000 and are usually less than $15k. Larger homes with certain requrements can be over $30k.
+        Of course it depends. Exterior painting projects are only sometimes under $5000 and are usually less than $15k. Larger homes with certain requrements can be over $30k.
 
 - question: What about repair work that might be needed?
     id: repairs
@@ -130,10 +130,9 @@ faqs:
 - question: Tell me about your painters.
     id: painters
     answer: |
-    Our professional painters are pleasant and very competent – no creepy dudes. We hire subcontractors and hold them accountable to deliver on clear expectations. The language they get is the same language we send to the customer - same language, same expectations.
+        Our professional painters are pleasant and very competent – no creepy dudes. We hire subcontractors and hold them accountable to deliver on clear expectations. The language they get is the same language we send to the customer - same language, same expectations.
 
-    We pay well enough to attract high quality people. Our painters are real people with real lives and real families, living right here in Kansas City.
-
+        We pay well enough to attract high quality people. Our painters are real people with real lives and real families, living right here in Kansas City.
 ---
 
 ![paint FAQ questions kansas city crestwood painting](/images/FAQ-pic.jpg)

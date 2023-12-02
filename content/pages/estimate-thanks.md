@@ -10,13 +10,13 @@ index: false
 
 ![painting estimate request](/images/Thank-You-2-e1514038961814.jpg)A confirmation is on its way. Til then - some things to consider:
 
-1. [Insurance?](/estimate-thanks/#insurance)
-2. [Employees or Contractors?](/estimate-thanks/#employees)
-3. [Send a Copy](/estimate-thanks/#prove)
-4. [New or Old?](/estimate-thanks/#neworold)
-5. [Which Paint?](/estimate-thanks/#whichpaint)
-6. [What's Proper?](/estimate-thanks/#proper)
-7. [Up Front?](/estimate-thanks/#upfront)
+1. [Insurance?](#insurance)
+2. [Employees or Contractors?](/#employees)
+3. [Send a Copy](/#prove)
+4. [New or Old?](/#neworold)
+5. [Which Paint?](/#whichpaint)
+6. [What's Proper?](/#proper)
+7. [Up Front?](/#upfront)
 8. [Start & Finish?](/estimate-thanks/#start)
 9. [Protection?](/estimate-thanks/#protection)
 10. [Butts & Music?](/estimate-thanks/#butts)

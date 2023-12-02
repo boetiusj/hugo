@@ -80,6 +80,59 @@ faqs:
     answer: |
       First, scrub a small area with a solution of household detergent and warm water. Rinse well and towel dry. Then soak a cotton ball, Q-tip or soft rag in alcohol and rub it back and forth over the cleaned area. If paint comes off, it's latex. If not, it's oil-based. In either case, proper prep is key.
 
+- question: How will you send the proposal?
+    id: sendproposal
+    answer: |
+        Proposals are usually three pages, always emailed.
+
+- question: How will you communicate with me?
+    id: communication
+    answer: |
+        Questions are best answered via email or phone, proposals are always emailed. We email expected scheduling as well as a helpful list of to-dos. We find texting once things are underway helps to keep things moving.
+
+- question: How far out are you scheduling?
+    id: howfarout
+    answer: |
+        It depends, of course – project size, repair work and weather are among some of the factors. Summer is always busier (four to eight weeks), less so in winter (one to three weeks). Smaller homes easier to squeeze in between larger homes.
+
+- question: Do more colors cost more?
+    id: colorcost
+    answer: |
+        Yes. More colors mean more trips up the ladder. And another gallon of paint and another roller cover. It doesn’t cost much, but it can add up.
+
+- question: What about color consultation?
+    id: colorconsult
+    answer: |
+        There are local color consultants as well as options through professional paint companies. Take advantage of them - they'll keep you from making a color blunder.
+
+        When you drive up to your home you want to say “That’s my house and I flippin’ love it!” and not “uh, it's still tan”. A professional that knows exterior paint colors will make that happen.
+
+- question: How can I compare estimates?
+    id: apples
+    answer: |
+        Start here to compare [Apples to Apples](/compare-paint-bids/). And yes, we have done line-by-line comparisons of paint proposals - just give us a call.
+
+- question: How about just a “ballpark” estimate?
+    id: ballpark
+    answer: |
+     Of course it depends. Exterior painting projects are only sometimes under $5000 and are usually less than $15k. Larger homes with certain requrements can be over $30k.
+
+- question: What about repair work that might be needed?
+    id: repairs
+    answer: |
+        Repair work is generally subjective and so no clear consensus on just what should be done. We'll make recommendations, but it ultimately comes down to the customers' preferences and budget. Where appropriate we'll have our in-house people do repairs. If we can't do something with the expectred level of craftsmanship we'll make suggestions on whom you might call.
+
+- question: Is a meeting required? Why not just come by and then email an estimate?
+    id: driveby
+    answer: |
+        That would be a “drive-by” estimate – we don’t do that. Painting is an expensive, it's a business transaction and everybody (both you and us) want to be very clear on what is expected. That requires clear questions and clear answers so that everybody’s expectations are met. And, like they say: "A job well planned is half delivered".
+
+- question: Tell me about your painters.
+    id: painters
+    answer: |
+    Our professional painters are pleasant and very competent – no creepy dudes. We hire subcontractors and hold them accountable to deliver on clear expectations. The language they get is the same language we send to the customer - same language, same expectations.
+
+    We pay well enough to attract high quality people. Our painters are real people with real lives and real families, living right here in Kansas City.
 ---
 
 ![paint FAQ questions kansas city crestwood painting](/images/FAQ-pic.jpg)
@@ -99,4 +152,13 @@ Good questions help homeowners make good decisions.
 - [What is the best way to apply paint?](#apply-paint)
 - [Where can I go for more answers?](#answers)
 - [How to test if paint is oil or latex?](#test-oil-latex)
-
+- [- question: How will you send the proposal?](#sendproposal)
+- [How will you communicate with me?](#communication)
+- [How far out are you scheduling?](#howfarout)
+- [Do more colors cost more?](#colorcost)
+- [What about color consultation?](#colorconsult)
+- [How can I compare estimates?](#apples)
+- [How about just a “ballpark” estimate?](#ballpark)
+- [What about repair work that might be needed?](#repairs)
+- [Is a meeting required? Why not just come by and then email an estimate?](#driveby)
+- [Tell me about your painters.](#painters)

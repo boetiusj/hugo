@@ -1,10 +1,10 @@
 ---
-title: "Frequently Asked Question's"
-# url: "FAQs - Important Kansas City Painting Questions"
-url: "/faqs/"
-description: "painting, faq, customer, Kansas City, questions"
-keywords: "faqs"
-date: "2011-08-29"
+title: Frequently Asked Question's
+# url: FAQs - Important Kansas City Painting Questions
+url: faqs
+description: painting, faq, customer, Kansas City, questions
+keywords: faqs
+date: 2011-08-29
 index: true
 faqs:
   - question: Oil or Latex?
@@ -73,7 +73,7 @@ faqs:
   - question: Where can I go for more answers?
     id: answers
     answer: |
-      Your local professional painter or paint retailer is the best place to start. A great online resource is the Painter Forum - a professional problem-solving exchange.
+        Your local professional painter or paint retailer is the best place to start. A great online resource is the Painter Forum - a professional problem-solving exchange.
 
 - question: How will you send the proposal?
     id: sendproposal

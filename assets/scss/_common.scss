@@ -249,7 +249,7 @@ input[type="email"],input[type="password"],input[type="text"],input[type="tel"]{
 /* Links */
 a {
   color: $black;
-  text-decoration: none;
+  text-decoration: underline; /* changed from none 12-2-23 */
 }
 
 a:focus, a:hover {

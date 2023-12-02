@@ -78,7 +78,7 @@ faqs:
   - question: How to test if paint is oil or latex?
     id: test-oil-latex
     answer: |
-        First, scrub a small area with a solution of household detergent and warm water. Rinse well and towel dry. Then soak a cotton ball, Q-tip or soft rag in alcohol and rub it back and forth over the cleaned area. If paint comes off, it's latex. If not, it's oil-based. In either case, proper prep is key.
+         First, scrub a small area with a solution of household detergent and warm water. Rinse well and towel dry. Then soak a cotton ball, Q-tip or soft rag in alcohol and rub it back and forth over the cleaned area. If paint comes off, it's latex. If not, it's oil-based. In either case, proper prep is key.
 
 - question: How will you send the proposal?
     id: sendproposal
@@ -152,7 +152,7 @@ Good questions help homeowners make good decisions.
 - [What is the best way to apply paint?](# apply-paint)
 - [Where can I go for more answers?](# answers)
 - [How to test if paint is oil or latex?](# test-oil-latex)
-- [- question: How will you send the proposal?](# sendproposal)
+- [How will you send the proposal?](# sendproposal)
 - [How will you communicate with me?](# communication)
 - [How far out are you scheduling?](# howfarout)
 - [Do more colors cost more?](# colorcost)

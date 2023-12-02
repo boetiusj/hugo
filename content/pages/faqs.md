@@ -6,16 +6,16 @@ description: "painting, faq, customer, Kansas City, questions"
 keywords: "faqs"
 date: "2011-08-29"
 index: true
-faqs: "
+faqs: 
   - question: Oil or Latex?
-    id: "oil"
+    id: oil
     answer: |
       Short answer - latex.
 
       Improvements in paint technology are all directed at latex as oil paint is gradually being phased out (it's not environmentally friendly). Latex is more durable, flexible and won't fade or chalk. While there will always be adherents to the Oil-Primer-Latex-Top-Coat school of thought, advances in latex primers have made that argument less convincing. We favor latex, but will use oil where conditions require it.
 
   - question: What does "Licensed & Insured" mean?
-    id: "licensed"
+    id: licensed
     answer: |
       "Licensed" means a business license issued by the city you are doing business in. "Insured" should mean the painter has general liability insurance to protect the business and the homeowner. The cheapest, bare minimum coverage is rarely a good move for either party. Some contractors believe that having car insurance entitles them to say they have "insurance". Ask for (and get) a certificate of insurance issued for your specific address.
 
@@ -127,7 +127,7 @@ faqs: "
     answer: |
       Our professional painters are pleasant and very competent – no creepy dudes. We hire subcontractors and hold them accountable to deliver on clear expectations. The language they get is the same language we send to the customer - same language, same expectations.
 
-      We pay well enough to attract high quality people. Our painters are real people with real lives and real families, living right here in Kansas City."
+      We pay well enough to attract high quality people. Our painters are real people with real lives and real families, living right here in Kansas City.
 ---
 
 ![paint FAQ questions kansas city crestwood painting](/images/FAQ-pic.jpg)

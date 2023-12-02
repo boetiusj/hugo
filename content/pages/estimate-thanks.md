@@ -11,16 +11,16 @@ index: false
 ![painting estimate request](/images/Thank-You-2-e1514038961814.jpg)A confirmation is on its way. Til then - some things to consider:
 
 1. [Insurance?](#are-you-insured)
-2. [Send a Copy](/#prove)
-3. [New or Old?](/#neworold)
-4. [Which Paint?](/#whichpaint)
-5. [What's Proper?](/#proper)
-6. [Up Front?](/#upfront)
-7. [Start & Finish?](/estimate-thanks/#start)
-8. [Protection?](/estimate-thanks/#protection)
-9. [Butts & Music?](/estimate-thanks/#butts)
-10. [What Do You Know?](/estimate-thanks/#know)
-11. [Lead - Tell Me About It.](/estimate-thanks/#lead)
+2. [Send a Copy](#prove)
+3. [New or Old?](#neworold)
+4. [Which Paint?](#whichpaint)
+5. [What's Proper?](#proper)
+6. [Up Front?](#upfront)
+7. [Start & Finish?](estimate-thanks/#start)
+8. [Protection?](estimate-thanks/#protection)
+9. [Butts & Music?](estimate-thanks/#butts)
+10. [What Do You Know?](estimate-thanks/#know)
+11. [Lead - Tell Me About It.](estimate-thanks/#lead)
 
 > "May I have a copy of your insurance certificate for my files?"
 

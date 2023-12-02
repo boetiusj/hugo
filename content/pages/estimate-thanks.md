@@ -10,7 +10,7 @@ index: false
 
 ![painting estimate request](/images/Thank-You-2-e1514038961814.jpg)A confirmation is on its way. Til then - some things to consider:
 
-1.{Insurance?}(#are-you-insured)
+1. {Insurance?}(#are-you-insured)
 2. {Send a Copy}(#prove)
 3. {New or Old?}(#neworold)
 4. {Which Paint?}(#whichpaint)

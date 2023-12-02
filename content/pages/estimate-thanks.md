@@ -10,7 +10,7 @@ index: false
 
 ![painting estimate request](/images/Thank-You-2-e1514038961814.jpg)A confirmation is on its way. Til then - some things to consider:
 
-1. [Insurance?](#insurance)
+1. [Insurance?](#are-you-insured)
 2. [Employees or Contractors?](/#employees)
 3. [Send a Copy](/#prove)
 4. [New or Old?](/#neworold)
@@ -28,10 +28,6 @@ index: false
 **Are you insured?** Every painter should carry General Liability insurance with not less than $1 million in coverage. This insurance protects the homeowner from damage done by the painter, e.g. 5 gallons of white latex is spilled on your new roof or a ladder crashes onto your convertible. Repair work? That falls under carpentry and requires a separate rider. Proper insurance is Business 101. Of course, if these accidents really didn’t happen nobody would need insurance.
 
 > Membership in trade organizations like PCA indicates a level of professional commitment.
-
-**Are your painters employees or independent contractors?** Employees will be covered by their employers’ general liability insurance,independent contractors should each be individually insured. It’s fairly common for painters to hire independent contractors; it is much less common for each individual contractor to be properly insured.
-
-A company’s general liability policy does not cover independent contractors. Murphy’s Law dictates that the only independent contractor that you haven’t verified insurance on will be the one that…
 
 **May I have a copy of your insurance certificate for my files?** “Trust, but verify” is still good advice. If the certificate doesn’t answer the above questions a call to the insurance agent should clear things up.
 

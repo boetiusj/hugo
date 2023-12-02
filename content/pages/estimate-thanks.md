@@ -16,11 +16,11 @@ index: false
 4. [Which Paint?](#whichpaint)
 5. [What's Proper?](#proper)
 6. [Up Front?](#upfront)
-7. [Start & Finish?](estimate-thanks/#start)
-8. [Protection?](estimate-thanks/#protection)
-9. [Butts & Music?](estimate-thanks/#butts)
-10. [What Do You Know?](estimate-thanks/#know)
-11. [Lead - Tell Me About It.](estimate-thanks/#lead)
+7. [Start & Finish?](#start)
+8. [Protection?](#protection)
+9. [Butts & Music?](#butts)
+10. [What Do You Know?](#know)
+11. [Lead - Tell Me About It.](#lead)
 
 > "May I have a copy of your insurance certificate for my files?"
 

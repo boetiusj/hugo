@@ -1,6 +1,5 @@
 ---
 title: "Frequently Asked Questions"
-# url: FAQs - Important Kansas City Painting Questions
 url: "faqs"
 description: "painting, faq, customer, Kansas City, questions"
 keywords: "faqs"

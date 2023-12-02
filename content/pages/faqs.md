@@ -72,7 +72,7 @@ faqs:
   - question: Where can I go for more answers?
     id: answers
     answer: |
-    Your local professional painter or paint retailer is the best place to start. A great online resource is the Painter Forum - a professional problem-solving exchange.
+      Your local professional painter or paint retailer is the best place to start. A great online resource is the Painter Forum - a professional problem-solving exchange.
   - question: How will you send the proposal?
     id: sendproposal
     answer: |

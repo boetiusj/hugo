@@ -1,10 +1,10 @@
 ---
-title: Frequently Asked Questions
+title: "Frequently Asked Questions"
 # url: FAQs - Important Kansas City Painting Questions
-url: faqs
-description: painting, faq, customer, Kansas City, questions
-keywords: faqs
-date: 2011-08-29
+url: "faqs"
+description: "painting, faq, customer, Kansas City, questions"
+keywords: "faqs"
+date: "2011-08-29"
 index: true
 faqs:
   - question: Oil or Latex?

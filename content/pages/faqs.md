@@ -1,4 +1,4 @@
----
+--- 
 title: "Frequently Asked Questions"
 url: "faqs"
 description: "painting, faq, customer, Kansas City, questions"

@@ -1,6 +1,6 @@
 --- 
 title: "Thanks For Booking With Us!"
-url: "estimate-thanks"
+url: "booking-thanks"
 description: "We appreciate your confidence in booking time to talk about your painting project. We'll arrive promptly, ready to answer your questions."
 keywords: "online estimate, calendar booking, schedule calendar, Crestwood Painting"
 canonical: "https://crestwoodpainting.com/estimate-thanks/"

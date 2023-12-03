@@ -36,12 +36,15 @@ intro:
     - title: Exterior Painting
       summary: "Historic and contemporary homes, commercial buildings too."
       icon: home
+      link: https://www.crestwoodpainting.com/exterior-painting-kansas-city/
     - title: Interior Painting
       summary: "Dust-free, noise-free. No Drips, No Drama."
       icon: brush-alt
+      link: https://www.crestwoodpainting.com/interior-painter-kansas-city/
     - title: Offices
       icon: printer
       summary: "Quiet and careful, one room at a time - on your schedule."
+      link: https://www.crestwoodpainting.com/office-painting-experts/
 
 cta:
   title: "Earning Kansas City's trust for over 16 years."

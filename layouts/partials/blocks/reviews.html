@@ -20,7 +20,7 @@
 			-->
 				<div class="testimonial-item-content">
           <span>{{ .headline }}</span>
-					<p> <a href="https://www.crestwoodpainting.com/reviews/" class="testimonial-text">{{ markdownify .review }}</a>
+					<p> <a href="https://www.crestwoodpainting.com/reviews/" class="testimonial-text" {{ markdownify .review }}></a>
 						<br>{{ .client }} - {{ default .date .role }}
 					</p>
 

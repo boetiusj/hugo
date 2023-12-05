@@ -7,12 +7,11 @@ canonical: "https://crestwoodpainting.com/reviews/"
 date: "2011-09-21"
 index: true
 ---
+Real customer reviews for interior, exterior, cabinet and office painting. [Video testimonials](/video-testimonials/), too!
 
 > I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed. *Melissa J*
 
-Real customer reviews for interior, exterior, cabinet and office painting. Check out [video testimonials](/video-testimonials/), too!
-
-**Did not have to worry at all**
+**Highly recommend**
 11/2023
 Perfection when it came to filling holes, repairing cracks and painting.   The Crestwood team worked efficiently so completed the project within the time frames required.  Did not have to worry at all about the quality-highly recommend!
 Deidra P

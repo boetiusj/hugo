@@ -1,6 +1,6 @@
-- name: "Home"
-  url: "/"
-- name: "About Us"
+#- name: "Home"
+#  url: "/"
+- name: "Company"
   url: "#"
   submenu:
     - name: "Our Story"

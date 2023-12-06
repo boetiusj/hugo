@@ -1,6 +1,6 @@
 +++
-title = "Blog - Painting Kansas City"
-name = "Our Blog"
+title = "Painting Updates"
+name = "The Nitty Gritty"
 +++
 
-Painting blog with tip and tricks: The Whys and Hows for Crestwood Painting customers in Kansas City.
+The Whys and Hows for Crestwood Painting customers in Kansas City.

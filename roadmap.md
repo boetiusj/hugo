@@ -17,6 +17,9 @@ Desktop
 7. Pages
     a. 404: 2 columns
     b. filter pages with frontmatter (index: false)
+8. hugo-dev/index.html: how much of this is necessary? 
+
+
     
 - - - - - - - - - - - - - - - - - - - - - - - - 
 Round 1 (Feb 6, '23)

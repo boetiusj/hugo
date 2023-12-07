@@ -1,5 +1,5 @@
 # enable sidebar on main blog page
-blogPageSidebarOn = true
+blogPageSidebarOn = false
 # number of latest posts to show on blog sidebar
 latestPosts = 3
 email = "admin@crestwoodpainting.com"

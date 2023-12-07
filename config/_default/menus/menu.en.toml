@@ -13,12 +13,12 @@ url = "/payments/"
 [[company]]
 name = "Video Reviews"
 url = "/video-testimonials/"
-[[company]]
-name = "RRP Brochure"
-url = "/lead-paint-safety/"
-[[company]]
-name = "Privacy"
-url = "/privacy-policy/"
+# [[company]]
+# name = "RRP Brochure"
+# url = "/lead-paint-safety/"
+# [[company]]
+# name = "Privacy"
+# url = "/privacy-policy/"
 
 # [[links]]
 # name = "Video Reviews"

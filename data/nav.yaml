@@ -30,5 +30,5 @@
     - name: "Blog - the Inside Scoop"
       url: "/blog/"
     - name: "Payments"
-      url: "/payment/"
+      url: "/payments/"
 

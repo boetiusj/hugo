@@ -8,7 +8,7 @@ date: "2018-08-28"
 index: true
 ---
 
-![painter questions kansas city](/images/Checkbox.webp)
+![painter questions kansas city](/images/Checkbox.webp "width=360 height=360")
 
 Be sure to ask these questions _before_ you decide on a painter.
 
@@ -37,7 +37,7 @@ Homes more than 30 years old have many layers of (lead) paint, aluminum storm wi
 
 ### Which brand of paint do you recommend?
 
-![ppg crestwood painting kansas city](/images/Logo-sq-PPG100.webp) ![sw crestwood painting kansas city](/images/logosq-SW100.webp) ![benjamin moore crestwood painting kansas city](/images/logosqBM100.webp)
+![ppg crestwood painting kansas city](/images/Logo-sq-PPG100.webp "width=130 height=100") ![sw crestwood painting kansas city](/images/logosq-SW100.webp "width=100 height=100") ![benjamin moore crestwood painting kansas city](/images/logosqBM100.webp "width=106 height=100")
 
 Painters establish a relationship with a particular store for a variety of reasons – knowledgeable help, quality products or attractive pricing. If a painter is reluctant to use another product, it’s fair to ask why. Strong belief in a product based on experience is fine, but when a financial incentive trumps all else, the advice you get may not be in your best interest.
 
@@ -45,7 +45,7 @@ All of this assumes quality materials – if you’re being steered toward a low
 
 ### What is a properly painted surface?
 
-![pca paint ed kansas city crestwood painting](/images/logo-pca100.webp)
+![pca paint ed kansas city crestwood painting](/images/logo-pca100.webp "width=269 height=100")
 
 The PCA (Painting Contractors Assoc. [pca.org](https://pcapainted.org)) has established clear standards for its members, from accepted production rates to appropriate materials and application techniques. Objective standards make it easy for homeowner and painter to agree on what a [properly painted surface](/12-questions-ask-painter/#properlypainted) is. Membership in trade organizations indicates a level of professional commitment.
 

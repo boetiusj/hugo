@@ -49,4 +49,4 @@ Crestwood Painting trains our workers to be efficient, but not fast. We stand by
 - Sprayed finish means
 - No brush marks - Clean lines- More consistent coverage
 
-[![customer review exterior painting kansas city](/images/r-alex-t.webp)](/reviews/)
+[![customer review exterior painting kansas city](/images/r-alex-t.webp "width=409 height=450")](/reviews/)

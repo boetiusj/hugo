@@ -8,7 +8,7 @@ date: "2017-01-16"
 index: true
 ---
 
-![office painting kansas city](/images/O-Bluebird-aisle.webp)
+![office painting kansas city](/images/O-Bluebird-aisle.webp?w=400h=247)
 
 This busy network office continued to hum while Crestwood Painting quietly did their thing.
 

@@ -8,7 +8,7 @@ date: "2011-09-21"
 index: true
 ---
 
-![kitchen cabinet painting](/images/Finished-Kitchen.jpg "Painted cabinets update this dark 70's kitchen")
+![kitchen cabinet painting](/images/finished-kitchen.webp?w=757h=504 "Painted cabinets update this dark 70's kitchen")
 
 Painted kitchen cabinets update a dark 70's look.
 

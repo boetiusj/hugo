@@ -48,4 +48,4 @@ Poor quality paint is false economy - whether in an office or a dining room. It 
 - 100% acrylic paint protects longest and is easy to clean
 - Professional work practices mean consistent sheen and even coverage
 
-[![house painting review kansas city](/images/r14-12-conley.webp)](/reviews/)
+[![house painting review kansas city](/images/r14-12-conley.webp "width=390 height=268")](/reviews/)

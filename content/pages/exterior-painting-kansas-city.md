@@ -8,7 +8,7 @@ date: "2011-09-18"
 index: true
 ---
 
-![exterior painting gray white](/images/x-january.webp? "width=110 height=624")
+![exterior painting gray white](/images/x-january.webp? "width=1110 height=624")
 
 Painting is the most cost-effective way to transform and beautify your Kansas City home. Choose a house painter with a proven track record, [rave online reviews](/reviews/) and the business skill to deliver a glitch-free experience.
 
@@ -49,4 +49,4 @@ Crestwood Painting trains our workers to be efficient, but not fast. We stand by
 - Sprayed finish means
 - No brush marks - Clean lines- More consistent coverage
 
-[![customer review exterior painting kansas city](/images/r-alex-t.webp? "width=409 height=450")](/reviews/)
+[![customer review exterior painting kansas city](/images/r-alex-t.webp)](/reviews/)

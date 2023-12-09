@@ -19,7 +19,7 @@ Crestwood Painting can transform the interior of a single room or your entire h
 
 > The cost for painting in Kansas City? $840 per day per painter.
 
-## The Interior Paint Process:
+## The Interior Paint Process
 
 - Set up a tidy, out-of-the-way work area
 - Tape n' tarp to protect your goodies from dust

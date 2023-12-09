@@ -7,7 +7,7 @@
       url: "/who/"
     - name: "Reviews"
       url: "/reviews/"
-    - name: "Top 12 Painter Questions"
+    - name: "12 Best Questions"
       url: "/12-questions-ask-painter/"
     - name: "FAQs"
       url: "/faqs/"

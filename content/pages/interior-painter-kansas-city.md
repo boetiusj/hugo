@@ -8,7 +8,7 @@ date: "2011-09-18"
 index: true 
 ---
 
-![interior paint dining room kansas city](/images/DR-Orange.jpg)
+![interior paint dining room kansas city](/images/dr-orange.webp?w=832h=1110)
 
 Crestwood Painting can transform the interior of a single room or your entire home:
 

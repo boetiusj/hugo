@@ -8,7 +8,7 @@ date: "2011-09-18"
 index: true 
 ---
 
-![interior paint dining room kansas city](/images/dr-orange.webp "width=1110 height=832")
+![interior paint dining room kansas city](/images/dr-orange.webp "Dining Room paint")
 
 Crestwood Painting can transform the interior of a single room or your entire home:
 
@@ -48,4 +48,4 @@ Poor quality paint is false economy - whether in an office or a dining room. It 
 - 100% acrylic paint protects longest and is easy to clean
 - Professional work practices mean consistent sheen and even coverage
 
-[![house painting review kansas city](/images/r14-12-conley.webp "width=390 height=268")](/reviews/)
+[![house painting review kansas city](/images/r14-12-conley.webp)](/reviews/)

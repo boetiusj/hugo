@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/interior-painter-kansas-city/"
 date: "2011-09-18"
 index: true 
 ---
-
+![interior painting](/images/dr-orange.webp)
 ![interior paint dining room kansas city](/images/dr-orange.webp "Dining Room paint")
 
 Crestwood Painting can transform the interior of a single room or your entire home:

@@ -1,13 +1,25 @@
 // layouts/_default/_markup/render-image.html
+
 {{ $alt := .Text }}
+
 {{ $title := .Title | default $alt }}
+
 {{ with .Page.Resources.GetMatch .Destination }}
+
 <figure>
+
   {{ partial "_images/picture" (dict "src" . "alt" $alt "title" $title "lazy" "true") }}
+
   {{ with $alt }}
+
   <figcaption>
+
     <p style="text-transform: uppercase; font-size: x-small;">{{- $alt -}}</p>
+
   </figcaption>
+
   {{ end }}
+
 </figure>
+
 {{ end }}

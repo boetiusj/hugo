@@ -14,7 +14,7 @@
           </style>
         </div>
         <ol id="test-ol">
-          {{ range where site.RegularPages "Section" "!=" "blog" }} {{ if and (ne .Kind "tags") (ne .Params.index false) }}
+          {{ range where site.RegularPages "Section" "!=" "blog" }}
           <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
           </li>

@@ -13,7 +13,7 @@ tags:
   - "painting-insurance"
 
 ---
-{{< figure src="/images/Rose-bushes.jpg" caption="Rose bushes" alt="Crestwood Painting rose bushes">}}
+{{< figure src="/images/rose-bushes.webp" caption="Rose bushes" alt="Crestwood Painting rose bushes">}}
 
 If paint contractors are clear in what they are providing and customers are clear in what they are getting then everybody will be happy, yes? So why are happy customer/contractor experiences relatively rare? The answer is the dreaded [_Unmet Expectations_](/reviews/).
 

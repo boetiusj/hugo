@@ -23,12 +23,12 @@ faqs:
   - question: Can I paint my storm windows?
     id: storms
     answer: |
-      Sure - properly cleaned, aluminum storms will hold paint very well. Painted storm windows "disappear", enhancing the look of the window rather than covering it up. This is particularily striking when the storms and sashes are painted to complement the window trim.
+      Sure - properly cleaned, aluminum storms will hold paint very well. Painted storm windows "disappear", enhancing the look of the window rather than covering it with that unflattering silver rectangle. This is particularily striking when the storms and sashes are painted to complement the window trim.
 
   - question: Flat, eggshell or glossy?
     id: sheen
     answer: |
-      Here's the pecking order: glossy, semi-gloss, satin, eggshell, flat. Different manufacturers may use different terms or may offer a smaller selection of sheens. Higher gloss is easier to clean but shows off surface imperfections. Front doors are often painted with a glossy finish, trim often has some sheen to it and exterior walls are often flat, although some homes look quite attractive with some sheen to them.
+      Here's the pecking order: glossy, semi-gloss, satin, eggshell, flat. Different manufacturers may use different terms or may offer a smaller selection of sheens. Higher gloss is easier to clean but shows off surface imperfections. Front doors are often painted with a glossy finish, trim often is satin or semi-gloss and exterior walls are often flat, although some homes are quite nice with a satin sheen.
 
   - question: What about lead paint?
     id: lead

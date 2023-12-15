@@ -5,7 +5,7 @@ latestPosts = 3
 email = "admin@crestwoodpainting.com"
 phone = "816-805-4515"
 copyright = "Copyright &copy; 2007 - 2023  [Crestwood Painting](https://crestwoodpainting.com/)"
-logo = "/images/crestwood-logo180.webp"
+logo = "/images/logo-crestwood.webp"
 [nav_cta]
 show = true
 url = "/book-us/"

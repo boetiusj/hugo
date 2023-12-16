@@ -13,7 +13,7 @@ text = "Book an Estimate"
 [comments]
 enable = false
 [[socials]]
-platform = "facebook"
+platform = "fb"
 profile = "https://www.facebook.com/CrestwoodPainting" 
 icon = "facebook-f" # fab fa-facebook-f
 [[socials]]

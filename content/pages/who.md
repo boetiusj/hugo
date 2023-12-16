@@ -1,7 +1,7 @@
 ---
 title: "Our Story"
 url: "who"
-description: "Communicate often, set clear expectations and meet them. Be courteous, responsive, tidy, prompt. Always professional"
+description: "Communicate often, set clear expectations and meet them. Be courteous, responsive, tidy, prompt. Always professional."
 keywords: "no drips no drama, story, who we are, about"
 canonical: "https://crestwoodpainting.com/who/"
 date: "2011-09-27"
@@ -9,16 +9,21 @@ index: true
 coverImage: "Cropped-e1513965769859.jpg"
 ---
 
-## Since 2007, this is who we are
+## We ARE No Drips, No Drama - since 2007
 
-- Consistent communication
-- Clear proposals, clear expectations
-- On-time starts, full days
-- Friendly people, tidy work areas
+We communicate consistently. We send clear proposals and set clear expectations. Our friendly people work full days and keep tidy work areas.
 
-Year after year, it's paid off: we're in our 16th year and business is booming. We continue to get rave [reviews, feedback & testimonials](/reviews/). Customers tell their friends about us.
+### Fully licensed and insured
 
-And it all starts with:
+From the very beginning we've had a KCMO business license and full insurance - business liability and workman's compensation insurance. And we send a copy of that insurance along with every single proposal. So you have confidence from the get-go.
+
+{{< figure src="/images/lead-safe-certified-155.webp" src="/images/logo-pca100.webp" title="Professional certifications and affiliations" >}}
+
+Crestwood Painting has been lead-safe certified by the EPA since way back in 2011.
+
+### High Customer Ratings
+
+Year after year, we continue to get rave [reviews, feedback & testimonials](/reviews/). Customers tell their friends and families about us.
 
 ### Solid People
 
@@ -26,19 +31,11 @@ Every company succeeds with their people. At Crestwood Painting we patiently wai
 
 Some companies compromise. Usually, it's too many jobs and not enough people - this happens all the time. And it's the customer that suffers. [Read more about that here.](http://crestwoodpainting.com/price-service-sketchy-dudes/)
 
-### Insurance & Licensing
-
-![crestwood painting business license kcmo](/images/KCMO-biz-license-e1513961088421-150x150.jpeg)
-
-Crestwood Painting has had, from the very beginning, a KCMO business license as well as full insurance - both business liability and workman's compensation insurance. And we send a copy of that insurance along with every single proposal we send out. So you have confidence from the get-go.
-
-Painting is a relatively dangerous occupation, insurance is expensive and many painting companies don't buy insurance.  They just hope that nothing will go wrong. But when a gallon spills on your hardwood floor or a ladder crashes onto your convertible, it's good to know you're portected.
-
 ### What's in a Name?
 
-After starting in '07 we needed a name but the obvious "Brookside Painting" URL was taken by a company in Brooklyn. Really. So I sat for a long cup of coffee with my marketing expert pal and we eventually settled on "Home Tones". As in Home painting and Tones of color. We were quite pleased.
+After starting in '07 we needed a name but the obvious "Brookside Painting" URL was taken by a company in Brooklyn. No kidding. So, a long cup of coffee with a marketing expert lead to "Home Tones". As in Home painting and Tones of color. Genius, right?
 
-I came home and burst through the door with the announcement. My beloved wife and daughter, in unison, said things like "Oh no" and "you've got to be kidding". They are not marketing experts. In less than 5 minutes they told me the company would be called Crestwood Painting. I shrewdly agreed.
+It was immediately shot down (wife and daughter: "you've got to be kidding"). They are not marketing experts, but in less than 5 minutes they decided on Crestwood Painting. Whadda ya gonna do?
 
 ("Crestwood" is another classic Kansas City neighborhood within Brookside, snuggled in just south of UMKC at Oak St.)
 [![customer review painter kansas city crestwood painting](/images/Kristy-Glorfeld.jpg)](/reviews/)

@@ -8,8 +8,10 @@ date: "2015-06-07"
 index: false
 ---
 
-Thanks very much.
+### Thanks - we've received your confirmation
 
-[![Kansas City EPA certified painter](/images/Gray-Lead-Safe-Certified-Logo.jpg)](/images/Gray-Lead-Safe-Certified-Logo.jpg)
+![Kansas City EPA certified painter](/images/Gray-Lead-Safe-Certified-Logo.jpg)
+
+---
 
 ![customer review painter kansas city crestwood painting](/images/Kristy-Glorfeld.jpg)

@@ -16,9 +16,8 @@ Consistent communication. Clear proposals, clear expectations. Friendly people w
 
 From the very beginning we've had a KCMO business license and full insurance - business liability and workman's compensation insurance. And we send a copy of that insurance along with every single proposal. So you have confidence from the get-go.
 
-{{< figure src="/images/logo-pca100.webp" alt="Professional certifications and affiliations alt" caption="Professional certifications and affiliations caption" title="Professional certifications and affiliations Title">}}
-
-Crestwood Painting has been lead-safe certified by the EPA since way back in 2011.
+{{< figure src="/images/logo-pca100.webp" alt="Professional certifications and affiliations alt" caption="Professional certifications and affiliations caption">}} ![Professional certifications and affiliations alt](/images/logo-pca100.webp title="Title")
+Crestwood Painting has been lead-safe certified by the EPA since way back in 2011. And an active member of the [Painting Contractors Association](https://www.pcapainted.org/) since 2008.
 
 ### High Customer Ratings
 

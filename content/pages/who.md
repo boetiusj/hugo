@@ -6,30 +6,27 @@ keywords: "no drips no drama, story, who we are, about"
 canonical: "https://crestwoodpainting.com/who/"
 date: "2011-09-27"
 index: true
-coverImage: "Cropped-e1513965769859.jpg"
 ---
 
 ## We ARE No Drips, No Drama - since 2007
 
-We communicate consistently. We send clear proposals and set clear expectations. Our friendly people work full days and keep tidy work areas.
+Consistent communication. Clear proposals, clear expectations. Friendly people work full days and keep tidy work areas.
 
 ### Fully licensed and insured
 
 From the very beginning we've had a KCMO business license and full insurance - business liability and workman's compensation insurance. And we send a copy of that insurance along with every single proposal. So you have confidence from the get-go.
 
-{{< figure src="/images/lead-safe-certified-155.webp" src="/images/logo-pca100.webp" title="Professional certifications and affiliations" >}}
+{{< figure src="/images/logo-pca100.webp" alt="Professional certifications and affiliations alt" caption="Professional certifications and affiliations caption" title="Professional certifications and affiliations Title">}}
 
 Crestwood Painting has been lead-safe certified by the EPA since way back in 2011.
 
 ### High Customer Ratings
 
-Year after year, we continue to get rave [reviews, feedback & testimonials](/reviews/). Customers tell their friends and families about us.
+Year after year, all the way back to 2007, we have rave [reviews, feedback & testimonials](/reviews/). Customers call us back and tell their friends and families their great experience.
 
 ### Solid People
 
-Every company succeeds with their people. At Crestwood Painting we patiently wait for the right people. Technical skills are assumed - a painter should, of course, competently sand, fill, caulk, scrape, brush and roll. We also look for the soft skills: neat appearance, courtesy, respectful of others, etc. Because when a painter is in your home you want to be confident that both your family and your home are protected and respected.
-
-Some companies compromise. Usually, it's too many jobs and not enough people - this happens all the time. And it's the customer that suffers. [Read more about that here.](http://crestwoodpainting.com/price-service-sketchy-dudes/)
+Every company succeeds with their people. At Crestwood Painting we patiently look for the right people. Technical skills are assumed - a painter should, of course, competently sand, fill, caulk, scrape, brush and roll. We also look for the soft skills: neat appearance, courtesy, respectful of others, etc. Because when a painter is in your home you want to be confident that both your family and your home are protected and respected.
 
 ### What's in a Name?
 

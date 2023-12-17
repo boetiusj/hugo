@@ -24,6 +24,17 @@ Crestwood Painting has been lead-safe certified by the EPA since way back in 201
 
 Year after year, all the way back to 2007, we have rave [reviews, feedback & testimonials](/reviews/). Customers call us back and tell their friends and families their great experience.
 
+### Schedule Driven
+
+Best to look for a company that sets expectations for painters as effectively as those for customers. Those things that are expected of every service company, but often not delivered:
+
+- Show up on time
+- Work full days, every day
+- Stay at it until the job is complete
+- Clean up. And then leave.
+
+Many of the top contractor complaints are schedule related. These include inconsistent work hours and days, inconsistent crews, inconsistent work practices. All of this means the project drags on.
+
 ### Solid People
 
 Every company succeeds with their people. At Crestwood Painting we patiently look for the right people. Technical skills are assumed - a painter should, of course, competently sand, fill, caulk, scrape, brush and roll. We also look for the soft skills: neat appearance, courtesy, respectful of others, etc. Because when a painter is in your home you want to be confident that both your family and your home are protected and respected.
@@ -36,17 +47,6 @@ It was immediately shot down (wife and daughter: "you've got to be kidding"). Th
 
 ("Crestwood" is another classic Kansas City neighborhood within Brookside, snuggled in just south of UMKC at Oak St.)
 [![customer review painter kansas city crestwood painting](/images/Kristy-Glorfeld.jpg)](/reviews/)
-
-### Schedule Driven
-
-Best to look for a company that sets expectations for painters as effectively as those for customers. Those things that are expected of every service company, but often not delivered:
-
-- Show up on time
-- Work full days, every day
-- Stay at it until the job is complete
-- Clean up. And then leave.
-
-Many of the top contractor complaints are schedule related. These include inconsistent work hours and days, inconsistent crews, inconsistent work practices. All of this means the project drags on.
 
 ### What is No Drips, No Drama?
 

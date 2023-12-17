@@ -8,7 +8,7 @@ date: "2018-08-28"
 index: true
 ---
 
-![painter questions kansas city](/images/Checkbox.webp "width=360 height=360")
+![painter questions kansas city](/images/Checkbox.webp)
 
 Be sure to ask these questions _before_ you decide on a painter.
 
@@ -16,11 +16,13 @@ Be sure to ask these questions _before_ you decide on a painter.
 
 Every painter should carry General Liability insurance with not less than $1 million in coverage. This insurance protects the homeowner from damage done by the painter, e.g. 5 gallons of white latex is spilled on your new roof or a ladder crashes onto your convertible. Repair work? That falls under carpentry and requires a separate rider. Proper insurance is Business 101. Of course, if these accidents really didn’t happen nobody would need insurance.
 
-### Are your painters employees or independent contractors?
+### Who will be doing the work?
+
+All workers, whether employees or subcontractors, should be both informed and supervised. Trouble happens when companies don't take care of these critical items.
+
+Informed means that painters clearly understand the Scope of Work. Supervised means the painters are accountable for delivering on company and customer expectations. Well-supervised projects meet expectations. And that means happy customers and on-time completions.
 
 > A well-run company will arrive when they say they will, work a full day and then return each day until the job is complete.
-
-Employees will be covered by their employers’ general liability insurance, independent contractors should each be individually insured. It’s fairly common for painters to hire independent contractors; it is much less common for each individual contractor to be properly insured. A company’s general liability policy does not cover independent contractors. Murphy’s Law dictates that the only independent contractor that you haven’t verified insurance on will be the one that…
 
 ### May I have a copy of your insurance certificate for my files?
 
@@ -47,7 +49,7 @@ All of this assumes quality materials – if you’re being steered toward a low
 
 ![pca paint ed kansas city crestwood painting](/images/logo-pca100.webp "width=269 height=100")
 
-The PCA (Painting Contractors Assoc. [pca.org](https://pcapainted.org)) has established clear standards for its members, from accepted production rates to appropriate materials and application techniques. Objective standards make it easy for homeowner and painter to agree on what a [properly painted surface](/12-questions-ask-painter/#properlypainted) is. Membership in trade organizations indicates a level of professional commitment.
+The [Painting Contractors Assoc](https://pcapainted.org) has established clear standards for its members, from accepted production rates to appropriate materials and application techniques. Objective standards make it easy for homeowner and painter to agree on what a [properly painted surface](/12-questions-ask-painter/#properlypainted) is. Membership in trade organizations indicates a level of professional commitment.
 
 ### Do you require any payment up front?
 
@@ -65,7 +67,7 @@ The weather is another factor in job delays. With favorable weather, work moves 
 
 A quality painting company will tarp everything, arrange for prized plants to be moved or staked off and make sure that cars are out of overspray range. This type of conscientious preparation is often overlooked because it is a hassle - it’s easier for a painter to tell his workers to “watch out for the plants” or just hope they’re not careless. Attention to detail at the start saves problems for everyone later.
 
-### Will I hear loud music, objectionable language or find cigarette butts in my garden?
+### Will I hear loud music, objectionable language or find cigarette butts in my garden?
 
 Some painters assume that your home is, in fact, their work area. And then they act that way. Better to be clear with your expectations up front.
 

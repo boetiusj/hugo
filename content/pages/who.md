@@ -8,13 +8,13 @@ date: "2011-09-27"
 index: true
 ---
 
-## We ARE No Drips, No Drama - since 2007
+## No Drips, No Drama - since 2007
 
 Consistent communication. Clear proposals, clear expectations. Friendly people work full days and keep tidy work areas.
 
 ### Fully licensed and insured
 
-From the very beginning we've had a KCMO business license and full insurance - business liability and workman's compensation insurance. And we send a copy of that insurance along with every single proposal. So you have confidence from the get-go.
+From the very beginning we've had a KCMO business license and full insurance. And we send a copy of that insurance along with every single proposal. So you can have confidence from the get-go.
 {{< figure src="/images/logo-pca100.webp" alt="Professional certifications and affiliations">}}
 ![EPA Lead paint certified](/images/Lead-Safe-Certified120.webp)
 Crestwood Painting has professional certifications and affiliations. Lead-safe certified by the EPA since way back in 2011 and an active member of the [Painting Contractors Association](https://www.pcapainted.org/) since 2008.

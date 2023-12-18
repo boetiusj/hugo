@@ -21,4 +21,4 @@ Crestwood Painting is not responsible for differences in paint color or sheen wh
 
 For your protection, we carry both workman's compensation and business liability insurance.
 
-![customer review crestwood painting](/images/Kara-H..jpg)
+![customer review crestwood painting](/r11-7-kara.webp)

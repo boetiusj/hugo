@@ -8,9 +8,8 @@ date: "2017-01-16"
 index: true
 ---
 
-![office painting kansas city](/images/O-Bluebird-aisle.webp "w=400 height=247")
-
-This busy network office continued to hum while Crestwood Painting quietly did their thing.
+![office painting kansas city](images/office/office blue.jpg)
+This busy manufacturer continued to hum while Crestwood Painting quietly did their thing.
 
 Clean and quiet, efficient and pleasant - our painters make it easy for your office routine to continue uninterrupted - No Drips, No Drama. That's the kind of [painter your office can work with](/office-painting-case-study/).
 

@@ -1,5 +1,5 @@
 ---
-title: "Our Story"
+title: "Who We Are"
 url: "who"
 description: "Communicate often, set clear expectations and meet them. Be courteous, responsive, tidy, prompt. Always professional."
 keywords: "no drips no drama, story, who we are, about"

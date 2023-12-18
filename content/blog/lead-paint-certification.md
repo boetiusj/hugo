@@ -1,5 +1,5 @@
 ---
-title: "Lead Paint Certified: It's Important"
+title: "Lead Paint: It's Important"
 url: "lead-paint-certification"
 description: "EPA Lead Paint certified (RRP) - Crestwood Painting"
 image: "/images/Lead-Safe-Certified-155.webp"
@@ -16,6 +16,7 @@ tags:
 ---
 Crestwood Painting has been [EPA Lead-Safe certified](/lead-paint-safety/) since 2011, many of our Job Leads have also been trained and certified, as well.
 
+![Lead paint certification](images/Lead-Safe-Certified-155.webp")
 Lead in paint has been outlawed since 1978. If your home was built before that the EPA says that lead-safe work practices must be followed. That means lots of tape and plastic to protect your home and family (and your contractor).
 
 If a pre-'78 home is proved to have no lead in the work surfaces then lead-safe practices do not have to be followed. But the test procedures are fraught with their own set tangled rules - so we just assume lead on every pre '78 project and work accordingly.

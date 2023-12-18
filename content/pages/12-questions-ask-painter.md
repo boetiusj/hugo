@@ -9,7 +9,6 @@ index: true
 ---
 
 ![painter questions kansas city](/images/Checkbox.webp)
-
 Be sure to ask these questions _before_ you decide on a painter.
 
 ### Do you have proof of insurance?

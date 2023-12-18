@@ -128,7 +128,7 @@ faqs:
       We pay well enough to attract high quality people. Our painters are real people with real lives and real families, living right here in Kansas City.
 ---
 
-![paint FAQ questions kansas city crestwood painting](/images/faq-pic.webp "width=300 height=199")
+![paint FAQ questions kansas city crestwood painting](/images/faq-pic.webp)
 
 Good questions help homeowners make good decisions.
 

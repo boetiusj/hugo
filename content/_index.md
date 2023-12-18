@@ -34,11 +34,11 @@ intro:
   showValues: true # turn to false to hide
   values: # or benefits/qualities
     - title: Exterior Painting
-      summary: "Historic and contemporary homes, commercial buildings too."
+      summary: "Homes new, old and mid-century. Commercial buildings too."
       icon: home
       link: https://www.crestwoodpainting.com/exterior-painting-kansas-city/
     - title: Interior Painting
-      summary: "Dust-free, noise-free. No Drips, No Drama."
+      summary: "Homes, condos, lofts - dust-free, noise-free."
       icon: brush-alt
       link: https://www.crestwoodpainting.com/interior-painter-kansas-city/
     - title: Offices

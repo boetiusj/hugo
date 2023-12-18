@@ -43,4 +43,4 @@ If the rose bushes are not mentioned at all you're setting yourself up to have s
 
 It's been wisely said that "a job well specified is half delivered". Give Crestwood Painting a call if you'd like to see what _Met_ Expectations feel like.
 
-[![video review crestwood painting](/images/Ann-Davis.jpg)](/video-testimonials/)
+[![video review crestwood painting](/images/r13-10-ann-d.webp)](/video-testimonials/)

@@ -3,7 +3,7 @@
 - name: "Why Us?"
   url: "#"
   submenu:
-    - name: "Our Story"
+    - name: "Who & Why"
       url: "/who/"
     - name: "Reviews"
       url: "/reviews/"

@@ -8,7 +8,7 @@ date: "2017-01-16"
 index: true
 ---
 
-![office painting kansas city](images/office/office-blue.avif)
+![office painting kansas city](images/office/blue-mfg.avif)
 This busy manufacturer continued to hum while Crestwood Painting quietly did their thing.
 
 Clean and quiet, efficient and pleasant - our painters make it easy for your office routine to continue uninterrupted - No Drips, No Drama. That's the kind of [painter your office can work with](/office-painting-case-study/).

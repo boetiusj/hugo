@@ -38,16 +38,16 @@ Many of the top contractor complaints are schedule related. These include incons
 
 Every company succeeds with their people. At Crestwood Painting we patiently look for the right people. Technical skills are assumed - a painter should, of course, competently sand, fill, caulk, scrape, brush and roll. We also look for the soft skills: neat appearance, courtesy, respectful of others, etc. Because when a painter is in your home you want to be confident that both your family and your home are protected and respected.
 
-### What's in a Name?
+#### What's in a Name?
 
 After starting in '07 we needed a name but the obvious "Brookside Painting" URL was taken by a company in Brooklyn. No kidding. So, a long cup of coffee with a marketing expert lead to "Home Tones". As in Home painting and Tones of color. Genius, right?
 
 It was immediately shot down (wife and daughter: "you've got to be kidding"). They are not marketing experts, but in less than 5 minutes they decided on Crestwood Painting. Whadda ya gonna do?
 
 ("Crestwood" is another classic Kansas City neighborhood within Brookside, snuggled in just south of UMKC at Oak St.)
-[![customer review painter kansas city crestwood painting](/images/Kristy-Glorfeld.jpg)](/reviews/)
+[![customer review painter kansas city crestwood painting](/images/r17-4-glorfeld.webp)](/reviews/)
 
-### What is No Drips, No Drama?
+#### What is No Drips, No Drama?
 
 Early on, a homeowner saw us working down the street. After a couple of days he came over and asked for an estimate. After the usual measuring and counting he was asked: "What are you sensitive to? What do you want to avoid?"
 
@@ -66,4 +66,4 @@ No Drips, No Drama means
 
 Give us a call and see for yourself how pleasant it is to work with true service professionals.
 
-[![painter review testimonial kansas city crestwood](/images/Ted-Goff.jpg)](/reviews/)
+[![painter review testimonial kansas city crestwood](/images/r15-2-goff.webp)](/reviews/)

@@ -19,7 +19,6 @@
 {{- $divClass := print "relative bg-center imgB-" $imgBd5 "-" $holder -}}
 {{- $imgClass := "w-full h-auto animate-fade" -}}
 {{- $dataSzes := "(min-width: 1024px) 100vw, 50vw" -}}
-{{- $actualImg := $src.Resize (print "640x jpg " $filter) -}}
 <div class="{{ $divClass }}">
 	<picture>
 		<source type="image/webp" srcset="
@@ -45,7 +44,12 @@
 
 
 
-<!-- 
+<!--
+    
+    deleted line 22 above:
+    {{- $actualImg := $src.Resize (print "640x jpg " $filter) -}}
+
+    
     {{- $image := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) -}}
 <img
     src="{{ .Destination | safeURL }}" alt="{{ .Text }}"

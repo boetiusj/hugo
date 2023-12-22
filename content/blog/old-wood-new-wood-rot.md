@@ -11,15 +11,13 @@ tags:
   - "exterior-painting"
   - "re-siding"
 ---
-![wood rot](/images/woodrot.webp) Poor material selection means this design can only fail.
-
+![wood rot](/images/woodrot.webp)
 "Wood rot” is a term we hear often. Homeowners in Kansas City often assume that peeling paint or any less-than-ideal appearance is wood rot. Not so – sometimes it really is wood rot but just as often it is simply a [solid paint job](/reviews/) away from being just fine.
 
 ### Homes Built Before 1940
 
 The first thing to look at is the age of the house – homes built before 1940 are made with “old growth” wood. This wood comes from larger, older trees and is denser and much less susceptible to weather.
 
-- Built before 1940 – “old growth” wood is denser and more durable than new, fast growth lumber.
 - Weathers well
 - Takes paint well
 - Repairs well

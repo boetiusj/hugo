@@ -1,6 +1,6 @@
 ---
 title: "Wood Rot"
-url: "wood rot - old and new"
+url: "wood rot"
 description: "Wood rot - why and how"
 keywords: "painting prep wood rot kansas city"
 canonical: "https://crestwoodpainting.com/old-wood-new-wood-rot/"

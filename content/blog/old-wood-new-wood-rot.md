@@ -1,7 +1,7 @@
 ---
-title: "Old Wood, New Wood &amp; Wood Rot"
-url: "old-wood-new-wood-rot"
-description: "All about wood rot and the "
+title: "Wood Rot"
+url: "wood rot - old and new"
+description: "Wood rot - why and how"
 keywords: "painting prep wood rot kansas city"
 canonical: "https://crestwoodpainting.com/old-wood-new-wood-rot/"
 date: "2012-08-20"
@@ -11,10 +11,7 @@ tags:
   - "exterior-painting"
   - "re-siding"
 ---
-
-<!-- \[caption id="attachment\_964" align="alignright" width="259"\] -->
-![painting wood rot kansas city crestwood](/images/WoodRot.jpg "Wood Rot") Poor material selection means this design can only fail.
-<!-- \[/caption\] -->
+![wood rot](/images/woodrot.webp) Poor material selection means this design can only fail.
 
 "Wood rot” is a term we hear often. Homeowners in Kansas City often assume that peeling paint or any less-than-ideal appearance is wood rot. Not so – sometimes it really is wood rot but just as often it is simply a [solid paint job](/reviews/) away from being just fine.
 
@@ -22,12 +19,11 @@ tags:
 
 The first thing to look at is the age of the house – homes built before 1940 are made with “old growth” wood. This wood comes from larger, older trees and is denser and much less susceptible to weather.
 
-- Built before 1940 – “old growth” wood
+- Built before 1940 – “old growth” wood is denser and more durable than new, fast growth lumber.
 - Weathers well
-
-    \[caption id="" align="alignright" width="176"\][![old growth lumber](/images/WoodOldGrowth.jpg "Old Growth Lumber - Common In Homes Build Before 1940")](/2012/08/WoodOldGrowth.jpg) Wood from old growth lumber is denser and more durable than fast growth lumber.\[/caption\]
 - Takes paint well
 - Repairs well
+![old growth lumber](/images/woodoldgrowth.webp)
 
 ### Homes Built After 1960
 
@@ -35,7 +31,6 @@ As the supply of existing old lumber shrank, younger and faster-growing trees we
 
 - Built after 1960 – fast growth wood
 -  Degrades rapidly to weather
-
 - Softer, more difficult to repair
 
 ### Design and Economics

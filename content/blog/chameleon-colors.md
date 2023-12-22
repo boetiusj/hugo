@@ -3,7 +3,7 @@ title: "Chameleon Colors"
 url: "chameleon-colors"
 description: "Paint colors can look different depending on sunlight, shadows, reflection of other colors. Here are some factors to consider."
 keywords: "paint colors kansas city"
-image: /images/color-samples.webp
+image: /images/color-chips.webp
 canonical: "https://crestwoodpainting.com/chameleon-colors/"
 date: "2016-02-02"
 categories:

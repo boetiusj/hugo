@@ -4,6 +4,8 @@
     hardwraps = true # MK added to allow line breaks in titles i.e. Home title
   [goldmark.extensions]
     typographer = false
+  
+  
 [highlight]
   codeFences = true
   guessSyntax = false

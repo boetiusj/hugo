@@ -12,10 +12,7 @@ tags:
   - "online-reviews"
   - "painters"
 ---
-
-<!-- \[caption id="attachment\_1198" align="alignright" width="200"\] -->
-![Reviews, Referrals, feedback - crestwood painting kansas city](/images/Rave-Reviews_opt.jpg "Rave Review") Our customers are our best advertisement!
-<!-- \[/caption\] -->
+![Reviews, Referrals, feedback - crestwood painting kansas city](/images/rave-reviews.webp) Our customers are our best advertisement!
 
 This was a nice treat on New Years Eve - [positive feedback](/reviews/) from a lady that _didn't_ hire us! Proposal sent in Feb.,  last contact was mid-March - then this arrived in December. Fortunately, [Crestwood Painting customers](/video-testimonials/) don't have this kind of experience.
 
@@ -34,10 +31,9 @@ This was a nice treat on New Years Eve - [positive feedback](/reviews/) from a l
 "I am so sorry I did not hire you, and won't make that mistake in the future. There have been a few people asking about a painter, since they knew I had my house done. I will pass on your name.
 
 May the new year bring you much success, good health, and happiness.
+Best regards, Barbara L
 
-Best regards, Barbara \[Last Name\]"
-
-### Nice Words!
+### Nice Words\!
 
 Kansas City homeowners have a wide range of options available when they look for a painter. Most homeowners are happy to pay a little more than to be totally dissatisfied with the experience.
 

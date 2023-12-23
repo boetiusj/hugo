@@ -13,8 +13,7 @@ tags:
   - "rain"
 ---
 
-![Online Reviews Crestwood Painting](/images/Online-Reviews-e1514762076243.jpg "Online Reviews")
-
+![Online Reviews Crestwood Painting](/images/online-reviews.webp)
 This was a review of the painting work we did for a new homeowner. Realtors had a very involved deal and rainy weather made this a bit of a challenge but the rain eventually stopped, the [exterior painting](/exterior-painting-kansas-city/) was soon completed and the homeowner is quite delighted!
 
 "Crestwood Painting is an excellent example of getting what you pay for. While they were our most expensive estimate by a solid 20% over the next-highest competitor, I would absolutely (and likely will, down the line) use them again. We took a bit of a chance and chose them based on their stellar reputation and my excellent first impression during the initial estimate. I'm glad we made the choice we did. I heartily recommend their services.

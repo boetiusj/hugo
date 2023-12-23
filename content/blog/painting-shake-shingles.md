@@ -12,10 +12,7 @@ tags:
   - "shingles"
   - "wood"
 ---
-
-<!-- \[caption id="attachment\_2213" align="alignright" width="300"\] -->
-![Cedar shake shingle painting](/images/Shake-shingle-painting-300x224.jpg) Cedar Shake shingles can split if they haven't been cared for.
-<!-- \[/caption\] -->
+![Cedar shake shingle painting](/images/shake-shingles.webp) Cedar Shake shingles can split if they haven't been cared for.
 
 Cedar shake shingles can split and curl when not properly cared for. While replacing damaged shingles sounds straightforward, here's what to look out for.
 
@@ -33,4 +30,4 @@ A [new shingle](/exterior-paint-new-homes/) may really be smooth but it may just
 
 So by now you've thrown up your hands and bellowed "Oiy!" - can't blame you. But as painting professionals it's up to us to set the expectation with our customers - what you can expect and also what you can't. That way there are no unmet expectations. Give us a call if you think we might be able to help.
 
-[![Exterior painting fence kansas city crestwood](/images/Ruben-Lara.jpg)](/reviews/)
+![Exterior painting fence kansas city crestwood](/images/r18-2-ruben.webp)

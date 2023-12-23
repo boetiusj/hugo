@@ -14,7 +14,7 @@ tags:
   - "exterior-painting"
 ---
 
-![exterior paint colors kansas city painter crestwood painting](/images/colors.jpg "Exterior Paint Colors")Another update from Kansas City color consultant Diane Stewart at [Color Sense Consulting](http://www.colorsenseconsulting.com/). Exterior colors can be tricky and, as Diane points out, it's tough to visualize what the whole house will look like from a tiny paint-store sample. Here's Diane Stewart:
+![exterior paint colors kansas city painter crestwood painting](/images/colors.webp)Another update from Kansas City color consultant Diane Stewart at [Color Sense Consulting](http://www.colorsenseconsulting.com/). Exterior colors can be tricky and, as Diane points out, it's tough to visualize what the whole house will look like from a tiny paint-store sample. Here's Diane Stewart:
 
 A paint chip may not give a true indication of what the color will look like when it fills your room, or is magnified on the [front of your house](/exterior-paint-important/). Colors get brighter and more intense as square footage increases, and different types of light affect your color perception.
 

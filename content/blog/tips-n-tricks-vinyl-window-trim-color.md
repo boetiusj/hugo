@@ -13,7 +13,7 @@ tags:
   - "trim"
 ---
 
-![white wall tire vinyl window options](/images/white-wall-tire_opt.jpg "White Wall Tire")Vinyl windows can be kind of tricky when it comes to trim colors – they are almost always stark white and generally cannot be painted (see below). Some lean to matching trim color to the vinyl – this gives a hospital-feeling white-on-white look that lacks visual interest. It also ranks a solid “Zero” on the Warmth scale.
+![white wall tire vinyl window options](/images/white-wall-tire.webp)Vinyl windows can be kind of tricky when it comes to trim colors – they are almost always stark white and generally cannot be painted (see below). Some lean to matching trim color to the vinyl – this gives a hospital-feeling white-on-white look that lacks visual interest. It also ranks a solid “Zero” on the Warmth scale.
 
 The other end of the spectrum is the high contrast approach. This lacks subtlety and, just like whitewall tires, isn’t suited for most homes. Both white-on-white and dark-on-white are just too harsh a contrast for most tastes.
 
@@ -23,9 +23,7 @@ An off-white trim color will soften the transition from the harsh white of the v
 
 ### And Why Not Just Paint Vinyl Windows?
 
-<!-- \[caption id="attachment\_1720" align="alignright" width="180"\] -->
-![Vinyl-Window-paint](/images/Vinyl-Window-paint.jpg "Vinyl Window Paint") Off-white trim color helps soften the harsh appearance of white vinyl windows.
-<!-- \[/caption\] -->
+![Vinyl-Window-paint](/images/vinyl-window-paint.webp) Off-white trim color helps soften the harsh appearance of white vinyl windows.
 
 Short answer: manufacturer’s warranty. Window manufacturers are concerned that paint colors may increase heat gain and cause vinyl seams to pop, whole windows to swell out of their openings and Saturn to change it’s orbit. The darker the color the greater the possibility of planetary mis-alignment. So manufacturers opt to say “No” to any paint at all on their products.
 

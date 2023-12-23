@@ -12,10 +12,7 @@ tags:
   - "painting-insurance"
   - "warranty"
 ---
-
-<!-- \[caption id="attachment\_1608" align="alignright" width="200"\] -->
-![Peeling exterior paint warranty](/images/Peeling-exterior-paint-warranty_opt-e1514760857116.jpg "Peeling Exterior Paint") Peeling paint is a possible warranty situation. What kind of company will stand behind their work?
-<!-- \[/caption\] -->
+![Peeling exterior paint warranty](/images/peeling-exterior-paint-warranty.webp) Peeling paint is a possible warranty situation. What kind of company will stand behind their work?
 
 Believe it or not, some homeowners have hired crummy contractors - the kind you have no confidence in. But these people are quite sure that if everything goes bad, they've still got a written warranty.
 

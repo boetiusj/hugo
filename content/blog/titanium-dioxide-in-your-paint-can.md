@@ -12,9 +12,7 @@ tags:
   - "latex-paint"
 ---
 
-<!-- \[caption id="attachment\_2007" align="alignright" width="180"\] -->
-![paint ingredients titanium dioxide kansas city](/images/Titanium-Dioxide-e1514499225663.jpg) paint ingredients titanium dioxide kansas city
-<!-- \[/caption\] -->
+![paint ingredients titanium dioxide kansas city](/images/titanium-dioxide.webp) paint ingredients titanium dioxide kansas city
 
 Met our paint supplier rep this week. He tells me there’s going to be a price increase effective early next year – 5-6% for paint. We’ve had steady increases for at least the last 5 years.
 
@@ -28,4 +26,4 @@ The key take-away here? Continue to buy good quality paint – it just doesn’t
 
 Like more info? Need to know how resins, binders and pigments all play together in the can? Give us a call – we’ll put on our propeller hat and play the Paint Geek!
 
-[![customer review painter kansas city](/images/Ben-S..jpg)](/reviews/)
+[![customer review painter kansas city](/images/r16-5-bens.webp)](/reviews/)

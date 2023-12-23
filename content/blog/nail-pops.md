@@ -11,10 +11,8 @@ tags:
   - "nail-pops"
   - "prep"
 ---
-
-![nail pop crestwood painting](/images/Nail-pop-surface-intact-300x300.jpg)
-
 Exterior siding nail - properly set, no moisture infiltration
+![nail pop crestwood painting](/images/nail-pop-surface-intact.webp)
 
 First, let's understand what a "nail pop" is - simply a nail head that protrudes above the surrounding surface. They're usually caused by structural settling or by normal expansion and contraction - both interior and exterior. Here's how to deal with them.
 
@@ -30,7 +28,7 @@ We recently had a suburban homeowner insist on "fixing" visible nail heads. Whil
 
 ### If It Ain't Broke...
 
-![drywall nail pop crestwood painting](/images/Nail-pop-drywall-e1514663625204.jpg)
+![drywall nail pop crestwood painting](/images/nail-pop-drywall.webp)
 
 Here's the problem: in doing that it's very likely that the nail or surrounding siding will be damaged (errant hammer gouges siding, nail now more likely to rust) or that the nail will be _over_\-driven and the surface membrane will be pierced. And with that is a much greater chance of moisture infiltration, no matter how much caulk is used. The consequence of caulking each nail head is seeing a smooth dab of caulk every 16" on a field of faux-wood or -stucco texture. Yes, you'll see the texture difference right through the paint - and all across the side of the house.
 

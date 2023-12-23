@@ -15,9 +15,7 @@ tags:
   - "shingles"
 ---
 
-<!-- \[caption id="attachment\_1479" align="alignright" width="200"\] -->
-![Paint colors roof kansas city painter](/images/Paint-colors-roof_opt-e1514763065667.jpg "House With Color Scheme") Roof color can be a factor when choosing paint colors.
-<!-- \[/caption\] -->
+![Paint colors roof colors](/images/paint-colors-roof-colors.webp) Roof color can be a factor when choosing paint colors.
 
 Roof colors (foundations too) affect paint color choices. Color expert Diane Stewart atColor Sense Consulting gives her take on how to tackle this situation.
 

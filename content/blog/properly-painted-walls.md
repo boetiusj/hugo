@@ -12,10 +12,7 @@ tags:
   - "interior-painting"
   - "plaster"
 ---
-
-<!-- \[caption id="attachment\_1161" align="alignright" width="200"\] -->
-![Proper wall painting Kansas City](/images/Wall-painting_opt.jpg "Painter Painting A Wall") The right materials and technique mean a Properly Painted Surface - consistent sheen and no misses.
-<!-- \[/caption\] -->
+![Proper wall painting Kansas City](/images/wall-painting.webp) The right materials and technique mean a Properly Painted Surface - consistent sheen and no misses.
 
 As professional painters in Kansas City, we often are asked to repaint walls that were not done especially well in the first place. While it is obvious to us, most homeowners don't know how to determine if a paint job was done well or not. Putting color on the wall is easy- getting a uniform appearance is another matter entirely. Here's what to look for.
 

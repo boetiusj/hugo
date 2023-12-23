@@ -12,10 +12,7 @@ tags:
   - "interior-painting"
   - "trim"
 ---
-
-<!-- \[caption id="attachment\_1181" align="alignright" width="240"\] -->
-![Holiday decorating kansas city painted trim](/images/3M-Delicate-Surface.jpg "The Right Tape Allows You To Decorate Without Damage") The right tape will help prevent damage to interior painted trim when decorating for the Holidays.
-<!-- \[/caption\] -->
+![Holiday decorating kansas city painted trim](/images/3M-Delicate-Surface.jpg) The right tape will help prevent damage to interior painted trim when decorating for the Holidays.
 
 You're ready to hang the mistletoe, right? But you're not ready to risk any damage to your beautiful interior trim. Tape is the answer.
 

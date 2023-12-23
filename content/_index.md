@@ -49,9 +49,9 @@ intro:
 cta:
   title: "Earning Kansas City's trust for over 16 years."
   headline: "Prompt and Reliable"
-  description: "We're ready for your project."
+  description: "Give us a call. We're ready for your project."
   phone: "816-805-4515"
-  show: true # turn to false to hide
+  show: false # turn to false to hide
   image:  "/images/bg/bgCanadaLake.webp"
 #cta2: section shows at the very bottom near the footer
 #  headline: "For Every type business"

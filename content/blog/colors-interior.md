@@ -14,9 +14,7 @@ tags:
   - "neutral-colors"
 ---
 
-<!-- \[caption id="attachment\_1378" align="alignright" width="300"\] -->
-![Interior paint colors neutral colors kansas city painter crestwood painting](/images/IMG_0889_SM_opt.gif "Living Room With Neutral Colors") Neutral colors in a traditional home.
-<!-- \[/caption\] -->
+![Interior paint colors neutral colors kansas city painter crestwood painting](/images/IMG_0889.gif) Neutral colors in a traditional home.
 
 Another update from Kansas City color consultant Diane Stewart at [Color Sense Consulting](http://www.colorsenseconsulting.com/). Interior colors can be tricky and, as Diane points out, too often a generic off-white is the not-quite-best choice. Here's Diane Stewart:
 

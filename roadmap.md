@@ -1,5 +1,5 @@
 Dec 1, '23
-Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megakit-bootstrap)
+Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megakit-bootstrap)
 
 image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df1c261e16af7fa881f9d/layouts/_default/_markup/render-image.html
 CSS: links bolder and underlined in red
@@ -8,19 +8,21 @@ Mobile - Hero shrink to see more of the image
 
 MK items - 
   a. FAQs from virtual booking, add to main FAQ
-  b. Frontmatter: non-listed pages
+  b. ~~Frontmatter: non-listed pages~~
 
 Desktop
-1. Fixed header? (doesn't move) 
+1. 
 2. Logo margin, shrink top and bottom 
+  `.nav.navbar-expand-lg.px-0.py-4{
+  padding-bottom: .5rem!important;
+  padding-top: .5rem!important;}`
 3. Logos & links: PCA, Lead Safe, SW, BM, PPG? 
-4. Intro: links for icon and titles (Interior, Exterior, Offices)
-5. Testimonial: link excerpt to Reviews
+4. Intro: linked imgs (Interior, Exterior, Offices)
 6. Phone link under booking button
 7. Pages
-    a. 404: 2 columns
+    a. 
     b. filter pages with frontmatter (index: false)
-8. hugo-dev/index.html: how much of this is necessary?
+8. hugo-dev/index.html: how much of this is necessary? Isn't review text in other file?
 9. Blog image links to post
 10. Blog: remove search
 

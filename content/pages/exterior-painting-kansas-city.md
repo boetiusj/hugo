@@ -8,7 +8,7 @@ date: "2011-09-18"
 index: true
 ---
 
-![exterior painting gray white](/images/x-january.webp?)
+![exterior painting gray white](/images/x-january.webp)
 
 Painting is the most cost-effective way to transform and beautify your Kansas City home. Choose a house painter with a proven track record, [rave online reviews](/reviews/) and the business skill to deliver a glitch-free experience.
 

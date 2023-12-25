@@ -14,8 +14,8 @@ MK items -
 Desktop
 1. CSS: body links bolder and underlined in red, should not affect ul links
 2. Logo margin, shrink top and bottom <br>
-  `.nav.navbar-expand-lg.px-0.py-4{ <br>
-  padding-bottom: .5rem!important; <br>
+  `.nav.navbar-expand-lg.px-0.py-4{
+  padding-bottom: .5rem!important;
   padding-top: .5rem!important;}`
 3. Logos & links: PCA, Lead Safe, SW, BM, PPG? 
 4. Intro: linked imgs (Interior, Exterior, Offices)

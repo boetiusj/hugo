@@ -8,8 +8,8 @@ date: "2017-01-17"
 index: false
 ---
 
-- ![](/images/Living-in-Colors-1024x1024.jpg)
-  
-- ![](/images/Bath-Color-1024x1024.jpg)
-    
-- ![](/images/IMG_1063-1024x1024.jpg)
+- ![gallery1](/images/living-in-colors.webp)
+
+- ![gallery2](/images/bath-color.webp)
+
+- ![gallery3](/images/img-1063.webp)

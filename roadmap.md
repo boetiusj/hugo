@@ -2,7 +2,8 @@ Dec 1, '23
 Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megakit-bootstrap)
 
 image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df1c261e16af7fa881f9d/layouts/_default/_markup/render-image.html
-CSS: links bolder and underlined in red
+- BIG-render-image.html --> this file shows image h and w but distorts image
+- render-image.html --> this file does not show image h and w
 
 Mobile - Hero shrink to see more of the image
 
@@ -11,7 +12,7 @@ MK items -
   b. ~~Frontmatter: non-listed pages~~
 
 Desktop
-1. 
+1. CSS: body links bolder and underlined in red, should not affect ul links
 2. Logo margin, shrink top and bottom 
   `.nav.navbar-expand-lg.px-0.py-4{
   padding-bottom: .5rem!important;

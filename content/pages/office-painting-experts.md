@@ -7,8 +7,7 @@ canonical: "https://crestwoodpainting.com/office-painting-experts/"
 date: "2017-01-16"
 index: true
 ---
-
-![office painting kansas city](/images/office/blue-mfg.avif)
+![office painting kansas city](/images/office/office102.jpg)
 This busy manufacturer continued to hum while painters quietly did their thing.
 
 Clean and quiet, efficient and pleasant - our painters make it easy for your office routine to continue uninterrupted - No Drips, No Drama. That's the kind of [painter your office can work with](/office-painting-case-study/).
@@ -97,6 +96,6 @@ Plugged-in electronics remain plugged in - we'll leave the electrical cover plat
 
 Call Crestwood Painting for your office painting needs. We're an established and proven company with a reputation for safe, on-time production results and delighted customers. Call today to look into a No Drips No Drama experience.
 
-![Edward Jones painting office kansas city](/images/O-edwardjones.webp)  ![office painting fedex kansas city](/images/O-fedex-logo.webp)  ![office painting kansas city crestwood](/images/O-Cintas.webp)  ![office painting kansas city UnitedWay](/images/O-UnitedWay.webp)  ![commercial painting warehouse Republi](/images/O-Republic.webp)  ![commercial office painting k city Thrifty](/images/O-Thrifty.webp)  ![office painting kansas city Bluebird](/images/O-Bluebird.webp)
+![Edward Jones painting office kansas city](/images/O-edwardjones.webp)  ![office painting fedex kansas city](/images/O-fedex-logo.webp)  ![office painting kansas city crestwood](/images/O-Cintas.webp)  ![office painting kansas city UnitedWay](/images/O-UnitedWay.webp)  ![commercial painting warehouse Republi](/images/O-Republic.webp)  ![office painting Thrifty](/images/O-Thrifty.webp)  ![office painting kansas city Bluebird](/images/O-Bluebird.webp)
 ![UMKC painting customer](/images/O-UMKC.webp)
 ![commercial painting senior crestwood](/images/r-sunrise-senior-living.webp)

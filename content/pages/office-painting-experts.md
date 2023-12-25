@@ -66,7 +66,7 @@ Whether you need to paint an executive area, a cafeteria, an auditorium or just
 
 First, we'll bid a project based on a "white box" - this means we'll calculate the cost of painting an area with none of the above considerations. Then, we'll factor in the additional time and materials needed so that the space meets final specifications. You need company colors and a logo on the break room wall? No trouble - we can make that happen.
 
-The short answer is that office painting in Kansas City is generally about $600 per painter per day. Generally, you can expect the walls in one larger room (lunch room, conference room, etc.) and a smaller office to be completed on one day.
+The short answer is that office painting in Kansas City is generally about $840 per painter per day. Generally, you can expect the walls in one larger room (lunch room, conference room, etc.) and a smaller office to be completed on one day.
 
 With larger projects the balance between labor and materials changes so a contractor is able to be more efficient, and therefore, more cost-effective.
 

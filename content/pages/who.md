@@ -43,7 +43,7 @@ After starting in '07 we needed a name but the obvious "Brookside Painting" URL 
 
 It was immediately shot down (wife and daughter: "you've got to be kidding"). They are not marketing experts, but in less than 5 minutes they decided on Crestwood Painting. Whadda ya gonna do?
 
-![Crestwood neighborhood sign](/images/bg/crestwood.avif)
+![Crestwood neighborhood sign](/images/crestwood-neighborhood.jpg)
 "Crestwood" is another classic Kansas City neighborhood within Brookside, snuggled in just south of UMKC at Oak St.
 
 [![customer review painter kansas city crestwood painting](/images/r17-4-glorfeld.webp)](/reviews/)

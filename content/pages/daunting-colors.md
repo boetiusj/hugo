@@ -8,7 +8,7 @@ date: "2011-08-28"
 index: true
 ---
 
-![Paint Color Kansas City](/images/color-chips.jpg)
+![Paint Color Kansas City](/images/color-chips.webp)
 
 It's easy to choose between red and blue - it's very tough to choose just the right blue for your home.
 

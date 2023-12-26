@@ -16,8 +16,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 1. CSS:
    - [ ] body links bolder and underlined in red, should not affect header or footer links
    - [ ] logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show)
-   ```
-      .nav.navbar-expand-lg.px-0.py-4{
+   ``` .nav.navbar-expand-lg.px-0.py-4{
       padding-bottom: .5rem!important;
       padding-top: .5rem!important;} ```
    

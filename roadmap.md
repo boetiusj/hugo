@@ -1,30 +1,48 @@
 Dec 1, '23
 Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megakit-bootstrap)
 
-image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df1c261e16af7fa881f9d/layouts/_default/_markup/render-image.html
-CSS: links bolder and underlined in red
+## _render-image.html
+- render-image.html: image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df1c261e16af7fa881f9d/layouts/_default/_markup/render-image.html
+- BIG-render-image.html --> [this file shows](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) image h and w but distorts image - lazy load conflict? (specified in this file and also in other css)
+- render-image.html --> this file does not show image h and w. This would be fine if it would work.
 
-Mobile - Hero shrink to see more of the image
+## MK 
+- [ ] default front matter for blog and pages
+- [ ] image for each blog post
+- [ ] [unlisted content how to](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/)
 
-MK items - 
-  a. FAQs from virtual booking, add to main FAQ
-  b. ~~Frontmatter: non-listed pages~~
-
-Desktop
-1. 
-2. Logo margin, shrink top and bottom 
-  `.nav.navbar-expand-lg.px-0.py-4{
+## Items
+1. CSS:
+   - [ ] body links bolder and underlined in red, should not affect header or footer links
+   - [ ] logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show) `.nav.navbar-expand-lg.px-0.py-4{
   padding-bottom: .5rem!important;
   padding-top: .5rem!important;}`
-3. Logos & links: PCA, Lead Safe, SW, BM, PPG? 
-4. Intro: linked imgs (Interior, Exterior, Offices)
-6. Phone link under booking button
+   - [ ] mobile Hero image: shrink to see more of the image
+2. Image divs
+   - [ ] Who: PCA, Lead Safe
+   - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?
+   - [ ] Home Section Intro: linked photos replace fontawesome (Interior, Exterior, Offices)
+5. 
+6. ?? Phone link under booking button
 7. Pages
-    a. 
-    b. filter pages with frontmatter (index: false)
+ - filter pages with frontmatter, no show index: false
+ - 
 8. hugo-dev/index.html: how much of this is necessary? Isn't review text in other file?
 9. Blog image links to post
-10. Blog: remove search
+10. Blog: Google Search - OR - remove search
+11. 404 page: list blog pages [index: true], each with small (80px?) img and page Title (no date)
+   ```
+   <section class="container list">
+    <ul>
+      {{- range where .Site.RegularPages "Section" "posts" }}
+      <li>
+        <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+        <span class="title"><a href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a></span>
+      </li>
+      {{- end }}
+    </ul>
+   </section>
+   ```
 
 
     

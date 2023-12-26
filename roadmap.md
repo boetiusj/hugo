@@ -17,7 +17,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
    - [ ] body links bolder and underlined in red, should not affect header or footer links
    - [ ] mobile Hero image: shrink to see more of the image
    - [ ] logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show)
-   ```.nav.navbar-expand-lg.px-0.py-4{
+         ``` .nav.navbar-expand-lg.px-0.py-4{
       padding-bottom: .5rem!important;
       padding-top: .5rem!important;}```
    

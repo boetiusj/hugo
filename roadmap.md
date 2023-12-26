@@ -10,7 +10,7 @@ image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df
 
 ## MK items
 1. [ ] default front matter for blog and pages
-2. [ ] 
+2. [ ] next item
 
 ## Desktop
 1. CSS: body links bolder and underlined in red, should not affect header or footer links

@@ -72,6 +72,7 @@
 .gallery {
   ul, ol {
     list-style: none;
+    max-height: 100px; // added by MK //
     padding: 0 !important;
     display: flex;
     gap: 1rem;

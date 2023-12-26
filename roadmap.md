@@ -15,11 +15,10 @@ image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df
 ## Desktop
 1. CSS:
    - [ ] body links bolder and underlined in red, should not affect header or footer links
-   - [ ] logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show)
-   - `.nav.navbar-expand-lg.px-0.py-4{
+   - [ ] logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show) `.nav.navbar-expand-lg.px-0.py-4{
   padding-bottom: .5rem!important;
   padding-top: .5rem!important;}`
-   - other
+   - [ ] next item
 2. Image divs
    - [ ] Who: PCA, Lead Safe
    - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?

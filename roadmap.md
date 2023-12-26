@@ -9,6 +9,8 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 - [ ] default front matter for blog and pages
 - [ ] image for each blog post
 - [ ] [unlisted content how to](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/)
+- [ ] hero image to replace About section? (Kansas City mural?)
+- [ ] reduce review font size on mobile
 
 ## Items
 1. CSS:

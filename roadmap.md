@@ -17,7 +17,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
   padding-bottom: .5rem!important;
   padding-top: .5rem!important;}`
    - [ ] mobile Hero image: shrink to see more of the image
-2. [Image divs](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side)
+2. [Image divs](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side). [Responsive image gallery](https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive)
    - [ ] Who: PCA, Lead Safe
    - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?
    - [ ] Home Section Intro: linked photos replace fontawesome (Interior, Exterior, Offices)

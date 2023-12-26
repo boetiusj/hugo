@@ -13,13 +13,18 @@ image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df
 - [ ] next item
 
 ## Desktop
-1. CSS: body links bolder and underlined in red, should not affect header or footer links
-2. Logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show) <br>
-  `.nav.navbar-expand-lg.px-0.py-4{
+1. CSS:
+   - [ ] body links bolder and underlined in red, should not affect header or footer links
+   - [ ] logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show)
+   - `.nav.navbar-expand-lg.px-0.py-4{
   padding-bottom: .5rem!important;
   padding-top: .5rem!important;}`
-3. Logos & links: PCA, Lead Safe, SW, BM, PPG? 
-4. Intro: linked imgs (Interior, Exterior, Offices)
+   - other
+2. Image divs
+   - [ ] Who: PCA, Lead Safe
+   - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?
+   - [ ] Home Section Intro: linked photos replace fontawesome (Interior, Exterior, Offices)
+5. 
 6. ?? Phone link under booking button
 7. Pages
  - filter pages with frontmatter, no show index: false

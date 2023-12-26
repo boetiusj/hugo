@@ -1,17 +1,16 @@
 Dec 1, '23
 Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megakit-bootstrap)
 
-image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df1c261e16af7fa881f9d/layouts/_default/_markup/render-image.html
+## _render-image.html
+- render-image.html: image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df1c261e16af7fa881f9d/layouts/_default/_markup/render-image.html
 - BIG-render-image.html --> this file shows image h and w but distorts image (https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) - lazy load specified here and also in other css
 - render-image.html --> this file does not show image h and w. This would be fine if it would work.
 
-## Mobile
-
-## MK items
+## MK 
 - [ ] default front matter for blog and pages
-- [ ] next item
+- [ ] [unlisted content how to](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/)
 
-## Desktop
+## Items
 1. CSS:
    - [ ] body links bolder and underlined in red, should not affect header or footer links
    - [ ] logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show) `.nav.navbar-expand-lg.px-0.py-4{

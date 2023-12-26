@@ -11,4 +11,8 @@
 		font-size: 50px;
 		opacity: .4;
 	}
+	img{
+		// max-width: fit-content; //
+		object-fit: cover;
+	}
 }

@@ -33,16 +33,19 @@ intro:
   show: true # turn to false to hide
   showValues: true # turn to false to hide
   values: # or benefits/qualities
-    - title: Exterior Painting
+    - title: Exteriors
       summary: "Homes new, old and mid-century. Commercial buildings too."
       icon: home
+      svcimg: /images/x-january.webp
       link: https://www.crestwoodpainting.com/exterior-painting-kansas-city/
-    - title: Interior Painting
+    - title: Interiors
       summary: "Homes, condos, lofts - dust-free, noise-free."
       icon: brush-alt
+      svcimg: /images/dr-orange.webp
       link: https://www.crestwoodpainting.com/interior-painter-kansas-city/
     - title: Offices
       icon: printer
+      svcimg: /images/office/blue-mfg.avif
       summary: "Quiet and careful, one room at a time - on your schedule."
       link: https://www.crestwoodpainting.com/office-painting-experts/
 

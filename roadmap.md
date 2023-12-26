@@ -15,19 +15,19 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 ## Items
 1. CSS:
    - [ ] body links bolder and underlined in red, should not affect header or footer links
-   - [ ] logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show) `.nav.navbar-expand-lg.px-0.py-4{
+   - [ ] logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show) ```.nav.navbar-expand-lg.px-0.py-4{
   padding-bottom: .5rem!important;
-  padding-top: .5rem!important;}`
+  padding-top: .5rem!important;}```
    - [ ] mobile Hero image: shrink to see more of the image
 2. [Image divs](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side). [Responsive image gallery, W3](https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive). [Image gallery, Hugo git](https://github.com/rootwork/hugo-module-gallery-grid)
    - [ ] Who: PCA, Lead Safe
    - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?
    - [ ] Home Section Intro: linked photos replace fontawesome (Interior, Exterior, Offices)
-5. 
+5. No index by google? Does this hide from google site search?
 6. ?? Phone link under booking button
 7. Pages
- - filter pages with frontmatter, no show index: false
- - 
+    - filter pages with frontmatter, no show index: false
+    - 
 8. hugo-dev/index.html: how much of this is necessary? Isn't review text in other file?
 9. Blog image links to post
 10. Blog: Google Search - OR - remove search

@@ -41,7 +41,7 @@ intro:
     - title: Interiors
       summary: "Homes, condos, lofts - dust-free, noise-free."
       icon: brush-alt
-      svcimg: /images/dr-orange.webp
+      svcimg: /images/dr-orange-crop.avif
       link: /interior-painter-kansas-city/
     - title: Offices
       icon: printer

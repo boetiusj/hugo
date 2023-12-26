@@ -32,16 +32,16 @@ image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df
 9. Blog image links to post
 10. Blog: remove search
 11. 404 page: list blog pages index: true, each with small img:
-   `<section class="container list">
-    '<ul>
+   ` <section class="container list">
+    <ul>
       {{- range where .Site.RegularPages "Section" "posts" }}
       <li>
         <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
         <span class="title"><a href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a></span>
       </li>
       {{- end }}
-    </ul>'
-   </section>`
+    </ul>
+   </section> `
 
 
     

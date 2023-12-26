@@ -16,7 +16,7 @@ This zip code is currently unavailable with our online scheduler. Ask the Store 
 - [Sherwin Williams logo](/images/logosq-SW100.webp)
 - [PPG logo](/images/Logo-sq-PPG100.webp)
 - /images/logosqBM100.webp
-{{< /gallery >}}
+{{</ gallery >}}
 
 Commercial project? Or a previous customer?
 Definitely let us know.

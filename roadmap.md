@@ -20,6 +20,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
       .nav.navbar-expand-lg.px-0.py-4{
       padding-bottom: .5rem!important;
       padding-top: .5rem!important;} ```
+   
    - [ ] mobile Hero image: shrink to see more of the image
 2. [Image divs](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side). [Responsive image gallery, W3](https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive). [Image gallery, Hugo git](https://github.com/rootwork/hugo-module-gallery-grid)
    - [ ] Who: PCA, Lead Safe

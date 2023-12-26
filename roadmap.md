@@ -2,18 +2,19 @@ Dec 1, '23
 Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megakit-bootstrap)
 
 image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df1c261e16af7fa881f9d/layouts/_default/_markup/render-image.html
-- BIG-render-image.html --> this file shows image h and w but distorts image
-- render-image.html --> this file does not show image h and w
+- BIG-render-image.html --> this file shows image h and w but distorts image (https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) - lazy load specified here and also in other css
+- render-image.html --> this file does not show image h and w. This would be fine if it would work.
 
-Mobile - Hero shrink to see more of the image
+## Mobile - Hero shrink to see more of the image
 
-MK items - 
-  a. FAQs from virtual booking, add to main FAQ
+## MK items - 
+  a. ~~FAQs from virtual booking, add to main FAQ~~
   b. ~~Frontmatter: non-listed pages~~
+  c. default front matter for blog and pages
 
-Desktop
-1. CSS: body links bolder and underlined in red, should not affect ul links
-2. Logo margin, shrink top and bottom <br>
+## Desktop
+1. CSS: body links bolder and underlined in red, should not affect header or footer links
+2. Logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show) <br>
   `.nav.navbar-expand-lg.px-0.py-4{
   padding-bottom: .5rem!important;
   padding-top: .5rem!important;}`
@@ -22,10 +23,20 @@ Desktop
 6. Phone link under booking button
 7. Pages
     a. 
-    b. filter pages with frontmatter (index: false)
+    b. filter pages with frontmatter, no show index: false
 8. hugo-dev/index.html: how much of this is necessary? Isn't review text in other file?
 9. Blog image links to post
 10. Blog: remove search
+11. 404 add blog pages, each with small img: `  <section class="container list">
+    <ul>
+      {{- range where .Site.RegularPages "Section" "posts" }}
+      <li>
+        <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+        <span class="title"><a href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a></span>
+      </li>
+      {{- end }}
+    </ul>
+  </section>`
 
 
     

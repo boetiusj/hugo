@@ -5,17 +5,12 @@ image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df
 - BIG-render-image.html --> this file shows image h and w but distorts image (https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) - lazy load specified here and also in other css
 - render-image.html --> this file does not show image h and w. This would be fine if it would work.
 
-## test
--a. first
--b. second
-
 ## Mobile
 1. Hero shrink to see more of the image
 
 ## MK items
-  a. ~~FAQs from virtual booking, add to main FAQ~~
-  b. ~~Frontmatter: non-listed pages~~
-  c. default front matter for blog and pages
+1. [] default front matter for blog and pages
+2. [] 
 
 ## Desktop
 1. CSS: body links bolder and underlined in red, should not affect header or footer links
@@ -25,14 +20,14 @@ image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df
   padding-top: .5rem!important;}`
 3. Logos & links: PCA, Lead Safe, SW, BM, PPG? 
 4. Intro: linked imgs (Interior, Exterior, Offices)
-6. Phone link under booking button
+6. ?? Phone link under booking button
 7. Pages
-    a. 
-    b. filter pages with frontmatter, no show index: false
+ - filter pages with frontmatter, no show index: false
+ - 
 8. hugo-dev/index.html: how much of this is necessary? Isn't review text in other file?
 9. Blog image links to post
 10. Blog: remove search
-11. 404 add blog pages, each with small img: `  <section class="container list">
+11. 404 page: list blog pages index: true, each with small img: `  <section class="container list">
     <ul>
       {{- range where .Site.RegularPages "Section" "posts" }}
       <li>

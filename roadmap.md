@@ -31,7 +31,8 @@ image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df
 8. hugo-dev/index.html: how much of this is necessary? Isn't review text in other file?
 9. Blog image links to post
 10. Blog: remove search
-11. 404 page: list blog pages index: true, each with small img: `  <section class="container list">
+11. 404 page: list blog pages index: true, each with small img:
+   `<section class="container list">
     <ul>
       {{- range where .Site.RegularPages "Section" "posts" }}
       <li>

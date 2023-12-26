@@ -2,9 +2,8 @@ Dec 1, '23
 Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megakit-bootstrap)
 
 ## _render-image.html
-- render-image.html: image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df1c261e16af7fa881f9d/layouts/_default/_markup/render-image.html
+- [render-image.html](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/) --> this file does not show image h and w. This would be fine if it would work.
 - BIG-render-image.html --> [this file shows](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) image h and w but distorts image - lazy load conflict? (specified in this file and also in other css)
-- render-image.html --> this file does not show image h and w. This would be fine if it would work.
 
 ## MK 
 - [ ] default front matter for blog and pages

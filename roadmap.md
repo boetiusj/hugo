@@ -6,7 +6,6 @@ image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df
 - render-image.html --> this file does not show image h and w. This would be fine if it would work.
 
 ## Mobile
-1. Hero shrink to see more of the image
 
 ## MK items
 - [ ] default front matter for blog and pages
@@ -18,7 +17,7 @@ image w & h: https://github.com/werat/werat.github.io/blob/faa5bab6f6498b25ce0df
    - [ ] logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show) `.nav.navbar-expand-lg.px-0.py-4{
   padding-bottom: .5rem!important;
   padding-top: .5rem!important;}`
-   - [ ] next item
+   - [ ] mobile Hero image: shrink to see more of the image
 2. Image divs
    - [ ] Who: PCA, Lead Safe
    - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?

@@ -98,6 +98,7 @@ Call Crestwood Painting for your office painting needs. We're an established and
 
 {{< gallery >}}
 
+- ![UMKC painting customer](/images/o-umkc.webp)
 - ![Edward Jones painting office kansas city](/images/O-edwardjones.webp)
 - ![office painting fedex kansas city](/images/O-fedex-logo.webp)
 - ![office painting cintas](/images/O-Cintas.webp)
@@ -107,5 +108,4 @@ Call Crestwood Painting for your office painting needs. We're an established and
 - ![office painting Bluebird](/images/O-Bluebird.webp)
 
 {{< /gallery >}}
-![UMKC painting customer](/images/O-UMKC.webp)
 ![commercial painting senior crestwood](/images/r-sunrise-senior-living.webp)

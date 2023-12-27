@@ -29,7 +29,9 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 6. ?? Phone link under booking button
 7. Pages
     - filter pages with frontmatter, no show index: false
-    - 
+    - blog page list, linked to main nav
+    - Pages linked in Interiors (basements, bedrooms, cabinets, weirdest, lofts/condos, office interiors)
+    - Pages lined in Exteriors (front doors, office exteriors)
 8. hugo-dev/index.html: how much of this is necessary? Isn't review text in other file?
 9. Blog image links to post
 10. Blog: Google Search - OR - remove search

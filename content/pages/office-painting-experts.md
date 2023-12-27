@@ -95,7 +95,7 @@ Plugged-in electronics remain plugged in - we'll leave the electrical cover plat
 ## No Drips, No Drama Painting - The Safe Choice
 
 Call Crestwood Painting for your office painting needs. We're an established and proven company with a reputation for safe, on-time production results and delighted customers. Call today to look into a No Drips No Drama experience.
-{{ <gallery>}}
+{{ <gallery> }}
 
 - ![Edward Jones painting office kansas city](/images/O-edwardjones.webp)
 - ![office painting fedex kansas city](/images/O-fedex-logo.webp)
@@ -105,6 +105,6 @@ Call Crestwood Painting for your office painting needs. We're an established and
 - ![office painting Thrifty](/images/O-Thrifty.webp)
 - ![office painting Bluebird](/images/O-Bluebird.webp)
 
-{{/<gallery>}}
+{{ /<gallery> }}
 ![UMKC painting customer](/images/O-UMKC.webp)
 ![commercial painting senior crestwood](/images/r-sunrise-senior-living.webp)

@@ -98,7 +98,7 @@ Call Crestwood Painting for your office painting needs. We're an established and
 
 {{< gallery >}}
 
-- ![UMKC painting customer](/images/o-umkc.webp)
+- ![UMKC painting customer](/images/o-umkc1.webp)
 - ![Edward Jones painting office kansas city](/images/O-edwardjones.webp)
 - ![office painting fedex kansas city](/images/O-fedex-logo.webp)
 - ![office painting cintas](/images/O-Cintas.webp)

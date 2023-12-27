@@ -6,15 +6,8 @@
         <div class="section-title pt-5 text-center">
           <h1>Uh-oh, 404 error</h1>
           <p>That page is missing. Head back <a href="/">home</a> or take a look here.</p>
-          <style>
-            .404 {
-              display: grid;
-              grid-template-columns: repeat(2, 1fr);
-              list-style: none;
-            }
-          </style>
         </div>
-        <ul id="404">
+        <ul class="404">
           {{ range where site.RegularPages "Section" "!=" "blog" }}
           <li>
           <a href="{{ .Permalink }}">{{ .Title }}</a>

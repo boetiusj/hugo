@@ -16,7 +16,7 @@
         <ul id="404">
           {{ range where site.RegularPages "Section" "!=" "blog" }}
           <li>
-            {{ .image }} <a href="{{ .Permalink }}">{{ .Title }}</a>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
           </li>
           {{ end }}
         </ul>

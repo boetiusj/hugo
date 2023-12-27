@@ -3,7 +3,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 
 ## _render-image.html
 - [render-image.html](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/) --> this file does not show image h and w. This would be fine if it would work.
-- BIG-render-image.html --> [this file shows](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) image h and w but distorts image - lazy load conflict? (specified in this file and also in other css)
+- BIG-render-image.html --> [this file shows](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) image h and w but distorts image - lazy load conflict? (lazy load specified in this file and also in other css)
 
 ## MK 
 - [ ] default front matter for blog and pages
@@ -18,14 +18,17 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
    - [ ] mobile Hero image: shrink to see more of the image
    - [ ] logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show)
          ```
-         .nav.navbar-expand-lg.px-0.py-4{
-         padding-bottom: .5rem!important;
+         .nav.navbar-expand-lg.px-0.py-4{ <br>
+         padding-bottom: .5rem!important; <br>
          padding-top: .5rem!important;}
          ```
 2. [Image divs](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side). [Responsive image gallery, W3](https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive). [Image gallery, Hugo git](https://github.com/rootwork/hugo-module-gallery-grid)
    - [ ] Who: PCA, Lead Safe
    - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?
    - [ ] Home Section Intro: linked photos replace fontawesome (Interior, Exterior, Offices)
+   - [CSS Tricks images](https://css-tricks.com/adaptive-photo-layout-with-flexbox/)
+   - [Flexbox ninja button icons](https://flexbox.ninja/demos/buttons-with-icons/)
+   - [Social icons codepen](https://codepen.io/macloo/pen/RZGmvX)
 5. No index by google? Does this hide from google site search?
 6. ?? Phone link under booking button
 7. Pages

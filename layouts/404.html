@@ -7,7 +7,7 @@
           <h1>Uh-oh, 404 error</h1>
           <p>That page is missing. Head back <a href="/">home</a> or take a look here.</p>
         </div>
-        <ul class="404">
+        <ul class="list404">
           {{ range where site.RegularPages "Section" "!=" "blog" }}
           <li>
           <a href="{{ .Permalink }}">{{ .Title }}</a>

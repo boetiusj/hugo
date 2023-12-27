@@ -11,7 +11,7 @@
     object-position: center top;
   }
 }
-.nav.navbar-expand-lg.px-0.py-4{
+.nav.navbar-expand-lg.py-4{
   padding-bottom: .5rem!important;
   padding-top: .5rem!important;
 }
@@ -77,12 +77,6 @@
     gap: 1rem;
     align-items: center;
     flex-flow: row wrap;
-  }
-}
-
-.gallery.px100 {
-  li {
-    max-height: 100px; // added by MK //
   }
 }
 

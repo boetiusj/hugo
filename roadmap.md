@@ -26,7 +26,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
    - [ ] Who: PCA, Lead Safe
    - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?
    - [ ] Home Section Intro: linked photos replace fontawesome (Interior, Exterior, Offices)
-   - [CSS Tricks images](https://css-tricks.com/adaptive-photo-layout-with-flexbox/)
+   - [!! CSS Tricks images](https://css-tricks.com/adaptive-photo-layout-with-flexbox/)
    - [Flexbox ninja button icons](https://flexbox.ninja/demos/buttons-with-icons/)
    - [Social icons codepen](https://codepen.io/macloo/pen/RZGmvX)
 5. No index by google? Does this hide from google site search?

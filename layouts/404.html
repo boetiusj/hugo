@@ -10,7 +10,7 @@
         <ul class="list404">
           {{ range where site.RegularPages "Section" "!=" "pages" }}
           <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
+          <a href="{{ .Permalink }}">{{.image}} {{ .Title }}</a>
           </li>
           {{ end }}
         </ul>

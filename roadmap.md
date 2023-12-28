@@ -35,19 +35,10 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 8. hugo-dev/index.html: how much of this is necessary? Isn't review text in other file?
 9. Blog image links to post
 10. Blog: Google Search - OR - remove search
-11. 404 page: list blog pages [index: true], each with small (80px?) img and page Title (no date)
-   ```
-   <section class="container list">
-    <ul>
-      {{- range where .Site.RegularPages "Section" "posts" }}
-      <li>
-        <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
-        <span class="title"><a href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a></span>
-      </li>
-      {{- end }}
-    </ul>
-   </section>
-   ```
+11. 404 page:
+    - list blog pages [index: true], each with small (80px?) img and page Title (no date)
+    - small image
+    - mobile view single column
 
 
     

@@ -5,6 +5,8 @@ description: "Caulking is key to proper paint prep - here's what to caulk and wh
 keywords: "painting caulk kansas city crestwood"
 canonical: "https://crestwoodpainting.com/top-3-things-to-not-caulk/"
 date: "2014-07-15"
+index: true
+image: "-"
 categories:
   - "painting-tips"
 tags:

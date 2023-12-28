@@ -5,6 +5,8 @@ description: "What happens if you hire a uninsured painting contractor - the top
 keywords: "paint contractor, insurance, uninsured, Crestwood Painting, Kansas City"
 canonical: "https://crestwoodpainting.com/top-5-uninsured-contractor-questions/"
 date: "2013-09-28"
+index: true
+image: "-"
 categories:
   - "how-to-hire-painter"
 tags:

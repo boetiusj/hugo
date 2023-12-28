@@ -5,6 +5,8 @@ description: "Kind words from a lady that didn't hire - but wishes that she had.
 keywords: "house painting review, Crestwood Painting, Kansas City"
 canonical: "https://crestwoodpainting.com/painter-reviews/"
 date: "2012-12-31"
+index: true
+image: "-"
 categories:
   - "painting-reviews"
 tags:
@@ -33,7 +35,7 @@ This was a nice treat on New Years Eve - [positive feedback](/reviews/) from a l
 May the new year bring you much success, good health, and happiness.
 Best regards, Barbara L
 
-### Nice Words\!
+### Nice Words
 
 Kansas City homeowners have a wide range of options available when they look for a painter. Most homeowners are happy to pay a little more than to be totally dissatisfied with the experience.
 

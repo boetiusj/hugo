@@ -5,6 +5,8 @@ description: "Best to work with a painting contractor that screens employees so 
 keywords: "contractor employees background checks crestwood painting"
 canonical: "https://crestwoodpainting.com/price-service-sketchy-dudes/"
 date: "2013-05-15"
+index: true
+image: "-"
 categories:
   - "how-to-hire-painter"
 tags:

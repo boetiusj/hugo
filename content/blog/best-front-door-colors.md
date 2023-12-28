@@ -1,19 +1,21 @@
 ---
-title: "Best Front Door Colors"
-url: "best-front-door-colors"
-description: "A closer look at the factors involved in choosing interior trim paint colors."
-image: "/images/front-door.avif"
-keywords: "paint color interior trim crestwood"
-canonical: "https://crestwoodpainting.com/tips-for-painting-trim/"
-date: "2021-07-22"
+title: Best Front Door Colors
+url: best-front-door-colors
+description: A closer look at the factors involved in choosing interior trim paint colors.
+keywords: paint color interior trim crestwood
+canonical: https://crestwoodpainting.com/tips-for-painting-trim/
+date: 2021-07-22
+index: true
+image: /images/front-door.avif
 categories:
-  - "color-choices"
+  - color-choices
 tags:
-  - "color-consulting"
-  - "contrasting-colors"
-  - "exterior-painting"
-  - "front-door"
-  - "roof"
+  - color-consulting
+  - contrasting-colors
+  - exterior-painting
+  - front-door
+  - roof
+slug: front-door-colors
 ---
 ![front door color](/images/front-door.avif)
 Diane Stewart, the Color Consultant at Kansas City's own [Color Sense Consulting](/best-front-door-colors/), is a wealth of experience and information when choosing paint colors. Here Diane talks about some of the factors in choosing which color for your front door.

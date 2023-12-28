@@ -5,6 +5,8 @@ description: "Tips on how to best make paint storage painless - when to keep pai
 keywords: "paint storage tips"
 canonical: "https://crestwoodpainting.com/proper-paint-storage/"
 date: "2014-06-02"
+index: true
+image: "-"
 categories:
   - "home-maintenance-tips"
 tags:

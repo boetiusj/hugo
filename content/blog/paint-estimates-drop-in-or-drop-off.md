@@ -5,6 +5,8 @@ description: "Here's what to consider when you get a proposal from a contractor 
 keywords: "painting contract proposal crestwood kansas city"
 canonical: "https://crestwoodpainting.com/paint-estimates-drop-in-or-drop-off/"
 date: "2013-04-19"
+index: true
+image: "-"
 categories:
   - "how-to-hire-painter"
 tags:

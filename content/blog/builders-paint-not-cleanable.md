@@ -5,6 +5,8 @@ description: "Answers to the ageless question Why do painters wear white?"
 keywords: "Painters wear white crestwood painting"
 canonical: "https://crestwoodpainting.com/why-painters-wear-white/"
 date: "2013-01-14"
+index: true
+image: "-"
 categories:
   - "painting-challenges"
 tags:

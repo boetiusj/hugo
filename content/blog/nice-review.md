@@ -5,6 +5,8 @@ description: "Another nice review from a happy customer "
 keywords: "painter review, kansas city, crestwood painting"
 canonical: "https://crestwoodpainting.com/painting-review/"
 date: "2013-07-01"
+index: true
+image: "-"
 categories:
   - "painting-reviews"
 tags:

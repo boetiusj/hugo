@@ -5,6 +5,8 @@ description: "Should you paint unfinished cabinets? Some things you might consid
 keywords: "painting cabinets, unfinished, kansas city, crestwood painting"
 canonical: "https://crestwoodpainting.com/does-unfinished-cabinetry-pay/"
 date: "2014-09-26"
+index: true
+image: "-"
 categories:
   - "general"
 tags:
@@ -34,10 +36,11 @@ Purchasers of unfinished cabinetry may not realize the labor that goes into maki
 - Remove drawer glides (and re-install when everything is dry)
 - Find a place to do the work (because every bathroom is too small)
 - Proper prep
-    - Ease sharp factory edges with a bit of sanding
-    - Vacuum to remove all dust
-    - Prime, let dry, sand primer smooth, vacuum again
-    - Caulk joints (when painting)
+
+  - Ease sharp factory edges with a bit of sanding
+  - Vacuum to remove all dust
+  - Prime, let dry, sand primer smooth, vacuum again
+  - Caulk joints (when painting)
 - Apply paint or stain
 - Second coat needed?
 - Apply varnish over stain

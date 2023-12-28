@@ -5,6 +5,8 @@ description: "Crestwood Painting's \"secret\" weapon in cleaning and paint prep.
 keywords: "paint prep cleaning crestwood painting"
 canonical: "https://crestwoodpainting.com/kut-the-krud/"
 date: "2012-08-13"
+index: true
+image: "-"
 categories:
   - "painting-tips"
 tags:

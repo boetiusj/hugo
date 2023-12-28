@@ -5,6 +5,8 @@ description: "Many paint and design companies select a color of the year with va
 keywords: "color house painting kansas city crestwood"
 canonical: "https://crestwoodpainting.com/color-year-2014/"
 date: "2014-01-17"
+index: true
+image: "-"
 categories:
   - "color-choices"
 tags:

@@ -5,6 +5,8 @@ description: "Paint touch-ups - what to look for"
 keywords: "touch-up"
 canonical: "https://crestwoodpainting.com"
 date: "2014-07-30"
+index: true
+image: "-"
 categories:
   - "painting-tips"
 tags:

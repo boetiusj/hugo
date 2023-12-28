@@ -5,6 +5,8 @@ description: "A closer look at the factors involved in choosing interior trim pa
 keywords: "paint color interior trim crestwood"
 canonical: "https://crestwoodpainting.com/tips-for-painting-trim/"
 date: "2013-07-06"
+index: true
+image: "-"
 categories:
   - "color-choices"
 tags:

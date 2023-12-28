@@ -5,6 +5,8 @@ description: "- "
 keywords: "- "
 canonical: "https://crestwoodpainting.com"
 date: "2013-09-20"
+index: true
+image: "-"
 categories:
   - "how-to-hire-painter"
 tags:

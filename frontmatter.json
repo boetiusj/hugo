@@ -61,6 +61,11 @@
           "title": "canonical",
           "name": "canonical",
           "type": "string"
+        },
+        {
+          "title": "image",
+          "name": "image",
+          "type": "image"
         }
       ]
     }

@@ -5,6 +5,8 @@ description: "-"
 keywords: "-"
 canonical: "https://crestwoodpainting.com"
 date: "2014-12-05"
+index: true
+image: "-"
 categories:
   - "general"
 ---

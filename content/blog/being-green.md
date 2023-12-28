@@ -5,6 +5,8 @@ description: "-"
 keywords: "-"
 canonical: "https://crestwoodpainting.com"
 date: "2013-10-23"
+index: true
+image: "-"
 categories:
   - "color-choices"
 tags:

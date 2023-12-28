@@ -5,6 +5,8 @@ description: "Ingredients have a significant effect on the final price of a gall
 keywords: "painting contractor"
 canonical: "https://crestwoodpainting.com/titanium-dioxide-in-your-paint-can/"
 date: "2013-12-20"
+index: true
+image: "-"
 categories:
   - "general"
 tags:

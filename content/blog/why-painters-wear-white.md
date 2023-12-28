@@ -2,11 +2,11 @@
 title: Why Do Painters Wear White?
 url: why-painters-wear-white
 description: Answers to the ageless question Why do painters wear white?
-keywords:
-  - Painters wear white crestwood painting
-  - painters whites
+keywords: painters wear white 
 canonical: https://crestwoodpainting.com/why-painters-wear-white/
 date: 2013-01-07
+index: true
+image: "-"
 categories:
   - how-to-hire-painter
 tags:

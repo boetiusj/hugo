@@ -5,6 +5,8 @@ description: "Interior or exterior, nail pops happen. Learn how and why, and wha
 keywords: "drywall nail pops repair painting crestwood"
 canonical: "https://crestwoodpainting.com/nail-pops/"
 date: "2014-06-20"
+index: true
+image: "-"
 categories:
   - "painting-challenges"
 tags:
@@ -26,11 +28,10 @@ Nail heads that are visible but that have not loosened to break the paint film a
 
 We recently had a suburban homeowner insist on "fixing" visible nail heads. While the were less than a handful on the whole house that had actually "popped", this homeowner wanted her painting contractor to drive all visible nails flush with the siding and then caulk to seal.
 
-### If It Ain't Broke...
+### If It Ain't Broke
 
 ![drywall nail pop crestwood painting](/images/nail-pop-drywall.webp)
-
-Here's the problem: in doing that it's very likely that the nail or surrounding siding will be damaged (errant hammer gouges siding, nail now more likely to rust) or that the nail will be _over_\-driven and the surface membrane will be pierced. And with that is a much greater chance of moisture infiltration, no matter how much caulk is used. The consequence of caulking each nail head is seeing a smooth dab of caulk every 16" on a field of faux-wood or -stucco texture. Yes, you'll see the texture difference right through the paint - and all across the side of the house.
+Here's the problem: in doing that it's very likely that the nail or surrounding siding will be damaged (errant hammer gouges siding, nail now more likely to rust) or that the nail will be _over_ driven and the surface membrane will be pierced. And with that is a much greater chance of moisture infiltration, no matter how much caulk is used. The consequence of caulking each nail head is seeing a smooth dab of caulk every 16" on a field of faux-wood or -stucco texture. Yes, you'll see the texture difference right through the paint - and all across the side of the house.
 
 ### Interior Nail Pops
 

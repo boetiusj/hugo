@@ -2,10 +2,11 @@
 title: "Top 3 Must-Haves For Hiring A Painter"
 url: "top-3-must-haves-hiring-painter"
 description: "Get these in your painting contract."
-image: "/images/rose-bushes.webp"
 keywords: "hire kansas city paint contractor"
 canonical: "https://crestwoodpainting.com/top-3-must-haves-hiring-painter/"
 date: "2022-02-22" 
+index: true
+image: "images/rose-bushes.webp"
 categories:
   - "how-to-hire-painter"
 tags:

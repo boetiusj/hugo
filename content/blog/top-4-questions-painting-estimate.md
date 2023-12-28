@@ -5,6 +5,8 @@ description: "Here are some key points to consider before a paint estimator knoc
 keywords: "painter questions kansas city crestwood"
 canonical: "https://crestwoodpainting.com/top-4-questions-painting-estimate/"
 date: "2013-02-11"
+index: true
+image: "-"
 categories:
   - "how-to-hire-painter"
 tags:

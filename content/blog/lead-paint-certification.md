@@ -2,17 +2,17 @@
 title: "Lead Paint: It's Important"
 url: "lead-paint-certification"
 description: "EPA Lead Paint certified (RRP) - Crestwood Painting"
-image: "/images/lead-safe-certified-155.webp"
 keywords: "painter certification, kansas city, lead paint,"
 canonical: "https://crestwoodpainting.com/lead-paint-certification-important/"
 date: "2023-09-01"
+index: true
+image: "/images/lead-safe-certified-155.webp"
 categories:
   - "home-maintenance-tips"
 tags:
   - "better-business-bureau"
   - "interior-painting"
   - "painting-insurance"
-
 ---
 Crestwood Painting has been [EPA Lead-Safe certified](/lead-paint-safety/) since 2011, many of our Job Leads have also been trained and certified, as well.
 

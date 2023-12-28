@@ -4,6 +4,8 @@ description: "What does backroll mean? Learn all about backrolling paint - when 
 keywords: "paint backroll kansas city crestwood painting"
 canonical: "https://crestwoodpainting.com"
 date: "2012-08-06"
+index: true
+image: "-"
 categories:
   - "painting-tips"
 tags:

@@ -5,6 +5,8 @@ description: "Color experts in Kansas City help with choosing the best paint col
 keywords: "paint colors, choose paint, crestwood painting"
 canonical: "https://crestwoodpainting.com/colors-relaxation/"
 date: "2013-10-04"
+index: true
+image: "-"
 categories:
   - "color-choices"
 tags:

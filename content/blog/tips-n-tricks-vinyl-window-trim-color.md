@@ -5,6 +5,8 @@ description: "-"
 keywords: "-"
 canonical: "https://crestwoodpainting.com"
 date: "2013-11-21"
+index: true
+image: "-"
 categories:
   - "painting-tips"
 tags:

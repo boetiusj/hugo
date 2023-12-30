@@ -12,7 +12,9 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 - [ ] [unlisted content how to](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/)
 - [ ] hero image to replace About section? (Kansas City mural?)
 - [ ] reduce review font size on mobile?
-- [ ] [blog tags like here](https://www.regisphilibert.com/tags/shortcodes/)
+- [ ] [blog tags like here](https://digitaldrummerj.me/hugo-view-post-grouped-by-category/)
+- [ ] New tags? (paint, color, products, tools & equip,
+- [ ] [External links in a new tab](https://digitaldrummerj.me/hugo-links-to-other-pages/)
 
 ## Items
 1. CSS:
@@ -29,17 +31,19 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 5. No index by google? Does this hide from google site search?
 6. ?? Phone link under booking button
 7. Pages
-    - filter pages with frontmatter, no show index: false
+    - filter pages with frontmatter, no show index: false, [unlisgted content](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/)
+    - [sitemap, robots.txt](https://mertbakir.gitlab.io/hugo/sitemap-robots/)
     - blog page list, linked to main nav
     - Pages linked in Interiors (basements, bedrooms, cabinets, weirdest, lofts/condos, office interiors)
-    - Pages lined in Exteriors (front doors, office exteriors)
+    - Pages linked in Exteriors (front doors, office exteriors)
 8. hugo-dev/index.html: how much of this is necessary? Isn't review text in other file?
 9. Blog image links to post
-10. Blog: Google Search - OR - remove search
+10. Blog: [Google Search](https://digitaldrummerj.me/hugo-Integrate-google-search/) - OR - remove search
 11. 404 page:
-    - list blog pages [index: true], each with small (80px?) img and page Title (no date)
+    - list blog pages index: true, each with small (80px?) img and page Title (no date). [range where](https://discourse.gohugo.io/t/using-range-where-with-front-matter-values/18575) info here
     - small image
     - mobile view single column
+    - [good resource](https://digitaldrummerj.me/hugo-create-404-page/)
 
 
     

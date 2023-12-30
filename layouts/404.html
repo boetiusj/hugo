@@ -11,7 +11,7 @@
           {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
           {{ range where site.RegularPages "Section" "!=" "pages" }}
           <li>
-          <a href="{{ .Permalink }}"><img loading="lazy" src="{{ $image }}" alt="blog image">{{ .Title }}</a>
+          <a href="{{ .Permalink }}"><img loading="lazy" src="{{ $image }}" alt="blog image"><br>{{ .Title }}</a>
           </li>
           {{ end }}
         </ul>

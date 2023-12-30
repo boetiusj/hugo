@@ -6,13 +6,12 @@ keywords: "hire kansas city paint contractor"
 canonical: "https://crestwoodpainting.com/top-3-must-haves-hiring-painter/"
 date: "2022-02-22" 
 index: true
-image: "images/rose-bushes.webp"
+image: "/images/rose-bushes.webp"
 categories:
   - "how-to-hire-painter"
 tags:
   - "estimates"
   - "painting-insurance"
-
 ---
 [Crestwood Painting rose bushes](src="/images/rose-bushes.webp")
 If paint contractors are clear in what they are providing and customers are clear in what they are getting then everybody will be happy, yes? So why are happy customer/contractor experiences relatively rare? The answer is the dreaded [_Unmet Expectations_](/reviews/).

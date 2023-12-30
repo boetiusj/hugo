@@ -40,8 +40,8 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 9. Blog image links to post
 10. Blog: [Google Search](https://digitaldrummerj.me/hugo-Integrate-google-search/) - OR - remove search
 11. 404 page:
-    - list blog pages index: true, each with small (80px?) img and page Title (no date). [range where](https://discourse.gohugo.io/t/using-range-where-with-front-matter-values/18575) info here
-    - small image
+    - ~~list blog pages index: true, each with small (80px?) img and page Title (no date). [range where](https://discourse.gohugo.io/t/using-range-where-with-front-matter-values/18575) info here~~
+    - image from frontmatter
     - mobile view single column
     - [good resource](https://digitaldrummerj.me/hugo-create-404-page/)
 

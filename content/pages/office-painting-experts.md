@@ -14,7 +14,7 @@ Clean and quiet, efficient and pleasant - our painters make it easy for your off
 
 We'll work around your schedule to minimize disruptions. Use zero VOC paint so nobody breathes nasty stuff. We'll keep our gear in a tidy, out-of-the-way corner - and make sure it stays that way. What your office doesn't need is scruffy station-wagon dudes rockin' out while you're working.
 
-> We'll prepare a well-planned project sequence so we stay out of the way and finish one area before we move on. We'll communicate that plan so everybody knows what to expect.
+> A well-planned project sequence means painters stay out of the way and finish one area before moving on. We'll communicate that plan so everybody knows what to expect.
 
 ## Top 5 Office Painting Concerns
 

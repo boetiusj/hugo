@@ -98,9 +98,11 @@
     opacity: 0.3;
 }
 
-.list404 ul, li{
+.list404 ul {
     display: grid;        
     grid-template-columns: repeat(2, 1fr);
     list-style: none;
-    margin-bottom: 0.2em;
+    li {
+      margin-bottom: 0.2em;
+    }
   }

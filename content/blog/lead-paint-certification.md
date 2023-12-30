@@ -6,7 +6,7 @@ keywords: "painter certification, kansas city, lead paint,"
 canonical: "https://crestwoodpainting.com/lead-paint-certification-important/"
 date: "2023-09-01"
 index: true
-image: "/images/lead-safe-certified-155.webp"
+image: /images/lead-safe-certified-155.webp
 categories:
   - "home-maintenance-tips"
 tags:

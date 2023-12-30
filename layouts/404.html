@@ -8,8 +8,8 @@
           <p>That page is missing. Head back <a href="/">home</a> or take a look here.</p>
         </div>
         <ul class="list404">
-          {{ range where site.RegularPages "Section" "!=" "pages" }}
           {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
+          {{ range where site.RegularPages "Section" "!=" "pages" }}
           <li>
           <a href="{{ .Permalink }}"><img loading="lazy" src="{{ $image }}" alt="blog image"><br>{{ .Title }}</a>
           </li>

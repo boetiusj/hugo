@@ -28,11 +28,11 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
    - [!! CSS Tricks images](https://css-tricks.com/adaptive-photo-layout-with-flexbox/)
    - [Flexbox ninja button icons](https://flexbox.ninja/demos/buttons-with-icons/)
    - [Social icons codepen](https://codepen.io/macloo/pen/RZGmvX)
-5. No index by google? Does this hide from google site search?
+5. 
 6. ?? Phone link under booking button
 7. Pages
     - filter pages with frontmatter, no show index: false, [unlisgted content](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/)
-    - [sitemap, robots.txt](https://mertbakir.gitlab.io/hugo/sitemap-robots/)
+    - [sitemap, robots.txt](https://mertbakir.gitlab.io/hugo/sitemap-robots/) - No index by google? Does this hide from google site search?
     - blog page list, linked to main nav
     - Pages linked in Interiors (basements, bedrooms, cabinets, weirdest, lofts/condos, office interiors)
     - Pages linked in Exteriors (front doors, office exteriors)

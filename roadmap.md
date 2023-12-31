@@ -36,6 +36,8 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
     - blog page list, linked to main nav
     - Pages linked in Interiors (basements, bedrooms, cabinets, weirdest, lofts/condos, office interiors)
     - Pages linked in Exteriors (front doors, office exteriors)
+    - move images from Static to Assets/images
+    - [!!image manipulation!!](https://www.youtube.com/watch?v=6qy4Aht1xsE)
 8. hugo-dev/index.html: how much of this is necessary? Isn't review text in other file?
 9. Blog image links to post
 10. Blog: [Google Search](https://digitaldrummerj.me/hugo-Integrate-google-search/) - OR - remove search

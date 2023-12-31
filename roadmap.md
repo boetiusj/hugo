@@ -13,7 +13,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 - [ ] hero image to replace About section? (Kansas City mural?)
 - [ ] reduce review font size on mobile?
 - [ ] [blog tags like here](https://digitaldrummerj.me/hugo-view-post-grouped-by-category/)
-- [ ] New tags? (paint, color, products, tools & equip,
+- [ ] New tags? (paint, color, products, tools & equip, cabinets, interior, exterior, 
 - [ ] [External links in a new tab](https://digitaldrummerj.me/hugo-links-to-other-pages/)
 
 ## Items

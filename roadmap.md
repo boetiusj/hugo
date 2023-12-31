@@ -28,7 +28,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
    - [!! CSS Tricks images](https://css-tricks.com/adaptive-photo-layout-with-flexbox/)
    - [Flexbox ninja button icons](https://flexbox.ninja/demos/buttons-with-icons/)
    - [Social icons codepen](https://codepen.io/macloo/pen/RZGmvX)
-5. 
+5. [Good site](https://ericmurphy.xyz/blog/) - Eric Murphy
 6. ?? Phone link under booking button
 7. Pages
     - filter pages with frontmatter, no show index: false, [unlisgted content](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/)

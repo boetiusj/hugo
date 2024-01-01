@@ -1,9 +1,11 @@
 Dec 1, '23
 Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megakit-bootstrap)
+[Responsive breakpoints](https://www.responsivebreakpoints.com/)
 
 ## _render-image.html
 - [render-image.html](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/) --> this file does not show image h and w. This would be fine if it would work.
 - [BIG-render-image.html](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) -->  image h and w but distorts image - lazy load conflict? (lazy load specified in this file and also in other css)
+- [Possible source](https://stereobooster.com/posts/hugo-ideal-image/)
 
 ## MK 
 - [ ] Rewrite blog pages, based on FAQs

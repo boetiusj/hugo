@@ -15,6 +15,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 - [ ] [blog tags like here](https://digitaldrummerj.me/hugo-view-post-grouped-by-category/)
 - [ ] New tags? (paint, color, products, tools & equip, cabinets, interior, exterior, common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive), 
 - [ ] [External links in a new tab](https://digitaldrummerj.me/hugo-links-to-other-pages/)
+- [ ] [Delete Fontawesome](https://www.youtube.com/watch?v=or7amkb0Pk8), [replace icon html and css](https://icon-sets.iconify.design/bi/instagram/)
 
 ## Items
 1. CSS:

@@ -9,6 +9,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 
 ## MK 
 - [ ] Rewrite blog pages, based on FAQs
+- [ ] Update Hugo to latest version
 - [ ] default front matter for blog and pages
 - [ ] front matter, add gallery: true to pages with gallery?
 - [ ] image for each blog post
@@ -21,6 +22,8 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 - [ ] [Delete Fontawesome](https://www.youtube.com/watch?v=or7amkb0Pk8), [replace icon html and css](https://icon-sets.iconify.design/bi/instagram/)
 - [ ] [System fonts](https://www.youtube.com/watch?v=K_QRFhpsTsc&list=PLnur5_dvCveGQtaSkjP0i-Fege25r5dHs) replace Google fonts
 - [ ] [hCaptcha](https://www.hcaptcha.com/) added to form submission
+- [ ] [Google Analytics](umami.is)
+- [ ] [Maptiler](maptiler.com) instead of GMaps?
 
 ## Items
 1. CSS:

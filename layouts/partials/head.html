@@ -27,6 +27,11 @@
 
 <link rel = 'stylesheet' href = '{{ $styles.Permalink }}' integrity = '{{ $styles.Data.Integrity }}' crossorigin="anonymous">
 
+<!-- v-->
+{{ if or (ne .Kind "page") (and (eq .Kind "page") (eq .Params.index false)) }}
+  <meta name="robots" content="noindex, nofollow" />
+{{ end }}
+
 <!--Favicon-->
 {{- $iconsPath := "favicons/" }}
 <link rel="apple-touch-icon" sizes="180x180" href='{{ absURL (printf "%sapple-touch-icon.png" $iconsPath) }}'>

@@ -2,6 +2,8 @@ title = "Crestwood Painting"
 baseURL = "https://www.crestwoodpainting.com/"
 paginate = 10
 googleAnalytics = "UA-1372967-1"
+enableRobotsTXT = true 
+# above per https://mertbakir.gitlab.io/hugo/sitemap-robots/
 [taxonomies]
 category = "categories"
 # tag = "tags"

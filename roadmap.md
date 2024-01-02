@@ -22,7 +22,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 - [ ] [Delete Fontawesome](https://www.youtube.com/watch?v=or7amkb0Pk8), [replace icon html and css](https://icon-sets.iconify.design/bi/instagram/) - hamburger menu, footer socials, 
 - [ ] [System fonts](https://www.youtube.com/watch?v=K_QRFhpsTsc&list=PLnur5_dvCveGQtaSkjP0i-Fege25r5dHs) replace Google fonts
 - [ ] [hCaptcha](https://www.hcaptcha.com/) added to form submission
-- [ ] [Google Analytics](umami.is)
+- [ ] [Google Analytics](umami.is) --> umami
 - [ ] [Maptiler](maptiler.com) instead of GMaps?
 - [ ] [Mobile menu fixed](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_fixed_menu) in place on scroll
 

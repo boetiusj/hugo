@@ -4,32 +4,34 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 [Good site](https://ericmurphy.xyz/blog/), [he's on Youtube](https://www.youtube.com/@EricMurphyxyz/search?query=hugo) - Eric Murphy
 
 ## Performance
-### _render-image.html
+### Images
 - [render-image.html](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/) --> this file does not show image h and w. This would be fine if it would work.
 - [BIG-render-image.html](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) -->  image h and w but distorts image - lazy load conflict? (lazy load specified in this file and also in other css)
 - [Possible source](https://stereobooster.com/posts/hugo-ideal-image/)
-### other performance
+### Other
 - blog page list, linked to main nav
 - move images from Static to Assets/images
 - [!!image manipulation!!](https://www.youtube.com/watch?v=6qy4Aht1xsE)
 - [External links in a new tab](https://digitaldrummerj.me/hugo-links-to-other-pages/)
 - [Delete Fontawesome](https://www.youtube.com/watch?v=or7amkb0Pk8), [replace icon html and css](https://icon-sets.iconify.design/bi/instagram/) - hamburger menu, footer socials, 
-- links
+### Links
   - Pages linked in Interiors (basements, bedrooms, cabinets, weirdest, lofts/condos, office interiors)
   - Pages linked in Exteriors (front doors, office exteriors)
-- G services
- - [System fonts](https://www.youtube.com/watch?v=K_QRFhpsTsc&list=PLnur5_dvCveGQtaSkjP0i-Fege25r5dHs) replace Google fonts
- - [hCaptcha](https://www.hcaptcha.com/) added to form submission
- - [Google Analytics](umami.is) --> umami
- - [Maptiler](maptiler.com) instead of GMaps?
+### G services
+  - [System fonts](https://www.youtube.com/watch?v=K_QRFhpsTsc&list=PLnur5_dvCveGQtaSkjP0i-Fege25r5dHs) replace Google fonts
+  - [hCaptcha](https://www.hcaptcha.com/) added to form submission
+  - [Google Analytics](umami.is) --> umami
+  - [Maptiler](maptiler.com) instead of GMaps?
+
 ## nuts & bolts
 - [ ] Update Hugo to latest version
-- [ ] - [ ] front matter, add gallery: true to pages with gallery?
+- [ ] front matter, add gallery: true to pages with gallery?
 - [ ] default front matter for blog and pages
-- [ ] - [ ] New tags? (paint, color, products, tools & equip, cabinets, interior, exterior, common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive), 
+- [ ] New tags? (paint, color, products, tools & equip, cabinets, interior, exterior, common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive), 
 
 ## Content
 - [ ] Rewrite blog pages, based on FAQs
+- [ ] Blog page for each Interior bullet (Cost of interior painting)
 
 ## Appearance
 - [ ] hero image to replace About section? (Kansas City mural?)
@@ -49,6 +51,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 - mobile view single column
 - [good resource](https://digitaldrummerj.me/hugo-create-404-page/)
 
+___
 ## MK 
 - [ ] ~~[unlisted content how to](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/)~~
 ## Items

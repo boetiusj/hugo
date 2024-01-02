@@ -24,11 +24,12 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 - [ ] [hCaptcha](https://www.hcaptcha.com/) added to form submission
 - [ ] [Google Analytics](umami.is)
 - [ ] [Maptiler](maptiler.com) instead of GMaps?
+- [ ] Mobile menu fixed in place on scroll
 
 ## Items
 1. CSS:
    - [ ] body links bolder and underlined in red, should not affect header or footer links
-   - [ ] mobile Hero image: shrink to see more of the image
+   - [ ] mobile Hero image: shrink to see more of the image (should be fixed with better render-image.html)
    - [ ] ~~logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show)~~
 2. [Image divs](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side). [Responsive image gallery, W3](https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive). [Image gallery, Hugo git](https://github.com/rootwork/hugo-module-gallery-grid)
    - [ ] Who: PCA, Lead Safe

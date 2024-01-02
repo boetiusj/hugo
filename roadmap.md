@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://github.com/boetiusj/hugo-dev/blob/main/static/images/Crestwood-White-bg_180x42.jpg?raw=true)" />
+  <img src="https://github.com/boetiusj/hugo-dev/blob/main/static/images/Crestwood-White-bg_180x42.jpg?raw=true" />
 </p>
 
 ![logo](https://github.com/boetiusj/hugo-dev/blob/main/static/images/Crestwood-White-bg_180x42.jpg?raw=true)

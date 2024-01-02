@@ -1,7 +1,8 @@
 Dec 1, '23
-Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megakit-bootstrap)
-[Responsive breakpoints](https://www.responsivebreakpoints.com/)
-[Eric Murphy](https://ericmurphy.xyz/blog/), [Youtube](https://www.youtube.com/@EricMurphyxyz/search?query=hugo)
+Resources
+- Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megakit-bootstrap)
+- [Responsive breakpoints](https://www.responsivebreakpoints.com/)
+- [Eric Murphy](https://ericmurphy.xyz/blog/), [Youtube](https://www.youtube.com/@EricMurphyxyz/search?query=hugo)
 
 ## Performance
 ### Images

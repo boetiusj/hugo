@@ -3,6 +3,7 @@ Resources
 - [Orig. Theme](https://github.com/themefisher/megakit-bootstrap): Themefisher Megakit Bootstrap 
 - [Responsive breakpoints](https://www.responsivebreakpoints.com/)
 - [Eric Murphy](https://ericmurphy.xyz/blog/), [Youtube](https://www.youtube.com/@EricMurphyxyz/search?query=hugo)
+- [G Bard](https://bard.google.com/chat)
 
 ## Performance
 ### Images
@@ -33,6 +34,7 @@ Resources
 ## Content
 - [ ] Rewrite blog pages, based on FAQs
 - [ ] Blog page for each Interior bullet (Cost of interior painting)
+- [ ] Galleries? Interior, Ext, Office, cabinets
 
 ## Appearance
 - [ ] hero image to replace About section? (Kansas City mural?)
@@ -48,7 +50,7 @@ Resources
    - [ ] Who: PCA, Lead Safe
    - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?
 404
-- image from frontmatter
+- image from frontmatter image: "-"
 - mobile view single column
 - [good resource](https://digitaldrummerj.me/hugo-create-404-page/)
 
@@ -66,9 +68,6 @@ ___
 7. Pages
     - ~~filter pages with frontmatter, no show index: false, [unlisgted content](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/)~~
     - ~~[sitemap, robots.txt](https://mertbakir.gitlab.io/hugo/sitemap-robots/) - No index by google? Does this hide from google site search?~~
-
-
-
 8. hugo-dev/index.html: how much of this is necessary? Isn't review text in other file?
 11. 404 page:
     - ~~list blog pages index: true, each with small (80px?) img and page Title (no date). [range where](https://discourse.gohugo.io/t/using-range-where-with-front-matter-values/18575) info here~~

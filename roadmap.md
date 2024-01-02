@@ -1,10 +1,5 @@
-Dec 1, '23
-https://github.com/boetiusj/hugo-dev/blob/main/static/images/Crestwood-White-bg_180x42.jpg
-
 ![logo](https://github.com/boetiusj/hugo-dev/blob/main/static/images/Crestwood-White-bg_180x42.jpg?raw=true)
-
-https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true
-static/images/Crestwood-White-bg_180x42.jpg
+Dec 1, '23
 Resources
 - [Orig. Theme](https://github.com/themefisher/megakit-bootstrap): Themefisher Megakit Bootstrap 
 - [Responsive breakpoints](https://www.responsivebreakpoints.com/)

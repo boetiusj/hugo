@@ -49,7 +49,7 @@ Dec 1, '23 <br>
 - [ ] [Image divs](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side). [Responsive image gallery, W3](https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive). [Image gallery, Hugo git](https://github.com/rootwork/hugo-module-gallery-grid)
    - [ ] Who: PCA, Lead Safe
    - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?
-- 404 Page
+- [ ] 404 Page
   - image from frontmatter image: "-"
   - mobile view single column
   - [good resource](https://digitaldrummerj.me/hugo-create-404-page/)

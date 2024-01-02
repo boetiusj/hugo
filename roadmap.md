@@ -1,6 +1,5 @@
-![logo](https://github.com/boetiusj/hugo-dev/blob/main/static/images/Crestwood-White-bg_180x42.jpg?raw=true) <br>
 Dec 1, '23 <br>
-Resources
+#### Resources
 - [Orig. Theme](https://github.com/themefisher/megakit-bootstrap): Themefisher Megakit Bootstrap 
 - [Responsive breakpoints](https://www.responsivebreakpoints.com/)
 - [Eric Murphy](https://ericmurphy.xyz/blog/), [Youtube](https://www.youtube.com/@EricMurphyxyz/search?query=hugo)

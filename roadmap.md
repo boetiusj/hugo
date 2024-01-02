@@ -1,6 +1,3 @@
-
-  <img align="center" src="https://github.com/boetiusj/hugo-dev/blob/main/static/images/Crestwood-White-bg_180x42.jpg?raw=true" />
-
 ![logo](https://github.com/boetiusj/hugo-dev/blob/main/static/images/Crestwood-White-bg_180x42.jpg?raw=true)
 Dec 1, '23
 Resources

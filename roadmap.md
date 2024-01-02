@@ -1,25 +1,35 @@
 Dec 1, '23
 Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megakit-bootstrap)
+[Responsive breakpoints](https://www.responsivebreakpoints.com/)
 
 ## _render-image.html
 - [render-image.html](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/) --> this file does not show image h and w. This would be fine if it would work.
-- BIG-render-image.html --> [this file shows](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) image h and w but distorts image - lazy load conflict? (lazy load specified in this file and also in other css)
+- [BIG-render-image.html](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) -->  image h and w but distorts image - lazy load conflict? (lazy load specified in this file and also in other css)
+- [Possible source](https://stereobooster.com/posts/hugo-ideal-image/)
 
 ## MK 
 - [ ] Rewrite blog pages, based on FAQs
+- [ ] Update Hugo to latest version
 - [ ] default front matter for blog and pages
+- [ ] front matter, add gallery: true to pages with gallery?
 - [ ] image for each blog post
 - [ ] [unlisted content how to](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/)
 - [ ] hero image to replace About section? (Kansas City mural?)
 - [ ] reduce review font size on mobile?
 - [ ] [blog tags like here](https://digitaldrummerj.me/hugo-view-post-grouped-by-category/)
-- [ ] New tags? (paint, color, products, tools & equip, cabinets, interior, exterior, 
+- [ ] New tags? (paint, color, products, tools & equip, cabinets, interior, exterior, common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive), 
 - [ ] [External links in a new tab](https://digitaldrummerj.me/hugo-links-to-other-pages/)
+- [ ] [Delete Fontawesome](https://www.youtube.com/watch?v=or7amkb0Pk8), [replace icon html and css](https://icon-sets.iconify.design/bi/instagram/)
+- [ ] [System fonts](https://www.youtube.com/watch?v=K_QRFhpsTsc&list=PLnur5_dvCveGQtaSkjP0i-Fege25r5dHs) replace Google fonts
+- [ ] [hCaptcha](https://www.hcaptcha.com/) added to form submission
+- [ ] [Google Analytics](umami.is)
+- [ ] [Maptiler](maptiler.com) instead of GMaps?
+- [ ] Mobile menu fixed in place on scroll
 
 ## Items
 1. CSS:
    - [ ] body links bolder and underlined in red, should not affect header or footer links
-   - [ ] mobile Hero image: shrink to see more of the image
+   - [ ] mobile Hero image: shrink to see more of the image (should be fixed with better render-image.html)
    - [ ] ~~logo margin, shrink top and bottom (my change from 1.5px to .5px doesn't show)~~
 2. [Image divs](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side). [Responsive image gallery, W3](https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive). [Image gallery, Hugo git](https://github.com/rootwork/hugo-module-gallery-grid)
    - [ ] Who: PCA, Lead Safe
@@ -28,14 +38,16 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
    - [!! CSS Tricks images](https://css-tricks.com/adaptive-photo-layout-with-flexbox/)
    - [Flexbox ninja button icons](https://flexbox.ninja/demos/buttons-with-icons/)
    - [Social icons codepen](https://codepen.io/macloo/pen/RZGmvX)
-5. No index by google? Does this hide from google site search?
+5. [Good site](https://ericmurphy.xyz/blog/), [he's on Youtube](https://www.youtube.com/@EricMurphyxyz/search?query=hugo) - Eric Murphy
 6. ?? Phone link under booking button
 7. Pages
     - filter pages with frontmatter, no show index: false, [unlisgted content](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/)
-    - [sitemap, robots.txt](https://mertbakir.gitlab.io/hugo/sitemap-robots/)
+    - [sitemap, robots.txt](https://mertbakir.gitlab.io/hugo/sitemap-robots/) - No index by google? Does this hide from google site search?
     - blog page list, linked to main nav
     - Pages linked in Interiors (basements, bedrooms, cabinets, weirdest, lofts/condos, office interiors)
     - Pages linked in Exteriors (front doors, office exteriors)
+    - move images from Static to Assets/images
+    - [!!image manipulation!!](https://www.youtube.com/watch?v=6qy4Aht1xsE)
 8. hugo-dev/index.html: how much of this is necessary? Isn't review text in other file?
 9. Blog image links to post
 10. Blog: [Google Search](https://digitaldrummerj.me/hugo-Integrate-google-search/) - OR - remove search

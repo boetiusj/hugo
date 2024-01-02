@@ -24,7 +24,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 - [ ] [hCaptcha](https://www.hcaptcha.com/) added to form submission
 - [ ] [Google Analytics](umami.is)
 - [ ] [Maptiler](maptiler.com) instead of GMaps?
-- [ ] Mobile menu fixed in place on scroll
+- [ ] [Mobile menu fixed](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_fixed_menu) in place on scroll
 
 ## Items
 1. CSS:

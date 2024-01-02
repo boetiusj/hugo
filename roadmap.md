@@ -10,6 +10,7 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 ## MK 
 - [ ] Rewrite blog pages, based on FAQs
 - [ ] default front matter for blog and pages
+- [ ] front matter, add gallery: true to pages with gallery?
 - [ ] image for each blog post
 - [ ] [unlisted content how to](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/)
 - [ ] hero image to replace About section? (Kansas City mural?)
@@ -18,6 +19,8 @@ Orig. Theme: Themefisher Megakit Bootstrap (https://github.com/themefisher/megak
 - [ ] New tags? (paint, color, products, tools & equip, cabinets, interior, exterior, common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive), 
 - [ ] [External links in a new tab](https://digitaldrummerj.me/hugo-links-to-other-pages/)
 - [ ] [Delete Fontawesome](https://www.youtube.com/watch?v=or7amkb0Pk8), [replace icon html and css](https://icon-sets.iconify.design/bi/instagram/)
+- [ ] [System fonts](https://www.youtube.com/watch?v=K_QRFhpsTsc&list=PLnur5_dvCveGQtaSkjP0i-Fege25r5dHs) replace Google fonts
+- [ ] [hCaptcha](https://www.hcaptcha.com/) added to form submission
 
 ## Items
 1. CSS:

@@ -50,9 +50,9 @@ Dec 1, '23 <br>
    - [ ] Who: PCA, Lead Safe
    - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?
 - 404 Page
- - image from frontmatter image: "-"
- - mobile view single column
- - [good resource](https://digitaldrummerj.me/hugo-create-404-page/)
+  - image from frontmatter image: "-"
+  - mobile view single column
+  - [good resource](https://digitaldrummerj.me/hugo-create-404-page/)
 
 ___
 ## MK 

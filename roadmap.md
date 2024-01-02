@@ -1,6 +1,7 @@
 Dec 1, '23
 ![logo](Crestwood-White-bg_180x42.jpg)
 (https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+static/images/Crestwood-White-bg_180x42.jpg
 Resources
 - [Orig. Theme](https://github.com/themefisher/megakit-bootstrap): Themefisher Megakit Bootstrap 
 - [Responsive breakpoints](https://www.responsivebreakpoints.com/)

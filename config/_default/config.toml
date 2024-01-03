@@ -5,15 +5,7 @@ googleAnalytics = "UA-1372967-1"
 enableRobotsTXT = false
 [taxonomies]
 category = "categories"
-- interior
-- exterior
-- cabinets
-- commercial
+categories = "interior", "exterior", "cabinets", "commercial"
 tag = "tags"
-- products
-- tips
-- color
-- best practices
-disableKinds:
-- robotsTXT
-- RSS
+tags = "Products", "Tips", "Color", Best Practices"
+disableKinds = ['robotsTXT', 'RSS']

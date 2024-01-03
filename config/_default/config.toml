@@ -5,4 +5,15 @@ googleAnalytics = "UA-1372967-1"
 enableRobotsTXT = false
 [taxonomies]
 category = "categories"
-# tag = "tags"
+- interior
+- exterior
+- cabinets
+- commercial
+tag = "tags"
+- products
+- tips
+- color
+- best practices
+disableKinds:
+- robotsTXT
+- RSS

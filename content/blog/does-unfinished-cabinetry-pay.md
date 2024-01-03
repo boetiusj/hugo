@@ -6,7 +6,7 @@ keywords: "painting cabinets, unfinished, kansas city, crestwood painting"
 canonical: "https://crestwoodpainting.com/does-unfinished-cabinetry-pay/"
 date: "2014-09-26"
 index: true
-image: "-"
+image: "/images/Vanity-unfinished-paint-or-stain-300x300.jpg"
 categories:
   - "general"
 tags:

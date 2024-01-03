@@ -29,12 +29,13 @@ Dec 1, '23 <br>
 - [ ] Update Hugo to latest version
 - [ ] front matter, add gallery: true to pages with gallery?
 - [ ] default front matter for blog and pages
-- [ ] New tags? (paint, color, products, tools & equip, cabinets, interior, exterior, common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive), 
+- [ ] ~~New tags? (paint, color, products, tools & equip, cabinets, interior, exterior, common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive)~~
 
 ## Content
 - [ ] Rewrite blog pages, based on FAQs
 - [ ] Blog page for each Interior bullet (Cost of interior painting)
 - [ ] Galleries? Interior, Ext, Office, cabinets
+- [ ] Common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive)
 
 ## Appearance
 - [ ] hero image to replace About section? (Kansas City mural?)

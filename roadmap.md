@@ -47,6 +47,7 @@ Dec 1, '23 <br>
 - [ ] mobile Hero image: shrink to see more of the image (should be fixed with better render-image.html)
 - [ ] Blog: [Google Search](https://digitaldrummerj.me/hugo-Integrate-google-search/) - OR - remove search
 - [ ] Blog image for each post, links to post
+- [ ] Blog share.html - update with svg, add Instagram, delete(?) Twitter
 - [ ] [Image divs](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side). [Responsive image gallery, W3](https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive). [Image gallery, Hugo git](https://github.com/rootwork/hugo-module-gallery-grid)
    - [ ] Who: PCA, Lead Safe
    - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?

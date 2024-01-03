@@ -3,7 +3,7 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-7 text-center">
 				<div class="section-title">
-					<span class="h6 text-color">Latest from the blog</span>
+					<span class="h6 text-color">The Nitty Gritty of Painting</span>
 					<h2 class="mt-3 content-title text-white">Popular Articles</h2>
 				</div>
 			</div>
@@ -14,7 +14,7 @@
 			{{ range $i,$_ := first 3 $posts }}
 			<div class="col-lg-4 col-md-6 mb-5">
 				<div class="card bg-transparent border-0">
-					<img loading="lazy" src={{ default "/images/blog/hand-sprayer.avif" .Params.image }} alt="blog" class="img-fluid rounded excerpt_preview">
+					<a href="<img loading="lazy" src={{ default "/images/lead-safe-certified-155.webp" .Params.image }} alt="blog image" class="img-fluid rounded excerpt_preview"></a>
 
 					<div class="card-body mt-2">
 						<!-- <div class="blog-item-meta">

@@ -1,7 +1,7 @@
 <div class="col-lg-6 col-md-6 mb-5 blog-item-wrap">
   <div class="blog-item">
     {{ $image := default "/images/blog/hand-sprayer.avif" .Params.image }}
-    <img loading="lazy" src="{{ $image }}" alt="blog" class="img-fluid rounded excerpt_preview">
+    <img loading="lazy" src="{{ $image }}" alt="blog excerpt img" class="img-fluid rounded excerpt_preview">
 
     <div class="blog-item-content bg-white p-4">
       {{ partial "blog/excerpt-meta" . }}

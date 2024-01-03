@@ -6,7 +6,7 @@ keywords: "touch-up"
 canonical: "https://crestwoodpainting.com"
 date: "2014-07-30"
 index: true
-image: "-"
+image: "/images/nail-polish.webp"
 categories:
   - "painting-tips"
 tags:

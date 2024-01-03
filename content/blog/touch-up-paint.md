@@ -3,8 +3,7 @@ title: "Touch-ups, Nail Polish"
 url: "touch-up-paint"
 description: "Paint touch-ups - what to look for"
 keywords: "touch-up"
-canonical: "https://crestwoodpainting.com/
-touch-up-paint/"
+canonical: "https://crestwoodpainting.com/touch-up-paint/"
 date: "2014-07-30"
 index: true
 image: "/images/nail-polish.webp"

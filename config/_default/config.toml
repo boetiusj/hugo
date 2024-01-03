@@ -7,5 +7,5 @@ enableRobotsTXT = false
 category = "categories"
 categories = ["interior", "exterior", "cabinets", "commercial"]
 tag = "tags"
-tags = ["Products", "Tips", "Color", Best Practices"]
+tags = ["Products", "Tips", "Color", "Best Practices"]
 disableKinds = ['robotsTXT', 'RSS']

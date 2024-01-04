@@ -1,4 +1,4 @@
-## Path and other problems
+## Path and other Qs
 I'm stuck, please explain what I'm missing - the trouble seems to be mostly path. 
 
 1. [path problems first](https://www.veriphor.com/articles/link-and-image-render-hooks/) - this looks like it will completely solve path problems. 

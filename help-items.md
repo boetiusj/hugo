@@ -6,11 +6,11 @@ I'd like to have H and W for every image, ideally with the fancy image options.
    - [2nd best option](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/)
    - Acceptable: [automatic-size-attributes](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/)
 2. 404 page
- - images taken from frontmatter image = "/x"?
- - 404.html takes default but won't show frontmatter image from different pages. {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
+   - images taken from frontmatter image = "/x"?
+   - 404.html takes default but won't show frontmatter image from different pages. {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
 3. Other Qs
-  - index.html:
-   - is this file necessary
-   - what does it do
-   - better way to handle review text?
-  - other
+   - index.html:
+     - is this file necessary
+     - what does it do
+     - better way to handle review text?
+   - other

@@ -22,6 +22,7 @@ All workers, whether employees or subcontractors, should be both informed and su
 Informed means that painters clearly understand the Scope of Work. Supervised means the painters are accountable for delivering on company and customer expectations. Well-supervised projects meet expectations. And that means happy customers and on-time completions.
 
 > A well-run company will arrive when they say they will, work a full day and then return each day until the job is complete.
+{.warning}
 
 ### May I have a copy of your insurance certificate for my files?
 

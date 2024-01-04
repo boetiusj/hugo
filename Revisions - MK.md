@@ -1,5 +1,6 @@
-Dec 1, '23 <br>
 #### Resources
+Dec 1, '23
+
 - [Orig. Theme](https://github.com/themefisher/megakit-bootstrap): Themefisher Megakit Bootstrap 
 - [Responsive breakpoints](https://www.responsivebreakpoints.com/)
 - [Eric Murphy](https://ericmurphy.xyz/blog/), [Youtube](https://www.youtube.com/@EricMurphyxyz/search?query=hugo)

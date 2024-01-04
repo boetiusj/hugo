@@ -1,7 +1,7 @@
-## Image path problems
+## Path and other problems
 I'm stuck, please explain what I'm missing - the trouble seems to be mostly path. 
-I'd like to have H and W for every image, ideally with the fancy image options.
-1. render-image.html (_default/_markup/render-image.html)
+
+1. render-image.html (_default/_markup/render-image.html). I'd like to have H and W for every image.
    - Best option: ["Perfect image rendering in Hugo"](https://ryanfleck.ca/2023/perfected-image-rendering-in-hugo/)
    - [2nd best option](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/)
    - Acceptable: [automatic-size-attributes](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/)

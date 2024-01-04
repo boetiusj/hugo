@@ -7,7 +7,7 @@ I'm stuck, please explain what I'm missing - the trouble seems to be mostly path
    - Acceptable: [automatic-size-attributes](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/)
 2. 404 page
    - images taken from frontmatter image = "/x"?
-   - 404.html takes default but won't show frontmatter image from different pages. {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
+   - 404.html shows the default image but won't show frontmatter image from different pages. {{- $image := default "/images/blog/bt-3.jpg" **.Params.image** }}
 3. Other Qs
    - index.html:
      - Is this file necessary? ALL of it?

@@ -9,8 +9,8 @@ I'd like to have H and W for every image, ideally with the fancy image options.
  - images taken from frontmatter image = "/x"?
  - 404.html takes default but won't show frontmatter image from different pages. {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
 3. Other Qs
- - index.html:
-  - is this file necessary
-  - what does it do
-  - better way to handle review text?
- - other
+  - index.html:
+   - is this file necessary
+   - what does it do
+   - better way to handle review text?
+  - other

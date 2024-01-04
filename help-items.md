@@ -10,7 +10,7 @@ I'm stuck, please explain what I'm missing - the trouble seems to be mostly path
    - 404.html takes default but won't show frontmatter image from different pages. {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
 3. Other Qs
    - index.html:
-     - is this file necessary
-     - what does it do
-     - better way to handle review text?
+     - Is this file necessary? ALL of it?
+     - Why at Line 89 doe it have review text?
+     - Is there a better way to handle review text?
    - other

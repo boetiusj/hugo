@@ -1,6 +1,6 @@
 ## Home page 
 
-loads Blog header with no Home page items. Possible Alias conflict? (commit 3dbc49e) Blog page Touch-up-paint.md frontmatter canonical was "https://crestwoodpainting.com/" with nothing alse.
+loads Blog header with no Home page items. Possible Alias conflict? (commit 3dbc49e) Hugo now shows 2 Aliases on building. Blog page Touch-up-paint.md frontmatter canonical was "https://crestwoodpainting.com/" with nothing alse.
 
 ## Image path problems
 

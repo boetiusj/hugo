@@ -1,6 +1,6 @@
-+++
-title = "Painting Updates"
-name = "The Nitty Gritty"
-+++
+---
+title: "Painting Updates"
+name:  "The Nitty Gritty"
+---
 
-The Whys and Hows for Crestwood Painting customers in Kansas City.
+# Painting Nitty Gritty in Kansas City

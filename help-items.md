@@ -13,4 +13,4 @@ I'm stuck, please explain what I'm missing - the trouble seems to be mostly path
      - Is this file necessary? ALL of it?
      - Why review text at Line 89?
      - Is there a better way to handle review text?
-   - Why [2 Aliases?](/images/Aliases.png) ![](https://github.com/boetiusj/hugo-dev/blob/main/static/images/Aliases.png)
+   - Why 2 Aliases? ![](https://github.com/boetiusj/hugo-dev/blob/main/static/images/Aliases.png)

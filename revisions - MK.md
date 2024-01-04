@@ -13,6 +13,8 @@ Dec 1, '23
 - [Possible source](https://stereobooster.com/posts/hugo-ideal-image/)
 ### Other
 - blog page list, linked to main nav
+- blog categories: Color-Choices, How-To-Hire-Painter, Painting-Tips, Painting-Challenges, General, Home-Maintenance-Tips, Painting-Reviews, Green / Eco, 
+- blog tags: better-business-bureau, interior-painting, painting-insurance, cleaning, interior-painting, prep-work, nail-pops, prep, estimates, online-reviews, painters, aluminum-siding, contrasting-colors, exterior-painting, shingles, shutters, vinyl-siding, exterior-painting, re-siding, caulk, interior-painting, prep, trim, wood, painting-insurance, contrasting-colors, exterior-painting, trim
 - move images from Static to Assets/images
 - [!!image manipulation!!](https://www.youtube.com/watch?v=6qy4Aht1xsE)
 - [External links in a new tab](https://digitaldrummerj.me/hugo-links-to-other-pages/)
@@ -27,8 +29,9 @@ Dec 1, '23
   - [Maptiler](maptiler.com) instead of GMaps?
 
 ## nuts & bolts
-- [ ] Update Hugo to latest version
+- [ ] ~~Update Hugo to latest version~~
 - [ ] front matter, add gallery: true to pages with gallery?
+- [ ] [unlisted content](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/) - queries and pagination
 - [ ] default front matter for blog and pages
 - [ ] ~~New tags? (paint, color, products, tools & equip, cabinets, interior, exterior, common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive)~~
 

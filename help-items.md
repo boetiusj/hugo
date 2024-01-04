@@ -13,4 +13,4 @@ I'm stuck, please explain what I'm missing - the trouble seems to be mostly path
      - Is this file necessary? ALL of it?
      - Why at Line 89 doe it have review text?
      - Is there a better way to handle review text?
-   - other
+   - Why [2 Aliases?](/images/Aliases.png)

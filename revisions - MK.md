@@ -18,7 +18,9 @@ Dec 1, '23
 - move images from Static to Assets/images
 - [!!image manipulation!!](https://www.youtube.com/watch?v=6qy4Aht1xsE)
 - [External links in a new tab](https://digitaldrummerj.me/hugo-links-to-other-pages/)
-- [Delete Fontawesome](https://www.youtube.com/watch?v=or7amkb0Pk8), [replace icon html and css](https://icon-sets.iconify.design/bi/instagram/) - hamburger menu, footer socials, 
+- [Delete Fontawesome](https://www.youtube.com/watch?v=or7amkb0Pk8), [replace icon html and css](https://icon-sets.iconify.design/bi/instagram/) - hamburger menu, footer socials,
+- Wildcard booking page
+- 
 ### Links
   - Pages linked in Interiors (basements, bedrooms, cabinets, weirdest, lofts/condos, office interiors)
   - Pages linked in Exteriors (front doors, office exteriors)

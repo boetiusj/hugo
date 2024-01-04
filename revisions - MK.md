@@ -59,6 +59,7 @@ Dec 1, '23
   - image from frontmatter image: "-"
   - mobile view single column
   - [good resource](https://digitaldrummerj.me/hugo-create-404-page/)
+- YouCanBook.me: booking form hidden fields - inline (City, St 12345) rather than current new line each field?
 
 ___
 ## MK 

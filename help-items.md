@@ -11,6 +11,6 @@ I'm stuck, please explain what I'm missing - the trouble seems to be mostly path
 3. Other Qs
    - index.html:
      - Is this file necessary? ALL of it?
-     - Why at Line 89 doe it have review text?
+     - Why review text at Line 89?
      - Is there a better way to handle review text?
    - Why [2 Aliases?](/images/Aliases.png) ![](https://github.com/boetiusj/hugo-dev/blob/main/static/images/Aliases.png)

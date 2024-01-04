@@ -38,10 +38,14 @@ Dec 1, '23
 - [ ] ~~New tags? (paint, color, products, tools & equip, cabinets, interior, exterior, common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive)~~
 
 ## Content
+- [ ] Blog priorities: Lead Cert., Color of the Year, Caulk,
+- [ ] Pages priorities: Who & Why (images), Interiors (images), Cabinet (images), Office (images), 
 - [ ] Rewrite blog pages, based on FAQs
 - [ ] Blog page for each Interior bullet (Cost of interior painting)
 - [ ] Galleries? Interior, Ext, Office, cabinets
+- [ ] Top pf page button at bottom
 - [ ] Common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive)
+- [ ] 
 
 ## Appearance
 - [ ] hero image to replace About section? (Kansas City mural?)
@@ -62,6 +66,7 @@ Dec 1, '23
   - mobile view single column
   - [good resource](https://digitaldrummerj.me/hugo-create-404-page/)
 - YouCanBook.me: booking form hidden fields - inline (City, St 12345) rather than current new line each field?
+- Payments: new Paypal button, Zeele or Melio?
 
 ___
 ## MK 

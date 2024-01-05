@@ -2,7 +2,7 @@ title = "Crestwood Painting"
 baseURL = "https://www.crestwoodpainting.com/"
 paginate = 10
 googleAnalytics = "UA-1372967-1"
-enableRobotsTXT = false
+# possible conflict with disableKinds? -- enableRobotsTXT = false
 [taxonomies]
 category = "categories"
 categories = ["Interior", "Exterior", "Cabinets", "Commercial"]

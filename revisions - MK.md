@@ -1,4 +1,4 @@
-#### Resources
+#### Revisions
 Dec 1, '23
 
 - [Orig. Theme](https://github.com/themefisher/megakit-bootstrap): Themefisher Megakit Bootstrap 

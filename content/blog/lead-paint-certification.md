@@ -14,21 +14,34 @@ tags:
   - "interior-painting"
   - "painting-insurance"
 ---
-Crestwood Painting has been [EPA Lead-Safe certified](/lead-paint-safety/) since 2011, many of our Job Leads have also been trained and certified, as well.
+![Lead paint certification](/renovate-right-image.webp)
 
-![Lead paint certification](/images/gray-lead-safe-certified.webp)
-Lead in paint has been outlawed since 1978. If your home was built before that the EPA says that lead-safe work practices must be followed. That means lots of tape and plastic to protect your home and family (and your contractor).
+## THE RRP Rule
 
-If a pre-'78 home is proved to have no lead in the work surfaces then lead-safe practices do not have to be followed. But the test procedures are fraught with their own set tangled rules - so we just assume lead on every pre '78 project and work accordingly.
+For homes built before 1978, lead paint may be a factor in how painting work is done. To see that both homeowners and contractors are protected, EPA-accredited training and certification is required of all contractors working on older homes. 2011 so they comply with lead-safe safe work practices.
 
-This means more more prep work than most contractors will do: we cover gardens to keep paint chips out, we sweep and vacuum driveways and decks and very often we're told the yard is cleaner than it was when we started!
+The RRP rule (Renovation, Repair and Painting) has been in place since 2011, regular refresher courses are required to maintain certification.
 
-We equip our painters with gloves and proper breathing protection when they're scraping, too. And soap to wash hands before lunch and at the end of the day.
+## RRP Certification
 
-We keep the soap in a nylon stocking - it's an old Girl Scout trick (the nylon stocking keeps the soap free of dirt). There was a lot of eye-rolling at first but our painters do use it - while they tease.
+- comprehensive instruction about lead paint identification
+- safe work practices
+- containment procedures
+- proper waste disposal
 
-Lead poisoning is very serious business. Young children and pregnant women are especially vulnerable. Contractors that ignore the EPA's RRP (Renovate, Repair & Paint) regulations are putting their business at risk. Those same contractors are also unlikely to share the risks with their customers or their employees.
+Lead-safe work practices start with understanding that lead is a hazard to people, especially children.  Safe work practices mean plenty of tape and plastic to protect your home, your yard and your family.
+> ...often the yard is cleaner than it was when we started!
 
-Yes, it's true - there is a slight cost difference in complying: more time in implementing lead-safe protection, more materials also. On the flip-side, our systems allow us to protect very efficiently and clean up much more effectively than we ever did before implementing lead-safe work practices.
+### Lead Testing
 
-It feels good to do the right thing. All that, and a contractor's nod to the Girl Scouts, to boot!
+If a pre-'78 home is tested and found to have no lead in the work surfaces then lead-safe practices do not have to be followed. But the test procedures are fraught with their own set of tangled rules - so we just assume lead paint and then follow lead-safe work practices.
+
+This means more prep work than most contractors will do: we cover gardens to keep paint chips out, we sweep and vacuum driveways and decks and very often [customers tell us the yard is cleaner](/reviews/) than it was when we started!
+
+Lead poisoning is serious - young children and pregnant women are especially vulnerable. Contractors that ignore the EPA's RRP (Renovate, Repair & Paint) regulations are putting their business at risk. Those same contractors are also unlikely to share the risks with their customers or their employees.
+
+### Cost of RRP Compliance
+
+There is a slight cost difference in complying: more time in implementing lead-safe protection, more materials also. On the flip-side, our work systems allow us to protect very efficiently and clean up much more effectively than we ever did before implementing lead-safe work practices.
+
+[![EPA lead paint brochure](/images/Renovate-Right-image-577x900.jpg)](https://www.epa.gov/lead/renovate-right-important-lead-hazard-information-families-child-care-providers-and-schools)

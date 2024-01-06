@@ -33,7 +33,7 @@ faqs:
   - question: What about lead paint?
     id: lead
     answer: |
-      The [EPA's lead brochure](/lead-paint-safety/) is a good overview. For exterior painting, options run from ignoring the hazard up to workers in HazMat suits. As a practical matter,light scraping followed by the right primer is the route taken most often. Restoration (complete removal of all old paint) is costly and is usually only considered for small areas.
+      The [EPA's lead brochure](https://www.epa.gov/lead/renovate-right-important-lead-hazard-information-families-child-care-providers-and-schools) is a good overview. For exterior painting, options run from ignoring the hazard up to workers in HazMat suits. As a practical matter,light scraping followed by the right primer is the route taken most often. Restoration (complete removal of all old paint) is costly and is usually only considered for small areas.
 
       > EPA WARNING! Removing or disturbing old paint from interior or exterior surfaces by sanding, scraping, abrading, or other means may produce dust, debris, or fumes that contain lead. Exposure to lead dust, debris or fumes may cause brain damage or other adverse health effects, especially in children and pregnant women. Structures built before 1978 should be tested by a licensed inspector prior to removing or disturbing old paint. For more information, call the National Lead Information Center at 1-800-424-LEAD.
 

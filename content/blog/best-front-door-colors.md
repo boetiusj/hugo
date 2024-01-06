@@ -8,13 +8,10 @@ date: 2021-07-22
 index: true
 image: /images/front-door.avif
 categories:
-  - color-choices
+  - Exterior
 tags:
-  - color-consulting
-  - contrasting-colors
-  - exterior-painting
-  - front-door
-  - roof
+  - Colors
+  - Front-door
 slug: front-door-colors
 ---
 ![front door color](/images/front-door.avif)

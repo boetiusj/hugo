@@ -8,4 +8,3 @@ draft: true
 This is shortcode text.
 {{< /text >}}
 This is regular text.
-

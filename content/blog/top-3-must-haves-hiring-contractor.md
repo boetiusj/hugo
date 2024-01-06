@@ -13,13 +13,13 @@ tags:
   - "estimates"
   - "painting-insurance"
 ---
-[Crestwood Painting rose bushes](src="/images/rose-bushes.webp")
+![Crestwood Painting rose bushes]("/images/rose-bushes.webp")
 
 ## Set Expectations
 
 If paint contractors are clear in what they are providing and customers are clear in what they are getting then everybody will be happy, yes? So why are happy customer/contractor experiences relatively rare? The answer is the dreaded [_Unmet Expectations_](/reviews/).
 
-### Meet Expectations
+### Define the Work
 
 Let's say the paint contractor hired to paint your house drips on your new patio. You assumed he would properly protect your home, he assumed you wanted the work done fast and cheap. If he didn't have a written contract then shame on everybody. If he did have a contract did it clearly specify these gems?
 
@@ -30,7 +30,6 @@ Let's say the paint contractor hired to paint your house drips on your new patio
 ### Inclusions
 
 This is, of course, the work that will be done. In our case it would read something like "[Paint house and garage](/exterior-painting-kansas-city/) only, including all previously painted doors, windows, soffits, fascia, etc." Also included should be the materials used, time to completion, and yes, surfaces to be protected.
-
 > A job well specified is half delivered
 
 ### Exclusions
@@ -45,4 +44,4 @@ So you're talking with your painter during the estimate and he assures you that 
 
 If the rose bushes are not mentioned at all you're setting yourself up to have some dreaded Unmet Expectations. Or, what if the contractor simply forgets what he said about the rose bushes. Or he forgets to tell his work crew?
 
-It's been wisely said that "a job well specified is half delivered". Give Crestwood Painting a call if you'd like to see what _Met_ Expectations feel like.
+It's been wisely said that "a job well specified is half delivered". 

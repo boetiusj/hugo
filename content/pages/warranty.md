@@ -23,5 +23,6 @@ For your protection, we carry both workman's compensation and business liability
 
 ![customer review crestwood painting](/images/r11-7-kara.webp)
 {{< text >}}
-This is shortcode text.
+Shortcode
 {{< /text >}}
+Regular

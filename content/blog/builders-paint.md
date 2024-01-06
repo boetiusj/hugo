@@ -1,5 +1,5 @@
 ---
-title: "Builders Paint - Why It's Tough to Clean"
+title: "Builders Paint is Tough to Clean"
 url: "builders-paint"
 description: "Builders paint has earned its reputation"
 keywords: "paint builders quality"
@@ -12,18 +12,17 @@ categories:
 tags:
   - "paint"
 ---
-![burnish builders paint](/images/burnish-labeled.webp) 
+![burnish builders paint](/images/burnish-labeled.webp)
 Builders paint is especially prone to burnish marks and poor cleanability.
 
 ## Reputation Earned
 
-"Builders' Paint" is low-quality paint (either [outside](/exterior-paint-new-homes/) or [inside](/interior-painter-kansas-city/)) that fails to hold up. Usually in the very dull gray and tan families, it is favored by Kansas City rehabbers and new construction builders.
-
-That means
+"Builders' Paint" is low-quality paint (either [outside](/exterior-paint-new-homes/) or [inside](/interior-painter-kansas-city/)) that fails to hold up. Usually in the very dull gray and tan families, it is favored by Kansas City rehabbers and new construction builders. That means
 
 - Poor coverage
 - Poor hide
 - Poor cleanability
+- It's inexpensive
 
 > Poor quality paint can't really be "fixed", only covered by a better product.
 
@@ -39,4 +38,4 @@ Builders often choose poor quality, low cost paint because they assume the home 
 
 Poor quality paint can't really be "fixed", only covered by a better product. And a better product means it will hold up to the bumps and bruises of daily life.
 
-Sometimes it's best to [completely repaint](/interior-painter-kansas-city/), but often it's just as effective to repaint select areas. 
+Sometimes it's best to [completely repaint](/interior-painter-kansas-city/), but often it's just as effective to repaint select areas.

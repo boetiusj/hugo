@@ -44,4 +44,4 @@ So you're talking with your painter during the estimate and he assures you that 
 
 If the rose bushes are not mentioned at all you're setting yourself up to have some dreaded Unmet Expectations. Or, what if the contractor simply forgets what he said about the rose bushes. Or he forgets to tell his work crew?
 
-It's been wisely said that "a job well specified is half delivered". 
+It's been wisely said that "a job well specified is half delivered".

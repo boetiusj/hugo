@@ -13,7 +13,7 @@ tags:
   - "estimates"
   - "painting-insurance"
 ---
-![Crestwood Painting rose bushes]("/images/rose-bushes.webp")
+![Crestwood Painting rose bushes](/images/rose-bushes.webp)
 
 ## Set Expectations
 

@@ -1,6 +1,6 @@
-h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6 {
-  text-wrap: balance;
-}
+// h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6 {
+//  text-wrap: balance;
+//} 
 
 .contact {
   &__form {
@@ -27,6 +27,9 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6 {
   .fixed-top {
     background-color: #fafafa;
   }
+}
+.navbar {
+  position: fixed;
 }
 
 

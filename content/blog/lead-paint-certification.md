@@ -14,7 +14,7 @@ tags:
   - "interior-painting"
   - "painting-insurance"
 ---
-![Lead paint certification](/renovate-right-image.webp)
+![Lead paint certification](/images/lead-safe-certified-155.webp)
 
 ## THE RRP Rule
 

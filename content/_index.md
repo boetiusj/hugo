@@ -1,32 +1,18 @@
----  
+---
 title: "No Drips, No Drama | Book us online or Call 816-805-4515!"
 description: "Prompt and tidy pros with organized jobsites and timely finishes. Call us for a No Drips, No Drama experience"
 keywords: "Crestwood Painting, Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company, Mission Hills, Lee's Summit, Prairie Village, Leawood, House Painter, Exterior House Painting, Plaster repair, Interior Painting"
 canonical: "https://crestwoodpainting.com"
 date: "2011-05-04"
-# delete / comment out stats block to hide
-# stats block starts
-# stats:
-#  - title: Projects Completed
-#    count: 1730
-#    countModifier: +
-#  - title: States :)
-#    count: 2
-#   countModifier: M
-#  - title: Available Country
-#    count: 39
-#    countModifier: ''
-# stats block ends
-about:
-  headline: "Who we are"
-  title: "Same. Local. Owners."
-  subtitle: "We make it easy"
-  description: "Prompt and courteous painters deliver on clear proposals."
-  show: true # turn to false to hide
-  image: "/images/bg/bgCanadaLake.webp"
-  cta:
-    url: "/book-us"
-    label: "Let's get started"
+
+hero:
+  headline: No Drips, No Drama
+  title: Painting Kansas City Homes & Offices
+  image: "/images/bg/January.webp"
+  button:
+    url: "/book-us/"
+    label: Book an Estimate
+
 intro:
   title: "Trusted. Since 2007"
   headline: "Clean and Tidy Painters"
@@ -56,6 +42,31 @@ cta:
   phone: "816-805-4515"
   show: false # turn to false to hide
   image:  "/images/bg/bgCanadaLake.webp"
+
+  about:
+  headline: "Who we are"
+  title: "Same. Local. Owners."
+  subtitle: "We make it easy"
+  description: "Prompt and courteous painters deliver on clear proposals."
+  show: true # turn to false to hide
+  image: "/images/bg/bgCanadaLake.webp"
+  cta:
+    url: "/book-us"
+    label: "Let's get started"
+# delete / comment out stats block to hide
+# stats block starts
+# stats:
+#  - title: Projects Completed
+#    count: 1730
+#    countModifier: +
+#  - title: States :)
+#    count: 2
+#   countModifier: M
+#  - title: Available Country
+#    count: 39
+#    countModifier: ''
+# stats block ends
+###
 #cta2: section shows at the very bottom near the footer
 #  headline: "For Every type business"
 #  show: true # turn to false to hide
@@ -63,13 +74,7 @@ cta:
 #  button:
 #    url: "/contact"
 #    label: "Contact Us"
-hero:
-  headline: No Drips, No Drama
-  title: Painting Kansas City Homes & Offices
-  image: "/images/bg/January.webp"
-  button:
-    url: "/book-us/"
-    label: Book an Estimate
+###
 # services:
 #   title: Painting services in Kansas City
 #   headline: Services
@@ -93,5 +98,4 @@ hero:
 #    - name: "Content creation."
 #      description: "A digital agency isn't here to replace your internal team, we're here to partner"
 #      icon: "pencil-alt"
-
 ---

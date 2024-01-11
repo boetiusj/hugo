@@ -4,7 +4,7 @@ url: "top-3-must-haves-hiring-painter"
 description: "Get these in your painting contract."
 keywords: "hire,expectations, paint contractor"
 canonical: "https://crestwoodpainting.com/top-3-must-haves-hiring-painter/"
-date: "2022-02-22" 
+date: "2023-10-22" 
 index: true
 image: /images/rose-bushes.webp
 categories:

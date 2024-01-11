@@ -43,14 +43,14 @@ cta:
   show: false # turn to false to hide
   image:  "/images/bg/bgCanadaLake.webp"
 
-  about:
+about:
   headline: "Who we are"
   title: "Same. Local. Owners."
   subtitle: "We make it easy"
   description: "Prompt and courteous painters deliver on clear proposals."
   show: true # turn to false to hide
   image: "/images/bg/bgCanadaLake.webp"
-  cta:
+cta:
     url: "/book-us"
     label: "Let's get started"
 ---

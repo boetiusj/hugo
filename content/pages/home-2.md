@@ -23,13 +23,13 @@ We are painting contractors in Kansas City specializing in enhancing the charm o
 
 Take a look at the [Project Map](/map/ "Project Map") - zoom out to see the wide range of neighborhoods in which we've worked.
 
-## Search for Reviews of Kansas City Painters
+### Search for Reviews of Kansas City Painters
 
 See what our customers say about us on the [Reviews page](/reviews/ "Online Reviews – Painters in Kansas City"). Or, just search "painters kansas city" for reviews on over a half-dozen sites.
 
 We carry both liability and workman's compensation insurance for our employees. That's peace of mind for both our customers and our workers.
 
-## Neighborhoods We've Worked In
+### Neighborhoods We've Worked In
 
 While we have worked in homes and offices throughout the Kansas City area, we seem to do quite a bit of business in Prairie Village, Fairway, Leawood, Overland Park, Lenexa, Westwood, Mission Hills, Roeland Park, Lee's Summit, Hyde Park, Waldo, Parkville and Kansas City North.
 

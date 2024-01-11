@@ -36,7 +36,7 @@ intro:
     - title: Exteriors
       summary: "Homes new, old and mid-century. Commercial buildings too."
       icon: home
-      svcimg: /images/x-january.webp
+      svcimg: /images/x-blue.avif
       link: /exterior-painting-kansas-city/
     - title: Interiors
       summary: "Homes, condos, lofts - dust-free, noise-free."

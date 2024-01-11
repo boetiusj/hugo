@@ -10,8 +10,9 @@
 				<div class="cta-item  bg-white p-5 rounded">
 					<span class="h6 text-color">{{ $cta.headline }}</span>
 					<h2 class="mt-2 mb-4">{{ $cta.title }}</h2>
-					<p class="lead mb-4">{{ $cta.description }}</p>
-					<h3><i class="ti-mobile mr-3 text-color">{{ default site.Params.phone $cta.phone }}</i></h3>
+					<p class="lead mb-4">{{ $cta.description }}<br>
+					Give us a call.</p>
+					<h3><a href="{{ default site.Params.phone $cta.phone }}" class="mr-3 text-color"</a></h3>
 				</div>
 			</div>
 		</div>

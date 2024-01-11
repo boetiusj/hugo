@@ -2,7 +2,7 @@
 title: "Book an estimate time online or Call 816-805-4515!"
 url: "/home-2/"
 description: "Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company,\" Mission Hills, keywords: \"Prairie Village, Leawood, House Painter, Exterior House Painting, Wood Finishing, Interior Painting,"
-canonical: "https://crestwoodpainting.com"
+canonical: "https://crestwoodpainting.com/home-2/"
 date: "2011-05-04"
 index: false 
 ---

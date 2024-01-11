@@ -13,15 +13,15 @@ Crestwood Painting is Prompt & Tidy - so is our communication.
 {{< contact >}}  
 ___
 
-## Payments
+### Payments
 
 [Online Payments](/payments/) - easy and secure through PayPal (no PP account needed)
 
-## Warranty
+### Warranty
 
 [Warranty Info](/warranty/) - we stand behind our work
 ___
 Mailing address:\
 Crestwood Painting\
-236 W. 73rd Terr.\
+236 W 73rd Terr\
 Kansas City, MO 64114

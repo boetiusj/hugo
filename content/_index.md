@@ -20,12 +20,12 @@ intro:
   showValues: true # turn to false to hide
   values: # or benefits/qualities
     - title: Exteriors
-      summary: "Homes new, old and mid-century. Commercial buildings too."
+      summary: "Durable protection for homes new, old and mid-century. Commercial buildings too."
       icon: home
       svcimg: /images/x-blue.avif
       link: /exterior-painting-kansas-city/
     - title: Interiors
-      summary: "Homes, condos, lofts - dust-free, noise-free."
+      summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."
       icon: brush-alt
       svcimg: /images/dr-orange-crop.avif
       link: /interior-painter-kansas-city/
@@ -34,6 +34,11 @@ intro:
       svcimg: /images/office/blue-mfg.avif
       summary: "Quiet and careful, one room at a time - on your schedule."
       link: /office-painting-experts/
+    - title: Cabinets
+      icon: printer
+      svcimg: /images/c-glass-splash.avif
+      summary: "Modern, lasting finishes transform your most-used space."
+      link: /cabinet-painting/
 
 cta:
   title: "Earning Kansas City's trust for over 17 years."

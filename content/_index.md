@@ -40,7 +40,7 @@ cta:
   headline: "Prompt and Reliable"
   description: "Give us a call. We're ready for your project."
   phone: "816-805-4515"
-  show: false # turn to false to hide
+  show: true # turn to false to hide
   image:  "/images/bg/bgCanadaLake.webp"
 
 about:
@@ -50,7 +50,7 @@ about:
   description: "Prompt and courteous painters deliver on clear proposals."
   show: true # turn to false to hide
   image: "/images/bg/bgCanadaLake.webp"
-cta:
-    url: "/book-us"
-    label: "Let's get started"
+#cta:
+#    url: "/book-us"
+#    label: "Let's get started"
 ---

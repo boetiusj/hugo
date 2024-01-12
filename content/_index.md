@@ -52,5 +52,8 @@ about:
   description: "Prompt and courteous painters deliver on clear proposals."
   show: true # turn to false to hide
   image: "/images/bg/bgCanadaLake.webp"
+  cta:
+    url: "/book-us"
+    label: "Let's get started"
 
 ---

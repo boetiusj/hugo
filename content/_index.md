@@ -43,16 +43,14 @@ cta:
   headline: "Prompt and Reliable"
   description: "Give us a call. We're ready for your project."
   phone: "816-805-4515"
-  show: true # turn to false to hide
+  show: false # turn to false to hide
   image:  "/images/bg/bgCanadaLake.webp"
 about:
   headline: "Who we are"
   title: "Same. Local. Owners."
   subtitle: "We make it easy"
   description: "Prompt and courteous painters deliver on clear proposals."
-  show: false # turn to false to hide
+  show: true # turn to false to hide
   image: "/images/bg/bgCanadaLake.webp"
-#cta:
-#    url: "/book-us"
-#    label: "Let's get started"
+
 ---

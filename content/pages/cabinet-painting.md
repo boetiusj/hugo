@@ -10,41 +10,39 @@ index: true
 
 ![kitchen cabinet painting](/images/cabinets/c-glass-splash.avif)
 
-Painted kitchen cabinets update a dark 70's look.
+## The Heart of Your Home
 
-Golden Oak cabinets have got to go! Paint will transform a kitchen without the cost or hassle of installing new cabinets.
-
-- Dark to light or light to dark
-- Painting cabinets allows a complete color change
-- Painting only - we don't offer antiquing, glazing, etc.
+Kitchen cabinets see a lot of action. Styles change, wear and tear happens and a fresh coat is in order. Generally, a new look is preferrable to a new kitchen.
 
 > Crestwood Painting did a wonderful job on my kitchen cabinets. They gave an accurate and fair estimate, worked full days, and were extremely neat and courteous. They also worked during regular business hours so we could be out of the house.
 
-## The Cabinet Painting Process
+### The Cabinet Painting Process
 
-- We'll remove existing knobs & pulls (even hinges!)
-- Thoroughly clean to remove fingerprints & PB&J grunge
-- Prime and paint
-- Install new, clean and cool hardware
-- [Leave you in peace](/painting-kitchen-cabinets/) to enjoy your new refuge
+First, there's a careful esti­mate - mea­sure­ments and some questions. Then a frank discussion of what we can and cannot do so you have clear expectations.
 
-## The Cost to Paint Cabinets in Kansas City
+Step 2.
+You’ll get a clear, com­pre­hen­sive pro­pos­al. Don’t wor­ry: we’ll out­line every step and stage with­out any fuzzy details or hid­den surprises.
 
-- Depends, of course - finish type, number of steps, color
-- Generally, Kansas City kitchens are in the $3000 (smallish, no island) to $6000 (with island, med. size kitchen). Or more.
-- Usually three to five low-stress days
-- No tear-out, no mess, no plumbing
-- [Bathroom vanities](/does-unfinished-cabinetry-pay/) can be painted too
+Step 3.
+We’ll pre­p everything: cov­er floors, cov­er coun­ters, mask sur­faces, etc.
 
-## Paint For Kitchen Cabinets
+Step 4.
+Then, the labor-inten­sive process. Clean­ing, degreas­ing, sand­ing, repairs, prim­ing and finally the top­coat. Every detail matters.
 
-- Professional grade, water-based products are tough-as-nails and very low odor
-- Sprayed finish means no brush marks, more consistent coverage
-- Fast drying means less kitchen down time
-- Oak grain? We can fill to minimize the grain appearance
+Step 5.
+Once the paint­ing is com­plete, we'll care­ful­ly rein­stall the doors and draw­ers and then door pulls and knobs. We’ll also make any need­ed touch-ups before a final walk-through with you.
+![Painted cabinets](/images/cabinets/c-loftgray.jpg)
 
-## Unfinished Cabinets
+### The Cost to Paint Cabinets in Kansas City
 
-It's generally not much of a savings to purchase unfinished cabinets and then to [paint unfinished cabinets](/does-unfinished-cabinetry-pay/) on site - but send us a photo and we can discuss.
+Depends, of course as there are a LOT of variables. Generally, Kansas City kitchens are in the $3500 to $8000 range. Or more.
 
-[![Cabinet painting kansas city crestwood](/images/r17-2-jimmye.webp "width=778 height=237")](/reviews/)
+The advantages of painting? It's usually three to five days but there's no tear-out, no mess and no plumbing. Of course, [bathroom vanities](/does-unfinished-cabinetry-pay/) can be painted too.
+
+### Paint For Kitchen Cabinets
+
+Professional grade, water-based products are tough-as-nails and very low odor. Water-based products are more flexible than older oil-based painted and they don't yellow either. A sprayed finish means no brush marks and more consistent coverage.
+
+Oak grain cabinets typically show a more open grain. We can discuss option to minimize the grain appearance.
+
+[![Cabinet painting kansas city crestwood](/images/r17-2-jimmye.webp)](/reviews/)

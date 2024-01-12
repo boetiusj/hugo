@@ -8,7 +8,7 @@ date: "2011-09-21"
 index: true
 ---
 
-![kitchen cabinet painting](/images/finished-kitchen.webp "width=757 height=504")
+![kitchen cabinet painting](/images/cabinets/c-glass-splash.avif)
 
 Painted kitchen cabinets update a dark 70's look.
 

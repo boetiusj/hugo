@@ -11,6 +11,8 @@ Dec 1, '23
 - [render-image.html](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/) --> this file does not show image h and w. This would be fine if it would work.
 - [BIG-render-image.html](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) -->  image h and w but distorts image - lazy load conflict? (lazy load specified in this file and also in other css)
 - [Possible source](https://stereobooster.com/posts/hugo-ideal-image/)
+- [Joe Mooring again](https://discourse.gohugo.io/t/pass-attributes-to-image-render-hook/36899/2)
+- [Resize images shortcode](https://www.angela1c.com/posts/2021/04/resizing-images-using-shortcodes/)
 ### Other
 - blog page list, linked to main nav
 - blog categories: Color-Choices, How-To-Hire-Painter, Painting-Tips, Painting-Challenges, General, Home-Maintenance-Tips, Painting-Reviews, Green / Eco, 

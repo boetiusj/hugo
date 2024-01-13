@@ -39,7 +39,7 @@ Once the paint­ing is com­plete, we'll care­ful­ly rein­stall the doors and
 Depends, of course as there are a LOT of variables. Generally, Kansas City kitchens are in the $3500 to $8000 range.
 
 The advantages of painting? It's usually three to five days but there's no tear-out, no mess and no plumbing. Of course, [bathroom vanities](/does-unfinished-cabinetry-pay/) can be painted too.
-![kitchen cabinet painting](static/images/cabinets/c-peninsula.jpg)
+![kitchen cabinet painting](/images/cabinets/c-peninsula.jpg)
 
 ### Cabinet Paint
 

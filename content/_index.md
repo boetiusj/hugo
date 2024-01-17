@@ -29,18 +29,13 @@ intro:
       svcimg: /images/office/blue-mfg.avif
       summary: "Quiet and careful, one room at a time - on your schedule."
       link: /office-painting-experts/
-## Cabinet section breaks home page ##
-#    - title: Cabinets
-#      svcimg: /images/cabinets/c-glass-splash.avif
-#      summary: "Modern, lasting finishes transform your most-used space."
-#      link: /cabinet-painting/
-#cta:
-#  title: "Earning Kansas City's trust for over 17 years."
-#  headline: "Prompt and Reliable"
-#  description: "Give us a call. We're ready for your project."
-#  phone: "816-805-4515"
-#  show: true # turn to false to hide
-#  image:  "/images/bg/bgCanadaLake.webp"
+cta:
+  title: "Earning Kansas City's trust for over 17 years."
+  headline: "Prompt and Reliable"
+  description: "Give us a call. We're ready for your project."
+  phone: "816-805-4515"
+  show: true # turn to false to hide
+  image:  "/images/bg/bgCanadaLake.webp"
 about:
   headline: "Who we are"
   title: "Same. Local. Owners."
@@ -51,4 +46,9 @@ about:
   cta:
     url: "/book-us"
     label: "Let's get started"
+## Cabinet section breaks home page ##
+#    - title: Cabinets
+#      svcimg: /images/cabinets/c-glass-splash.avif
+#      summary: "Modern, lasting finishes transform your most-used space."
+#      link: /cabinet-painting/
 ---

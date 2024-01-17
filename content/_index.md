@@ -29,10 +29,11 @@ intro:
       svcimg: /images/office/blue-mfg.avif
       summary: "Quiet and careful, one room at a time - on your schedule."
       link: /office-painting-experts/
-    - title: Cabinets
-      svcimg: /images/cabinets/c-glass-splash.avif
-      summary: "Modern, lasting finishes transform your most-used space."
-      link: /cabinet-painting/
+## Cabinet section breaks home page      
+#    - title: Cabinets
+#      svcimg: /images/cabinets/c-glass-splash.avif
+#      summary: "Modern, lasting finishes transform your most-used space."
+#      link: /cabinet-painting/
 #cta:
 #  title: "Earning Kansas City's trust for over 17 years."
 #  headline: "Prompt and Reliable"

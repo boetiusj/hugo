@@ -16,17 +16,17 @@
 	padding: 20px 0px 0px 80px;
 	h4{
 		font-weight: 600;
-		// Icon before 
-		// &:before{
-		//	position: absolute;
-		//	content:"\f576";
-		//	font-family: "Font Awesome 5 Free";
-		//	font-size: 30px;
-		//	position: absolute;
-		//	top: 8px;
-		//	left: -65px;
-		//	font-weight: 700;
-		//}
+
+		&:before{
+			position: absolute;
+			content:"\f576";
+			font-family: "Font Awesome 5 Free";
+			font-size: 30px;
+			position: absolute;
+			top: 8px;
+			left: -65px;
+			font-weight: 700;
+		}
 	}
 
 }

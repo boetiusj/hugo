@@ -46,7 +46,7 @@ about:
   title: "Same. Local. Owners."
   subtitle: "We make it easy"
   description: "Prompt and courteous painters deliver on clear proposals."
-  show: false # turn to false to hide
+  show: true # turn to false to hide
   image: "/images/bg/bgCanadaLake.webp"
   cta:
     url: "/book-us"

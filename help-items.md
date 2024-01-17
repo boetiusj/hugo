@@ -14,12 +14,15 @@
      ```
      {- $image := default "/images/blog/bt-3.jpg" **.Params.image** }}
      ```
-6. Other Qs
+6.  Configure Home page Hero without Slider js. No slider needed, only one hero image.
+7.  [Fix Page Speed Performance errors](https://pagespeed.web.dev/analysis/https-www-crestwoodpainting-com-interior-painter-kansas-city/73ivwaj12v?form_factor=mobile)
+   - 3rd party code
+   - render blocking, LCP, unused css
+   - Unused javascript
+8. Other Qs
    - index.html:
      - Is this file necessary? ALL of it?
      - Why review text at Line 89?
      - Is there a better way to handle review text?
    - Why 2 Aliases? ![](https://github.com/boetiusj/hugo-dev/blob/main/static/images/Aliases.png)
-7. Lighthouse errors
-   - Maps
-   - move render blocking files
+

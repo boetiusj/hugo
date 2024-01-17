@@ -35,14 +35,14 @@ cta:
   description: "Give us a call. We're ready for your project."
   phone: "816-805-4515"
   show: true # turn to false to hide
-  image: "/images/bg/bgcanadalake.webp"
+  image: "/images/bg/cn-lake.webp"
 about:
   headline: "Who we are"
   title: "Same. Local. Owners."
   subtitle: "We make it easy"
   description: "Prompt and courteous painters deliver on clear proposals."
   show: true # turn to false to hide
-  image: "/images/bg/bgcanadamisttrees.webp"
+  image: "/images/bg/cn-mist-trees.webp"
   cta:
     url: "/book-us"
     label: "Let's get started"

@@ -29,7 +29,7 @@ intro:
       svcimg: /images/office/blue-mfg.avif
       summary: "Quiet and careful, one room at a time - on your schedule."
       link: /office-painting-experts/
-## Cabinet section breaks home page      
+## Cabinet section breaks home page ##
 #    - title: Cabinets
 #      svcimg: /images/cabinets/c-glass-splash.avif
 #      summary: "Modern, lasting finishes transform your most-used space."
@@ -41,14 +41,14 @@ intro:
 #  phone: "816-805-4515"
 #  show: true # turn to false to hide
 #  image:  "/images/bg/bgCanadaLake.webp"
-#about:
-#  headline: "Who we are"
-#  title: "Same. Local. Owners."
-#  subtitle: "We make it easy"
-#  description: "Prompt and courteous painters deliver on clear proposals."
-#  show: false # turn to false to hide
-#  image: "/images/bg/bgCanadaLake.webp"
-#  cta:
-#    url: "/book-us"
-#    label: "Let's get started"
+about:
+  headline: "Who we are"
+  title: "Same. Local. Owners."
+  subtitle: "We make it easy"
+  description: "Prompt and courteous painters deliver on clear proposals."
+  show: true # turn to false to hide
+  image: "/images/bg/bgCanadaLake.webp"
+  cta:
+    url: "/book-us"
+    label: "Let's get started"
 ---

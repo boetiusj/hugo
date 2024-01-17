@@ -11,47 +11,47 @@ hero:
   button:
     url: "/book-us/"
     label: Book an Estimate
-intro:
-  title: "Trusted. Since 2007"
-  headline: "Clean and Tidy Painters"
-  show: true # turn to false to hide
-  showValues: true # turn to false to hide
-  values: # or benefits/qualities
-    - title: Exteriors
-      summary: "Durable protection for homes new, old and mid-century. Commercial buildings too."
-      icon: home
-      svcimg: /images/x-blue.avif
-      link: /exterior-painting-kansas-city/
-    - title: Interiors
-      summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."
-      icon: brush-alt
-      svcimg: /images/dr-orange-crop.avif
-      link: /interior-painter-kansas-city/
-    - title: Offices
-      icon: printer
-      svcimg: /images/office/blue-mfg.avif
-      summary: "Quiet and careful, one room at a time - on your schedule."
-      link: /office-painting-experts/
+#intro:
+#  title: "Trusted. Since 2007"
+#  headline: "Clean and Tidy Painters"
+#  show: true # turn to false to hide
+#  showValues: true # turn to false to hide
+#  values: # or benefits/qualities
+#    - title: Exteriors
+#      summary: "Durable protection for homes new, old and mid-century. Commercial buildings too."
+#      icon: home
+#      svcimg: /images/x-blue.avif
+#      link: /exterior-painting-kansas-city/
+#    - title: Interiors
+#      summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."
+#      icon: brush-alt
+#      svcimg: /images/dr-orange-crop.avif
+#      link: /interior-painter-kansas-city/
+#    - title: Offices
+#      icon: printer
+#      svcimg: /images/office/blue-mfg.avif
+#      summary: "Quiet and careful, one room at a time - on your schedule."
+#      link: /office-painting-experts/
 #    - title: Cabinets
 #      icon: printer
 #      svcimg: /images/cabinets/c-glass-splash.avif
 #      summary: "Modern, lasting finishes transform your most-used space."
 #      link: /cabinet-painting/
-cta:
-  title: "Earning Kansas City's trust for over 17 years."
-  headline: "Prompt and Reliable"
-  description: "Give us a call. We're ready for your project."
-  phone: "816-805-4515"
-  show: false # turn to false to hide
-  image:  "/images/bg/bgCanadaLake.webp"
-about:
-  headline: "Who we are"
-  title: "Same. Local. Owners."
-  subtitle: "We make it easy"
-  description: "Prompt and courteous painters deliver on clear proposals."
-  show: false # turn to false to hide
-  image: "/images/bg/bgCanadaLake.webp"
-  cta:
-    url: "/book-us"
-    label: "Let's get started"
+#cta:
+#  title: "Earning Kansas City's trust for over 17 years."
+#  headline: "Prompt and Reliable"
+#  description: "Give us a call. We're ready for your project."
+#  phone: "816-805-4515"
+#  show: false # turn to false to hide
+#  image:  "/images/bg/bgCanadaLake.webp"
+#about:
+#  headline: "Who we are"
+#  title: "Same. Local. Owners."
+#  subtitle: "We make it easy"
+#  description: "Prompt and courteous painters deliver on clear proposals."
+#  show: false # turn to false to hide
+#  image: "/images/bg/bgCanadaLake.webp"
+#  cta:
+#    url: "/book-us"
+#    label: "Let's get started"
 ---

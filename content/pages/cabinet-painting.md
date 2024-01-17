@@ -14,7 +14,7 @@ index: true
 
 Kitchen cabinets see a lot of action. Styles change, wear and tear happens and before too long a fresh coat is in order. Generally, a new look is preferrable to a new kitchen.
 
-> Crestwood Painting did a wonderful job on my kitchen cabinets. They gave an accurate and fair estimate, worked full days, and were extremely neat and courteous. They also worked during regular business hours so we could be out of the house.
+> A wonderful job on my kitchen cabinets! They gave an accurate and fair estimate, worked full days and were extremely neat and courteous.
 
 ### The Cabinet Painting Process
 
@@ -43,8 +43,8 @@ The advantages of painting? It's usually three to five days but there's no tear-
 
 ### Cabinet Paint
 
-Professional grade, water-based products are tough-as-nails and very low odor. This is not your father's "latex paint"; these products are highly technical chemical miracles - basically an oil molecule wrapped in a water bubble. The water dries off and you're left with one seriously durable coating. More flexible than older oil-based painted, low odor, water washable and no yellowing either. So you A sprayed finish means no brush marks and more consistent coverage.
+Professional grade, water-based products are tough-as-nails and very low odor. This is not your father's "latex paint"; these products are highly technical chemical miracles - basically an oil molecule wrapped in a water bubble. The water dries off and you're left with one seriously durable coating. More flexible than older oil-based painted, low odor, water washable and no yellowing either. A sprayed finish means no brush marks for an even and smooth film of paint that will protect for years.
 
-If you have classic "golden oak" cabinets we'll want to discuss how the final painted look and texture fits with your expectations. Oak cabinets have a more open and noticeable natural wood grain; cherry and maple do not.
+If you have classic "golden oak" cabinets we'll want to discuss how the final painted look and texture fits with your expectations. Oak cabinets have a more open and noticeable natural wood grain; cherry and maple do not. Paint can minimize that texture; extra steps are required to make it disappear.
 
 [![cabinet painting review](/images/r17-2-jimmye.webp)](/reviews/)

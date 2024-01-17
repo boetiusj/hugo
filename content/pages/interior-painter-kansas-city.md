@@ -17,8 +17,6 @@ Clear proposals mean clear expectations.
 - The [right colors](/chameleon-colors/) help create the mood you're after
 - [Kitchen cabinets](/cabinet-painting/) can also be freshened up
 
-> The cost for painting in Kansas City? $840 per day per painter.
-
 ### The Interior Paint Process
 
 - Set up a tidy, out-of-the-way work area

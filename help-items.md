@@ -8,9 +8,9 @@
    - Acceptable: [automatic-size-attributes](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/)
    - [I tried this render-image.html](_default/_markup/render-image.html) to no avail.
    - Assume it's necessary / good practice to move images from static to assets/images/ - yes?
-3.  Shortcode gallery for two images on one row, shrink to fit (example on /who/ - 2 logo images currently stack on mobile)
-4. 404 page should show frontmatter image: "-" for each link
-   - 404.html shows the default image but won't show frontmatter image: "-" from different pages.
+3.  Shortcode gallery for two images on one row, shrink to fit. Example on /who/ - the 2 logo images currently stack on mobile and should display side by side.
+4. 404 page should show frontmatter image: "-" for each link (not all pages currently have an image).
+   - 404.html shows only the default image not frontmatter image: "-".
      ```
      {- $image := default "/images/blog/bt-3.jpg" **.Params.image** }}
      ```

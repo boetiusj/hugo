@@ -34,7 +34,7 @@ Generally, the price for professional painting in Kansas City starts at $840 per
 - Deep colors (canary yellow, electric blue) require more prep work
 
 Sometimes it can be tough to evaluate different proposals: this one includes paint, that one charges extra for materials. Here's a [little help when comparing proposals.](/compare-paint-bids/) Info hound? Take a look at our [Frequently Asked Questions](/faqs/).
-![white mantel](images/interior/mantel-white-close.avif)
+![white mantel](/images/interior/mantel-white-close.avif)
 
 ### Interior Paint Quality
 

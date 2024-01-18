@@ -20,6 +20,7 @@ First, we'll send a list of things you can do to help make the whole process eas
 Then, we protect: cover floors, cover furniture, even put up temporary partition walls if needed. We use drop cloths, heavy paper for floors and plenty of painter's tape.
 
 Prep and paint - clean, seal, sand and prime per the written and agreed-upon Scope of Work. Then the topcoat - spray, brush or roll. Professional techniques ensure clean lines and lasting results.
+
 ![living room mantel](/images/interior/i-lrfp.avif)
 
 ### The Cost of Interior Painting
@@ -33,7 +34,8 @@ Generally, the price for professional painting in Kansas City starts at $840 per
 - Furniture, etc. to move?
 - Deep colors (canary yellow, electric blue) require more prep work
 
-Sometimes it can be tough to evaluate different proposals: this one includes paint, that one charges extra for materials. Here's a [little help when comparing proposals.](/compare-paint-bids/) Info hound? Take a look at our [Frequently Asked Questions](/faqs/).
+Sometimes it can be tough to evaluate different proposals: this one includes paint, that one charges extra for materials. Here's a little help if you're [comparing proposals.](/compare-paint-bids/) Info hound? Take a look at our [Frequently Asked Questions](/faqs/).
+
 ![white mantel](/images/interior/mantel-white-close.avif)
 
 ### Interior Paint Quality

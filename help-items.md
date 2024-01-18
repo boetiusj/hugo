@@ -1,6 +1,6 @@
 ## Images and Lighthouse
 
-1. _index.md is acting up. The current version worked (all sections, all links, all images) earlier yesterday but then it didn't, very frustrating. I have been through _index.md line by line and each of the layouts/partials/home templates. What am I missing?
+1. Looks like this may have been a cache problem, now appears to be displaying properly. ~~_index.md is acting up. The current version worked (all sections, all links, all images) earlier yesterday but then it didn't, very frustrating. I have been through _index.md line by line and each of the layouts/partials/home templates. What am I missing?~~
 2. Images - I'd like to take advantage of Hugo's image processing through _render-image.html. Images should be served according to device (setsrc?), height and width shown in html. Below are resources I've looked into but I don't have the skill or knowledge to pull it off.
    - [This addresses image path](https://www.veriphor.com/articles/link-and-image-render-hooks/) - very comprehensive, but is this necessary if we move images to assets/images/?
    - Good option: ["Perfect image rendering in Hugo"](https://ryanfleck.ca/2023/perfected-image-rendering-in-hugo/)

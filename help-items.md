@@ -17,9 +17,9 @@
    - Will 2. above fix this?  
 5.  Configure Home page Hero without Slider js. No slider needed, only one hero image.
 6.  [Page Speed Performance - goal is >90](https://pagespeed.web.dev/analysis/https-www-crestwoodpainting-com-interior-painter-kansas-city/73ivwaj12v?form_factor=mobile)
-   - 3rd party code
-   - render blocking, LCP, unused css
-   - Unused javascript
+     - 3rd party code
+     - render blocking, LCP, unused css
+     - Unused javascript
 7. Other Qs
    - index.html:
      - Is this file necessary? ALL of it?

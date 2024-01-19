@@ -14,7 +14,7 @@ This busy manufacturer continued to hum while painters quietly did their thing.
 
 Clean and quiet, efficient and pleasant - our painters make it easy for your office routine to continue uninterrupted - No Drips, No Drama. That's the kind of [painter your office can work with](/office-painting-case-study/).
 
-We'll work around your schedule to minimize disruptions. Use zero VOC paint so nobody breathes nasty stuff. We'll keep our gear in a tidy, out-of-the-way corner - and make sure it stays that way. What your office doesn't need is scruffy station-wagon dudes rockin' out while you're working.
+We'll work around your schedule to minimize disruptions. Low VOC paint means nobody breathes nasty stuff. Our gear is tidy and stays out-of-the-way.
 
 > A well-planned project means minimal office disruption.
 
@@ -25,6 +25,8 @@ We'll work around your schedule to minimize disruptions. Use zero VOC paint so n
 - Excess noise
 - Sensitive electronics - monitors, cables, etc.
 - Security
+
+![office painting](/images/office/office102.jpg)
 
 ### Office Painting Sequence
 
@@ -41,7 +43,7 @@ Whether you need to paint an executive area, a cafeteria, an auditorium or just
 - Servers, monitors, cabling - We'll cover everything with the appropriate material (light plastic over that graphics monitor, not a cruddy drop cloth) and be sure to steer clear of anything that's plugged in.
 - Security concerns: You want assurance that your service contractor take advantage of anything. Good hiring practices will help, so will [consistent raving reviews](/reviews/). We'll also go over access procedures, work hours, safety protocols, service elevators, janitor's closet, etc.
 
-## Details Matter With Commercial Painting
+### Details Matter With Commercial Painting
 
 - On time - we arrive fully equipped at 7am (or 8, or 9 - you call the shots) and stay on site all day, every day until the project is complete
 - Low profile - we'll set up a shop area in an agreed-upon location and then get right to work. Our clear Scope of Work means we're self sufficient and will need almost no interaction  with your office staff.
@@ -53,7 +55,7 @@ Whether you need to paint an executive area, a cafeteria, an auditorium or just
 
 ### Cost of Office Painting
 
-"How much does office painting cost?" - This may be the most common question we get. Most companies dodge this because there are so many variables. These are just a few of the considerations that can affect the price of office painting in Kansas City
+There are a LOT of variables. Here are a few that affect the price of office painting.
 
 - Furnished - or unfurnished?
 - Paint under desk systems?
@@ -69,13 +71,13 @@ The short answer is that office painting in Kansas City is generally about $840 
 
 With larger projects the balance between labor and materials changes so a contractor is able to be more efficient, and therefore, more cost-effective.
 
-We have a one day ($840) minimum - this allows us to arrive, set up and be most efficient with our time and your budget. That means that you'll get top value when painting your conference room or front entry.
+We have a one day minimum - this allows us to arrive, set up and be most efficient with our time and your budget. That means that you'll get top value when painting your conference room or front entry.
 
 ### What Kind of Painters?
 
-Crestwood Painting screens our painters so that you'll only have the kind of painters your office staff can feel safe with. We do hire nice people that enjoy their co-workers and take pride in doing a great job. We don't hire thieves, we don't hire felons - criminal background screens make sure of that. All employees communicate clearly in English and wear professional painters' white pants and Crestwood Painting uniform shirts.
+Pleasant and responsive - the kind your office staff can feel safe with. Painters communicate clearly in English and wear professional painters' white pants and Crestwood Painting uniform shirts.
 
-Safety matters so we make sure to train our people on how to safely work in office environments. We'll use the right ladder for hallways, the right ladder for stairs. We'll use caution tape to flag an area so your nice office people don't wind up in our wet paint. Drop cloths when they're needed, doors closed where possible. We're even equipped to set up temporary barrier walls if that's a better option.
+Safety matters so we make sure to train our people on how to safely work in office environments. We'll use the right ladder for hallways, the right ladder for stairs. And caution tape to flag an area so your nice office people don't wind up in our wet paint. Drop cloths when they're needed, doors closed where possible. We're even equipped to set up temporary barrier walls if that's a better option.
 
 ### What if Something Goes Wrong
 
@@ -83,11 +85,9 @@ Things happen. When you've been in the painting business for more than 15 years 
 
 Some goofs are easy - wrong color, for example, is really no big deal. Or the alarm goes off - we'll contact the right people and take care of it. Other glitches (like paint drips or \[gulp\] spills) are more of a challenge. But we'll address it head-on and remedy the situation in a timely manner.
 
-Because clear communication is so critical we make sure that the same language in your original Proposal is copied directly to our internal Scope of Work. That way, everybody is dealing with exactly the same information and we all have the same expectations.
+Because clear communication is so critical we make sure that the same language in your original Proposal Scope of Work is copied directly to our internal Scope. That way, everybody is dealing with exactly the same information and we all have the same expectations.
 
 ### What About Critical Electronics
-
-Most businesses depend on their electronic infrastructure and simply can't afford to have routine painting interfere. We'll never move or unplug computers or servers and we encourage office staff to move monitors and other non-critical equipment.
 
 Plugged-in electronics remain plugged in - we'll leave the electrical cover plate in place and cut paint around it. That means there's no electrical interruption and your data is safe. Network boxes are completely covered and not painted at all; monitor brackets are usually cut around but can be removed for painting and reinstalled after.
 

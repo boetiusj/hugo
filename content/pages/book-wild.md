@@ -1,5 +1,5 @@
 ---
-title: "Estimate Scheduler"
+title: "Wildcard Scheduler"
 url: "wild"
 description: "Online painting estimate scheduler: fast and easy"
 keywords: "estimate schedule"

@@ -1,5 +1,5 @@
 {{- $formURL := default "https://crestwoodpainting.youcanbook.me/" (.Get 0) }}
-{{- $includeWildcardField := true }}
+{{- $includeWildcardField := false }}
 {{- $regretsURL := "/regrets/" }}
 {{- if in $formURL "calls" }}
   {{- $regretsURL = "/call-center-regrets/" }}

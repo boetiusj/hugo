@@ -1,5 +1,5 @@
 {{- $formURL := default "https://crestwoodpainting.youcanbook.me/" (.Get 0) }}
-{{- $includeWildcardField := false }}
+{{- $includeWildcardField := true }}
 {{- $regretsURL := "/regrets/" }}
 {{- if in $formURL "calls" }}
   {{- $regretsURL = "/call-center-regrets/" }}
@@ -23,7 +23,7 @@
       <label for="jobcomm">Commercial / Office</label>
       {{ if $includeWildcardField }}
       <input type="radio" id="jobcomm" name="jobtype" value="wildcard">
-		  <label for="other">Wildcard</label>
+		  <br><label for="other">Wildcard</label>
       {{ end }}
       <br>
       <input type="submit" name="submit" class="btn btn-main" value="CHECK SERVICE AREA">

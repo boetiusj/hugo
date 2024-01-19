@@ -1,9 +1,9 @@
 ---
 title: "Wildcard Scheduler"
-url: "wild"
+url: "wildcard"
 description: "Online painting estimate scheduler: fast and easy"
 keywords: "estimate schedule"
-canonical: "https://crestwoodpainting.com/wild/"
+canonical: "https://crestwoodpainting.com/wildcard/"
 date: "2024-01-19"
 index: false
 ---

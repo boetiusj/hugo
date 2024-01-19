@@ -4,7 +4,7 @@
 {{- if in $formURL "calls" }}
   {{- $regretsURL = "/call-center-regrets/" }}
 {{- end }}
-{{- if in $formURL "virtual" }}
+{{- if in $formURL "wild" }}
   {{- $includeWildcardField = true }}
 {{- end }}
 <div class="booking" data-regrets="{{- $regretsURL }}">

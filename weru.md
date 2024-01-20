@@ -29,12 +29,11 @@
      - Is there a better way to handle review text?
    - Why 2 Aliases? What are Aliases, where are they and what do they do? ![pic](https://github.com/boetiusj/hugo-dev/blob/main/static/images/Aliases.png).
 8. Remove themify and font-awesome etc. files, use svg for hamburger and social icons, color dark gray. SVG files are in images/svg.
-
 9. On /wild/ page, book-form.html defaults to Regrets page, should go to wildcard booking page just like call-center booking page goes to call-center.
 10. Booking form returns City State Zip to youcanbook.me on 3 separate rows. Can you make all one row: City, Sate Zip?
 So - City [comma space] State [space] Zip [new line]
 Looks like this is happening at line 21 of index.js
-![Screenshot](/images/Screenshot YCB passthrough.png)
-11. I'm on a chromebook running Linux, total Linux noob - can I move the current Hugo folder (hugo-dev) /Linux files/hugo/hugo-dev up under Linux Files? Can I rename the new folder as I wish without upsetting anything?
+![Screenshot](/images/screenshot-YCB-passthrough.png)
+11. I'm on a chromebook running Linux, total Linux noob - can I move the current Hugo folder (hugo-dev) /Linux files/hugo/hugo-dev up under Linux Files? Can I rename the new folder as I wish without upsetting anything? ![linux](/images/screenshot-linux-folders.png)
 12. Links in the body need more an underline - too hard to see as they are now. How about dotted, same theme red primary color. BUT, not for links in the header, footer, etc.
 13. Main menu fixed, no scrolling away.

@@ -32,5 +32,5 @@ So - City [comma space] State [space] Zip [new line]
 Looks like this is happening at line 21 of index.js
 ![YCB Screenshot](https://github.com/boetiusj/hugo-dev/blob/main/static/images/screenshot-YCB-passthrough.png)
 11. I'm on a chromebook running Linux, total Linux noob - can I move the current Hugo folder (hugo-dev) /Linux files/hugo/hugo-dev up under Linux Files? Can I rename the new folder as I wish without upsetting anything? ![linux](https://github.com/boetiusj/hugo-dev/blob/main/static/images/screenshot-linux-folders.png)
-12. Links in the body need more an underline - too hard to see as they are now. How about dotted, same theme red primary color. BUT, not for links in the header, footer, etc.
+12. Links in the body need an underline - too hard to see as they are now. How about same theme red primary color. BUT, *not* for links in the header, footer, etc.
 13. Main menu fixed, no scrolling away.

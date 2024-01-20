@@ -1,5 +1,5 @@
 ---
-title: "The BBB - {{ <line_break> }}Maybe Not AAA"
+title: "The BBB - Maybe Not AAA"
 url: "bbb-maybe-not-aaa"
 description: "- "
 keywords: "- "

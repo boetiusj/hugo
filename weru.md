@@ -30,7 +30,7 @@
 10. Booking form returns City State Zip to youcanbook.me on 3 separate rows. Can you make all one row: City, Sate Zip?
 So - City [comma space] State [space] Zip [new line]
 Looks like this is happening at line 21 of index.js
-![Screenshot](/images/screenshot-YCB-passthrough.png)
-11. I'm on a chromebook running Linux, total Linux noob - can I move the current Hugo folder (hugo-dev) /Linux files/hugo/hugo-dev up under Linux Files? Can I rename the new folder as I wish without upsetting anything? ![linux](/images/screenshot-linux-folders.png)
-12. Links in the body need more an underline - too hard to see as they are now. How about dotted, same theme red primary color. BUT, not for links in the header, footer, etc.
-13. Main menu fixed, no scrolling away.
+![YCB Screenshot](https://github.com/boetiusj/hugo-dev/blob/main/images/screenshot-YCB-passthrough.png))
+12. I'm on a chromebook running Linux, total Linux noob - can I move the current Hugo folder (hugo-dev) /Linux files/hugo/hugo-dev up under Linux Files? Can I rename the new folder as I wish without upsetting anything? ![linux](https://github.com/boetiusj/hugo-dev/blob/main//images/screenshot-linux-folders.png)
+13. Links in the body need more an underline - too hard to see as they are now. How about dotted, same theme red primary color. BUT, not for links in the header, footer, etc.
+14. Main menu fixed, no scrolling away.

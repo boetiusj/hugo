@@ -29,16 +29,14 @@ Informed means that painters clearly understand the Scope of Work. Supervised me
 
 ### New homes or old?
 
-Painters that don’t equip their workers with proper breathing protection are doing wrong by the worker, the homeowner and the environment.The construction slowdown has seen new home painters scrambling for work in older areas.
+Homes more than 30 years old have many layers of (lead) paint, aluminum storm windows to remove and replace, window putty, deeper soffits and very often more architectural detail. These homes require a slower, more methodical pace and different work processes. A paint crew that is used to the new construction “blow & go” pace will likely not be familiar with the attention and careful prep work that an older home requires.
 
 > "May I have a copy of your insurance certificate for my files?" Yes - trust.
 > But always verify.
 
-Homes more than 30 years old have many layers of (lead) paint, aluminum storm windows to remove and replace, window putty, deeper soffits and very often more architectural detail. These homes require a slower, more methodical pace and different work processes. A paint crew that is used to the new construction “blow & go” pace will likely not be familiar with the attention and careful prep work that an older home requires.
-
 ### Which brand of paint do you recommend?
 
-![ppg crestwood painting kansas city](/images/Logo-sq-PPG100.webp "width=130 height=100") ![sw crestwood painting kansas city](/images/logosq-SW100.webp "width=100 height=100") ![benjamin moore crestwood painting kansas city](/images/logosqBM100.webp "width=106 height=100")
+![ppg crestwood painting kansas city](/images/Logo-sq-PPG100.webp) ![sw crestwood painting kansas city](/images/logosq-SW100.webp) ![benjamin moore crestwood painting kansas city](/images/logosqBM100.webp)
 
 Painters establish a relationship with a particular store for a variety of reasons – knowledgeable help, quality products or attractive pricing. If a painter is reluctant to use another product, it’s fair to ask why. Strong belief in a product based on experience is fine, but when a financial incentive trumps all else, the advice you get may not be in your best interest.
 
@@ -78,7 +76,7 @@ Paint manufacturers, specialty distributors and inventors come out with new prod
 
 This question will tell you if the painter is informed about the lead issue or if he will downplay it to get the job. Lead paint is a reality that is best viewed from an informed perspective - and both the painter and the homeowner should be informed. The EPA and the City of Kansas City have good information on their websites about dealing with lead paint.
 
-It’s best to assume that any paint applied to your house before 1978 contains lead. Any sanding should be collected in a HEPA (High Efficiency Particulate Air) filtered vacuum. Sanding without HEPA filtration and appropriate breathing protection is a violation of EPA guidelines and OSHA regulations. Painters that don’t equip their workers properly are doing wrong by the worker, the homeowner and the environment.
+It’s best to assume that any paint applied to your house before 1978 contains lead. Any sanding should be collected in a HEPA (High Efficiency Particulate Air) filtered vacuum. Sanding without HEPA filtration and appropriate breathing protection is a violation of EPA guidelines and OSHA regulations.
 
 \* 4.89. PROPERLY PAINTED SURFACE:
 A surface uniform in appearance, color, texture, hiding and sheen. It is also free of foreign material, lumps, skins, runs, sags, holidays, misses, or insufficient coverage. It is also a surface free of drips, spatters, spills or overspray caused by the Painting Contractor’s Association workforce. \[PCA, P1-04\]

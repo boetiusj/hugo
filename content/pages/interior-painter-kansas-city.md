@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/interior-painter-kansas-city/"
 date: "2011-09-18"
 index: true 
 ---
-![interior paint dining room kansas city](/images/dr-orange.webp "Dining Room paint")
+![interior paint dining room kansas city](/images/dr-orange.webp)
 
 ## Interior Painting
 

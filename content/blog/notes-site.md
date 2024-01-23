@@ -18,8 +18,3 @@ src="/images/placehold160x90.svg" title="Test title" caption="Caption, no width"
 
 {{< figure src="/images/placehold160x90.svg" caption="No Title, Caption only, width 2em" alt="alt text doesn't appear" width="2em">}}
 
-{{< text true >}}
-Test - text true shortcode
-{{< /text >}}
----
-{{< text no close tag >}}

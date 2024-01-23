@@ -30,6 +30,7 @@ Dec 1, '23
   - [System fonts](https://www.youtube.com/watch?v=K_QRFhpsTsc&list=PLnur5_dvCveGQtaSkjP0i-Fege25r5dHs) replace Google fonts
   - [hCaptcha](https://www.hcaptcha.com/) added to form submission
   - [Google Analytics](umami.is) --> umami
+    - [Use lite GA code](https://www.jotform.com/blog/leverage-browser-caching-98814/)
   - [Maptiler](maptiler.com) instead of GMaps?
 
 ## nuts & bolts

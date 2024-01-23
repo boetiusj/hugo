@@ -8,7 +8,6 @@ categories:
   - "general"
 ---
 
-Figure shortcode
 {{< figure
 src="/images/placehold160x90.svg" title="Test title" caption="Caption, no width" alt="alt text doesn't appear" >}}
 

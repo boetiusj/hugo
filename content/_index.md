@@ -4,13 +4,13 @@ description: "Prompt and tidy pros with organized jobsites and timely finishes. 
 keywords: "Crestwood Painting, Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company, Mission Hills, Lee's Summit, Prairie Village, Leawood, House Painter, Exterior House Painting, Plaster repair, Interior Painting"
 canonical: "https://crestwoodpainting.com"
 date: "2011-05-04"
-hero:
-  headline: No Drips, No Drama
-  title: Painting Kansas City Homes & Offices
-  image: "/images/bg/January.webp"
-  button:
-    url: "/book-us/"
-    label: Book an Estimate
+#hero:
+#  headline: No Drips, No Drama
+#  title: Painting Kansas City Homes & Offices
+#  image: "/images/bg/January.webp"
+#  button:
+#    url: "/book-us/"
+#    label: Book an Estimate
 #intro:
 #  title: "Trusted. Since 2007"
 #  headline: "Clean and Tidy Painters"

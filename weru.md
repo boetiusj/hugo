@@ -1,13 +1,7 @@
 # Images and Lighthouse
 
-1. _index.md is acting up. The current version worked (all sections, all links, all images) earlier yesterday but then it didn't, very frustrating. I have been through \_index.md line by line and each of the layouts/partials/home templates. What am I missing?
-2. Images - I'd like to take advantage of Hugo's image processing through _render-image.html. Images should be served according to device (setsrc?), height and width shown in html. Below are resources I've looked into but I don't have the skill or knowledge to pull it off.
-   - [This addresses image path](https://www.veriphor.com/articles/link-and-image-render-hooks/) - very comprehensive, but is this necessary if we move images to assets/images/?
-   - Good option: ["Perfect image rendering in Hugo"](https://ryanfleck.ca/2023/perfected-image-rendering-in-hugo/)
-   - [Another option](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/)
-   - Acceptable: [automatic-size-attributes](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/)
-   - [I tried this render-image.html](_default/_markup/render-image.html) to no avail.
-   - Assume it's necessary / good practice to move images from static to assets/images/ - yes?
+1. \_index.md does not work.
+2. 
 3. Shortcode gallery for two images on one row, shrink to fit. Example on /who/ - the 2 logo images currently stack on mobile and should display side by side.
 4. 404 page should show frontmatter image: "-" for each link (not all pages currently have an image).
    - 404.html shows only the default image not frontmatter image: "-".

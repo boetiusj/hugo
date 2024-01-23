@@ -8,6 +8,15 @@ Dec 1, '23
 
 ## Performance
 ### Images
+---
+Images - I'd like to take advantage of Hugo's image processing through _render-image.html. Images should be served according to device (setsrc?), height and width shown in html. Below are resources I've looked into but I don't have the skill or knowledge to pull it off.
+   - [This addresses image path](https://www.veriphor.com/articles/link-and-image-render-hooks/) - very comprehensive, but is this necessary if we move images to assets/images/?
+   - Good option: ["Perfect image rendering in Hugo"](https://ryanfleck.ca/2023/perfected-image-rendering-in-hugo/)
+   - [Another option](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/)
+   - Acceptable: [automatic-size-attributes](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/)
+   - [I tried this render-image.html](_default/_markup/render-image.html) to no avail.
+   - Assume it's necessary / good practice to move images from static to assets/images/ - yes?
+   ---
 - [render-image.html](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/) --> this file does not show image h and w. This would be fine if it would work.
 - [BIG-render-image.html](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) -->  image h and w but distorts image - lazy load conflict? (lazy load specified in this file and also in other css)
 - [Possible source](https://stereobooster.com/posts/hugo-ideal-image/)

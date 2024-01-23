@@ -17,6 +17,18 @@ Images - I'd like to take advantage of Hugo's image processing through _render-i
    - [I tried this render-image.html](_default/_markup/render-image.html) to no avail.
    - Assume it's necessary / good practice to move images from static to assets/images/ - yes?
    ---
+7. Other Qs
+   - index.html:
+     - Is this file necessary? ALL of it?
+     - Why review text at Line 89?
+     - Is there a better way to handle review text?
+   - Why 2 Aliases? What are Aliases, where are they and what do they do? ![pic](https://github.com/boetiusj/hugo-dev/blob/main/static/images/Aliases.png).
+9. On /wild/ page, book-form.html defaults to Regrets page, should go to wildcard booking page just like call-center booking page goes to call-center.
+10. Booking form returns City State Zip to youcanbook.me on 3 separate rows. Can you make all one row: City, Sate Zip?
+So - City [comma space] State [space] Zip [new line]
+Looks like this is happening at line 21 of index.js, use zip "64113" for testing.
+![YCB Screenshot](https://github.com/boetiusj/hugo-dev/blob/main/static/images/screenshot-YCB-passthrough.png)
+---   
 - [render-image.html](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/) --> this file does not show image h and w. This would be fine if it would work.
 - [BIG-render-image.html](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/) -->  image h and w but distorts image - lazy load conflict? (lazy load specified in this file and also in other css)
 - [Possible source](https://stereobooster.com/posts/hugo-ideal-image/)

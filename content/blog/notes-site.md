@@ -14,7 +14,3 @@ src="/images/placehold160x90.svg" title="Test title" caption="Caption, no width"
 
 {{< figure src="/images/placehold160x90.svg" caption="No Title, Caption only, width 200" alt="alt text doesn't appear" width="200">}} {{< figure src="/images/placehold160x90.svg" caption="No Title, Caption only, width 100" alt="alt text doesn't appear" width="100">}}
 
-
-
-{{< figure src="/images/placehold160x90.svg" caption="No Title, Caption only, width 2em" alt="alt text doesn't appear" width="2em">}}
-

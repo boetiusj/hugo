@@ -1,14 +1,7 @@
 # Images and Lighthouse
 
 1. Configure Home page Hero without Slider js. No slider needed, only one hero image.
-2. Remove themify and font-awesome etc. files, use svg for hamburger and social icons, color dark gray. SVG files are in images/svg.
-3. Remove plugins and related css etc. files
-  - ~~~ animate-css ~~~
-  - ~~~ counterup ~~~
-  - fontawesome
-  - ~~~ magnific-popup ~~~
-  - ~~~ slick ~~~
-  - themify
+2. Remove font-awesome files, use svg for hamburger and social icons, color dark gray. SVG files are in images/svg.
 4. Main menu fixed, no scrolling away.
 5. Links in the body need an underline, how about red primary color. BUT, *not* for links in the header, footer, etc.
 6. New shortcode gallery for two images on one row, shrink to fit. Example on /who/ - the 2 logo images currently stack on mobile and should display side by side.

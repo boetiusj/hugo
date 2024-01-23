@@ -17,7 +17,14 @@ Images - I'd like to take advantage of Hugo's image processing through _render-i
    - [I tried this render-image.html](_default/_markup/render-image.html) to no avail.
    - Assume it's necessary / good practice to move images from static to assets/images/ - yes?
    ---
-7. Other Qs
+3. Remove plugins and related css etc. files
+  - ~~animate-css ~~
+  - ~~counterup ~~
+  - fontawesome
+  - ~~magnific-popup ~~
+  - ~~slick ~~
+  - ~~themify~~
+  7. Other Qs
    - index.html:
      - Is this file necessary? ALL of it?
      - Why review text at Line 89?

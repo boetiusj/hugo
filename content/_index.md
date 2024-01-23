@@ -4,31 +4,31 @@ description: "Prompt and tidy pros with organized jobsites and timely finishes. 
 keywords: "Crestwood Painting, Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company, Mission Hills, Lee's Summit, Prairie Village, Leawood, House Painter, Exterior House Painting, Plaster repair, Interior Painting"
 canonical: "https://crestwoodpainting.com"
 date: "2011-05-04"
-#hero:
-#  headline: No Drips, No Drama
-#  title: Painting Kansas City Homes & Offices
+hero:
+  headline: No Drips, No Drama
+  title: Painting Kansas City Homes & Offices
 #  image: "/images/bg/January.webp"
 #  button:
 #    url: "/book-us/"
 #    label: Book an Estimate
-#intro:
-#  title: "Trusted. Since 2007"
-#  headline: "Clean and Tidy Painters"
-#  show: true # turn to false to hide
-#  showValues: true # turn to false to hide
-#  values: # or benefits/qualities
-#    - title: Exteriors
-#      summary: "Durable protection for homes new, old and mid-century. Commercial buildings too."
-#      svcimg: /images/x-blue.avif
-#      link: /exterior-painting-kansas-city/
-#    - title: Interiors
-#      summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."
-#      svcimg: /images/dr-orange-crop.avif
-#      link: /interior-painter-kansas-city/
-#    - title: Offices
-#      svcimg: /images/office/blue-mfg.avif
-#      summary: "Quiet and careful, one room at a time - on your schedule."
-#      link: /office-painting-experts/
+intro:
+  title: "Trusted. Since 2007"
+  headline: "Clean and Tidy Painters"
+  show: true # turn to false to hide
+  showValues: true # turn to false to hide
+  values: # or benefits/qualities
+    - title: Exteriors
+      summary: "Durable protection for homes new, old and mid-century. Commercial buildings too."
+      svcimg: /images/x-blue.avif
+      link: /exterior-painting-kansas-city/
+    - title: Interiors
+      summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."
+      svcimg: /images/dr-orange-crop.avif
+      link: /interior-painter-kansas-city/
+    - title: Offices
+      svcimg: /images/office/blue-mfg.avif
+      summary: "Quiet and careful, one room at a time - on your schedule."
+      link: /office-painting-experts/
 #cta:
 #  title: "Earning Kansas City's trust for over 17 years."
 #  headline: "Prompt and Reliable"

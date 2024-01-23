@@ -35,7 +35,7 @@ cta:
   description: "Give us a call. We're ready for your project."
   phone: "816-805-4515"
   show: true # turn to false to hide
-  image: "/images/bg/cn-lake.webp"
+  image: "/images/bg/bgCanadaSnowMist.webp"
 #about:
 #  headline: "Who we are"
 #  title: "Same. Local. Owners."

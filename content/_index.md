@@ -8,9 +8,9 @@ hero:
   headline: No Drips, No Drama
   title: Painting Kansas City Homes & Offices
   image: "/images/bg/January.webp"
-#  button:
-#    url: "/book-us/"
-#    label: Book an Estimate
+  button:
+    url: "/book-us/"
+    label: Book an Estimate
 intro:
   title: "Trusted. Since 2007"
   headline: "Clean and Tidy Painters"

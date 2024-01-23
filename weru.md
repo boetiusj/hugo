@@ -1,6 +1,6 @@
 # Images and Lighthouse
 
-1. \_index.md does not work.
+1. \_index.md does not work. There is a conflict, I have explored endlessly
 2. 
 3. Shortcode gallery for two images on one row, shrink to fit. Example on /who/ - the 2 logo images currently stack on mobile and should display side by side.
 4. 404 page should show frontmatter image: "-" for each link (not all pages currently have an image).

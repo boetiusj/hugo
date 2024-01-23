@@ -7,7 +7,7 @@ date: "2011-05-04"
 hero:
   headline: No Drips, No Drama
   title: Painting Kansas City Homes & Offices
-#  image: "/images/bg/January.webp"
+  image: "/images/bg/January.webp"
 #  button:
 #    url: "/book-us/"
 #    label: Book an Estimate

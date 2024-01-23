@@ -29,13 +29,13 @@ intro:
       svcimg: /images/office/blue-mfg.avif
       summary: "Quiet and careful, one room at a time - on your schedule."
       link: /office-painting-experts/
-cta:
-  title: "Earning Kansas City's trust for over 17 years."
-  headline: "Prompt and Reliable"
-  description: "Give us a call. We're ready for your project."
-  phone: "1-816-805-4515"
-  show: true # turn to false to hide
-  image: "/images/bg/cnlake.webp"
+#cta:
+#  title: "Earning Kansas City's trust for over 17 years."
+#  headline: "Prompt and Reliable"
+#  description: "Give us a call. We're ready for your project."
+#  phone: "1-816-805-4515"
+#  show: true # turn to false to hide
+#  image: "/images/bg/cnlake.webp"
 #about:
 #  headline: "Who we are"
 #  title: "Same. Local. Owners."

@@ -44,4 +44,4 @@ Lead poisoning is serious - young children and pregnant women are especially vul
 
 There is a slight cost difference in complying: more time in implementing lead-safe protection, more materials also. On the flip-side, our work systems allow us to protect very efficiently and clean up much more effectively than we ever did before implementing lead-safe work practices.
 
-[![EPA lead paint brochure](/assets/images/Renovate-Right-image-577x900.jpg)](https://www.epa.gov/lead/renovate-right-important-lead-hazard-information-families-child-care-providers-and-schools)
+[![EPA lead paint brochure](/assets/images/blog/renovate-right-image.webp)](https://www.epa.gov/lead/renovate-right-important-lead-hazard-information-families-child-care-providers-and-schools)

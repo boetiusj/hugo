@@ -1,5 +1,6 @@
 # Overdue
-
+crestwoodpainting.com
+https://github.com/boetiusj/hugo-dev
 1. Home page does not load _index.md - it worked fine over many tweaks and now does not. What did I break?
 2. Font-awesome - Replace fontawesome and themify files with svg, color dark gray. SVG files are in images/svg.
    - Menu - hamburger, chevrons facebook, twitter, instagram

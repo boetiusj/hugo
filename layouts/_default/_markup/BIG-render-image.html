@@ -3,7 +3,7 @@
   {{ with .Title }} title="{{- . -}}" {{ end }}
   {{ if strings.HasPrefix .Destination "http" }} {{else}}
   {{ with imageConfig ( printf "static/%s" .Destination ) }}
-    width={{ .Width }} height="{{ .Height }}"
+    width="{{ .Width }}" height="{{ .Height }}"
   {{ end }}
   {{ end }}
    decoding="async"

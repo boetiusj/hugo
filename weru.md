@@ -1,18 +1,13 @@
 # Images and Lighthouse
 
-1. Configure Home page Hero without Slider js. No slider needed, only one hero image.
+1. Home page does not load _index.md - it worked fine over many tweaks and now does not. What did I break?
 2. Remove font-awesome files, use svg for hamburger and social icons, color dark gray. SVG files are in images/svg.
-4. Main menu fixed, no scrolling away.
-5. Links in the body need an underline, how about red primary color. BUT, *not* for links in the header, footer, etc.
-6. New shortcode gallery for two images on one row, shrink to fit. Example on /who/ - the 2 logo images currently stack on mobile and should display side by side.
-7. 404 page
+3. Main menu fixed, no scrolling away.
+4. Links in the body need an underline, how about red primary color. BUT, *not* for links in the header, footer, etc.
+5. New shortcode gallery for two images on one row, shrink to fit. Example on /who/ - the 2 logo images currently stack on mobile and should display side by side.
+6. 404 page
    - List only pages where frontmatter index: true
    - Show image with title - 2 columns (1 column mobile)
    - Images should be a thumbnail (80px x 80px?) - not all pages currently have an image, I will add later as needed.
-   - Git Pull request "Fix 404 page images" may help
+   - Git Pull request "Fix 404 page images" may help. (I did not Pull this yet as I wanted the images fixed first.)
    - This page list will also be used as blog list (/blog/)
-
-8. [Page Speed Performance - goal is >90](https://pagespeed.web.dev/analysis/https-www-crestwoodpainting-com-interior-painter-kansas-city/73ivwaj12v?form_factor=mobile)
-   - 3rd party code
-   - render blocking, LCP, unused css
-   - Unused javascript

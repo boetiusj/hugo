@@ -2,10 +2,12 @@
 
 Dec 1, '23
 
-- [Orig. Theme](https://github.com/themefisher/megakit-bootstrap): Themefisher Megakit Bootstrap 
+- [Orig. Theme](https://github.com/themefisher/megakit-bootstrap): Themefisher Megakit Bootstrap
+- [Hugo best practrices ](https://github.com/spech66/hugo-best-practices)
 - [Responsive breakpoints](https://www.responsivebreakpoints.com/)
 - [Eric Murphy](https://ericmurphy.xyz/blog/), [Youtube](https://www.youtube.com/@EricMurphyxyz/search?query=hugo)
 - [G Bard](https://bard.google.com/chat)
+- [Loop through contnet](https://www.markusantonwolf.com/blog/loop-through-sorted-content-in-hugo/)
 
 ## Performance
 
@@ -13,11 +15,15 @@ Dec 1, '23
 
 Images - I'd like to take advantage of Hugo's image processing through _render-image.html. Images should be served according to device (setsrc?), height and width shown in html. Below are resources I've looked into but I don't have the skill or knowledge to pull it off.
   - [This addresses image path](https://www.veriphor.com/articles/link-and-image-render-hooks/) - very comprehensive, but is this necessary if we move images to assets/images/?
-  - Good option: ["Perfect image rendering in Hugo"](https://ryanfleck.ca/2023/perfected-image-rendering-in-hugo/)
-  - [Another option](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/)
-  - Acceptable: [automatic-size-attributes](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/)
+  - Good option: ["Perfect image rendering in Hugo"](https://ryanfleck.ca/2023/perfected-image-rendering-in-hugo/), uses srcset, lazyloading, LQIP blurry. 
+  - [Another option](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/), basic H and W.
+  - [Bryce Wray shortcode](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)
+  - Acceptable, H and W only: [automatic-size-attributes](https://werat.dev/blog/automatic-image-size-attributes-in-hugo/)
   - [I tried this render-image.html](_default/_markup/render-image.html) to no avail.
+  - [Image optimization, banner image in head](https://devtidbits.com/2022/08/13/image-optimization-in-hugo/)
   - Assume it's necessary / good practice to move images from static to assets/images/ - yes?
+  - [Gallery examples](https://www.liwen.id.au/heg/), [code here](https://github.com/liwenyip/hugo-easy-gallery/)
+  - [nowrap Codepen](https://codepen.io/team/css-tricks/pen/bEajLE/1ea1ef35d942d0041b0467b4d39888d3)
    ---
 3. Remove plugins and related css etc. files
   - ~~animate-css ~~

@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/interior-painter-kansas-city/"
 date: "2011-09-18"
 index: true 
 ---
-![interior paint dining room kansas city](/images/dr-orange.webp)
+![interior paint living room kansas city](/images/entry-stairs.avif)
 
 ## Interior Painting
 
@@ -21,7 +21,7 @@ Then, we protect: cover floors, cover furniture, even put up temporary partition
 
 Prep and paint - clean, seal, sand and prime per the written and agreed-upon Scope of Work. Then the topcoat - spray, brush or roll. Professional techniques ensure clean lines and lasting results.
 
-![living room mantel](/images/interior/i-lrfp.avif)
+![living room mantel](/images/interior/brick-fp-paint.avif)
 
 ### The Cost of Interior Painting
 

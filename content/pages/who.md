@@ -38,22 +38,22 @@ Best to look for a company that sets expectations for painters as effectively as
 
 Many of the top contractor complaints are schedule related. These include inconsistent work hours and days, inconsistent crews, inconsistent work practices. All of this means the project drags on.
 
-![good people good painters](/images/other/Mario ladder.jpg)
+![good people good painters](/images/other/mario-ladder.jpg)
 
 ### Solid People
 
 Every company succeeds with their people. At Crestwood Painting we patiently look for the right people. Technical skills are assumed - a painter should, of course, competently sand, fill, caulk, scrape, brush and roll. We also look for the soft skills: neat appearance, courtesy, respectful of others, etc. Because when a painter is in your home you want to be confident that both your family and your home are protected and respected.
 
-![yard sign crestwood](/images/other/yard-sign.jpg)
+![yard sign crestwood](/images/other/yard-sign-sm.jpg)
 
 #### What's in a Name?
 
-After starting in '07 we needed a name but the obvious "Brookside Painting" URL was taken by a company in Brooklyn. No kidding. So, a long cup of coffee with a marketing expert lead to "Home Tones". As in Home painting and Tones of color. Genius, right?
+After starting in '07 we needed a name but the obvious "Brookside Painting" URL was taken by a company in Brooklyn. No kidding. So, a long cup of coffee with a marketing expert yielded "Home Tones". As in Home painting and Tones of color. Genius, agree?
 
-It was immediately shot down (wife and daughter: "you've got to be kidding"). They are not marketing experts, but in less than 5 minutes they decided on Crestwood Painting. Whadda ya gonna do?
+It was immediately shot down (wife and daughter: "you've got to be kidding"). They are not marketing experts, but in less than 5 minutes they declared "Crestwood Painting". Whadda ya gonna do?
 
 ![Crestwood neighborhood sign](/images/crestwood-neighborhood.jpg)
-"Crestwood" is another classic Kansas City neighborhood within Brookside, snuggled in just south of UMKC at Oak St.
+Crestwood is another classic Kansas City neighborhood within Brookside, snuggled in just south of UMKC at Oak St.
 
 [![customer review painter kansas city crestwood painting](/images/r17-4-glorfeld.webp)](/reviews/)
 

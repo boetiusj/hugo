@@ -14,10 +14,10 @@ Consistent communication. Clear proposals, clear expectations. Friendly people w
 
 ### Fully licensed and insured
 
-From the very beginning we've had a KCMO business license and full insurance. And we send a copy of that insurance along with every single proposal. So you can have confidence from the get-go.
+From the very beginning we've had a KCMO business license and full insurance. A copy of that insurance goes out with every single proposal - so you can have confidence from the get-go.
 {{< gallery >}}
 
-- ![Painting Copntractors Assoc](/images/logo-pca100.webp)
+- ![Painting Contractors Assoc](/images/logo-pca100.webp)
 - ![EPA Lead paint certified](/images/Lead-Safe-Certified120.webp)
 {{< /gallery >}}
 
@@ -38,9 +38,13 @@ Best to look for a company that sets expectations for painters as effectively as
 
 Many of the top contractor complaints are schedule related. These include inconsistent work hours and days, inconsistent crews, inconsistent work practices. All of this means the project drags on.
 
+![good people good painters](/images/other/Mario ladder.jpg)
+
 ### Solid People
 
 Every company succeeds with their people. At Crestwood Painting we patiently look for the right people. Technical skills are assumed - a painter should, of course, competently sand, fill, caulk, scrape, brush and roll. We also look for the soft skills: neat appearance, courtesy, respectful of others, etc. Because when a painter is in your home you want to be confident that both your family and your home are protected and respected.
+
+![yard sign crestwood](/images/other/yard-sign.jpg)
 
 #### What's in a Name?
 
@@ -55,7 +59,7 @@ It was immediately shot down (wife and daughter: "you've got to be kidding"). Th
 
 #### What is No Drips, No Drama?
 
-Early on, a homeowner saw us working down the street. After a couple of days he came over and asked for an estimate. After the usual measuring and counting he was asked: "What are you sensitive to? What do you want to avoid?"
+Early on, a homeowner saw us working down the street, a couple of days later he asked for an estimate. We did the usual measuring and counting and then asked: "What are you sensitive to? What do you want to avoid?"
 
 > He said "I don't want any drama - just paint my house."
 

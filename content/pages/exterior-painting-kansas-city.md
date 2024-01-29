@@ -19,7 +19,7 @@ Painting is the most cost-effective way to transform and beautify your Kansas Ci
 - Thorough, methodical prep lasts longest
 - [Certified painters](/lead-paint-certification-important/) mean safe work practices.
 
-![cozy ranch exterior paint](/images/exterior/clapboard-deepgreen)
+![cozy ranch exterior paint](/images/exterior/clapboard-deepgreen.jpg)
 
 ### Exterior Process
 
@@ -30,6 +30,8 @@ Painting is the most cost-effective way to transform and beautify your Kansas Ci
 - Prime bare wood for proper adhesion
 - Professional techniques ensure clean lines and no drips
 - Options available to minimize rough surfaces
+
+![Clapboard siding paint](/images/exterior/clapboard-deepgreen.jpg)
 
 ### Cost for Exterior House Painting
 

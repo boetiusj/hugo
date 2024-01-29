@@ -17,6 +17,8 @@ You can expect a positive experience: a clear proposal, clear expectations and a
 
 First, we'll send a list of things you can do to help make the whole process easier. Removing smaller items, taking down artwork and electronics, etc. Also, tails and paint don't mix, best to make arrangements for pets.
 
+![peacefule sitting room](/images/interior/red-sitting-rm.jpg)
+
 Then, we protect: cover floors, cover furniture, even put up temporary partition walls if needed. We use drop cloths, heavy paper for floors and plenty of painter's tape.
 
 Prep and paint - clean, seal, sand and prime per the written and agreed-upon Scope of Work. Then the topcoat - spray, brush or roll. Professional techniques ensure clean lines and lasting results.
@@ -33,6 +35,8 @@ Generally, the price for professional painting in Kansas City starts at $840 per
 - Ceiling height
 - Furniture, etc. to move?
 - Deep colors (canary yellow, electric blue) require more prep work
+
+![living room lighted shelves](/images/interior/lr-lighted-shelves.jpg)
 
 Sometimes comparing painting proposals can be tough: this one includes paint, that one charges extra for materials. proposals. [Click here for some help on comparing proposals](/compare-paint-bids/). Need even more info? Take a look at our [Frequently Asked Questions](/faqs/).
 

@@ -8,7 +8,7 @@ date: "2011-09-18"
 index: true
 ---
 
-![exterior paint gray house](/images/exterior/midcentury-front)
+![exterior paint gray house](/images/exterior/midcentury-front.jpg)
 
 ## Curb Appeal
 
@@ -19,7 +19,7 @@ Painting is the most cost-effective way to transform and beautify your Kansas Ci
 - Thorough, methodical prep lasts longest
 - [Certified painters](/lead-paint-certification-important/) mean safe work practices.
 
-![cozy ranch exterior paint](images/exterior/clapboard-deepgreen)
+![cozy ranch exterior paint](/images/exterior/clapboard-deepgreen)
 
 ### Exterior Process
 
@@ -42,7 +42,7 @@ Many factors come into play here, but the short answer is smaller houses cost le
 
 The cost for exterior painting runs from $3500 for a simple ranch style home to over $35,000 for a large older home that needs some long-overdue TLC. Give us a call - we're happy to help you compare bids.
 
-![stucco gray exterior](images/exterior/stucco-grays-l.webp)
+![stucco gray exterior](/images/exterior/stucco-grays-l.webp)
 
 Crestwood Painting trains our workers to be efficient, but not fast. We stand by our record of long-lasting results so we're never the lowest price. If you're after both Fast and Cheap there are many options.
 

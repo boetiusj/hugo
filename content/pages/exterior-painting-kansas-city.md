@@ -8,7 +8,7 @@ date: "2011-09-18"
 index: true
 ---
 
-![exterior paint gray house](/images/exterior/midcentury-front.jpg)
+![exterior paint gray house](/images/exterior/mid-century-exterior.jpg)
 
 ## Curb Appeal
 
@@ -31,7 +31,7 @@ Painting is the most cost-effective way to transform and beautify your Kansas Ci
 - Professional techniques ensure clean lines and no drips
 - Options available to minimize rough surfaces
 
-![Clapboard siding paint](/images/exterior/clapboard-deepgreen.jpg)
+![Clapboard siding paint](/images/exterior/ranch-green-waldo.webp)
 
 ### Cost for Exterior House Painting
 

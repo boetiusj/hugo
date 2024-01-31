@@ -66,7 +66,12 @@
           <ul class="list-inline footer-socials">
             <!--<li class="list-inline-item"><a href="/images/logo-waldo-kc.webp" alt="logo waldo business association" src="https://www.waldokc.org/about/history" style="width:100px;" </a></li> -->
             {{ range $config.socials }}
-            <li class="list-inline-item"><a href="{{ .profile }}"><i class="fab fa-{{ .icon }} mr-2"></i>{{ .platform }}</a></li>
+            <li class="list-inline-item">
+              <a href="{{ .profile }}">
+                {{ $image := resources.Get (printf "images/svg/%s.svg" .icon) }}
+                <span class="svg-h-13 mr-2"> {{ $image.Content | safeHTML }} </span>
+              </a>
+            </li>
             {{ end }}
           </ul>
         </div>
@@ -76,6 +81,8 @@
 </footer>
 
 <!--Scroll to top, see footer scss display
-<div id="scroll-to-top" class="scroll-to-top">
-  <span class="icon fa fa-angle-up"></span>
-</div>-->
+<div id="scroll-to-top" class="scroll-to-top d-flex align-items-center justify-content-center">
+  {{ $imageAngleUp := resources.Get "images/svg/angle-up-solid.svg" }}
+  <span class="icon svg-h-10  d-flex align-items-center justify-content-center"> {{ $imageAngleUp.Content | safeHTML }} </span>
+</div>
+-->

@@ -26,8 +26,6 @@ You’ll get a clear, com­pre­hen­sive pro­pos­al. Don’t wor­ry: we’ll
 Step 3.
 Cov­er everything - protect floors, cov­er coun­ters, mask sur­faces, etc. Lots of paper, plastic and tape so those things that shouldn't see paint do not.
 
-![cabinet painted](/images/cabinets/c-black-lowers.jpg)
-
 Step 4.
 Next, clean­ing - degreas­e (fingerprints, peanut butter), sand­, fill, repair as needed, prim­e so the topcoat sticks like crazy. And, finally, the top­coat. Lots of details and every single detail matters.
 

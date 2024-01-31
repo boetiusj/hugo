@@ -1,0 +1,19 @@
+title = "Crestwood Painting"
+baseURL = "https://www.crestwoodpainting.com/"
+paginate = 10
+googleAnalytics = "UA-1372967-1"
+# possible conflict with disableKinds? -- enableRobotsTXT = false
+[taxonomies]
+category = "categories"
+categories = ["Interior", "Exterior", "Cabinets", "Commercial"]
+tag = "tags"
+tags = ["Products", "Tips", "Color", "Best Practices"]
+disableKinds = ['robotsTXT', 'RSS']
+# added per https://www.veriphor.com/articles/link-and-image-render-hooks/
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'static'
+target = 'assets'

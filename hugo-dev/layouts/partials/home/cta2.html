@@ -1,0 +1,21 @@
+{{ with .Params.cta2 }}
+{{ if .show }}
+<section class="mt-70 position-relative">
+	<div class="container">
+		<div class="cta-block-2 bg-gray p-5 rounded border-1">
+			<div class="row justify-content-center align-items-center ">
+				<div class="col-lg-7">
+					<span class="text-color">{{ .headline }}</span>
+					<h2 class="mt-2 mb-4 mb-lg-0">{{ .title }}</h2>
+				</div>
+        {{ with .button }}
+				<div class="col-lg-4">
+					<a href="{{ .url }}" class="btn btn-main btn-round-full float-lg-right ">{{ .label }}</a>
+				</div>
+        {{ end }}
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}

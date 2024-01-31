@@ -1,0 +1,16 @@
+@for $i from 0 through 90 {
+  .svg-w-#{$i} {
+    svg {
+      width: 0.1rem * $i;
+    }
+  }
+  .svg-h-#{$i} {
+    svg {
+      height: 0.1rem * $i;
+    }
+  }
+}
+
+.object-fit-cover {
+  object-fit: cover;
+}

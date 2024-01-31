@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+{{ partial "blocks/page-title" . }}
+{{- $config := site.Params }}
+{{- $enableSidebar := default false $config.blogPageSidebarOn }}
+
+<section class="section blog-wrap bg-gray">
+	<div class="container">
+		<div class="row">
+		{{ if $enableSidebar }}<div class="col-lg-8"><div class="row">{{ end }}
+			{{ range .Pages }}
+				{{ partial "blog/excerpt" . }}
+			{{ end }}
+		{{ if $enableSidebar }}
+			</div></div>
+			{{ partial "blog/sidebar" . }}
+		{{ end }}
+		</div>
+	</div>
+</section>
+
+{{ end }}

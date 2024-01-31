@@ -1,0 +1,41 @@
+<!-- ** Basic Page Needs ** -->
+<meta charset="utf-8">
+<title>{{ with .Title }}{{ . }} | {{ end  }}{{ site.Title }}</title>
+<meta name="description" content="Prompt and tidy pros with organized jobsites and timely finishes. Call us for a No Drips, No Drama experience.">
+
+<!-- ** Mobile Specific Metas ** -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+{{ partial "opengraph.html" . }}
+<!-- bootstrap.min css -->
+<link rel="stylesheet" href={{ absURL "plugins/bootstrap/bootstrap.min.css" }}>
+<!-- <link rel="stylesheet" href={{ absURL "plugins/magnific-popup/magnific-popup.css" }}>  -->
+<!-- Owl Carousel CSS 
+<link rel="stylesheet" href={{ absURL "plugins/slick/slick.css" }}>
+<link rel="stylesheet" href={{ absURL "plugins/slick/slick-theme.css" }}>  -->
+
+<!-- Main Stylesheet -->
+{{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
+{{ $stylesheet := "scss/main.scss" }}
+{{- $styles := resources.Get $stylesheet | resources.ExecuteAsTemplate $stylesheet . | resources.ToCSS $options | resources.Fingerprint "sha512" }}
+
+<!-- preload assets declaration -->
+<link rel="preload" href="{{ $styles.Permalink }}" integrity = "{{ $styles.Data.Integrity }}" as="style" crossorigin="anonymous">
+
+<link rel = 'stylesheet' href = '{{ $styles.Permalink }}' integrity = '{{ $styles.Data.Integrity }}' crossorigin="anonymous">
+
+<!-- from https://mertbakir.gitlab.io/hugo/sitemap-robots/
+{{ if or (ne .Kind "page") (and (eq .Kind "page") (eq .Params.index false)) }}
+  <meta name="robots" content="noindex, nofollow" />
+{{ end }}
+-->
+<!--Favicon-->
+{{- $iconsPath := "favicons/" }}
+<link rel="apple-touch-icon" sizes="180x180" href='{{ absURL (printf "%sapple-touch-icon.png" $iconsPath) }}'>
+<link rel="icon" href="/favicons/favicon.ico" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="32x32" href='{{ absURL (printf "%sfavicon-32x32.png" $iconsPath) }}'>
+<link rel="icon" type="image/png" sizes="16x16" href='{{ absURL (printf "%sfavicon-16x16.png" $iconsPath) }}'>
+<link rel="manifest" href='{{ absURL (printf "%ssite.webmanifest" $iconsPath) }}'>
+<link rel="mask-icon" href='{{ absURL (printf "%ssafari-pinned-tab.svg" $iconsPath) }}'  color="#004750">
+<link rel="shortcut icon" href='{{ absURL (printf "%sfavicon.ico" $iconsPath) }}'>
+<meta name="msapplication-config" content='{{ absURL (printf "%sbrowserconfig.xml" $iconsPath) }}'>

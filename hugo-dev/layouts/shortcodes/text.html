@@ -1,0 +1,4 @@
+{{- $black := .Get 0 }}
+<p class="lead mb-4{{ if $black }} font-weight-normal text-black{{end }}">
+  {{ markdownify .Inner }}
+</p>

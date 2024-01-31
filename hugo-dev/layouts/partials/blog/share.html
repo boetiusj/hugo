@@ -1,0 +1,15 @@
+<ul class="list-inline">
+	<li class="list-inline-item">Share:</li>
+	<li class="list-inline-item">
+		<a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">
+      {{ $imageFacebook := resources.Get "images/svg/facebook-f.svg" }}
+      <span class="svg-h-13 mr-2"> {{ $imageFacebook.Content | safeHTML }} </span>
+		</a>
+	</li>
+	<li class="list-inline-item">
+		<a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}" >
+      {{ $imageTwitter := resources.Get "images/svg/twitter.svg" }}
+      <span class="svg-h-13 mr-2"> {{ $imageTwitter.Content | safeHTML }} </span>
+		</a>
+	</li>
+</ul>

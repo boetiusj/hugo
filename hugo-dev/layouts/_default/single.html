@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="section pt-4 mt-2">
+	<div class="container content">
+    <h1 class="pb-0">{{ .Title }}</h1>
+    {{ partial "breadcrumbs/index" . }}
+    {{ .Content }}
+    {{ if .Params.faqs }}
+      {{ partial "faqs" . }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

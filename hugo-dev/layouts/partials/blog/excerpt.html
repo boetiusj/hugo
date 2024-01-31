@@ -1,0 +1,16 @@
+<div class="col-lg-6 col-md-6 mb-5 blog-item-wrap">
+  <div class="blog-item">
+    {{ $image := default "/images/blog/hand-sprayer.avif" .Params.image }}
+    <img loading="lazy" src="{{ $image }}" alt="blog excerpt img" class="img-fluid rounded excerpt_preview">
+
+    <div class="blog-item-content bg-white p-4">
+      {{ partial "blog/excerpt-meta" . }}
+      <h3 class="mt-3 mb-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <p class="mb-4">{{ truncate 200 .Summary }}</p>
+      
+      <div class="mt-auto">
+        <a href="{{ .RelPermalink }}" class="btn btn-small btn-main btn-round-full">See More</a>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,117 @@
+{{/* If the file exists and the filename isn't blank, */}}
+{{ if (and (fileExists (print "/assets" .Destination)) (not (eq .Destination ""))) }}
+ 
+{{/* Grab the image and ensure it has a width property, */}}
+  {{ $image := resources.Get .Destination }}
+
+  {{/* The reference to the fallback/fallback image */}}
+  {{ $fallback := $image }}
+
+  {{/* We build our src-set step by step. */}}
+  {{ $src_set := "" }}
+
+  {{ if (eq $image.MediaType.Type "image/avif") }}
+    <!-- ADD IMAGES TO SRC-SET -->
+    {{ if ge $image.Width "1600" }}
+      {{ $resized := $image.Resize "1600x" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 1600w, ") }}
+    {{ end }}
+
+    {{ if ge $image.Width "1400" }}
+      {{ $resized := $image.Resize "1400x" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 1400w, ") }}
+    {{ end }}
+
+    {{ if ge $image.Width "1200" }}
+      {{ $resized := $image.Resize "1200x" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 1200w, ") }}
+    {{ end }}
+    
+    {{ if ge $image.Width "992" }}
+      {{ $resized := $image.Resize "992x" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 992w, ") }}
+    {{ end }}
+    
+    {{ if ge $image.Width "786" }}
+      {{ $resized := $image.Resize "786x" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 786w, ") }}
+    {{ end }}
+    
+    {{ if ge $image.Width "576" }}
+      {{ $resized := $image.Resize "576x" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 576w, ") }}
+    {{ end }}
+  {{ else }}
+    <!-- ADD IMAGES TO SRC-SET -->
+    {{ if ge $image.Width "1600" }}
+      {{ $resized := $image.Resize "1600x wepb" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 1600w, ") }}
+    {{ end }}
+    
+    {{ if ge $image.Width "1400" }}
+      {{ $resized := $image.Resize "1400x wepb" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 1400w, ") }}
+    {{ end }}
+    
+    {{ if ge $image.Width "1200" }}
+      {{ $resized := $image.Resize "1200x wepb" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 1200w, ") }}
+    {{ end }}
+    
+    {{ if ge $image.Width "992" }}
+      {{ $resized := $image.Resize "992x webp" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 992w, ") }}
+    {{ end }}
+    
+    {{ if ge $image.Width "768" }}
+      {{ $resized := $image.Resize "786x webp" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 786w, ") }}
+    {{ end }}
+    
+    {{ if ge $image.Width "576" }}
+      {{ $resized := $image.Resize "576x webp" }}
+      {{ $src_set = (print $src_set $resized.RelPermalink " 576w, ") }}
+    {{ end }}
+
+    {{ $fallback := $image.Process "webp" }}
+  {{ end }}
+
+  {{ $alt := .PlainText | safeHTML }}
+
+    <!-- If no JS, present a normal src/srcset pairing -->
+    <!--  + the show-if-js class will be hidden (see head) -->
+    <noscript>
+      <img
+        class="rcf-image max-w-100 h-auto"
+        {{ printf "srcset=%q" $src_set | safeHTMLAttr }}
+        src="{{ $fallback.RelPermalink }}"
+        {{- if .Text -}} alt="{{ .Text }}" {{ end }}
+        {{- if .Title -}} title="{{ .Title }}" {{ end }}
+        loading="lazy"
+      />
+    </noscript>
+
+    <!-- Otherwise the properly-->
+    <img
+      class="rcf-image lazyload show-if-js max-w-100 h-auto"
+      {{ printf "data-srcset=%q" $src_set | safeHTMLAttr }}
+      data-src="{{ $image.RelPermalink }}"
+      src="{{ $fallback.Permalink }}"
+      data-sizes="auto"
+      width="{{ $image.Width }}"
+      height="{{ $image.Height }}"
+      {{- if .Text -}} alt="{{ .Text }}" {{ end }}
+      {{- if .Title -}} title="{{ .Title }}" {{ end }}
+      loading="lazy"
+    />
+
+  {{ else }}
+    <!-- In case the image is not found on the filesystem for some reason... -->
+    <img 
+      class="rcf-image external-image unoptimized max-w-100 h-auto" 
+      src="{{ .Destination | safeURL }}" 
+      {{- if .Text -}} alt="{{ .Text }}" {{ end }}
+      {{- if .Title -}} title="{{ .Title }}" {{ end }}
+      loading="lazy" 
+    />
+{{ end }}

@@ -1,0 +1,16 @@
+<!-- 
+  <div class="blog-item-meta bg-gray pt-2 pb-1 px-3">
+      {{ with .Params.categories }}
+      <span class="text-muted text-capitalize d-inline-block mr-3">
+        {{ $imagePencil := resources.Get "images/svg/pencil-alt.svg" }}
+        <span class="d-inline-flex aling-items-center svg-h-8"> {{ $imagePencil.Content | safeHTML }} </span>
+        {{ index . 0 }}
+      </span>
+      {{ end }}
+      <span class="text-black text-capitalize d-inline-block mr-3">
+        {{ $imageTime := resources.Get "images/svg/time.svg" }}
+        <span class="d-inline-flex aling-items-center svg-h-8"> {{ $imageTime.Content | safeHTML }} </span>
+        {{ dateFormat "January, 2006" .Date }}
+      </span>
+    </div>
+ -->

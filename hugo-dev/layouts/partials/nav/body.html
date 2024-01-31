@@ -1,0 +1,31 @@
+{{ $nav := site.Data.nav }}
+<ul class="navbar-nav ml-auto">
+  {{ range $nav }}
+  {{ $sub := ge (len (default "" .submenu)) 1 }}
+  <li class="nav-item{{ if $sub }} dropdown{{ end }}">
+    <a class="nav-link{{ if $sub }} dropdown-toggle{{ end }}" href="{{ .url }}"{{ if $sub }}  id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"{{ end }}>{{ .name }}{{ if $sub }}  
+        {{ $image := resources.Get "images/svg/chevron-down-solid.svg" }}
+        <span class="d-inline-blok svg-w-7 svg-h-7">{{ $image.Content | safeHTML }}</span>
+      {{ end }}</a>
+    {{ with .submenu }}
+    <ul class="dropdown-menu" aria-labelledby="dropdown03">
+      {{ range . }}
+      {{ $sub := ge (len (default "" .submenu)) 1 }}
+      <li{{ if $sub }} class="dropdown dropdown-submenu dropright"{{ end }}>
+        <a class="dropdown-item{{ if $sub }}  dropdown-toggle{{ end }}" href="{{ .url }}"{{ if $sub }} id="dropdown0301" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"{{ end }}>{{ .name }}</a>
+        {{ with .submenu }}
+        <ul class="dropdown-menu" aria-labelledby="dropdown0301">
+          {{ range . }}
+          <li>
+            <a class="dropdown-item" href="{{ .url }}">{{ .name }}</a>
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </li>
+  {{ end }}
+</ul>

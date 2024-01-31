@@ -1,0 +1,88 @@
+{{ $config := site.Params }}
+{{ $menu := site.Menus }}
+<footer class="footer section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="widget">
+          <h4 class="text-capitalize mb-4">Company</h4>
+
+          <ul class="list-unstyled footer-menu lh-35">
+            {{ range $menu.company }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+<!--      <div class="col-lg-2 col-md-6 col-sm-6">
+        <div class="widget">
+          <h4 class="text-capitalize mb-4">Quick Links</h4>
+
+          <ul class="list-unstyled footer-menu lh-35">
+            {{ range $menu.links }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+      -->
+     <div class="col-lg-3 col-md-6 col-sm-6 mx-auto">
+        <div class="widget">
+          <h4 class="text-capitalize mb-4">Book Us</h4>
+          <ul><li>Easy - not salesy</li>
+            <li>30 min. or less</li>
+            <li>Clear communication</li>
+          </ul>
+
+<!--          <form action="#" class="sub-form">
+            <input type="text" class="form-control mb-3" placeholder="Subscribe Now ...">
+            <a href="#" class="btn btn-main btn-small">subscribe</a>
+          </form>
+          -->
+          <a href="/book-us" class="btn btn-main btn-round-full">Schedule an Estimate</a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-sm-6">
+        <div class="widget">
+          <div class="logo mb-4">
+            {{ partial "nav/logo" . }}
+          </div>
+          <h6><a href="mailto:{{ $config.email }}">Send Us a Note</a></h6>
+          <a href="tel:{{ $config.phone }}">{{ $config.phone }}</span></a>
+          <p>236 W 73rd Terr <br>Kansas City, MO 64114</p>
+        </div>
+      </div>
+      </div>
+    <div class="footer-btm pt-4">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="copyright">
+            {{ markdownify (replace $config.copyright "{year}" now.Year) }}
+            <br>No Drips, No Drama&#8482;
+          </div>
+        </div>
+        <div class="col-lg-6 text-left text-lg-right">
+          <ul class="list-inline footer-socials">
+            <!--<li class="list-inline-item"><a href="/images/logo-waldo-kc.webp" alt="logo waldo business association" src="https://www.waldokc.org/about/history" style="width:100px;" </a></li> -->
+            {{ range $config.socials }}
+            <li class="list-inline-item">
+              <a href="{{ .profile }}">
+                {{ $image := resources.Get (printf "images/svg/%s.svg" .icon) }}
+                <span class="svg-h-13 mr-2"> {{ $image.Content | safeHTML }} </span>
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!--Scroll to top, see footer scss display
+<div id="scroll-to-top" class="scroll-to-top d-flex align-items-center justify-content-center">
+  {{ $imageAngleUp := resources.Get "images/svg/angle-up-solid.svg" }}
+  <span class="icon svg-h-10  d-flex align-items-center justify-content-center"> {{ $imageAngleUp.Content | safeHTML }} </span>
+</div>
+-->

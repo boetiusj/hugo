@@ -29,7 +29,7 @@ crestwoodpainting.com
      [Responsive images shortcode](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)
    - Current render-image.html, appears path doesn't work
 
-```javascript
+```
          {{- $image := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) -}}
          <img
             src="{{ .Destination | safeURL }}" alt="{{ .Text }}"
@@ -37,4 +37,3 @@ crestwoodpainting.com
             width="{{ $image.Width }}" height="{{ $image.Height }}"
             {{ end }}
             />
-```

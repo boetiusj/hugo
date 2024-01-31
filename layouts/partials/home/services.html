@@ -17,7 +17,8 @@
 			{{ range $services.solutions }}
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="service-item mb-5">
-					<i class="ti-{{ .icon }}"></i>
+          {{ $image := resources.Get (printf "images/svg/%s.svg" .icon) }}
+          <span class="svg-h-13"> {{ $image.Content | safeHTML }} </span>
 					<h4 class="mb-3">{{ .name }}</h4>
 					<p>{{ .description }}</p>
 				</div>

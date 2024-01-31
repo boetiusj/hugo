@@ -1,8 +1,0 @@
-public
-**/.DS_Store
-node_modules
-*.lock
-resources
-*.sh
-php
-uploads

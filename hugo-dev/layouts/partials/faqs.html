@@ -1,6 +1,0 @@
-{{ range .Params.faqs }}
-  <h3 id="{{ .id }}">{{ .question }}</h3>
-  <div>
-    {{ partial "func/getMarkdown" (dict "content" .answer) }}
-  </div>
-{{ end }}

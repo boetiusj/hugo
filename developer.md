@@ -37,3 +37,10 @@ crestwoodpainting.com
             width="{{ $image.Width }}" height="{{ $image.Height }}"
             {{ end }}
             />
+---
+8. On /wild/ page, book-form.html defaults to Regrets page, should go to wildcard booking page just like call-center booking page goes to call-center.
+9. Booking form returns City State Zip to youcanbook.me on 3 separate rows. Can you make all one row: City, Sate Zip?
+So, all on one line - City [comma space] State [space] Zip [new line]
+Looks like this is happening at line 21 of index.js, use zip "64113" for testing.
+![YCB Screenshot](https://github.com/boetiusj/hugo-dev/blob/main/static/images/screenshot-YCB-passthrough.png)
+10. Address major Lighthouse delays.

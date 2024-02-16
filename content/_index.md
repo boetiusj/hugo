@@ -19,14 +19,14 @@ intro:
   values: # or benefits/qualities
     - title: Exteriors
       summary: "Durable protection for homes new, old and mid-century. Commercial buildings too."
-      svcimg: /images/x-blue.jpg
+      svcimg: /static/images/x-blue.jpg
       link: /exterior-painting-kansas-city/
     - title: Interiors
       summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."
-      svcimg: /images/dr-orange.webp
+      svcimg: /static/images/dr-orange.webp
       link: /interior-painter-kansas-city/
     - title: Offices
-      svcimg: /images/office/blue-mfg.jpg
+      svcimg: /static/images/blue-mfg.jpg
       summary: "Quiet and careful, one room at a time - on your schedule."
       link: /office-painting-experts/
 #cta:

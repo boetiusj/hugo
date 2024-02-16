@@ -1,3 +1,5 @@
+# Developer
+
 ![image](https://github.com/boetiusj/hugo-dev/assets/12978690/54a12c23-c8f9-4e92-bf7c-cdb00d78d76d)# Overdue
 
 crestwoodpainting.com
@@ -29,7 +31,7 @@ crestwoodpainting.com
      [Responsive images shortcode](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)
    - Current render-image.html, appears path doesn't work
 
-```
+```markdown
          {{- $image := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) -}}
          <img
             src="{{ .Destination | safeURL }}" alt="{{ .Text }}"

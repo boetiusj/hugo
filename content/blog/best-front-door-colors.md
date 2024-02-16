@@ -6,7 +6,7 @@ keywords: front door, paint colors
 canonical: https://crestwoodpainting.com/tips-for-painting-trim/
 date: 2023-07-22
 index: true
-image: /images/front-door.avif
+image: /images/yellow-front-door-curb-appeal.webp
 categories:
   - Exterior
 tags:
@@ -14,7 +14,7 @@ tags:
   - Front-door
 slug: front-door-colors
 ---
-![front door color](/images/front-door.avif)
+![front door color](/images/yellow-front-door-curb-appeal.webp)
 
 ## The Focal Point
 

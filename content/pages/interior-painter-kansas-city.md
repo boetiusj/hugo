@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/interior-painter-kansas-city/"
 date: "2011-09-18"
 index: true 
 ---
-![interior paint living room kansas city](/images/interior/entry-stairs.avif)
+![interior paint living room kansas city](/images/interior/entry-stairs.jpg)
 
 ## Interior Painting
 
@@ -21,7 +21,7 @@ Then, we protect: cover floors, cover furniture, even put up temporary partition
 
 Prep and paint - clean, seal, sand and prime per the written and agreed-upon Scope of Work. Then the topcoat - spray, brush or roll. Professional techniques ensure clean lines and lasting results.
 
-![living room mantel](/images/interior/brick-fp-paint.avif)
+![living room mantel](/images/interior/brick-fp-paint.jpg)
 
 ### The Cost of Interior Painting
 
@@ -36,7 +36,7 @@ Generally, the price for professional painting in Kansas City starts at $840 per
 
 Sometimes comparing painting proposals can be tough: this one includes paint, that one charges extra for materials. proposals. [Click here for some help on comparing proposals](/compare-paint-bids/). Need even more info? Take a look at our [Frequently Asked Questions](/faqs/).
 
-![white mantel](/images/interior/mantel-white-close.avif)
+![white mantel](/images/interior/mantel-white-close.jpg)
 
 ### Interior Paint Quality
 

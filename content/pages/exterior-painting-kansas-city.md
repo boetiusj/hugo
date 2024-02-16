@@ -8,7 +8,7 @@ date: "2011-09-18"
 index: true
 ---
 
-![exterior paint gray house](/images/mid-centuryx.avif)
+![exterior paint gray house](/images/exterior/x-blue.jpg)
 
 ## Transform & Beautify
 
@@ -19,6 +19,8 @@ Painting is the most cost-effective way to transform and beautify your Kansas Ci
 - Thorough, methodical prep lasts longest
 - [Certified painters](/lead-paint-certification-important/) mean safe work practices
 
+![exterior paint green ranch](/images/exterior/x-greenranch.webp)
+
 ### Exterior Process
 
 - Set up a tidy, out-of-the-way work area
@@ -28,6 +30,8 @@ Painting is the most cost-effective way to transform and beautify your Kansas Ci
 - Prime bare wood for good adhesion
 - Professional techniques ensure clean lines and no drips
 - Options available to minimize rough surfaces
+
+![stucco paint gray](/images/exterior/stately great paint.jpg)
 
 ### Cost for Exterior House Painting
 

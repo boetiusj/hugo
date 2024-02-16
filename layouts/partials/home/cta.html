@@ -1,6 +1,6 @@
 
 {{ $cta := .Params.cta }}
-{{ $bg := default "/images/bg/bg-canada-snow-mist.webp" $cta.image }}
+{{ $bg := default "/static/images/cnlake.webp" $cta.image }}
 {{ if and $cta $cta.show }}
 <!-- Section Cta Start -->
 <section class="section cta" style="--bg: url({{ $bg }})">

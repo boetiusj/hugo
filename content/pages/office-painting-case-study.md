@@ -77,10 +77,7 @@ Good to know: erasers to technically work to remove markings however there is a 
 
 ## The Result
 
-{{< youtube somyoSBk9DQ >}}
-
 {{< youtube-enhanced id=somyoSBk9DQ title="Video testimonial" >}}
-
 
 <iframe src="https://www.youtube.com/watch?v=somyoSBk9DQ rel=0" width="480" height="270" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

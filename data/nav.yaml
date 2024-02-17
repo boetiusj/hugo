@@ -27,7 +27,7 @@
   submenu:
     - name: "Send Us a Note"
       url: "/contact/"
-    - name: "Blog - the Inside Scoop"
+    - name: "Blog - the Nitty Gritty"
       url: "/blog/"
     - name: "Payments"
       url: "/payments/"

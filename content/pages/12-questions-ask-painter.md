@@ -36,15 +36,19 @@ Homes more than 30 years old have many layers of (lead) paint, aluminum storm wi
 
 ### Which brand of paint do you recommend?
 
-![ppg crestwood painting kansas city](/images/Logo-sq-PPG100.webp) ![sw crestwood painting kansas city](/images/logosq-SW100.webp) ![benjamin moore crestwood painting kansas city](/images/logosqBM100.webp)
+{{< gallery >}}
 
+- ![ppg crestwood painting kansas city](/images/Logo-sq-PPG100.webp)
+- ![sw crestwood painting kansas city](/images/logosq-SW100.webp)
+- ![benjamin moore crestwood painting kansas city](/images/logosqBM100.webp)
+{{< /gallery >}}
 Painters establish a relationship with a particular store for a variety of reasons – knowledgeable help, quality products or attractive pricing. If a painter is reluctant to use another product, it’s fair to ask why. Strong belief in a product based on experience is fine, but when a financial incentive trumps all else, the advice you get may not be in your best interest.
 
 All of this assumes quality materials – if you’re being steered toward a low cost product, find another painter. When it comes to paint, you never get more than you pay for. Also, most professionals do not use paint from the Big Box chain stores for several reasons: product quality is one, but also lower quality, limited selection, poor service and availability.
 
 ### What is a properly painted surface?
 
-![pca paint ed kansas city crestwood painting](/images/logo-pca100.webp "width=269 height=100")
+![pca paint ed kansas city crestwood painting](/images/logo-pca100.webp)
 
 The [Painting Contractors Assoc](https://pcapainted.org) has established clear standards for its members, from accepted production rates to appropriate materials and application techniques. Objective standards make it easy for homeowner and painter to agree on what a [properly painted surface](/12-questions-ask-painter/#properlypainted) is. Membership in trade organizations indicates a level of professional commitment.
 

@@ -8,10 +8,9 @@ date: "2011-08-28"
 index: true
 ---
 
-### Color It Beautiful*
+# Color It Beautiful
 
-01:00 AM EDT on Sunday, August 19, 2007\
-By Cindy Hoedel\
+By Cindy Hoedel
 McClatchy Newspapers
 
 KANSAS CITY, MO -- A great exterior paint job should make you think, “What a lovely home,” not “What great colors.”
@@ -41,13 +40,14 @@ It makes sense to take advantage of that free design assistance rather than tryi
 Painter Bill Ruisinger has seen plenty of near and actual color-picking disasters.
 
 “A lot of times, people wait until the last minute and then rush through it. They think it’s going to be easy, but it’s not,” Ruisinger said. “We book two months in advance. People have plenty of time to figure it out, but they don’t. If I have to repaint it six months later, that’s a $2,000 mistake.”
-**Online Color Tools**
+
+## Online Color Tools
 
 - Benjaminmoore.com: Click on “For your home,” then “Personal color viewer,” then “Let’s paint,” then “Home exterior.” Next, choose from 14 home styles the one that most resembles yours and click on “Save/load combinations” to view up to 57 color combinations.
 - Sherwin-Williams.com: Click on “Homeowner,” then “Launch color visualizer,” then “Paint an exterior.” Now select from six home styles the one that most resembles yours, then choose from one of six collections and click “Apply to scene.” Or, from the “Homeowner” page, click on “Concepts in color,” then “View rooms to get inspired” to see eight color families, each of which has one featured exterior scheme.
 - Voiceofcolor.com (Pittsburgh Paints): Click on “Visions at a glance” under the “My project” menu. Go to “Select a photo to paint” and choose “Exterior.” Choose from three styles a home that most resembles yours. Under “Outside” collections, find 21 color schemes to view.
 
-**Tips**
+## Color Tips
 
 If you like any of the colors below, here are the directions they are moving in:
 
@@ -60,7 +60,7 @@ If you like any of the colors below, here are the directions they are moving in:
 - Grays have a lot of depth; if they are too light they look dirty.
     Source: Barbara Richardson, director of Color Marketing for ICI Paints/Glidden
 
-**Common Mistakes**
+## Common Color Mistakes
 
 - The color is too bright. The more complex a paint color is, meaning the more different colors it contains, the better. Never use colors that are very pure or that have a high intensity. (Your paint dealer can tell those things about a color from its formula.)
 - The garage doors are more prominent than the front door. Paint them the same color as the house if they aren’t architecturally beautiful.

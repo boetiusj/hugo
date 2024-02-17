@@ -12,7 +12,7 @@ categories:
 tags:
   - "interior"
 ---
-![Painting commercial hospital retirement](/brighton-gardens.webp)
+![Painting commercial hospital retirement](/images/brighton-gardens.webp)
 
 ## Unexpected Niceties
 

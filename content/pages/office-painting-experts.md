@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/office-painting-experts/"
 date: "2017-01-16"
 index: true
 ---
-![office painting kansas city](/images/office/blue-mfg.avif)
+![office painting kansas city](/images/office/blue-mfg.jpg)
 This busy manufacturer continued to hum while painters quietly did their thing.
 
 ## Painting Offices
@@ -101,6 +101,7 @@ Call Crestwood Painting for your office painting needs. We're an established and
 - ![Edward Jones painting office kansas city](/images/O-edwardjones.webp)
 - ![office painting fedex kansas city](/images/O-fedex-logo.webp)
 - ![office painting cintas](/images/O-Cintas.webp)
+
 - ![office painting United Way](/images/O-UnitedWay.webp)
 - ![commercial painting warehouse Republic](/images/O-Republic.webp)
 - ![office painting Thrifty](/images/O-Thrifty.webp)

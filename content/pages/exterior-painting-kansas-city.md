@@ -31,7 +31,7 @@ Painting is the most cost-effective way to transform and beautify your Kansas Ci
 - Professional techniques ensure clean lines and no drips
 - Options available to minimize rough surfaces
 
-![stucco paint gray](/images/exterior/stately great paint.jpg)
+![stucco paint gray](/images/exterior/stately-great-paint.webp)
 
 ### Cost for Exterior House Painting
 

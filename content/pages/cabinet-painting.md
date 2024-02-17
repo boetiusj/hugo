@@ -8,7 +8,7 @@ date: "2011-09-21"
 index: true
 ---
 
-![kitchen cabinet painting](/images/cabinets/c-glass-splash.avif)
+![kitchen cabinet painting](/images/cabinets/c-glass-splash.jpg)
 
 ## The Heart of Your Home
 

@@ -17,7 +17,8 @@ Consistent communication. Clear proposals, clear expectations. Friendly people w
 From the very beginning we've had a KCMO business license and full insurance. And we send a copy of that insurance along with every single proposal. So you can have confidence from the get-go.
 
 {{< gallery >}}
-- ![Painting Copntractors Assoc](/images/logo-pca100.webp)
+
+- ![Painting Contractors Assoc](/images/logo-pca100.webp)
 - ![EPA Lead paint certified](/images/Lead-Safe-Certified120.webp)
 {{< /gallery >}}
 

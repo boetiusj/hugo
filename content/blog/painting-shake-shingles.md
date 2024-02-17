@@ -6,7 +6,7 @@ keywords: "painting shake shingles kansas city crestwood"
 canonical: "https://crestwoodpainting.com/painting-shake-shingles/"
 date: "2014-04-02"
 index: true
-image: "-"
+image: "/images/shake-shingles.webp"
 categories:
   - "home-maintenance-tips"
 tags:

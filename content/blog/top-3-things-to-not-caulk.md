@@ -6,7 +6,7 @@ keywords: "painting caulk kansas city crestwood"
 canonical: "https://crestwoodpainting.com/top-3-things-to-not-caulk/"
 date: "2014-07-15"
 index: true
-image: "-"
+image: "/images/caulk-here.webp"
 categories:
   - "painting-tips"
 tags:

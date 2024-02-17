@@ -1,12 +1,12 @@
 ---
 title: "Color of the Year"
-url: "color-year-2014"
+url: "color-year"
 description: "Many paint and design companies select a color of the year with varying degrees of credibility. Sometime, they just goof."
 keywords: "color house painting kansas city crestwood"
 canonical: "https://crestwoodpainting.com/color-year-2014/"
 date: "2014-01-17"
 index: true
-image: "-"
+image: "images/color-year.webp"
 categories:
   - "color-choices"
 tags:

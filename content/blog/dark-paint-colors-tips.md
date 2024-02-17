@@ -6,7 +6,7 @@ keywords: "paint color tips crestwood painting"
 canonical: "https://crestwoodpainting.com/dark-paint-colors-tips/"
 date: "2014-01-24"
 index: true
-image: "-"
+image: "/images/duration.jpg"
 categories:
   - "painting-challenges"
 tags:
@@ -14,7 +14,7 @@ tags:
   - "neutral-colors"
 ---
 
-![Paint colors - Deep base crestwood painting kansas city](/images/Duration.jpg)'Dja ever notice that deep paint colors don't seem to cover as well as lighter colors? There's a simple reason for this and it involves a [recent post](/titanium-dioxide-in-your-paint-can/) about titanium dioxide.
+![Paint colors - Deep base crestwood painting kansas city](/images/duration.jpg)'Dja ever notice that deep paint colors don't seem to cover as well as lighter colors? There's a simple reason for this and it involves a [recent post](/titanium-dioxide-in-your-paint-can/) about titanium dioxide.
 
 Let's say you've chosen a deep orange for your living room - this really happened about three weeks ago (along with deep burgundy, chocolate brown, etc). Because these colors requires so much tint to achieve the deep colors paint manufacturers must remove some other ingredients to make room.
 

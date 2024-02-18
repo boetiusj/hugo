@@ -77,6 +77,6 @@ Good to know: erasers to technically work to remove markings however there is a 
 
 ## The Result
 
-{{< youtube id=somyoSBk9DQ title="Video testimonial" >}}
+{{< youtube id="somyoSBk9DQ" title="Video testimonial" >}}
 
 The whole project came off smoothly - injury free, ahead of schedule, [delighted customer](/video-testimonials/) and leasing at [10200 State Line Rd.](http://www.10200stateline.com/) is booming. If you have an office painting project in the metro Kansas City area, give us a call and let's talk about some of the options.

@@ -12,7 +12,7 @@ This busy manufacturer continued to hum while painters quietly did their thing.
 
 ## Painting Offices
 
-Clean and quiet, efficient and pleasant - our painters make it easy for your office routine to continue uninterrupted - No Drips, No Drama. That's the kind of [painter your office can work with](/office-painting-case-study/).
+Clean and quiet, efficient and pleasant - our painters make it easy for your office routine to continue uninterrupted - No Drips, No Drama. Here's a [case study](/office-painting-case-study/) that does a deep dive.
 
 We'll work around your schedule to minimize disruptions. Low VOC paint means nobody breathes nasty stuff. Our gear is tidy and stays out-of-the-way.
 

@@ -79,4 +79,6 @@ Good to know: erasers to technically work to remove markings however there is a 
 
 {{< youtube-enhanced id=somyoSBk9DQ title="Video testimonial" start="1.0" >}}
 
+{{< youtube somyoSBk9DQ >}}
+
 The whole project came off smoothly - injury free, ahead of schedule, [delighted customer](/video-testimonials/) and leasing at [10200 State Line Rd.](http://www.10200stateline.com/) is booming. If you’ve got an office painting project in the metro Kansas City area, please call Crestwood Painting and let's talk about some of the options.

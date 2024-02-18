@@ -29,23 +29,23 @@ intro:
       svcimg: /images/blue-mfg.jpg
       summary: "Quiet and careful, one room at a time - on your schedule."
       link: /office-painting-experts/
-#cta:
-#  title: "Earning Kansas City's trust for over 17 years."
-#  headline: "Prompt and Reliable"
-#  description: "Give us a call. We're ready for your project."
-#  phone: "1-816-805-4515"
-#  show: true # turn to false to hide
-#  image: "/images/bg/cnlake.webp"
-#about:
-#  headline: "Who we are"
-#  title: "Same. Local. Owners."
-#  subtitle: "We make it easy"
-#  description: "Prompt and courteous painters deliver on clear proposals."
-#  show: true # turn to false to hide
-#  image: "/images/bg/cn-mist-trees.webp"
-#  cta:
-#    url: "/book-us"
-#    label: "Let's get started"
+cta:
+  title: "Earning Kansas City's trust for over 17 years."
+  headline: "Prompt and Reliable"
+  description: "Give us a call. We're ready for your project."
+  phone: "1-816-805-4515"
+  show: true # turn to false to hide
+  image: "/images/bgcanadalake.webp"
+about:
+  headline: "Who we are"
+  title: "Same. Local. Owners."
+  subtitle: "We make it easy"
+  description: "Prompt and courteous painters deliver on clear proposals."
+  show: true # turn to false to hide
+  image: "/images/kcmo.webp"
+  cta:
+    url: "/book-us"
+    label: "Let's get started"
 ## Cabinet section breaks home page ##
 #    - title: Cabinets
 #      svcimg: /images/cabinets/c-glass-splash.jpg

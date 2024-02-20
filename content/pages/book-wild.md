@@ -9,4 +9,3 @@ index: false
 ---
 
 {{< book-form "<https://cwp-wildcard.youcanbook.me/>" >}}
-

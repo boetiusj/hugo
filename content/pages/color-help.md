@@ -23,9 +23,10 @@ A good color consultant can blend existing materials (brick, stone, sofa cushion
 
 > One thing to miss just a bit on your living room color, quite another make that same mistake on an entire exterior.
 
-There are several color professional options; it's important to work with someone that specifically has exterior experience. It's one thing to miss just a bit on your living room color, quite another make that same mistake on an entire exterior.
+There are several color professional options; it's important to work with someone that specifically has exterior experience. It's one thing to miss just a bit on your living room color, quite another make that same mistake on an entire exterior. [This article](/color-it-beautiful/) is another helpful overview of paint colors.
 
 ### Color Options
+
 Not sure where to start with color options? Try these online tools: [Sherwin Williams Color Visualizer](https://www.sherwin-williams.com/visualizer#/active/default) and [Benjamin Moore's Color Gallery](https://www.benjaminmoore.com/en-us/paint-colors) are both helpful color tools.  They are good guides, but it's still best to put paint on the wall rather than rely on a computer monitor.
 
 [Samplize](https://shop.samplize.com/?rfsn=6449081.224142&utm_source=refersion&utm_medium=affiliate&utm_campaign=6449081.224142) will ship full sheet color samples to your door Next Day. Like large post-it notes,you can move from location to location without damage to existing walls. That way you can see colors in different light at different times of day.

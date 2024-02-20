@@ -9,9 +9,13 @@ index: true
 ---
 ![interior paint living room kansas city](/images/interior/entry-stairs.jpg)
 
-## Interior Painting
+## Interior Painting Estimate
+
+A clear understanding of the project is an important first step. What is the customer's vision? Which details are important - and which are not? We'll measure each room, markup photos and make sure everybody shares the same expectations.
 
 You can expect a positive experience: a clear proposal, clear expectations and a clearly friendly and respectful crew. There are [plenty of ideas for choosing colors](/color-help/), too. We'll keep an organized work area and tidy up at the end of each day - you’ll be delighted with the results.
+
+![interior painting](/interior/ballusters.jpg)
 
 ### The Interior Paint Process
 

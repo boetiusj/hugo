@@ -8,17 +8,21 @@ date: "2011-08-28"
 index: true
 ---
 
-![Apples to Apples comparison](/images/ApplesOranges_opt.jpg)
+![Apples to Apples comparison](/images/applesoranges.webp)
 
 Important to ask "How confident am I that this contractor can do what he says?"
 
 Cover these points with each painter you interview – you’ll soon have a good idea who will provide the work you’re after.
+
+![fountain room](/images/interior/fountainrm.jpg)
 
 ## Prep Work Is Critical
 
 The single most important part of a quality paint job. Some homes require more prep time than painting time. A careful, methodical and systematic approach will maximize the performance benefits of high quality materials. Will they pressure wash to clean dirt, or also to remove paint (spray tip and technique matter)?
 
 Use backer rod for large gaps (good), or just fill with caulk (bad)? Use sharp scrapers or dull putty knives to remove paint? Attention to detail is essential to the final result. Most homeowners won’t know about shortcuts taken with tedious prep work until well after their check has been cashed.
+
+![modern stairway](/images/interior/Modern-Stairway.jpg)
 
 ## Paint Quality
 
@@ -32,11 +36,15 @@ Materials are often not included. This is a huge unknown for the homeowner – n
 
 > Workman’s comp insurance is required by law; liability insurance is required by common sense. Some painters have neither.
 
+![painted apartment building](/images/exterior/brick-apartment.jpg)
+
 A low materials estimate makes the bid looks better; accurate materials estimates do not. Proposals that include the cost of materials bet on the painters' expertise and give the homeowner a better view of their final cost.
 
 ### The Deal Breaker
 
 Workman’s compensation insurance is required by law; liability insurance is required by common sense. Some painters have neither. No homeowner wants an uninsured worker slipping off a high ladder. Make sure your painter can document that he and his employees are properly insured – a certificate of insurance issued for your specific project at your specific address is routine for commercial insurance carriers. Subcontractors? Each individual worker needs to have his own current, up to date certificate.
+
+![KC mural](/images/city/mural-kc.jpg)
 
 ### Top-Notch Work
 
@@ -48,4 +56,4 @@ A professional crew can paint most houses in less than 2 weeks. If you've hired 
 
 ### Extras
 
-A Porta-Potty is a thoughtful touch that most painters don’t consider (easier to sneak behind the garage). Trash bags for daily pick-up, no blaring music, no foul language, professional attire, tarps on the driveway prevent permanent reminders of your paint project – these small details do make a difference.
+Trash bags for daily pick-up, no blaring music, no foul language, professional attire, tarps on the driveway prevent permanent reminders of your paint project – these small details do make a difference.

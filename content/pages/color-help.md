@@ -1,5 +1,5 @@
 ---
-title: "What Color Should I Paint My Living Room?"
+title: "What Color Should I Paint My House?"
 url: "color-help"
 description: "Choose the right colors for your home - with confidence. The right resources make it easy."
 keywords: "house paint, colors, living room color, exterior colors, kansas city, crestwood painting"
@@ -9,7 +9,7 @@ coverImage: "arts-crafts-house.jpg"
 index: true
 ---
 
-[![choose paint colors kansas city crestwood painting](/images/House-shingle-gable_opt.jpg)](/images/house-shingle-gable.webp)
+[![choose paint colors kansas city crestwood painting](/images/house-shingle-gable.webp)](/images/house-shingle-gable.webp)
 
 Professional help means you can see “new” colors before work even gets started.
 

@@ -14,7 +14,7 @@ index: true
 
 Painting is the most cost-effective way to transform and beautify your Kansas City home. Choose a house painter with a proven track record, [rave online reviews](/reviews/) and the business skill to deliver a glitch-free experience.
 
-- Color change? No problem.
+- Color change? No problem, there are [great color ideas here](color-help.md)
 - Clean, straight lines enhance architectural detail
 - Thorough, methodical prep lasts longest
 - [Certified painters](/lead-paint-certification-important/) mean safe work practices

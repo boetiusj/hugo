@@ -11,7 +11,7 @@ index: true
 
 ## Interior Painting
 
-You can expect a positive experience: a clear proposal, clear expectations and a clearly friendly and respectful crew. We'll keep an organized work area and tidy up at the end of each day. You’ll be delighted with the results.
+You can expect a positive experience: a clear proposal, clear expectations and a clearly friendly and respectful crew. There are [plenty of ideas for choosing colors](/color-help/), too. We'll keep an organized work area and tidy up at the end of each day - you’ll be delighted with the results.
 
 ### The Interior Paint Process
 

@@ -28,7 +28,7 @@ Images - I'd like to take advantage of Hugo's image processing through _render-i
 3. Remove plugins and related css etc. files
   - ~~animate-css ~~
   - ~~counterup ~~
-  - fontawesome
+  - ~~fontawesome~~
   - ~~magnific-popup ~~
   - ~~slick ~~
   - ~~themify~~
@@ -70,6 +70,7 @@ Looks like this is happening at line 21 of index.js, use zip "64113" for testing
 ## G services
 - [System fonts](https://www.youtube.com/watch?v=K_QRFhpsTsc&list=PLnur5_dvCveGQtaSkjP0i-Fege25r5dHs) replace Google fonts
 - [hCaptcha](https://www.hcaptcha.com/) added to form submission
+- Captcha for forms AND YCB?
 - [Google Analytics](umami.is) --> umami
   - [Use lite GA code](https://www.jotform.com/blog/leverage-browser-caching-98814/)
 - [Maptiler](maptiler.com) instead of GMaps?

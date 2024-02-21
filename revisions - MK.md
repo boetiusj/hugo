@@ -111,7 +111,7 @@ Looks like this is happening at line 21 of index.js, use zip "64113" for testing
 - [ ] 404 Page
   - image from frontmatter image: "-"
   - mobile view single column
-  - [good resource](https://digitaldrummerj.me/hugo-create-404-page/)
+  - [good resource](<https://digitaldrummerj.me/hugo-create-404-page/)
 - YouCanBook.me: booking form hidden fields - inline (City, St 12345) rather than current new line each field?
 - Payments: new Paypal button, Zeele or Melio?
 
@@ -135,14 +135,15 @@ ___
 11. 404 page:
     - ~~list blog pages index: true, each with small (80px?) img and page Title (no date). [range where](https://discourse.gohugo.io/t/using-range-where-with-front-matter-values/18575) info here~~
 
-    
-- - - - - - - - - - - - - - - - - - - - - - - - 
+---
+
 Round 1 (Feb 6, '23)
+
 1. Create work environment in Git - https://github.com/boetiusj/hugo-dev
   All files - Hugo, theme and data - stored on Git
 2. Replicate my existing site (crestwoodpainting.com) in Hugo
-Files are here: https://drive.google.com/drive/folders/1yZI2-neeic5eqPe5vvZ93Sjc3jv4EKft?usp=sharing
-Markdown homepage, footer, etc. here: https://drive.google.com/drive/folders/1-4Wkqa-WduF9LRAISI0Ujpy_48hQwdu4?usp=share_link
+Files are here: <https://drive.google.com/drive/folders/1yZI2-neeic5eqPe5vvZ93Sjc3jv4EKft?usp=sharing>
+Markdown homepage, footer, etc. here: <https://drive.google.com/drive/folders/1-4Wkqa-WduF9LRAISI0Ujpy_48hQwdu4?usp=share_link>
 Completed Feb 10, '23
 
 Round 2
@@ -172,7 +173,7 @@ Round 2
 
 Round 3
 Implement existing calendar booking button functionality. There are two site pages for customer bookings:
-     Direct - http://crestwoodpainting.com/book-us/
-     Call Center - http://crestwoodpainting.com/call-center/
+     Direct - <http://crestwoodpainting.com/book-us>/
+     Call Center - <http://crestwoodpainting.com/call-center>/
 Code differes slightly for each.
-Existing PHP and JSON files here: https://drive.google.com/drive/folders/1-ym1hPr2ECyUDeOvifeJk6fQGTt637Pq?usp=share_link
+Existing PHP and JSON files here: <https://drive.google.com/drive/folders/1-ym1hPr2ECyUDeOvifeJk6fQGTt637Pq?usp=share_link>

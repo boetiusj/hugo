@@ -15,7 +15,7 @@ A clear understanding of the project is an important first step. What is the cus
 
 You can expect a positive experience: a clear proposal, clear expectations and a clearly friendly and respectful crew. There are [plenty of ideas for choosing colors](/color-help/), too. We'll keep an organized work area and tidy up at the end of each day - you’ll be delighted with the results.
 
-![interior painting](/interior/ballusters.jpg)
+![interior painting](/images/interior/balusters.jpg)
 
 ### The Interior Paint Process
 

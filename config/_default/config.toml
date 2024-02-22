@@ -9,7 +9,7 @@ categories = ["Interior", "Exterior", "Cabinets", "Commercial"]
 tag = "tags"
 tags = ["Products", "Tips", "Color", "Best Practices"]
 disableKinds = ['robotsTXT', 'RSS']
-# added per https://www.veriphor.com/articles/link-and-image-render-hooks/
+
 [[module.mounts]]
 source = 'assets'
 target = 'assets'

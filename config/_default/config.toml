@@ -3,6 +3,13 @@ baseURL = "https://www.crestwoodpainting.com/"
 paginate = 10
 googleAnalytics = "UA-1372967-1"
 # possible conflict with disableKinds? -- enableRobotsTXT = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
+
 [taxonomies]
 category = "categories"
 categories = ["Interior", "Exterior", "Cabinets", "Commercial"]

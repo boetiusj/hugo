@@ -15,6 +15,7 @@ category = "categories"
 categories = ["Interior", "Exterior", "Cabinets", "Commercial"]
 tag = "tags"
 tags = ["Products", "Tips", "Color", "Best Practices"]
+
 disableKinds = ['robotsTXT', 'RSS']
 
 [[module.mounts]]

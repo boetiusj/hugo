@@ -33,15 +33,15 @@ Plaster and drywall repair will make your Kansas City home look fresh and clean.
 
 ### The Cost of Plaster Repair
 
-- $840 for one day of work
 - Factors: Surface condition, ceiling height, furniture, carpet, etc.
 - The cost for plaster repair in Kansas City is usually quoted as part of an [interior painting project](/interior-painter-kansas-city/)
 - Matching existing texture becomes more of an art project
+- Usually $840 for one day of work
 
 ### Plaster Material
 
-- A wide range of crack repair and plaster products mean almost every situation can be addressed - drywall, traditional plaster.
+- A wide range of crack repair and plaster products mean almost every situation can be addressed - drywall, traditional plaster and even plast moldings.
 - Professional techniques ensure a smooth surface
-- [Popcorn ceiling texture](/popcorn-ceiling-removal/) can also be removed - just ask!
+- [Popcorn ceiling texture](/popcorn-ceiling-removal/) can also be removed after it's been tested for asbestos.
 
 [![exterior painting kansas city crestwood](/images/r13-09-alexisd.webp)](/painter-reviews/)

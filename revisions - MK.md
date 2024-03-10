@@ -3,11 +3,16 @@
 Dec 1, '23
 
 - [Orig. Theme](https://github.com/themefisher/megakit-bootstrap): Themefisher Megakit Bootstrap
-- [Hugo best practrices ](https://github.com/spech66/hugo-best-practices)
+- [Hugo best practices ](https://github.com/spech66/hugo-best-practices)
 - [Responsive breakpoints](https://www.responsivebreakpoints.com/)
 - [Eric Murphy](https://ericmurphy.xyz/blog/), [Youtube](https://www.youtube.com/@EricMurphyxyz/search?query=hugo)
 - [G Bard](https://bard.google.com/chat)
-- [Loop through contnet](https://www.markusantonwolf.com/blog/loop-through-sorted-content-in-hugo/)
+- [Loop through content](https://www.markusantonwolf.com/blog/loop-through-sorted-content-in-hugo/)
+- [render-Ryan Fleck](https://ryanfleck.ca/2023/perfected-image-rendering-in-hugo/)
+- [render Pixelswap](https://pixelswap.fr/entry/how-to-optimize-image-rendering-with-hugo/)
+- [render Stereobooster](https://stereobooster.com/posts/hugo-ideal-image/)
+- [render Bryce Wray](https://www.brycewray.com/posts/2023/04/better-code-image-processing-hugo/)
+
 
 ## Performance
 

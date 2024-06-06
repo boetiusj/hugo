@@ -13,7 +13,7 @@ tags:
   - painters
 ---  
 
-[why painters wear whites]("/images/painters-whites.webp")
+[why painters wear whites](/images/painters-whites.webp)
 There is no single answer. Grizzled old union painters as well as younger pros all agree that professional painters in Kansas City wear "painters whites" - but there doesn't seem to be a clear history. Here are some theories:
 
 - Whites distinguish painters from other trades.

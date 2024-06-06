@@ -14,20 +14,20 @@
 
 								{{ .Content }}
 								<div class="tag-option mt-5 d-block d-md-flex justify-content-between align-items-center">
-                  {{ partial "blog/share" . }}
+                  {{ partial "blog/share.html" . }}
 								</div>
 							</div>
 						</div>
 					</div>
 
-				{{ partial "blog/pager" . }}
+				{{ partial "blog/pager.html" . }}
 
 				{{ if site.Params.comments.enable }}
-					{{ partial "blog/comments" . }}
+					{{ partial "blog/comments.html" . }}
 				{{ end }}
 				</div>
 			</div>
-      {{ partial "blog/sidebar" . }}
+      {{ partial "blog/sidebar.html" . }}
 		</div>
 	</div>
 </section>

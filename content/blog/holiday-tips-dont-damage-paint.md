@@ -6,7 +6,7 @@ keywords: "holiday damage paint kansas city crestwood"
 canonical: "https://crestwoodpainting.com/holiday-tips-dont-damage-paint/%20"
 date: "2012-12-07"
 index: true
-image: "-"
+image: "/images/3M-Delicate-Surface.jpg"
 categories:
   - "painting-tips"
 tags:

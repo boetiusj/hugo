@@ -6,7 +6,7 @@ keywords: "paint prep cleaning crestwood painting"
 canonical: "https://crestwoodpainting.com/kut-the-krud/"
 date: "2012-08-13"
 index: true
-image: "-"
+image: "/images/krudkutter.webp"
 categories:
   - "painting-tips"
 tags:

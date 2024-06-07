@@ -6,7 +6,7 @@ keywords: "painting kansas city crestwood"
 canonical: "https://crestwoodpainting.com/what-kind-painting/"
 date: "2013-09-23"
 index: true
-image: "-"
+image: "/images/painted-small-ranch.webp"
 categories:
   - "painting-reviews"
 tags:

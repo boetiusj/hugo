@@ -6,7 +6,7 @@ keywords: "-"
 canonical: "https://crestwoodpainting.com"
 date: "2013-10-23"
 index: true
-image: "-"
+image: "images/bath-color.webp"
 categories:
   - "color-choices"
 tags:

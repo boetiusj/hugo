@@ -6,7 +6,7 @@ keywords: "paint colors test"
 canonical: "https://crestwoodpainting.com/how-to-test-paint-colors/"
 date: "2013-03-19"
 index: true
-image: "-"
+image: "/images/colors.webp"
 categories:
   - "painting-tips"
 tags:
@@ -31,4 +31,4 @@ A paint chip is ink on paper, so it’s best to see how the paint color looks in
 7. When testing exterior colors, paint a large test board. See how it looks on all sides of the house.
 8. Stand back, and look at it from the street. Imagine how the color will “grow” when it’s magnified by square footage.
 
-If you feel overwhelmed looking at paint chips, take the guesswork out of choosing paint colors by working with a color consultant. Questions? Call Diane Stewart at 913-284-6621.
+If you feel overwhelmed looking at paint chips, take the guesswork out of choosing paint colors by working with a color consultant.

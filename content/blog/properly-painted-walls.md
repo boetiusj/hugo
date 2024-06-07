@@ -6,7 +6,7 @@ keywords: "interior painting properly painted walls"
 canonical: "https://crestwoodpainting.com/properly-painted-walls/"
 date: "2012-12-17"
 index: true
-image: "-"
+image: "/images/wall-painting.webp"
 categories:
   - "painting-tips"
 tags:

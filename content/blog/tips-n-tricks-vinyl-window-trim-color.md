@@ -6,7 +6,7 @@ keywords: "-"
 canonical: "https://crestwoodpainting.com"
 date: "2013-11-21"
 index: true
-image: "-"
+image: "/images/white-wall-tire.webp"
 categories:
   - "painting-tips"
 tags:

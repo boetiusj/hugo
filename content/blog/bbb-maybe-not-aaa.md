@@ -6,7 +6,7 @@ keywords: "- "
 canonical: "https://crestwoodpainting.com"
 date: "2013-09-20"
 index: true
-image: "-"
+image: "/images/BBBaccredited_opt-185x300.jpg"
 categories:
   - "how-to-hire-painter"
 tags:

@@ -6,7 +6,7 @@ keywords: "- "
 canonical: "https://crestwoodpainting.com"
 date: "2013-03-04"
 index: true
-image: "-"
+image: "/images/imag0145.webp"
 categories:
   - "general"
   - "how-to-hire-painter"

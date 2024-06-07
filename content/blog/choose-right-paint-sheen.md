@@ -42,7 +42,9 @@ Sheen is another way to say "light reflectance". Kitchen cabinets are usually hi
 - Paint is more porous and so can be more difficult to clean
 - High quality flat paint always outperforms lower quality
 
-### [![paint sheens interior kansas city](/images/Paint-Sheens_opt.jpg "How Paint Sheens Reflect Light Differently")](/2013/01/Paint-Sheens_opt.jpg)Egg-Shell, Satin, Semi-Gloss, Gloss, High Gloss
+![paint sheens interior kansas city](/images/Paint-Sheens_opt.jpg "How Paint Sheens Reflect Light Differently")
+
+### Egg-Shell, Satin, Semi-Gloss, Gloss, High Gloss
 
 - Enhance surface imperfections through reflection
 - Somewhat easier to clean because the surface is less porous

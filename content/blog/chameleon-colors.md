@@ -6,14 +6,10 @@ keywords: "paint colors kansas city"
 canonical: "https://crestwoodpainting.com/chameleon-colors/"
 date: "2016-02-02"
 index: true
-image: "/images/color-chips.webp"
+image: /images/color-chips.webp
 categories:
-  - "general"
+  - "interior"
 tags:
-  - "blue"
-  - "color-testing"
-  - "contrasting-colors"
-  - "neutral-colors"
 ---
 
 We transformed the [inside of a nice Brookside home](/interior-painter-kansas-city/) and the homeowner ran into exactly what's described here: colors that on one wall or time of day looked completely different than another. The homeowner was surprised, but Debby Zimmer at Paint Quality Institute explains what's going on:

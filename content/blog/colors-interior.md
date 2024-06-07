@@ -6,7 +6,7 @@ keywords: "paint colors interior kansas city"
 canonical: "https://crestwoodpainting.com/colors-interior/"
 date: "2013-02-27"
 index: true
-image: "/images/IMG_0889.gif"
+image: "/images/interior/balusters.jpg"
 categories:
   - "color-choices"
 tags:
@@ -16,7 +16,7 @@ tags:
   - "neutral-colors"
 ---
 
-![Interior paint colors neutral colors kansas city painter crestwood painting](/images/IMG_0889.gif) Neutral colors in a traditional home.
+![Interior paint colors neutral colors kansas city painter crestwood painting](/images/interior/balusters.jpg) Neutral colors in a traditional home.
 
 Another update from Kansas City color consultant Diane Stewart at [Color Sense Consulting](http://www.colorsenseconsulting.com/). Interior colors can be tricky and, as Diane points out, too often a generic off-white is the not-quite-best choice. Here's Diane Stewart:
 

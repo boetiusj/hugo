@@ -6,7 +6,7 @@ keywords: "Paint sheen color crestwood painting"
 canonical: "https://crestwoodpainting.com/choose-right-paint-sheen/"
 date: "2013-01-28"
 index: true
-image: "images/Sheen-Stripes_opt-199x300.jpg"
+image: "/images/Sheen-Stripes_opt-199x300.jpg"
 categories:
   - "painting-tips"
 tags:

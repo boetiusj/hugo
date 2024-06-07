@@ -6,7 +6,7 @@ keywords: "color house painting kansas city crestwood"
 canonical: "https://crestwoodpainting.com/color-year-2014/"
 date: "2014-01-17"
 index: true
-image: "images/color-year.webp"
+image: "/images/color-year.webp"
 categories:
   - "color-choices"
 tags:

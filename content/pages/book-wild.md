@@ -8,4 +8,4 @@ date: "2024-01-19"
 index: false
 ---
 
-{{< book-form "<https://cwp-wildcard.youcanbook.me/>" >}}
+{{< book-form-wild >}}

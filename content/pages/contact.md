@@ -21,7 +21,6 @@ ___
 
 [Warranty Info](/warranty/) - we stand behind our work
 ___
-Mailing address:\
-Crestwood Painting\
-236 W 73rd Terr\
+Located in:\
+Waldo / Brookside\
 Kansas City, MO 64114

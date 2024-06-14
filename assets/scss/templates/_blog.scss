@@ -82,10 +82,10 @@ blockquote, .quote {
 blockquote::before, .quote::before {
   content: '';
   width: 55px;
-  height: 2px;
+  height: 10px;
   background: $primary-color;
   position: absolute;
-  top: 25px;
+  top: 10px;
   left: 0;
   @include tablet {
     top: 5px;

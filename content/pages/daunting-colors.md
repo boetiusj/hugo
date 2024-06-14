@@ -14,8 +14,6 @@ It's easy to choose between red and blue - it's very tough to choose just the ri
 
 ## Choosing the Right Paint Colors is Daunting
 
-By ANN WEBER, Toledo Blade
-
 If you're planning to paint the exterior of your house, one of the most important things you need to know has nothing to do with scraping, caulking and priming.
 
 "Don't believe the paint chip. Never believe the paint chip," warns historic-color specialist Robert Schweitzer of Ann Arbor, Mich., who tells the story about a homeowner who handed her painter what she thought was a gray chip, left town and returned to find her house was lavender.
@@ -76,3 +74,5 @@ Schweitzer said his fee is $550 for home color consulting, which includes diagra
 Sometimes the translation gets garbled because the proportion of body color differs so much from one house to another. A deep pumpkin might look great on a house with only 30 percent of the body color showing on the front of the house. But cover 80 percent of the front of the house in that color, and it'll look like the world's biggest jack-o'-lantern.
 
 Take pictures of your house and study them, he suggests. What percentage is the roof color, the body color, trim and accents? "Break down the pieces," Schweitzer said.
+
+By ANN WEBER, Toledo Blade

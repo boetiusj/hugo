@@ -11,6 +11,42 @@ Real customer reviews for interior, exterior, cabinet and office painting. [Vide
 
 > I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed. *Melissa J*
 
+**Communication, timeliness, cleanliness**
+5/2024
+Crestwood painting was easy to work with and did a grade A+++ job on our home. From the initial consultation and bid until the job was completed they were excellent. We were impressed with the quality of communication, timeliness, attention to detail, job site organization and cleanliness, and of course the final product came out great. The crew is friendly and professional. Happy to recommend Crestwood Painters and will use them again for our painting needs.
+Jeremy J.
+
+**Very pleased**
+4/2024
+Very pleased with the work. Would use Crestwood again.
+Charlie G.
+
+**Hassle free**
+3/2024
+Good job. Good customer service. Hassle free.
+Ned K.
+
+**Every detail is nailed**
+3/2024
+I can’t recommend Crestwood enough. They are efficient, professional, and make sure every detail is nailed. Mike was incredibly easy to work with and made sure everything was done right.
+Jake K.
+
+**Completed in a timely manner**
+3/2024
+Great experience working with Crestwood Painting and are very happy with our exterior project for our historic house. Mike was patient as we took a while to decide when to move forward. Thorough and fair quote. Work was completed in a timely manner. Mike was easy to communicate with throughout the entire process. And our house looks absolutely beautiful!
+Also recommend doing the free Sherwin Williams consult - gave us great ideas.
+Kristin W.
+
+**FIVE Stars**
+3/2024
+Five STARS!
+Janna C.
+
+**Friendly and professional**
+2/2024
+I asked Mike over for a quote on wallpaper removal. He seemed very knowledgeable about the walls and wallpaper in my home, and gave great information during the quoting process. Mike was very friendly and professional. Thank you!
+Lizzy F.
+
 **Highly recommend**
 11/2023
 Perfection when it came to filling holes, repairing cracks and painting.   The Crestwood team worked efficiently so completed the project within the time frames required.  Did not have to worry at all about the quality-highly recommend!

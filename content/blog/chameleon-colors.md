@@ -6,7 +6,7 @@ keywords: "paint colors kansas city"
 canonical: "https://crestwoodpainting.com/chameleon-colors/"
 date: "2016-02-02"
 index: true
-image: /images/color-chips.webp
+image: "/images/color-chips.webp"
 categories:
   - "interior"
 

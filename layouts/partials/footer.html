@@ -48,7 +48,7 @@
           <div class="logo mb-4">
             {{ partial "nav/logo" . }}
           </div>
-          <h6><a href="mailto:{{ $config.email }}">Send Us a Note</a></h6>
+          <h5><a href="mailto:{{ $config.email }}">Send Us a Note</a></h5>
           <a href="tel:{{ $config.phone }}">{{ $config.phone }}</span></a>
           <p>Waldo / Brookside <br>Kansas City, MO 64114</p>
         </div>
@@ -67,7 +67,7 @@
             <!--<li class="list-inline-item"><a href="/images/logo-waldo-kc.webp" alt="logo waldo business association" src="https://www.waldokc.org/about/history" style="width:100px;" </a></li> -->
             {{ range $config.socials }}
             <li class="list-inline-item">
-              <a href="{{ .profile }}">
+              <a href="{{ .profile }}" aria-label="{{ .icon }}">
                 {{ $image := resources.Get (printf "images/svg/%s.svg" .icon) }}
                 <span class="svg-h-13 mr-2"> {{ $image.Content | safeHTML }} </span>
               </a>

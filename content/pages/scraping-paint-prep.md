@@ -3,7 +3,7 @@ title: "What Kind Of Paint Scraping?"
 url: "scraping-paint-prep"
 description: "All about proper painting prep work - what you should look for, what you should expect."
 keywords: "-"
-canonical: "https://crestwoodpainting.com/scraping-paint-prep-kansas-city/"
+canonical: "https://crestwoodpainting.com/scraping-paint-prep/"
 date: "2011-08-28"
 index: true
 ---

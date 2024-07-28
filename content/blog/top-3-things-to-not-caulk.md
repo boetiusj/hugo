@@ -16,7 +16,7 @@ tags:
 ---
 ![Caulk kansas city painter crestwood](/images/caulk-here.webp) Sealing moisture out is perfect around doors and windows but sealing moisture in can grow mold and rot.
 
-Caulk is, in terms of aesthetics, the most important part of [prepping for exterior painting](/scraping-paint-prep-kansas-city/). It makes for a smooth, seamless appearance - no gaps between trim boards or hairline cracks in stucco. Caulk also protects from moisture infiltration.
+Caulk is, in terms of aesthetics, the most important part of prepping for exterior painting. It makes for a smooth, seamless appearance - no gaps between trim boards or hairline cracks in stucco. Caulk also protects from moisture infiltration.
 
 Crack sealing (wood or stucco) should not be very noticeable. It's often done poorly and looks like a finger dragged across a blob of caulk. Which is exactly the cave-man type of repair that is so common. Ideally, a detail-oriented painter will remove excess caulk with a damp rag for a neater appearance.
 

@@ -1,5 +1,8 @@
 #### Revisions
 
+July '24
+- [Schema update](https://tekki-tipps.de/en/hugo-schemas-seo/)
+
 Dec 1, '23
 
 - [Orig. Theme](https://github.com/themefisher/megakit-bootstrap): Themefisher Megakit Bootstrap

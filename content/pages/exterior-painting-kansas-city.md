@@ -17,7 +17,7 @@ Painting is the most cost-effective way to transform and beautify your Kansas Ci
 - Color change? No problem, there are [great color ideas here](color-help.md)
 - Clean, straight lines enhance architectural detail
 - Thorough, methodical prep lasts longest
-- [Certified painters](/lead-paint-certification-important/) mean safe work practices
+- [Certified painters](/lead-paint-certification/) mean safe work practices
 
 ![exterior paint green ranch](/images/exterior/x-greenranch.webp)
 
@@ -25,7 +25,7 @@ Painting is the most cost-effective way to transform and beautify your Kansas Ci
 
 - Set up a tidy, out-of-the-way work area
 - Carefully tarp to catch debris
-- [Heavily scrape](/scraping-paint-prep-kansas-city/) back to a tight surface
+- [Heavily scrape](/scraping-paint-prep/) back to a tight surface
 - Wash as needed to remove dirt, nests, etc.
 - Prime bare wood for good adhesion
 - Professional techniques ensure clean lines and no drips

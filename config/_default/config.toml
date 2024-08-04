@@ -1,5 +1,5 @@
 title = "Crestwood Painting"
-baseURL = "https://www.crestwoodpainting.com/"
+baseURL = "https://crestwoodpainting.com/"
 paginate = 10
 timeout = "100s"
 googleAnalytics = "UA-1372967-1"

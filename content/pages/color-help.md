@@ -23,7 +23,7 @@ A good color consultant can blend existing materials (brick, stone, sofa cushion
 
 > One thing to miss just a bit on your living room color, quite another make that same mistake on an entire exterior.
 
-There are several color professional options; it's important to work with someone that specifically has exterior experience. It's one thing to miss just a bit on your living room color, quite another make that same mistake on an entire exterior. [This article](/color-it-beautiful/) is another helpful overview of paint colors.
+There are several color professional options; it's important to work with someone that specifically has exterior experience. It's one thing to miss just a bit on your living room color, quite another make that same mistake on an entire exterior. This article is another helpful overview of paint colors.
 
 ### Color Options
 

@@ -1,4 +1,14 @@
 <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y229K0TNJR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y229K0TNJR');
+</script>
+
+<!-- OLD Google tag replaced 8-5-24 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-37762623-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -7,5 +17,4 @@
 
   gtag('config', 'UA-37762623-1');
 </script>
-
-
+-->

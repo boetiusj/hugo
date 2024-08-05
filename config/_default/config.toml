@@ -2,7 +2,7 @@ title = "Crestwood Painting"
 baseURL = "https://crestwoodpainting.com/"
 paginate = 10
 timeout = "100s"
-googleAnalytics = "UA-1372967-1"
+googleAnalytics = "G-Y229K0TNJR"
 # possible conflict with disableKinds? -- enableRobotsTXT = false
 
 [markup]

@@ -3,7 +3,6 @@ baseURL = "https://crestwoodpainting.com/"
 paginate = 10
 timeout = "100s"
 googleAnalytics = "G-Y229K0TNJR"
-# possible conflict with disableKinds? -- enableRobotsTXT = false
 
 [markup]
   [markup.goldmark]
@@ -17,7 +16,8 @@ categories = ["Interior", "Exterior", "Cabinets", "Commercial"]
 tag = "tags"
 tags = ["Products", "Tips", "Color", "Best Practices"]
 
-disableKinds = ['robotsTXT', 'RSS']
+disableKinds = ['RSS']
+# 'robotsTXT' removed
 
 [[module.mounts]]
 source = 'assets'

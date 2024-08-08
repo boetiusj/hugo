@@ -6,7 +6,7 @@ keywords: "Paint sheen color crestwood painting"
 canonical: "https://crestwoodpainting.com/choose-right-paint-sheen/"
 date: "2013-01-28"
 index: true
-image: "/images/Sheen-Stripes_opt-199x300.jpg"
+image: "/images/sheen-stripes.webp"
 categories:
   - "painting-tips"
 tags:
@@ -28,7 +28,7 @@ tags:
   - "trim"
 ---
 
-![Paint sheen crestwood interior](/images/Sheen-Stripes_opt-199x300.jpg "Wall With Low and High Sheen Stripes") Sheen describes the amount of light reflected.
+![Paint sheen crestwood interior](/images/sheen-stripes.webp "Wall With Low and High Sheen Stripes") Sheen describes the amount of light reflected.
 
 Everybody knows about color; not many know about sheen. But it is just as  important when choosing paints. So here we go!
 

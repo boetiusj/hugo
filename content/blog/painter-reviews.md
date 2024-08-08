@@ -6,7 +6,7 @@ keywords: "house painting review, Crestwood Painting, Kansas City"
 canonical: "https://crestwoodpainting.com/painter-reviews/"
 date: "2012-12-31"
 index: true
-image: "/images/rave-reviews.webp"
+image: "/images/mural-royals.jpg"
 categories:
   - "painting-reviews"
 tags:
@@ -14,7 +14,7 @@ tags:
   - "online-reviews"
   - "painters"
 ---
-![Reviews, Referrals, feedback - crestwood painting kansas city](/images/rave-reviews.webp) Our customers are our best advertisement!
+![Reviews, Referrals, feedback - crestwood painting kansas city](/images/mural-royals.jpg) Our customers are our best advertisement!
 
 This was a nice treat on New Years Eve - [positive feedback](/reviews/) from a lady that _didn't_ hire us! Proposal sent in Feb.,  last contact was mid-March - then this arrived in December. Fortunately, [Crestwood Painting customers](/video-testimonials/) don't have this kind of experience.
 

@@ -6,14 +6,14 @@ keywords: "paint contractor, insurance, uninsured, Crestwood Painting, Kansas Ci
 canonical: "https://crestwoodpainting.com/top-5-uninsured-contractor-questions/"
 date: "2013-09-28"
 index: true
-image: "/images/scream.webp"
+image: "/images/sketchy.webp"
 categories:
   - "how-to-hire-painter"
 tags:
   - "painting-insurance"
 ---
 
-![uninsured paint contractor](/images/scream.webp)
+![uninsured paint contractor](/images/sketchy.webp)
 What happens if you hire an uninsured contractor? A few pointed questions to your agent and you'll soon see who pays if you hire an uninsured contractor - you do. Almost always. A Farm Bureau Insurance agent offered some specific cases that are very helpful.
 
 Q. What if your contractor's ladder falls on your convertible - who pays for what?

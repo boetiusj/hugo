@@ -7,7 +7,7 @@ date: "2011-05-04"
 hero:
   headline: No Drips, No Drama
   title: Painting Kansas City Homes & Offices
-  image: "/images/exterior/january.webp"
+  image: "/images/january.webp"
   button:
     url: "/book-us/"
     label: Book an Estimate
@@ -23,7 +23,7 @@ intro:
       link: /exterior-painting-kansas-city/
     - title: Interiors
       summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."
-      svcimg: /images/dr-orange.webp
+      svcimg: /images/dr-orange16-9.webp
       link: /interior-painter-kansas-city/
     - title: Offices
       svcimg: /images/blue-mfg.jpg

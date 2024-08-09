@@ -18,11 +18,3 @@ tags = ["Products", "Tips", "Color", "Best Practices"]
 
 disableKinds = ['RSS']
 # 'robotsTXT' removed
-
-[[module.mounts]]
-source = 'assets'
-target = 'assets'
-
-[[module.mounts]]
-source = 'static'
-target = 'assets'

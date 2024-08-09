@@ -11,6 +11,21 @@ Real customer reviews for interior, exterior, cabinet and office painting. [Vide
 
 > I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed. *Melissa J*
 
+**Did a perfect job**
+8/24
+My experience with Crestwood painting was great. The painters were on time, super Pleasant and did a perfect job. The amazing thing is my patio looks better now than when they started because they actually cleaned up stray weeds and anything else that might have been in the way of their painting. I can wholeheartedly recommend them!
+Jeff O.
+
+**respecting my preferences, my home and my belongings**
+7/24
+This professional team did an amazing job painting and respecting my preferences, my home and my belongings. They were interested in telling me what they needed and what recommendations they could make for a satisfactory result. I appreciated the way Crestwood gave me a reasonable scope of the project. The team worked great together and when a couple blips came up we were able to communicate through it to resolution. Reasonable and efficient. Thank you!
+Dawn K.
+
+**Team was on time**
+6/24
+Mike's team was on time, professional and made clean up a breeze. My house looks way better! Thank you!
+Annie S.
+
 **Communication, timeliness, cleanliness**
 5/2024
 Crestwood painting was easy to work with and did a grade A+++ job on our home. From the initial consultation and bid until the job was completed they were excellent. We were impressed with the quality of communication, timeliness, attention to detail, job site organization and cleanliness, and of course the final product came out great. The crew is friendly and professional. Happy to recommend Crestwood Painters and will use them again for our painting needs.

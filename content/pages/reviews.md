@@ -26,6 +26,8 @@ Dawn K.
 Mike's team was on time, professional and made clean up a breeze. My house looks way better! Thank you!
 Annie S.
 
+> Professional, respectful, trustworthy skilled crew. They and Mike are always responsive and attentive to questions and expressed concerns. They respect your property and clean the work area daily. The craftsmanship is worth it.
+
 **Communication, timeliness, cleanliness**
 5/2024
 Crestwood painting was easy to work with and did a grade A+++ job on our home. From the initial consultation and bid until the job was completed they were excellent. We were impressed with the quality of communication, timeliness, attention to detail, job site organization and cleanliness, and of course the final product came out great. The crew is friendly and professional. Happy to recommend Crestwood Painters and will use them again for our painting needs.
@@ -72,6 +74,8 @@ Deidra P
 Crestwood did such a great job painting our house! They were really easy to work with, got everything done on time, and communicated with us throughout the process.
 Clara S
 
+> Crestwood Painting did our living room, including our large built-ins. It turned out beautifully! I wish I would’ve had it done years ago!
+
 **Taping all surfaces and covering appliances**
 11/2023
 I hired Mike & his crew to repaint our kitchen cabinets. He was very honest with me based on the context / reason for painting, and we worked out a great deal. When the time came, his painter was on time and worked long days in order to get the work done in 3 days (the original estimate had been 5 days). They were very professional, taping all surfaces and covering appliances, lights, walls, etc. with plastic. The final result is beautiful and a huge improvement on what it was before. Would absolutely hire again!
@@ -103,6 +107,8 @@ Cheryl P
 7/2023
 Can’t recommend Crestwood painting enough! They were reliable, quick and did an amazing job.
 Emily F
+
+> Communication with the owner and job lead were both excellent.  All workers were friendly and courteous and respectful of our property.  Excellent experience!
 
 **High standards**
 6/2023

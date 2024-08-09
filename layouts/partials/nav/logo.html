@@ -2,9 +2,8 @@
 {{ $logo := site.Params.logo }}
 <a class="navbar-brand" href={{ absURL "/" }}>
   {{ if and $logo (gt (len $logo) 4) }}
-  <img src="{{ $logo }}" loading="lazy" class="nav_logo" alt="Crestwood Painting logo">
+  <img src="{{ $logo }}" class="nav_logo" alt="Crestwood Painting logo" width="200">
   {{ else }}
   {{ index $title 0 }} <span>{{ index $title 1 }}</span>
   {{ end }}
 </a>
-<!-- from img just before src - width="180" height="42" -->

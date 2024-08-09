@@ -6,7 +6,7 @@ keywords: "paint color interior trim crestwood"
 canonical: "https://crestwoodpainting.com/tips-for-painting-trim/"
 date: "2013-07-06"
 index: true
-image: "/images/balusters.jpg"
+image: "/images/interior/balusters.jpg"
 categories:
   - "color-choices"
 tags:
@@ -17,7 +17,7 @@ tags:
   - "trim"
 ---
 
-![White Trim paint](/images/balusters.jpg)Trim color, [especially for interiors](/interior-painter-kansas-city/), often defaults to a generic "white". Color consultant Diane Stewart explains very clearly why there's more to it than meets the eye.
+![White Trim paint](/images/interior/balusters.jpg)Trim color, [especially for interiors](/interior-painter-kansas-city/), often defaults to a generic "white". Color consultant Diane Stewart explains very clearly why there's more to it than meets the eye.
 
 "Trim is often an afterthought, but it should be the right color to complement the walls. Trim is sort of like the black outline around illustrations, or piping on a fabric. It should highlight and accent the main attraction in the middle, but it’s not meant to draw attention to itself. Unfortunately, that’s just what bright white trim does. I’m not sure why this became popular, but I try to steer my clients away from it as much as possible.
 

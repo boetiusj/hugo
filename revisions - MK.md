@@ -1,5 +1,8 @@
 #### Revisions
 
+Aug '24
+- [Updated img render hook](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)
+- [Built-in render-hook code](https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/_default/_markup/render-image.html)
 July '24
 - [Schema update](https://tekki-tipps.de/en/hugo-schemas-seo/)
 

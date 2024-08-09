@@ -6,7 +6,7 @@ keywords: "paint colors, choose paint, crestwood painting"
 canonical: "https://crestwoodpainting.com/colors-relaxation/"
 date: "2013-10-04"
 index: true
-image: "/images/relaxing-paint-colors.jpg"
+image: "/images/color-chips.webp"
 categories:
   - "color-choices"
 tags:
@@ -17,7 +17,7 @@ tags:
   - "interior-painting"
 ---
 
-![blue relaxing paint color](/images/relaxing-paint-colors.jpg "Blue - Relaxing Paint Color")
+![blue relaxing paint color](/images/relaxing-paint-colors.webp "Blue - Relaxing Paint Color")
 
 This update from Kansas City color consultant Diane Stewart  gives the low-down on color - relaxing color. We've referred many customers to Diane; if you're in a color quandary please give her a call.
 

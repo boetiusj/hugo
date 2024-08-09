@@ -6,7 +6,7 @@ keywords: "paint bedroom color crestwood painting"
 canonical: "https://crestwoodpainting.com/best-bedroom-colors/"
 date: "2013-04-30"
 index: true
-image: "/bedroompaintcolors-236x300.webp"
+image: "/images/bedroompaintcolors-236x300.webp"
 categories:
   - "color-choices"
 tags:

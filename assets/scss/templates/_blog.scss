@@ -89,7 +89,7 @@ blockquote::before, .quote::before {
   left: 0;
   @include tablet {
     top: 5px;
-    width: 2px;
+    width: 8px;
     height: 35px;
   }
 }

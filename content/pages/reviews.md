@@ -16,7 +16,7 @@ Real customer reviews for interior, exterior, cabinet and office painting. [Vide
 My experience with Crestwood painting was great. The painters were on time, super Pleasant and did a perfect job. The amazing thing is my patio looks better now than when they started because they actually cleaned up stray weeds and anything else that might have been in the way of their painting. I can wholeheartedly recommend them!
 Jeff O.
 
-**respecting my preferences, my home and my belongings**
+**Respect my preferences, my home and my belongings**
 7/24
 This professional team did an amazing job painting and respecting my preferences, my home and my belongings. They were interested in telling me what they needed and what recommendations they could make for a satisfactory result. I appreciated the way Crestwood gave me a reasonable scope of the project. The team worked great together and when a couple blips came up we were able to communicate through it to resolution. Reasonable and efficient. Thank you!
 Dawn K.
@@ -189,6 +189,8 @@ Rita H
 Crestwood painting did all the interior walls and handrails in my new (to me) home.  Mike was easy to work with and clear about cost and timeframe.  His crew was professional and on time and left work areas tidy at the end of a day’s work.  Mike followed up to be sure I was satisfied when the job was complete.  I highly recommend Crestwood Painting and they will be my go to painters for future projects.
 Anna S
 
+< Painting an older home is filled with challenges, but I know we were in good hands with this team.
+
 **Recommend them for painting cabinets**
 1/2021
 The team members were professional, cleaning and staying organized as they go, and were considerate of our families needs and welcomed questions during the work.  The quote was accurate to the cost and planning and we are very happy with the quality of the work. I would recommend them for painting cabinets to anyone.
@@ -199,7 +201,7 @@ Alicia K
 Mike, Kadeaus, and Mason were a true pleasure to work with. Mike was extremely professional from the moment he stepped into the house (with a mask, which we appreciated) to the delivery of the bid throughout communicating changes to the bid that arose because of my hamfisted attempt to remove wallpaper before they arrived (protip - just pay Mike's crew to remove wallpaper instead of putting yourself through that misery). Kadeaus and Mason were punctual every day and did a stellar job fixing my mistakes, patching holes in our plaster walls, and painting our rooms. I'll be completely honest - after meeting Mike we didn't bother getting a second quote. I'm glad we went with Crestwood and I'd recommend them to anybody. Mike - we'll be in touch when it's time to repaint other rooms in the house.
 Jameson O
 
-**Would definitely work with them again
+**Would definitely work with them again**
 12/2020
 Well done Mike, Josh and Mason! Excellent repair of water damaged plaster ceiling. Clear communication about project, professional workmanship. Would definitely work with them again if needed.
 Elizabeth B
@@ -243,6 +245,8 @@ DJ M
 8/2020
 This is the third time we've entrusted Crestwood, Mike and Crew with the painting of our home. They have also painted the interior of our daughters home. I didn't even go out for bids because I know the quality of the work I want, and that Crestwood delivers. Professional, respectful, trustworthy skilled crew. They and Mike are always responsive and attentive to questions and expressed concerns. They respect your property and clean the work area daily. The craftsmanship is worth it.
 Javier P
+
+> On time, on budget, great results! Will definitely use Crestwood again
 
 **Honest, professional**
 4/2020

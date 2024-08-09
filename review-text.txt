@@ -1,3 +1,112 @@
+headline: Did a perfect job
+date: 8/24
+review: My experience with Crestwood painting was great. The painters were on time, super Pleasant and did a perfect job. The amazing thing is my patio looks better now than when they started because they actually cleaned up stray weeds and anything else that might have been in the way of their painting. I can wholeheartedly recommend them!
+client: Jeff O.
+
+headline: Respect my preferences, my home and my belongings
+date: 7/24
+review: This professional team did an amazing job painting and respecting my preferences, my home and my belongings. They were interested in telling me what they needed and what recommendations they could make for a satisfactory result. I appreciated the way Crestwood gave me a reasonable scope of the project. The team worked great together and when a couple blips came up we were able to communicate through it to resolution. Reasonable and efficient. Thank you!
+client: Dawn K.
+
+headline: Team was on time
+date: 6/24
+review: Mike's team was on time, professional and made clean up a breeze. My house looks way better! Thank you!
+client: Annie S.
+
+headline: Communication, timeliness, cleanliness
+date: 5/2024
+review: Crestwood painting was easy to work with and did a grade A+++ job on our home. From the initial consultation and bid until the job was completed they were excellent. We were impressed with the quality of communication, timeliness, attention to detail, job site organization and cleanliness, and of course the final product came out great. The crew is friendly and professional. Happy to recommend Crestwood Painters and will use them again for our painting needs.
+client: Jeremy J.
+
+headline: Very pleased
+date: 4/2024
+review: Very pleased with the work. Would use Crestwood again.
+client: Charlie G.
+
+headline: Hassle free
+date: 3/2024
+review: Good job. Good customer service. Hassle free.
+client: Ned K.
+
+headline: Every detail is nailed
+date: 3/2024
+review: I can’t recommend Crestwood enough. They are efficient, professional, and make sure every detail is nailed. Mike was incredibly easy to work with and made sure everything was done right.
+client: Jake K.
+
+headline: Completed in a timely manner
+date: 3/2024
+review: Great experience working with Crestwood Painting and are very happy with our exterior project for our historic house. Mike was patient as we took a while to decide when to move forward. Thorough and fair quote. Work was completed in a timely manner. Mike was easy to communicate with throughout the entire process. And our house looks absolutely beautiful! Also recommend doing the free Sherwin Williams consult - gave us great ideas.
+client: Kristin W.
+
+headline: FIVE Stars
+date: 3/2024
+review: Five STARS!
+client: Janna C.
+
+headline: Friendly and professional
+date: 2/2024
+review: I asked Mike over for a quote on wallpaper removal. He seemed very knowledgeable about the walls and wallpaper in my home, and gave great information during the quoting process. Mike was very friendly and professional. Thank you!
+client: Lizzy F.
+
+headline: Highly recommend
+date: 11/2023
+review: Perfection when it came to filling holes, repairing cracks and painting.   The Crestwood team worked efficiently so completed the project within the time frames required.  Did not have to worry at all about the quality-highly recommend!
+client: Deidra P
+
+headline: Really easy to work with
+date: 11/2023
+review: Crestwood did such a great job painting our house! They were really easy to work with, got everything done on time, and communicated with us throughout the process.
+client: Clara S
+
+headline: Taping all surfaces and covering appliances
+date: 11/2023
+review: I hired Mike & his crew to repaint our kitchen cabinets. He was very honest with me based on the context / reason for painting, and we worked out a great deal. When the time came, his painter was on time and worked long days in order to get the work done in 3 days (the original estimate had been 5 days). They were very professional, taping all surfaces and covering appliances, lights, walls, etc. with plastic. The final result is beautiful and a huge improvement on what it was before. Would absolutely hire again!
+client: Alison D
+
+headline: Crew was attentive and hard working
+date: 10/2023
+review: Had a positive experience with Crestwood in painting the exterior of our home in Prairie Village.  Mike's crew was attentive and hard working....finishing in four days.   There was a few hiccups along the way but they were all resolved to our satisfaction.  I felt the pricing was fair considering the quality of their workmanship.
+client: I would recommend this company without reservation to provide quality painting services.
+Rich in Prairie Village.
+Richard S
+
+headline: Boom
+date: 8/2023
+review: Quick and efficient. Well done.
+client: Edis S
+
+headline: A great contracting experience
+date: 8/2023
+review: We couldn't be happier with the results we got using Crestwood Painting. We hired Crestwood to paint the exterior of our house this summer. They did a fantastic job, were easy to work with, professional, and clearly care about the work they are doing - this includes everyone we encountered from Crestwood. We chose them because after getting an estimate from Mike, we could tell he would be very communicative and really cares about getting things right. There are a lot of little details involved you might not think about. Mike asked a lot of questions and gave us great advice when we asked as well. It was a great contracting experience, which is not small praise!
+client: James G
+
+headline: Crew was very professional and responsive
+date: 8/2023
+review: We would recommend Crestwood, especially to those living in Brookside in an older home. They were able to repair dry rot and work with original windows. The price was fair and the crew was very professional and responsive to questions or requests. The house looked great when they were done.
+client: Cheryl P
+
+headline: Amazing
+date: 7/2023
+review: Can’t recommend Crestwood painting enough! They were reliable, quick and did an amazing job.
+client: Emily F
+
+headline: High standards
+date: 6/2023
+review: Mike, the supervisor, is honest and a clear communicator. He has high standards and facilitates the teams to deliver high quality work. If there seems to be an error, he will get it corrected. I would definitely hire the company again in the future.
+client: Tucker B
+
+headline: Helped us stay on budget
+date: 5/2023
+review: Wonderful experience with Mike. He helped my wife and I figure out the best paint and primer options for our notoriously hard to paint cedar shingled house. He also provided great design input and helped us stay on budget.
+client: When the subcontracted paint crew made mistakes, Mike was handling them before we even pointed them out. Will definitely be recommending Crestwood Painting.
+Lane E
+
+headline: Made absolutely sure we were happy
+date: 5/2023
+review: Mike and his team of painters did great work on our 3 interior rooms and made absolutely sure we were happy with the final results.
+client: They completed our project in record time, which was a delightful surprise. We would use Crestwood again for future projects.
+Karen P
+
 headline: Their work was excellent!
 date: Feb. 2023
 review: I found Crestwood Painting in a Google search. They were near me and responded quickly. Their work was excellent! And it only took 2 days for my project! Highly recommend!

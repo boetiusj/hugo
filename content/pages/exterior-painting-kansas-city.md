@@ -8,7 +8,7 @@ date: "2011-09-18"
 index: true
 ---
 
-![exterior paint gray house](/images/exterior/x-blue.jpg)
+![exterior paint gray house](/images/exterior/x-blue.webp)
 
 ## Transform & Beautify
 

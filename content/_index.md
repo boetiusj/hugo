@@ -32,8 +32,8 @@ intro:
 cta:
   title: "Earning Kansas City's trust for over 17 years."
   headline: "Prompt and Reliable"
-  description: "Give us a call. We're ready for your project."
-  phone: "1-816-805-4515"
+  description: "Book us online. We're ready for your project."
+  phone: "816-805-4515"
   show: true # turn to false to hide
   image: "/images/bgcanadalake.webp"
 about:

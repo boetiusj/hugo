@@ -17,7 +17,7 @@ tags:
   - "interior-painting"
 ---
 
-![Bedroom paint colors](/images/bedroompaintcolors.webp "Blue Bedroom") Bedrooms can be either a relaxing refuge or a nondescript place to hang your clothes - I choose relaxing refuge. Here's my favorite [color consultant](/colors-relaxation/) Diane Stewart at Color Sense Consulting:
+![Bedroom paint colors](/images/bedroompaintcolors.webp "Blue Bedroom") Bedrooms can be either a relaxing refuge or a nondescript place to hang your clothes - I choose relaxing refuge. Here's my favorite [color consultant](/colors-relaxation/) Diane Stewart on bedrooms:
 
 Your bedroom is a private place to relax, refresh, reflect, and dream. It's your refuge from the world. Creating a comfort zone before decorating public areas should be a priority, but often the reverse is true.
 
@@ -29,4 +29,4 @@ Personally, I've chosen different bedroom colors for myself depending on the tim
 
 Recognize that bedroom color in particular needs to be customized to you and your situation. Bedrooms are very special places where the mood and meaning of color may be more important than a design statement. So, the best bedroom color for you is the color that gives you what you need at the time.
 
-If you need help figuring it all out, save time, money, and energy by working with a [Color Sense Consultant](http://www.colorsenseconsulting.com/).
+If you need help figuring it all out, save time, money, and energy by working with a color consultant.

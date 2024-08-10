@@ -23,7 +23,7 @@ intro:
       link: /exterior-painting-kansas-city/
     - title: Interiors
       summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."
-      svcimg: /images/front/dr-orange-500.webp
+      svcimg: /images/dr-orange-500.webp
       link: /interior-painter-kansas-city/
     - title: Offices
       svcimg: /images/blue-mfg-500.webp

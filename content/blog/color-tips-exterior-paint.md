@@ -19,7 +19,7 @@ tags:
 ---
 ![exterior paint colors kansas city](/images/StewartAfter_opt.jpg "Home With Harmonious Colors") After: harmonious colors unify the whole.
 
-These tips from Diane Stewart, Color & Design Consultant at [Color Sense Consulting](http://www.colorsenseconsulting.com/). With this home, Diane favors softer contrasts and warmer tones that help the whole to blend with the landscape. Older homes or new, Diane consistently delights her customers through both the color process and the final results.
+These tips from Diane Stewart, Color & Design Consultant. With this home, Diane favors softer contrasts and warmer tones that help the whole to blend with the landscape. Older homes or new, Diane consistently delights her customers through both the color process and the final results.
 
 > Bright white paint for trim is overdone. It looks harsh and artificial, and causes glare in sunlight. Instead, off-white, cream, putty, or light gray will provide a softer contrast.
 

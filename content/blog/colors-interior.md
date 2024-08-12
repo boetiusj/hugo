@@ -18,7 +18,7 @@ tags:
 
 ![Interior paint colors neutral colors kansas city painter crestwood painting](/images/interior/balusters.jpg) Neutral colors in a traditional home.
 
-Another update from Kansas City color consultant Diane Stewart at [Color Sense Consulting](http://www.colorsenseconsulting.com/). Interior colors can be tricky and, as Diane points out, too often a generic off-white is the not-quite-best choice. Here's Diane Stewart:
+Another update from Kansas City color consultant Diane Stewart. Interior colors can be tricky and, as Diane points out, too often a generic off-white is the not-quite-best choice. Here's Diane Stewart:
 
 There are many things to consider when choosing [interior paint colors.](/chameleon-colors/) It may seem easier to just pick beige, white, or gray. But, if you do, it should be because it’s the right choice for the situation, not the default.
 

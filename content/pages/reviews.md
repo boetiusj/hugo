@@ -726,7 +726,7 @@ Matt P.
 
 **My personal experience was great, just like I expected**
 9/22/14
-My name is Diane Stewart, a color & design consultant, the owner of Color Sense Consulting. I have received referrals from Crestwood Painting for several years. They're the only paint company that I work with since I won't risk my professional reputation! They do a great job, and are trustworthy. I've seen their work on many homes, and have heard feedback from my clients.(I show several of the homes we've worked on together on my website, [www.colorsenseconsulting.com](http://www.colorsenseconsulting.com/).) The owner, Mike... and I know that he and his crew are dependable and responsible. My personal experience was great, just like I expected. The crew was very nice, polite, and clean. Pleasant to interact with, and I felt comfortable with them in and out of my house. The paint job looks great, and my friends and neighbors have given us lots of compliments.
+My name is Diane Stewart, a color & design consultant, the owner of Color Sense Consulting. I have received referrals from Crestwood Painting for several years. They're the only paint company that I work with since I won't risk my professional reputation! They do a great job, and are trustworthy. I've seen their work on many homes, and have heard feedback from my clients. The owner, Mike... and I know that he and his crew are dependable and responsible. My personal experience was great, just like I expected. The crew was very nice, polite, and clean. Pleasant to interact with, and I felt comfortable with them in and out of my house. The paint job looks great, and my friends and neighbors have given us lots of compliments.
 Diane S.
 
 **Did an amazing job acknowledging our concerns**

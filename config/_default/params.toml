@@ -20,7 +20,7 @@ icon = "facebook-f"
 [[socials]]
 platform = "X"
 profile = "https://x.com/CrestwoodPaint"
-icon = "twitter"
+icon = "bi bi-twitter-x"
 [[socials]]
 platform = "instagram"
 profile = "https://www.instagram.com/crestwoodpainting/"

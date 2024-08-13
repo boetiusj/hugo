@@ -10,6 +10,7 @@ logo = "/images/logo-crestwood-transp.webp"
 show = true
 url = "/book-us/"
 text = "Book an Estimate"
+image = "/images/bgCanadaLake.webp"
 [comments]
 enable = false
 [[socials]]

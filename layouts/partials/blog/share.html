@@ -12,4 +12,10 @@
       <span class="svg-h-13 mr-2"> {{ $imageTwitter.Content | safeHTML }} </span>
 		</a>
 	</li>
+	<li class="list-inline-item">
+		<a href="https://www.instagram.com/sharer/sharer.php?u={{ .Permalink }}">
+      {{ $imageInstagram := resources.Get "images/svg/instagram-svgrepo.svg" }}
+      <span class="svg-h-13 mr-2"> {{ $imageInstagram.Content | safeHTML }} </span>
+		</a>
+	</li>
 </ul>

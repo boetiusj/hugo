@@ -8,13 +8,13 @@
 	</li>
 	<li class="list-inline-item">
 		<a href="https://x.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}" >
-      {{ $imageTwitter := resources.Get "images/svg/twitter.svg" }}
+      {{ $imageTwitter := resources.Get "images/svg/twitter-x.svg" }}
       <span class="svg-h-13 mr-2"> {{ $imageTwitter.Content | safeHTML }} </span>
 		</a>
 	</li>
 	<li class="list-inline-item">
 		<a href="https://www.instagram.com/sharer/sharer.php?u={{ .Permalink }}">
-      {{ $imageInstagram := resources.Get "images/svg/instagram-svgrepo.svg" }}
+      {{ $imageInstagram := resources.Get "images/svg/instagram.svg" }}
       <span class="svg-h-13 mr-2"> {{ $imageInstagram.Content | safeHTML }} </span>
 		</a>
 	</li>

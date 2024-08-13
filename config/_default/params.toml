@@ -15,12 +15,12 @@ image = "/images/bgCanadaLake.webp"
 enable = false
 [[socials]]
 platform = "fb"
-profile = "https://www.facebook.com/CrestwoodPainting" 
+profile = "https://www.facebook.com/crestwoodpainting" 
 icon = "facebook-f"
 [[socials]]
 platform = "X"
-profile = "https://x.com/CrestwoodPaint"
-icon = "bi bi-twitter-x"
+profile = "https://x.com/crestwoodpaint"
+icon = "twitter"
 [[socials]]
 platform = "instagram"
 profile = "https://www.instagram.com/crestwoodpainting/"

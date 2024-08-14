@@ -1,6 +1,8 @@
 #### Revisions
 
 Aug '24
+- Convert frontmatter images to markdown on all blog pages and 404 page
+- Add pager 
 - [This has breakpoints](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)
 - [This finally did it](https://discourse.gohugo.io/t/conversion-to-webp/50347)
 - [Updated img render hook](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)

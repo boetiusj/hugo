@@ -8,7 +8,7 @@ date: "2012-09-07"
 index: true
 ---
 
-This Privacy Policy governs the manner in which Crestwood Painting collects, uses, maintains and discloses information collected from users (each, a "User") of the www.crestwoodpainting.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Crestwood Painting.
+This Privacy Policy governs the manner in which Crestwood Painting collects, uses, maintains and discloses information collected from users (each, a "User") of the crestwoodpainting.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Crestwood Painting.
 
 #### Personal identification information
 
@@ -47,6 +47,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 #### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Crestwood Painting www.crestwoodpainting.com 236 W. 73rd Terr, Kansas City, MO 64114 816-805-4515 info@crestwoodpainting.com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [email us](info@crestwoodpainting.com) or call 816-805-4515.
 
-This document was last updated on Nov. 1, 2020
+This document was last updated on Aug. 14, 2024

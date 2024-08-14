@@ -1,8 +1,8 @@
 #### Revisions
 
 Aug '24
-- Convert frontmatter images to markdown on all blog pages and 404 page
-- Add pager 
+- Convert frontmatter images to markdown on all blog pages and 404 page -- shortcode? [see here](https://discourse.gohugo.io/t/how-to-use-front-matter-variable-inside-content/32730) - see Hugo shortcode  and figure.
+- Add pager in single.html
 - [This has breakpoints](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)
 - [This finally did it](https://discourse.gohugo.io/t/conversion-to-webp/50347)
 - [Updated img render hook](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)

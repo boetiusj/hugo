@@ -66,6 +66,11 @@
           "title": "image",
           "name": "image",
           "type": "image"
+        },
+        {
+          "title": "index",
+          "name": "index",
+          "type": "boolean"
         }
       ]
     }
@@ -85,6 +90,9 @@
     {
       "title": "pages",
       "path": "[[workspace]]/content/pages"
+    },
+    {
+      "path": "[[workspace]]/static/plugins/slick"
     }
   ],
   "frontMatter.content.snippets": {
@@ -113,5 +121,7 @@
       "fields": []
     }
   },
-  "frontMatter.dashboard.openOnStart": true
+  "frontMatter.dashboard.openOnStart": true,
+  "frontMatter.website.host": "crestwoodpainting.com",
+  "frontMatter.git.enabled": true
 }

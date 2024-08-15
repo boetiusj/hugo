@@ -1,22 +1,24 @@
 ---
-title: "How to Choose a Paint Roller Cover"
-url: "choose-paint-roller-cover"
-description: "Tips and tricks for choosing the best roller cover for a specific painting project."
-keywords: "paint roller cover nap crestwood painting"
-canonical: "https://crestwoodpainting.com/choose-paint-roller-cover/"
-date: "2012-12-03"
+title: How to Choose a Paint Roller Cover
+url: choose-paint-roller-cover
+description: >-
+  Tips and tricks for choosing the best roller cover for a specific painting
+  project.
+keywords: paint roller cover nap crestwood painting
+canonical: https://crestwoodpainting.com/choose-paint-roller-cover/
+date: '2012-12-03'
 index: true
-image: "/images/r09-5-tonyl.webp"
+image: /images/r09-5-tonyl.webp
 categories:
-  - "painting-tips"
+  - painting-tips
 tags:
-  - "ceiling"
-  - "exterior-painting"
-  - "interior-painting"
-  - "paint-rollers"
-  - "walls"
+  - ceiling
+  - exterior-painting
+  - interior-painting
+  - paint-rollers
+  - walls
+layout: single
 ---
-
 ![Kansas City paint roller cover](/images/r09-5-tonyl.webp "Best Interior Paint Roller Cover") This is the roller cover that delivers the best results for interior painting.
 
 Like so many other things, paint roller covers can be simple but also pretty complex at the same time. Size, shape, materials and construction all play a role. Even location - [Kansas City painters](/interior-painter-kansas-city/) prefer the Purdy brand while Wooster products are generally preferred to the East. While most homeowners run to the hardware store and pick up whatever looks like it might do the job, the professionals at Crestwood Painting will weigh the many factors and choose the roller cover that will give the desired finished results. Here's what we look for.
@@ -37,6 +39,6 @@ Some roller covers will hold a lot of paint, some very little. Some will spatter
 
 ## Our Recommendation
 
-Our painters at Crestwood Painting prefer Wooster products. We most often use Wooster's Pro-DooZ (9", 1/2" knap) for walls and Woosters SuperFab (9", 1/2" knap) for ceilings. We almost never roll trim.
+Our painters at Crestwood Painting prefer Wooster products. We most often use Wooster's Pro-DooZ (9", 1/2" nap) for walls and Woosters SuperFab (9", 1/2" nap) for ceilings. We almost never roll trim.
 
 Still not sure? Give us a call and you can join our [list of delighted customers.](/painting-review/)

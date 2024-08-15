@@ -1,11 +1,12 @@
 ---
-title: "Privacy Policy"
-url: "privacy-policy"
-description: "We care about your privacy. Here's how."
-keywords: "privacy policy, Crestwood Painting, Kansas City"
-canonical: "https://crestwoodpainting.com/privacy-policy/"
-date: "2012-09-07"
+title: Privacy Policy
+url: privacy-policy
+description: We care about your privacy. Here's how.
+keywords: privacy policy, Crestwood Painting, Kansas City
+canonical: https://crestwoodpainting.com/privacy-policy/
+date: 2012-09-07
 index: true
+slug: privacy-policy
 ---
 
 This Privacy Policy governs the manner in which Crestwood Painting collects, uses, maintains and discloses information collected from users (each, a "User") of the crestwoodpainting.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Crestwood Painting.

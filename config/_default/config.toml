@@ -8,7 +8,7 @@ googleAnalytics = "G-Y229K0TNJR"
   [markup.goldmark]
     [markup.goldmark.renderHooks]
       [markup.goldmark.renderHooks.image]
-        enableDefault = true
+        enableDefault = true       
 
 [taxonomies]
 category = "categories"

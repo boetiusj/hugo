@@ -5,8 +5,9 @@ description: "Interior painting - organized jobs, tidy painters, happy customers
 keywords: "painting cost, price interior painting, bedroom, living room"
 canonical: "https://crestwoodpainting.com/interior-painter-kansas-city/"
 date: "2011-09-18"
-index: true 
+index: true
 ---
+
 ![interior paint living room kansas city](/images/interior/entry-stairs.webp)
 
 ## Interior Painting Estimate
@@ -25,7 +26,7 @@ Then, we protect: cover floors, cover furniture, even put up temporary partition
 
 Prep and paint - clean, seal, sand and prime per the written and agreed-upon Scope of Work. Then the topcoat - spray, brush or roll. Professional techniques ensure clean lines and lasting results.
 
-![living room mantel](/images/interior/brick-fp-paint.webp)
+![living room mantel](/images/interior/brick-fp-paint.jpg)
 
 ### The Cost of Interior Painting
 

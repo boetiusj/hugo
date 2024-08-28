@@ -1,5 +1,18 @@
-<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample09"
-  aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation">
+<button
+  class="navbar-toggler collapsed"
+  type="button"
+  data-toggle="collapse"
+  data-target="#navbarsExample09"
+  aria-controls="navbarsExample09"
+  aria-expanded="false"
+  aria-label="Toggle navigation"
+>
   {{ $image := resources.Get "images/svg/hamburger-menu-svgrepo-com.svg" }}
-  <span><img src="{{ $image.Permalink }}" aria-label="Toggle navigation" width="32" height="32"></span>
+  <span
+    ><img
+      src="{{ $image.Permalink }}"
+      aria-label="Toggle navigation"
+      width="32"
+      height="32"
+  /></span>
 </button>

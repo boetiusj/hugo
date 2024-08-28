@@ -2,7 +2,12 @@
 <div class="col-lg-2 col-md-4">
   <div class="header-top-socials text-center text-lg-left text-md-left">
     {{ range $config.socials }}
-    <a href="{{ .profile }}" aria-label="{{ .platform }}">
+    <a
+      href="{{ .profile }}"
+      aria-label="{{ .platform }}"
+      role="img"
+      aria-hidden="true"
+    >
       {{ $image := resources.Get (printf "images/svg/%s.svg" .icon) }}
       <span class="svg-h-13"> {{ $image.Content | safeHTML }} </span>
     </a>

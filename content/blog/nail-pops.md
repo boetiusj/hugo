@@ -1,7 +1,7 @@
 ---
 title: "Nail Pops: What You Should Know"
 url: "nail-pops"
-description: "Interior or exterior, nail pops happen. Learn how and why, and what reasonable expectations might be."
+description: "Nail pops happen - learn how and why, and what to do."
 keywords: "drywall nail pops repair painting crestwood"
 canonical: "https://crestwoodpainting.com/nail-pops/"
 date: "2014-06-20"
@@ -13,6 +13,7 @@ tags:
   - "nail-pops"
   - "prep"
 ---
+
 Exterior siding nail - properly set, no moisture infiltration
 ![nail pop crestwood painting](/images/nail-pop-surface-intact.webp)
 

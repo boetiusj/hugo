@@ -1,7 +1,7 @@
 ---
 title: "Best Colors For Relaxation"
 url: "colors-relaxation"
-description: "Color experts in Kansas City help with choosing the best paint colors - whether interior or exterior."
+description: "Some colors are relaxing - and some aren't. Learn the difference here."
 keywords: "paint colors, choose paint, crestwood painting"
 canonical: "https://crestwoodpainting.com/colors-relaxation/"
 date: "2013-10-04"
@@ -19,7 +19,7 @@ tags:
 
 ![blue relaxing paint color](/images/relaxing-paint-colors.webp "Blue - Relaxing Paint Color")
 
-This update from Kansas City color consultant Diane Stewart  gives the low-down on color - relaxing color. We've referred many customers to Diane; if you're in a color quandary please give her a call.
+This update from Kansas City color consultant Diane Stewart gives the low-down on color - relaxing color. We've referred many customers to Diane; if you're in a color quandary please give her a call.
 
 "Many people say they don’t understand color, but they’re affected by it every day whether they realize it or not. Colors evoke emotions, bring up memories, and affect moods. These responses vary, but there are some universal reactions to color.
 

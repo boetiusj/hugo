@@ -1,15 +1,24 @@
-#### Revisions
+# Revisions
 
 Aug '24
 
+- index.html - why load unneeded css? Why contain review text?
+- index.html - [purifycss](https://purifycss.online/) shows this is not used. What is purpose of "crestwoodpainting.netlify.app/css/styles.f7d452b...etc"
+- [Critical path generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
+- [Fonts](https://rednafi.com/misc/self_hosted_google_fonts_in_hugo/#fn:5) - self hosted
+- index.html in public/painter-in-olathe - assume this should be deleted?
+- extract (NitroPack?) and inline [critical css](https://web.dev/articles/extract-critical-css). Can this be done through [Netlify?](https://www.netlify.com/integrations/community-built/inline-critical-css-build-plugin/). [This GitHub](https://github.com/imsus/ultimate-hugo) Netlify template looks good. [This article](https://ruddra.com/hugo-get-perfect-pagespeed-score/) covers perfect PageSpeed scores. [This extracts critical css](https://www.corewebvitals.io/tools/critical-css-generator).
+- !![Image loading](https://www.corewebvitals.io/pagespeed/optimize-images-for-core-web-vitals) - good overview. No background images: "You can use normal image tags in combination with the CSS object-fit:cover to make normal images behave as background images!"
+- [Fix G Maps score penalty](https://www.corewebvitals.io/pagespeed/google-maps-100-percent-pagespeed)
 - render-image (images currently in assets/images):
-  - work w/ svg,
-  - need Width and Height,
-  - deliver different sizes,
+  - work w/ svg
+  - need Width and Height
+  - deliver different sizes
   - desireable to convert to webp,
-  - use latest version of render-image,
+  - compatible w/ latest stock version of render-image
 - [Schema update, address and other pages](https://www.schemaapp.com/schema-markup/how-to-do-schema-markup-for-local-business/)
 - [Schema public access?](https://stackoverflow.com/questions/56926034/schema-org-for-service-based-businesses-without-an-address) - "publicAccess": false
+- [Self host G Fonts](https://www.corewebvitals.io/pagespeed/self-host-google-fonts)
 - ?? Convert frontmatter images to markdown on all blog pages and 404 page -- shortcode? [see here](https://discourse.gohugo.io/t/how-to-use-front-matter-variable-inside-content/32730) - see Hugo shortcode and figure.
 - Add pager in single.html
 - [This has breakpoints](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)

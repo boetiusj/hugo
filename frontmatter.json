@@ -95,32 +95,7 @@
       "path": "[[workspace]]/static/plugins/slick"
     }
   ],
-  "frontMatter.content.snippets": {
-    "YouTube": {
-      "description": "",
-      "body": "{{< youtube id=\"XXXXX\" title=\"Rainy day interview, Crestwood Painting\" alt=\"crestwood painting tv interview video\" width=\"300\" frameborder=\"0\" modestbranding=\"true\">}}",
-      "fields": []
-    },
-    "Figure": {
-      "description": "Image with caption, alt and width",
-      "body": "{{< figure src=\"/images/placehold160x90.svg\" caption=\"No Title, Caption only, width 200\" alt=\"alt text doesn't appear\" width=\"200\">}}",
-      "fields": []
-    },
-    "Figure++": {
-      "description": "image with many tags",
-      "body": [
-        "{{< figure src=\"/images/placehold160x90.svg\" ",
-        "link=\"<XYZ.com/>\" ",
-        "target=\"_self\"",
-        "caption=\"No Title, Caption only, width 200\" ",
-        "alt=\"doesn't appear\" ",
-        "width=\"200\"",
-        "loading=\"lazy\"",
-        ">}}"
-      ],
-      "fields": []
-    }
-  },
+  "frontMatter.content.snippets": {},
   "frontMatter.dashboard.openOnStart": true,
   "frontMatter.website.host": "crestwoodpainting.com",
   "frontMatter.git.enabled": true

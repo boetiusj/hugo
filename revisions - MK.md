@@ -2,13 +2,17 @@
 
 Aug '24
 
+- Home Page images and SVGs come from /static or from /assets?
+- use latest Bootstrap version? Easy upgrade or many problems?
 - index.html - why load unneeded css? Why contain review text?
+- Critical path css interfere with fingerprinting? Redundant?
 - index.html - [purifycss](https://purifycss.online/) shows this is not used. What is purpose of "crestwoodpainting.netlify.app/css/styles.f7d452b...etc"
 - [Critical path generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 - [Fonts](https://rednafi.com/misc/self_hosted_google_fonts_in_hugo/#fn:5) - self hosted
 - index.html in public/painter-in-olathe - assume this should be deleted?
 - extract (NitroPack?) and inline [critical css](https://web.dev/articles/extract-critical-css). Can this be done through [Netlify?](https://www.netlify.com/integrations/community-built/inline-critical-css-build-plugin/). [This GitHub](https://github.com/imsus/ultimate-hugo) Netlify template looks good. [This article](https://ruddra.com/hugo-get-perfect-pagespeed-score/) covers perfect PageSpeed scores. [This extracts critical css](https://www.corewebvitals.io/tools/critical-css-generator).
-- !![Image loading](https://www.corewebvitals.io/pagespeed/optimize-images-for-core-web-vitals) - good overview. No background images: "You can use normal image tags in combination with the CSS object-fit:cover to make normal images behave as background images!"
+- !![Image loading](https://www.corewebvitals.io/pagespeed/optimize-images-for-core-web-vitals) - good overview.
+- [Hero Image](https://www.corewebvitals.io/pagespeed/optimize-images-for-core-web-vitals) "You can use normal image tags in combination with the CSS object-fit:cover to make normal images behave as background images!"
 - [Fix G Maps score penalty](https://www.corewebvitals.io/pagespeed/google-maps-100-percent-pagespeed)
 - render-image (images currently in assets/images):
   - work w/ svg
@@ -33,22 +37,16 @@ Dec 1, '23
 - [Hugo best practices ](https://github.com/spech66/hugo-best-practices)
 - [Responsive breakpoints](https://www.responsivebreakpoints.com/)
 - [Eric Murphy](https://ericmurphy.xyz/blog/), [Youtube](https://www.youtube.com/@EricMurphyxyz/search?query=hugo)
-- [G Bard](https://bard.google.com/chat)
 - [Loop through content](https://www.markusantonwolf.com/blog/loop-through-sorted-content-in-hugo/)
 - [render-Ryan Fleck](https://ryanfleck.ca/2023/perfected-image-rendering-in-hugo/)
 - [render Pixelswap](https://pixelswap.fr/entry/how-to-optimize-image-rendering-with-hugo/)
 - [render Stereobooster](https://stereobooster.com/posts/hugo-ideal-image/)
 - [render Bryce Wray](https://www.brycewray.com/posts/2023/04/better-code-image-processing-hugo/)
 
-## Performance
-
-Render-image.html with breakpoints
-
 ### Images
 
-Images - I'd like to take advantage of Hugo's image processing through \_render-image.html. Images should be served according to device (setsrc?), height and width shown in html. Below are resources I've looked into but I don't have the skill or knowledge to pull it off.
+Images - should be served according to device, should include H and W. Should allow for SVGs.
 
-- [This addresses image path](https://www.veriphor.com/articles/link-and-image-render-hooks/) - very comprehensive, but is this necessary if we move images to assets/images/?
 - Good option: ["Perfect image rendering in Hugo"](https://ryanfleck.ca/2023/perfected-image-rendering-in-hugo/), uses srcset, lazyloading, LQIP blurry.
 - [Another option](https://christianoliff.com/blog/markdown-render-hooks-in-hugo/), basic H and W.
 - [Bryce Wray shortcode](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)
@@ -60,7 +58,6 @@ Images - I'd like to take advantage of Hugo's image processing through \_render-
 - ## [nowrap Codepen](https://codepen.io/team/css-tricks/pen/bEajLE/1ea1ef35d942d0041b0467b4d39888d3)
 
 7. Other Qs - index.html - Is this file necessary? ALL of it?
-
 8. On /wild/ page, book-form.html defaults to Regrets page, should go to wildcard booking page just like call-center booking page goes to call-center.
 9. Booking form returns City State Zip to youcanbook.me on 3 separate rows. Can you make all one row: City, Sate Zip?
    So - City [comma space] State [space] Zip [new line]
@@ -77,15 +74,11 @@ Images - I'd like to take advantage of Hugo's image processing through \_render-
 
 ### Other
 
-- blog page list, linked to main nav
 - blog categories: Color-Choices, How-To-Hire-Painter, Painting-Tips, Painting-Challenges, General, Home-Maintenance-Tips, Painting-Reviews, Green / Eco,
 - blog tags: better-business-bureau, interior-painting, painting-insurance, cleaning, interior-painting, prep-work, nail-pops, prep, estimates, online-reviews, painters, aluminum-siding, contrasting-colors, exterior-painting, shingles, shutters, vinyl-siding, exterior-painting, re-siding, caulk, interior-painting, prep, trim, wood, painting-insurance, contrasting-colors, exterior-painting, trim
-- ~~move images from Static to Assets/images~~
-- [External links in a new tab](https://digitaldrummerj.me/hugo-links-to-other-pages/)
-- ~~[Delete Fontawesome](https://www.youtube.com/watch?v=or7amkb0Pk8), [replace icon html and css](https://icon-sets.iconify.design/bi/instagram/) - hamburger menu, footer socials,~~
 - Wildcard booking page
 
-### Links
+### Linked Pages
 
 - Pages linked in Interiors (basements, bedrooms, cabinets, weirdest, lofts/condos, office interiors)
 - Pages linked in Exteriors (front doors, office exteriors)
@@ -94,18 +87,8 @@ Images - I'd like to take advantage of Hugo's image processing through \_render-
 
 - [System fonts](https://www.youtube.com/watch?v=K_QRFhpsTsc&list=PLnur5_dvCveGQtaSkjP0i-Fege25r5dHs) replace Google fonts
 - [hCaptcha](https://www.hcaptcha.com/) added to form submission
-- Captcha for forms AND YCB?
-- [Google Analytics](umami.is) --> umami
-  - [Use lite GA code](https://www.jotform.com/blog/leverage-browser-caching-98814/)
+- [Google Analytics alternative](umami.is) --> umami
 - [Maptiler](maptiler.com) instead of GMaps?
-
-## nuts & bolts
-
-- [ ] ~~Update Hugo to latest version~~
-- [ ] front matter, add gallery: true to pages with gallery?
-- [ ] [unlisted content](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/) - queries and pagination
-- [ ] default front matter for blog and pages
-- [ ] ~~New tags? (paint, color, products, tools & equip, cabinets, interior, exterior, common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive)~~
 
 ## Content
 
@@ -116,51 +99,12 @@ Images - I'd like to take advantage of Hugo's image processing through \_render-
 - [ ] Galleries? Interior, Ext, Office, cabinets
 - [ ] Top pf page button at bottom
 - [ ] Common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive)
-- [ ]
 
 ## Appearance
 
-- [ ] [blog tags like here](https://digitaldrummerj.me/hugo-view-post-grouped-by-category/)
+- [ ] Rework tags and categories
 - [ ] ?? Phone link under booking button
-- [ ] Blog: [Google Search](https://digitaldrummerj.me/hugo-Integrate-google-search/) - OR - remove search
-- [ ] Blog image for each post, links to post
+- [ ] ?? Add search?
 - [ ] [Image divs](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side). [Responsive image gallery, W3](https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive). [Image gallery, Hugo git](https://github.com/rootwork/hugo-module-gallery-grid)
-  - [ ] Who: PCA, Lead Safe
-  - [ ] Footer: PCA, Lead Safe, SW, BM, PPG?
+  - [ ] Footer: PCA, Lead Safe, Waldo
 - YouCanBook.me: booking form hidden fields - inline (City, St 12345) rather than current new line each field?
-- Payments: new Paypal button, Zeele or Melio?
-
----
-
-Round 1 (Feb 6, '23)
-
-1. Create work environment in Git - https://github.com/boetiusj/hugo-dev
-   All files - Hugo, theme and data - stored on Git
-2. Replicate my existing site (crestwoodpainting.com) in Hugo
-   Files are here: <https://drive.google.com/drive/folders/1yZI2-neeic5eqPe5vvZ93Sjc3jv4EKft?usp=sharing>
-   Markdown homepage, footer, etc. here: <https://drive.google.com/drive/folders/1-4Wkqa-WduF9LRAISI0Ujpy_48hQwdu4?usp=share_link>
-   Completed Feb 10, '23
-
-Round 2
-
-1. Setup the pages - no sidebar
-2. Remove the items we discussed from the blog
-
-Remove Author, tags, dates, comments
-Move blog image to replace template image 3. Make the navigation (top & footer) editable via yaml. No need to touch the html
-Top
-Add Logo, top left
-Remove theme header social links, phone, email
-Footer - add logo to replace theme "Crestwood Painting"
-Menu working and set up as current 4. Schema (added as partial?), files in Drive
-Company schema - Home page and pages that are not webpage or blog pages (Contact, about, etc.)
-Webpage and blog schema 5. Setup analytics and SEO stuff in template
-Google analytics,
-FB, etc. code (in header partial?) 6. Ensure all the links on the pages and blog posts work 7. Create css file for revisions (so that my revisions trump theme css) 8. Advise on hosting options. 9. Implement host 10. Set up SSL
-
-Round 3
-Implement existing calendar booking button functionality. There are two site pages for customer bookings:
-Direct - <http://crestwoodpainting.com/book-us>/
-Call Center - <http://crestwoodpainting.com/call-center>/
-Code differes slightly for each.
-Existing PHP and JSON files here: <https://drive.google.com/drive/folders/1-ym1hPr2ECyUDeOvifeJk6fQGTt637Pq?usp=share_link>

@@ -1,21 +1,39 @@
 <ul class="list-inline">
-	<li class="list-inline-item">Share:</li>
-	<li class="list-inline-item">
-		<a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">
+  <li class="list-inline-item">Share:</li>
+  <li class="list-inline-item">
+    <a
+      href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
+      role="image"
+      alt="facebook icon"
+    >
       {{ $imageFacebook := resources.Get "images/svg/facebook-f.svg" }}
-      <span class="svg-h-13 mr-2"> {{ $imageFacebook.Content | safeHTML }} </span>
-		</a>
-	</li>
-	<li class="list-inline-item">
-		<a href="https://x.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}" >
+      <span class="svg-h-13 mr-2">
+        {{ $imageFacebook.Content | safeHTML }}
+      </span>
+    </a>
+  </li>
+  <li class="list-inline-item">
+    <a
+      href="https://x.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}"
+      role="image"
+      alt="X icon"
+    >
       {{ $imageTwitter := resources.Get "images/svg/twitter-x.svg" }}
-      <span class="svg-h-13 mr-2"> {{ $imageTwitter.Content | safeHTML }} </span>
-		</a>
-	</li>
-	<li class="list-inline-item">
-		<a href="https://www.instagram.com/sharer/sharer.php?u={{ .Permalink }}">
+      <span class="svg-h-13 mr-2">
+        {{ $imageTwitter.Content | safeHTML }}
+      </span>
+    </a>
+  </li>
+  <li class="list-inline-item">
+    <a
+      href="https://www.instagram.com/sharer/sharer.php?u={{ .Permalink }}"
+      role="image"
+      alt="instagram icon"
+    >
       {{ $imageInstagram := resources.Get "images/svg/instagram.svg" }}
-      <span class="svg-h-13 mr-2"> {{ $imageInstagram.Content | safeHTML }} </span>
-		</a>
-	</li>
+      <span class="svg-h-13 mr-2">
+        {{ $imageInstagram.Content | safeHTML }}
+      </span>
+    </a>
+  </li>
 </ul>

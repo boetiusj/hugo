@@ -24,7 +24,6 @@ Aug '24
 - [Schema public access?](https://stackoverflow.com/questions/56926034/schema-org-for-service-based-businesses-without-an-address) - "publicAccess": false
 - [Self host G Fonts](https://www.corewebvitals.io/pagespeed/self-host-google-fonts)
 - ?? Convert frontmatter images to markdown on all blog pages and 404 page -- shortcode? [see here](https://discourse.gohugo.io/t/how-to-use-front-matter-variable-inside-content/32730) - see Hugo shortcode and figure.
-- Add pager in single.html
 - [This has breakpoints](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)
 - [This finally did it](https://discourse.gohugo.io/t/conversion-to-webp/50347)
 - [Built-in render-hook code](https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/_default/_markup/render-image.html)

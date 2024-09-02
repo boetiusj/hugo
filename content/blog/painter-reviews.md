@@ -14,6 +14,7 @@ tags:
   - "online-reviews"
   - "painters"
 ---
+
 ![Reviews, Referrals, feedback - crestwood painting kansas city](/images/other/yard-sign.jpg) Our customers are our best advertisement!
 
 This was a nice treat on New Years Eve - [positive feedback](/reviews/) from a lady that _didn't_ hire us! Proposal sent in Feb.,  last contact was mid-March - then this arrived in December. Fortunately, [Crestwood Painting customers](/video-testimonials/) don't have this kind of experience.

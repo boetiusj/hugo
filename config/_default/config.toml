@@ -3,7 +3,7 @@ baseURL = "https://crestwoodpainting.com/"
 paginate = 10
 timeout = "100s"
 googleAnalytics = "G-Y229K0TNJR"
-
+# old G (before '24) analytics: UA-1372967-1
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderHooks]

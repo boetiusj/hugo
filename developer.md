@@ -22,13 +22,13 @@ Hugo v0.133.0 extended
     - [PurgeCSS Hugo guide](https://purgecss.com/guides/hugo.html) removes unused css with hugo pipes. 
     - [Hugo discourse has PurgeCSS](https://discourse.gohugo.io/t/hugo-guide-added-to-the-purgecss-docs/39422/6) might also help.
     - [This from Hugo about PostCSS](https://gohugo.io/hugo-pipes/postprocess/#css-purging-with-postcss)
-5.  [index.html](/home/mike/hugo/index.html) - remove unnecessary 
+5.  [index.html](/hugo/index.html) - remove unused or unnecessary stylesheets.
 5.  Appointment booking - customers use the form at [/book-us/](https://crestwoodpainting.com/book-us/) to enter their Zip code. The booking form returns a _three line list_ (image below):
         - City
         - State
         - Zip
-    - I would like this list _inline_: City, State Zip. So: City [comma space] State [space] Zip [new line]
-    - Assume here: /assets/js/index.js - line 21
+    - I would like this list _inline_: "City, State Zip". So: City [comma space] State [space] Zip [new line]
+    - I assume it's this file, line 21 or 33: /assets/js/index.js
     - Try it: use "64113" as the Zip, choose a random date and time
     - Here's the image: ![Booking Form pre-populated](assets/images/other/City_State_Zip.png)
 6.  Blog page - should have Prev Next in bottom empty block. blog/pager.html

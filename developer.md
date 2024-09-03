@@ -38,3 +38,4 @@ Hugo v0.133.0 extended
     <img src="https://github.com/boetiusj/hugo/blob/mk/assets/images/other/City_State_Zip.png" width="100">
 6.  Blog page - should have Prev Next in bottom empty block. blog/pager.html
 7.  [This file](public/painter-in-olathe/index.html) shows in VSCode Source Control right after every build - public/painter-in-olathe/index.html  Why does this happen? OK to Delete?
+8.  Google Maps: https://www.corewebvitals.io/pagespeed/google-maps-100-percent-pagespeed

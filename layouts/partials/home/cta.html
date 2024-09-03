@@ -11,7 +11,10 @@
 					<span class="h6 text-color">{{ $cta.headline }}</span>
 					<h2 class="mt-2 mb-4">{{ $cta.title }}</h2>
 					<p class="lead mb-4">{{ $cta.description }}</p>
-					<h3><a href="tel:+{{ default site.Params.phone $cta.phone }}" class="mr-3 text-color">{{ default site.Params.phone $cta.phone }}</a></h3>
+					            {{ with $cta.button }}
+						<a href="{{ .url }}" class="btn btn-main btn-round-full">{{ .label }}</a>
+            {{ end }}
+					<!-- <h3><a href="tel:+{{ default site.Params.phone $cta.phone }}" class="mr-3 text-color">{{ default site.Params.phone $cta.phone }}</a></h3> -->
 				</div>
 			</div>
 		</div>

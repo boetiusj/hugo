@@ -11,7 +11,7 @@ Hugo v0.133.0 extended
     - Convert to webp
     - Doesn't interfere with SVGs
     - [This might help](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)    
-2.  Hero section - image loads slowly and so gives poor Lighthouse score. Only one hero (front page) on the site.
+2.  Hero section - image loads slowly and so gives poor Lighthouse score. Only two hero background images (cta.html, hero.html) on the site.
     - Please change hero image to normal image per this - [You can use normal image tags in combination with the CSS object-fit:cover to make normal images behave as background images](https://www.corewebvitals.io/pagespeed/optimize-images-for-core-web-vitals).
     - image here: static/images/january.webp
     - Delete or revise unneeded hero image css

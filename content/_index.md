@@ -1,6 +1,6 @@
 ---
-title: "No Drips, No Drama | Book us online or 816-805-4515"
-description: "Prompt and tidy pros with organized jobsites and timely finishes. Call us for a No Drips, No Drama experience"
+title: "No Drips, No Drama | Book free estimates online or 816-805-4515"
+description: "Prompt and tidy pros with organized jobsites and timely finishes. Book us for a No Drips, No Drama experience"
 keywords: "Crestwood Painting, Home Painting, Painting Contractors, Painting Service, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company, Mission Hills, Lee's Summit, Prairie Village, Leawood, House Painter, Exterior House Painting, Plaster repair, Interior Painting"
 canonical: "https://crestwoodpainting.com"
 date: "2011-05-04"
@@ -30,18 +30,21 @@ intro:
       summary: "Quiet and careful, one room at a time - on your schedule."
       link: /office-painting-experts/
 cta:
-  title: "Earning Kansas City's trust for over 17 years."
+  title: "Same. Local. Owners."
   headline: "Prompt and Reliable"
-  description: "Book us online. We're ready for your project."
+  description: "We're ready for your project."
   phone: "816-805-4515"
   show: true # turn to false to hide
   image: "/images/bgcanadalake.webp"
+  button:
+    url: "/book-us"
+    label: "Book an Estimate"
 about:
   headline: "Who we are"
   title: "Same. Local. Owners."
   subtitle: "We make it easy"
   description: "Prompt and courteous painters deliver on clear proposals."
-  show: true # turn to false to hide
+  show: false # turn to false to hide
   image: "/images/kcmo.webp"
   cta:
     url: "/book-us"

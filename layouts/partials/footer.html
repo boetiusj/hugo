@@ -39,7 +39,8 @@
             <a href="#" class="btn btn-main btn-small">subscribe</a>
           </form>
           -->
-          <a href="/book-us" class="btn btn-main btn-round-full">Schedule an Estimate</a>
+          <a href="/book-us" class="btn btn-main btn-round-full">Schedule an Estimate{{ $imageAngleRight := resources.Get "images/svg/angle-right-solid.svg" }}
+            <span class="btn-icon flex aling-items-center ml-2 svg-h-8 mr-2"> {{ $imageAngleRight.Content | safeHTML }} </span></a>
         </div>
       </div>
 

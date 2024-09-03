@@ -9,8 +9,8 @@
 				<div class="block">
 					<span class="d-block mb-3 text-white text-capitalize">{{ $hero.headline }}</span>
 					<h1 class="animated fadeInUp mb-5">{{ safeHTML $hero.title }}</h1>
-					{{ with $hero.cta }}
-					<a href="{{ .url }}"  class="btn btn-main animated fadeInUp btn-round-full" aria-label="">
+			{{ with $hero.button }}
+					<a href="{{ .url }}"  class="btn btn-main btn-round-full btn-outline" aria-label="">
             {{ .label }}
             {{ $imageAngleRight := resources.Get "images/svg/angle-right-solid.svg" }}
             <span class="btn-icon flex aling-items-center ml-2 svg-h-8 mr-2"> {{ $imageAngleRight.Content | safeHTML }} </span>

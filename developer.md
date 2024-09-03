@@ -15,10 +15,10 @@ Hugo v0.133.0 extended
     - Please change hero image to normal image per this - [You can use normal image tags in combination with the CSS object-fit:cover to make normal images behave as background images](https://www.corewebvitals.io/pagespeed/optimize-images-for-core-web-vitals).
     - image here: static/images/january.webp
     - Delete or revise unneeded hero image css
-    - CTA button - Hero section CTA button should be below "Homes & Offices" (in addition to the Nav button). See hero.html
 3.  CSS
     - Critical CSS - load in Head style. Other css file per usual. Minify. This [critical path generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/) may be helpful.
     - Remove unused CSS (head.html?)
+        - [Netlify option?](https://www.netlify.com/integrations/community-built/inline-critical-css-build-plugin/)
         - [PurgeCSS Hugo guide](https://purgecss.com/guides/hugo.html) removes unused css with hugo pipes. 
         - [Hugo discourse has PurgeCSS](https://discourse.gohugo.io/t/hugo-guide-added-to-the-purgecss-docs/39422/6) might also help.
         - [This from Hugo about PostCSS](https://gohugo.io/hugo-pipes/postprocess/#css-purging-with-postcss)

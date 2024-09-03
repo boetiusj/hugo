@@ -12,7 +12,8 @@
 					<h2 class="mt-2 mb-4">{{ $cta.title }}</h2>
 					<p class="lead mb-4">{{ $cta.description }}</p>
 					            {{ with $cta.button }}
-						<a href="{{ .url }}" class="btn btn-main btn-round-full">{{ .label }}</a>
+						<a href="{{ .url }}" class="btn btn-main btn-round-full">{{ .label }}{{ $imageAngleRight := resources.Get "images/svg/angle-right-solid.svg" }}
+            <span class="btn-icon flex aling-items-center ml-2 svg-h-8 mr-2"> {{ $imageAngleRight.Content | safeHTML }} </span></a>
             {{ end }}
 					<!-- <h3><a href="tel:+{{ default site.Params.phone $cta.phone }}" class="mr-3 text-color">{{ default site.Params.phone $cta.phone }}</a></h3> -->
 				</div>

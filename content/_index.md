@@ -8,7 +8,7 @@ hero:
   headline: No Drips, No Drama
   title: Painting Kansas City Homes & Offices
   image: "/images/january.webp"
-  cta:
+  button:
     url: "/book-us/"
     label: Schedule an Estimate
 intro:

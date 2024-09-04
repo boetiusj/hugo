@@ -1,3 +1,4 @@
+# This is the footer menu
 [[company]]
 name = "Reviews"
 url = "/reviews/"
@@ -11,6 +12,6 @@ url = "/payments/"
 # [[company]]
 # name = "RRP Brochure"
 # url = "/lead-paint-safety/"
-# [[company]]
+[[company]]
 name = "Privacy"
 url = "/privacy-policy/"

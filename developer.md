@@ -32,3 +32,9 @@ Hugo v0.133.0 extended
     <img src="https://github.com/boetiusj/hugo/blob/mk/assets/images/other/City_State_Zip.png" width="100">
 5.  Blog page - should have Prev Next in bottom empty block. blog/pager.html
 6.  Google Maps: https://www.corewebvitals.io/pagespeed/google-maps-100-percent-pagespeedbing
+7. SVG
+``` 
+            <div role="img" aria-label="Table flip">
+              <p>(╯°□°）╯︵ ┻━┻</p>
+            </div>
+```

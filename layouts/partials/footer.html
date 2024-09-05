@@ -68,7 +68,7 @@
             <!--<li class="list-inline-item"><a href="/images/logo-waldo-kc.webp" alt="logo waldo business association" src="https://www.waldokc.org/about/history" style="width:100px;" </a></li> -->
             {{ range $config.socials }}
             <li class="list-inline-item">
-              <a href="{{ .profile }}" aria-label="{{ .icon }}" role='img' alt='social icon'>
+              <a href="{{ .profile }}" aria-label="{{ .icon }}" aria-labelledby="social-icon" role='img' alt='social icon'>
                 {{ $image := resources.Get (printf "images/svg/%s.svg" .icon) }}
                 <span class="svg-h-13 mr-2"> {{ $image.Content | safeHTML }} </span>
               </a>

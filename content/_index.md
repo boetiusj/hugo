@@ -39,16 +39,16 @@ cta:
   button:
     url: "/book-us"
     label: "Schedule an Estimate"
-about:
-  headline: "Who we are"
-  title: "Same. Local. Owners."
-  subtitle: "We make it easy"
-  description: "Prompt and courteous painters deliver on clear proposals."
-  show: false # turn to false to hide
-  image: "/images/kcmo.webp"
-  cta:
-    url: "/book-us"
-    label: "Let's get started"
+# about:
+#   headline: "Who we are"
+#   title: "Same. Local. Owners."
+#   subtitle: "We make it easy"
+#   description: "Prompt and courteous painters deliver on clear proposals."
+#   show: false # turn to false to hide
+#   image: "/images/kcmo.webp"
+#   cta:
+#     url: "/book-us"
+#     label: "Let's get started"
 ## Cabinet section breaks home page ##
 #    - title: Cabinets
 #      svcimg: /images/cabinets/c-glass-splash.jpg

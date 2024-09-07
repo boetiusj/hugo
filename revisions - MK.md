@@ -1,10 +1,8 @@
 # Revisions
 
 Aug '24
-
-- Home Page images and SVGs come from /static or from /assets?
-- use latest Bootstrap version? Easy upgrade or many problems?
-- index.html - why load unneeded css? Why contain review text?
+- [srcset & sizes](https://medium.com/@woutervanderzee/responsive-images-with-srcset-and-sizes-fc434845e948)
+- footer logos - PCA, Waldo, inPaint, bloggerlocal, summitsafety
 - Critical path css interfere with fingerprinting? Redundant?
 - index.html - [purifycss](https://purifycss.online/) shows this is not used. What is purpose of "crestwoodpainting.netlify.app/css/styles.f7d452b...etc"
 - [Critical path generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)

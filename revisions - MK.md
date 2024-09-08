@@ -1,13 +1,13 @@
 # Revisions
 
 Aug '24
+- 6.  Google Maps: https://www.corewebvitals.io/pagespeed/google-maps-100-percent-pagespeed
 - [srcset & sizes](https://medium.com/@woutervanderzee/responsive-images-with-srcset-and-sizes-fc434845e948)
 - footer logos - PCA, Waldo, inPaint, bloggerlocal, summitsafety
 - Critical path css interfere with fingerprinting? Redundant?
 - index.html - [purifycss](https://purifycss.online/) shows this is not used. What is purpose of "crestwoodpainting.netlify.app/css/styles.f7d452b...etc"
 - [Critical path generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 - [Fonts](https://rednafi.com/misc/self_hosted_google_fonts_in_hugo/#fn:5) - self hosted
-- index.html in public/painter-in-olathe - assume this should be deleted?
 - extract (NitroPack?) and inline [critical css](https://web.dev/articles/extract-critical-css). Can this be done through [Netlify?](https://www.netlify.com/integrations/community-built/inline-critical-css-build-plugin/). [This GitHub](https://github.com/imsus/ultimate-hugo) Netlify template looks good. [This article](https://ruddra.com/hugo-get-perfect-pagespeed-score/) covers perfect PageSpeed scores. [This extracts critical css](https://www.corewebvitals.io/tools/critical-css-generator).
 - !![Image loading](https://www.corewebvitals.io/pagespeed/optimize-images-for-core-web-vitals) - good overview.
 - [Hero Image](https://www.corewebvitals.io/pagespeed/optimize-images-for-core-web-vitals) "You can use normal image tags in combination with the CSS object-fit:cover to make normal images behave as background images!"

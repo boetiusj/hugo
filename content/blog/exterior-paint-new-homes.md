@@ -22,7 +22,7 @@ tags:
 
 Builders (and some homeowners) apply poor quality paint because it simply costs less. Then the homeowner finds that their new house [doesn't look so good after a couple of years](/titanium-dioxide-in-your-paint-can/) - the paint film breaks down from weather and the sun's UV rays – even bird poop. It loses sheen, the surface gets chalky and you can often see the substrate right through the paint film.
 
-![house paint weathered kansas city ](/images/worn-shingles.jpg) Solid stain applied 2 years ago has weathered poorly in KC North.
+![house paint weathered kansas city ](/images/exterior/worn-shingles.webp) Solid stain applied 2 years ago has weathered poorly in KC North.
 
 Bad paint costs less because there’s less “stuff” in the can:
 

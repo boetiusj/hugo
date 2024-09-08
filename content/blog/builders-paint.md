@@ -24,7 +24,7 @@ Builders paint is especially prone to burnish marks and poor cleanability.
 - Poor cleanability
 - It's inexpensive
 
-> Poor quality paint can't really be "fixed", only covered by a better product.
+> Poor quality paint can't really be "fixed", only covered with a better product.
 
 Builders paint is used because it costs less. It costs less because, very simply, there is more water in the can and less "stuff". So, when it dries there is a much thinner and less-durable film of paint.
 

@@ -27,7 +27,7 @@ It's never a bad idea to hang on to a small amount of your [current paint color]
 
 ## Get Rid of the Rest
 
-The best way to dispose of old paint is to take the paint to a [city or county recycling center](https://www.jacksongov.org/458/Household-Hazardous-Waste-Disposal "Paint recycling in Kansas City"). Whether oil or latex paint, stain, varnish, etc., you'll avoid any legal liability or environmental consequences. After that, you're looking at the Less Than Ideal Solutions.
+The best way to dispose of old paint is to take the paint to a [city or county recycling center](https://www.jacksongov.org/Residents/Home-and-Family/Household-Hazardous-Waste-Disposal). Whether oil or latex paint, stain, varnish, etc., you'll avoid any legal liability or environmental consequences. After that, you're looking at the Less Than Ideal Solutions.
 
 1. Give leftover paint to a friend or relative to paint a dog house, treehouse or dollhouse. But best to not donate it to a theater group, scout troop, etc. A certain environmental agency may construe your donation to be disposal and suddenly your kind gesture is seen as dumping rather than donation.
 2. Old oil paint should be mixed and poured onto a cookie sheet (or similar) so it can dry. If you leave it in the can it will skin over leaving liquid under the dried layer - so no one will take it. I've heard of people pouring oil paint on old carpet to dry and then disposing of the carpet. Perfectly legal, if not a bit improvised.

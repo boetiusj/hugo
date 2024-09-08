@@ -18,7 +18,7 @@ The leftover (latex) paint in your basement will, sooner or later, become a disp
 
 As a general rule of thumb, if a can of paint is less than one third full it is not worth storing - leave the lid off and let it dry completely. Then, leave it out with your household trash - dry paint is considered disposable household trash.
 
-> Important to note: liquid paint is considered hazardous waste and must be disposed of accordingly - the Jackson County Household [Hazardous Waste Disposal](https://www.jacksongov.org/458/Household-Hazardous-Waste-Disposal) facility is a great option.
+> Important to note: liquid paint is considered hazardous waste and must be disposed of accordingly - the Jackson County Household [Hazardous Waste Disposal](https://www.jacksongov.org/Residents/Home-and-Family/Household-Hazardous-Waste-Disposal) facility is a great option.
 
 Paint should always be stored indoors so that it can not freeze. If it has ever frozen, it is now toast.  A good test for frozen paint: stir it. Stir-able paint should be OK, if it feels like a brick it's probably been frozen.
 

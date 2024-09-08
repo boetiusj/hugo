@@ -3,7 +3,7 @@
 {{- if not $u.IsAbs -}}
   {{- $path := strings.TrimPrefix "./" $u.Path }}
   {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
-    {{- with .Process "webp" -}}
+    {{/* - with .Process "webp" -*/}}
       {{- $src = .RelPermalink -}}
       {{- with $u.RawQuery -}}
         {{- $src = printf "%s?%s" $src . -}}
@@ -26,6 +26,5 @@
     {{- range $k, $v := $attributes -}}
       {{- if $v -}}
         {{- printf " %s=%q" $k $v | safeHTMLAttr -}}
-        />
       {{- end -}}
-    {{- end -}}
+    {{- end -}}>

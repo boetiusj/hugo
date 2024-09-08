@@ -3,7 +3,7 @@ title: "The BBB - Maybe Not AAA"
 url: "bbb-maybe-not-aaa"
 description: "- "
 keywords: "- "
-canonical: "https://crestwoodpainting.com"
+canonical: "https://crestwoodpainting.com/bbb-maybe-not-aaa"
 date: "2013-09-20"
 index: true
 image: "/images/BBBaccredited_opt-185x300.jpg"
@@ -26,4 +26,4 @@ If a contractor has no online presence then the Better Business Bureau is a good
 
 What about contractors that have no BBB listing? This only means that particular contractor has not paid the $400 to belong. Maybe an oversight, maybe deliberate - next step online research. What sites are they listed on? Do they really belong to the groups they say? Who are their local suppliers and what do they say?
 
-There are several trusted referral partners on our [Local Partners](/who/local-partners/ "Local Partners") page. We're happy to vouch for them. Or, give us a call and maybe we can steer you in another direction - we know lots of service providers in the Kansas City area!
+There are several trusted referral partners, we're happy to vouch for them. Or, give us a call and maybe we can steer you in another direction - we know lots of service providers in the Kansas City area!

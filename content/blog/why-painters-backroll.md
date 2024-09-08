@@ -2,7 +2,7 @@
 title: "Why Do Painters Backroll?"
 description: "What does backroll mean? Learn all about backrolling paint - when it's a good idea and when it's not."
 keywords: "paint backroll kansas city crestwood painting"
-canonical: "https://crestwoodpainting.com"
+canonical: "https://crestwoodpainting.com/why-painters-backroll"
 date: "2012-08-06"
 index: true
 image: "/images/spray.webp"

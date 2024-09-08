@@ -3,7 +3,7 @@ title: "Wood Rot"
 url: "wood rot"
 description: "Wood rot - why and how"
 keywords: "painting prep wood rot kansas city"
-canonical: "https://crestwoodpainting.com/old-wood-new-wood-rot/"
+canonical: "https://crestwoodpainting.com/wood-rot/"
 date: "2012-08-20"
 index: true
 image: "/images/woodrot.webp"
@@ -39,4 +39,4 @@ Design changes drive much of the wood rot problem. As exterior plywood become a 
 
 Because of these material and design changes and the consequences of those decisions, there are whole tracts of homes in many cities in which the [entire exterior shell](/exterior-painting-kansas-city/) has been compromised. Re-siding is the only option - either remove-and-replace or put new right over the old.
 
-Regardless of the age of your home, Crestwood Painting has [painters that are well-trained](/crestwood-people/) and well-equipped to handle whatever challenge your home might present - old or new. Give us a call.
+Regardless of the age of your home, Crestwood Painting is well-equipped to handle whatever challenge your home might present - old or new. Give us a call.

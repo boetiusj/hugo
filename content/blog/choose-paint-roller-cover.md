@@ -1,8 +1,7 @@
 ---
 title: How to Choose a Paint Roller Cover
 url: choose-paint-roller-cover
-description: >-
-  Tips and tricks for choosing the best roller cover for a specific painting
+description: Tips and tricks for choosing the best roller cover for a specific painting
   project.
 keywords: paint roller cover nap crestwood painting
 canonical: https://crestwoodpainting.com/choose-paint-roller-cover/
@@ -41,4 +40,4 @@ Some roller covers will hold a lot of paint, some very little. Some will spatter
 
 Our painters at Crestwood Painting prefer Wooster products. We most often use Wooster's Pro-DooZ (9", 1/2" nap) for walls and Woosters SuperFab (9", 1/2" nap) for ceilings. We almost never roll trim.
 
-Still not sure? Give us a call and you can join our [list of delighted customers.](/painting-review/)
+Still not sure? Give us a call and you can join our [list of delighted customers.](/reviews)

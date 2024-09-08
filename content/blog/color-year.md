@@ -3,7 +3,7 @@ title: "Color of the Year"
 url: "color-year"
 description: "Many paint and design companies select a color of the year with varying degrees of credibility. Sometime, they just goof."
 keywords: "color house painting kansas city crestwood"
-canonical: "https://crestwoodpainting.com/color-year-2014/"
+canonical: "https://crestwoodpainting.com/color-year/"
 date: "2014-01-17"
 index: true
 image: "/images/color-year.webp"
@@ -13,7 +13,7 @@ tags:
   - "color-testing"
   - "neutral-colors"
 ---
-![color of the year 2014](/images/color-year.webp) Some day we'll laugh about this...
+![color of the year](/images/color-year.webp) Some day we'll laugh about this...
 
 New colors are declared "trendy" by those that know such things. Usually it warrants nothing more than a harrumph, but in this case it's very clear that somebody got carried away with their Barney/Cookie Monster childhood.
 

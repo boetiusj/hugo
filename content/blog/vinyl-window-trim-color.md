@@ -1,9 +1,9 @@
 ---
-title: "Tips n' Tricks - Vinyl Window Trim Color"
-url: "tips-n-tricks-vinyl-window-trim-color"
+title: "Vinyl Window Trim Color"
+url: "vinyl-window-trim-color"
 description: "-"
 keywords: "-"
-canonical: "https://crestwoodpainting.com"
+canonical: "https://crestwoodpainting.com/vinyl-window-trim-color"
 date: "2013-11-21"
 index: true
 image: "/images/white-wall-tire.webp"

@@ -3,6 +3,7 @@ title: "Frequently Asked Questions"
 url: "faqs"
 description: "painting, faq, customer, Kansas City, questions"
 keywords: "faqs"
+canonical: "https://crestwoodpainting.com/faqs"
 date: "2011-08-29"
 index: true
 faqs: 

@@ -28,7 +28,7 @@ But, how confident are you
 
 Every homeowner wants a professionally completed project at a very attractive price. But price is only one factor - most people will be very unhappy if they pay less and then also _get_ less.  What's your level of trust? What's your gut say?
 
-- [Who are their workers](/crestwood-people/)?
+- Who are their workers?
 - What's the track record?
 - What's their attention to detail?
 - Do they show up on time?

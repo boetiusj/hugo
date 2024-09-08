@@ -1,9 +1,9 @@
 ---
-title: "Holiday Decorating Tips to Not Damage Your New Paint"
-url: "holiday-tips-dont-damage-paint"
-description: "Painters Tape helps with holiday decorating."
+title: "Wrong Tape Can Damage Paint"
+url: "wrong-tape-can-damage-paint"
+description: "The wrong tape can damage paint"
 keywords: "holiday damage paint kansas city crestwood"
-canonical: "https://crestwoodpainting.com/holiday-tips-dont-damage-paint/%20"
+canonical: "https://crestwoodpainting.com/wrong-tape-can-damage-paint"
 date: "2012-12-07"
 index: true
 image: "/images/3M-Delicate-Surface.jpg"

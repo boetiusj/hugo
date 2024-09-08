@@ -3,7 +3,7 @@ title: "Commercial Referral"
 url: "commercial-referral"
 description: "Kind words from a chance meeting"
 keywords: "commercial painting, interior"
-canonical: "https://crestwoodpainting.com"
+canonical: "https://crestwoodpainting.com/commercial-referral"
 date: "2021-01-06"
 index: true
 image: "/images/brighton-gardens.webp"

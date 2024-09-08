@@ -3,7 +3,7 @@ title: "How Much Does Exterior Painting Cost?"
 url: "exterior-painting-cost"
 description: "- "
 keywords: "- "
-canonical: "https://crestwoodpainting.com"
+canonical: "https://crestwoodpainting.com/exterior-painting-cost"
 date: "2013-03-04"
 index: true
 image: "/images/imag0145.webp"

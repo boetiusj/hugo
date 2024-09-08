@@ -1,9 +1,9 @@
 ---
 title: "Why It's Easy Being Green"
 url: "being-green"
-description: "-"
-keywords: "-"
-canonical: "https://crestwoodpainting.com"
+description: "Green is a versatile paint color"
+keywords: "green paint color"
+canonical: "https://crestwoodpainting.com/being-green"
 date: "2013-10-23"
 index: true
 image: "/images/bath-color.webp"

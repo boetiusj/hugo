@@ -48,6 +48,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 #### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [email us](info@crestwoodpainting.com) or call 816-805-4515.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please email us at info@crestwoodpainting.com or call 816-805-4515.
 
 This document was last updated on Aug. 14, 2024

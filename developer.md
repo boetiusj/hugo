@@ -3,11 +3,10 @@
 [crestwoodpainting.com](https://crestwoodpainting.com), Hugo v0.133.0 extended, <https://github.com/boetiusj/hugo-dev>
 
 1. Responsive Images, sized for device. Images are in /assets/ (Home page images are in /static/)
-    - New image-render.html?
+    - I am expecting that render-image.html will add something like "width=33" to the <img> - is this accurate of me?
     - Set Width and Height for each image
     - Convert images to webp
     - Doesn't interfere with SVGs
-    - [This might help](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)
 2a. Hero section - image loads slowly and so gives poor Lighthouse score. Only one hero background image on the site - static/images/january.webp.
     - Please modify (hero.html) so the hero image is a normal image per this - [You can use normal image tags in combination with the CSS object-fit:cover to make normal images behave as background images](https://www.corewebvitals.io/pagespeed/optimize-images-for-core-web-vitals).
     - Delete or revise hero image css as needed

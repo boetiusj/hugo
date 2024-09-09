@@ -14,15 +14,15 @@ enable = false
 [[socials]]
 platform = "fb"
 profile = "https://www.facebook.com/crestwoodpainting" 
-# icon = "facebook-f"
+icon = "facebook-f"
 [[socials]]
 platform = "X"
 profile = "https://x.com/crestwoodpaint"
-# icon = "twitter-x"
+icon = "twitter-x"
 [[socials]]
 platform = "instagram"
 profile = "https://www.instagram.com/crestwoodpainting/"
-# icon = "instagram"
+icon = "instagram"
 # [[orgs]]
 # platform = "PCA"
 # profile = "https://www.pcapainted.org/"

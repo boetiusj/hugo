@@ -8,9 +8,10 @@
     - Convert images to webp
     - Doesn't interfere with SVGs
     - [This might help](https://www.brycewray.com/posts/2022/06/responsive-optimized-images-hugo/)
-2. Hero section - image loads slowly and so gives poor Lighthouse score. Only one hero background image on the site - static/images/january.webp.
+2a. Hero section - image loads slowly and so gives poor Lighthouse score. Only one hero background image on the site - static/images/january.webp.
     - Please modify (hero.html) so the hero image is a normal image per this - [You can use normal image tags in combination with the CSS object-fit:cover to make normal images behave as background images](https://www.corewebvitals.io/pagespeed/optimize-images-for-core-web-vitals).
     - Delete or revise hero image css as needed
+2b. Front page images - revise /layouts/home templates so imagaes are processed by render-image
 3. CSS - I'd like to eliminate render blocking resources and reduce mobile load time. Remove unused CSS, serve critical CSS in head, minify.
     - Critical CSS - [inlining css](https://www.rockyourcode.com/inline-critical-css-with-hugo-pipes/). This [critical path generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/) may be helpful.
     - Remove unused CSS
@@ -39,4 +40,3 @@
         ``` 
         <script src=https://crestwoodpainting.com/script.js></script>
         ```
-         

@@ -11,6 +11,7 @@ My goal is primarily to improve Lighthouse Performance on mobile (>90). I have r
     - Doesn't interfere with SVGs
     - [render-image.html experiments](/summary-render-image-files.md), all tests done at /interior-painter-kansas-city/
     - I am expecting that if render-image.html specifies it, I will see something like "width=33" when I inspect the <img> - is that accurate?
+1a. !!! New information, what are your thoughts on this approach? [This looks like images load twice, one very small (offscreen?), the other large](https://www.corewebvitals.io/pagespeed/background-images-are-evil). [Screenshot here](/home/mike/hugo/images-load-twice.png)
 2. Hero section - image loads slowly and so gives poor Lighthouse score. Only one hero background image on the site - static/images/january.webp.
     - Please modify (hero.html) so the [hero image is a normal image](https://www.corewebvitals.io/pagespeed/optimize-images-for-core-web-vitals) unless there is a better way to handle the hero.
 

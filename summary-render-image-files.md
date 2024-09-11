@@ -26,7 +26,7 @@ Lighthouse Performance score 70 - /interior-painter-kansas-city/
 {{- /**/ -}}
 ```
 
-### 2. [This adds webp processing](https://discourse.gohugo.io/t/conversion-to-webp/50347/3).
+### 2. [This adds webp processing, is the current](https://discourse.gohugo.io/t/conversion-to-webp/50347/3).
 Incognito Lighthouse Performance score 73. The first image is 109kb, 382x287 and has 6610ms delay? This strikes me as odd.
 ```
 {{- $u := urls.Parse .Destination -}}

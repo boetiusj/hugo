@@ -2,7 +2,7 @@
 
 [crestwoodpainting.com](https://crestwoodpainting.com), Hugo v0.133.0 extended, <https://github.com/boetiusj/hugo-dev>
 
-My goal is primarily to improve Lighthouse Performance on mobile (>90). I assume the easiest targets are revising the hero image and serving appropriate sized webp images. Are there other targets?
+My goal is primarily to improve Lighthouse Performance on mobile (>90). I have reduced image sizes, converted to webp and still Lighthouse complains.
 
 1. Responsive Images, sized for device. Images are in /assets/ (Home page images are in /static/)
     - Set explicit width and height
@@ -11,7 +11,6 @@ My goal is primarily to improve Lighthouse Performance on mobile (>90). I assume
     - Doesn't interfere with SVGs
     - [render-image.html experiments](/summary-render-image-files.md), all tests done at /interior-painter-kansas-city/
     - I am expecting that if render-image.html specifies it, I will see something like "width=33" when I inspect the <img> - is that accurate?
-    - Lighthouse says existing webp images can be smaller:  first image on /interior-painter-kansas-city/ is 699.6 KiB and can be reduced by 577.2 KiB. How to make this happen?
 2. Hero section - image loads slowly and so gives poor Lighthouse score. Only one hero background image on the site - static/images/january.webp.
     - Please modify (hero.html) so the [hero image is a normal image](https://www.corewebvitals.io/pagespeed/optimize-images-for-core-web-vitals) unless there is a better way to handle the hero.
 
@@ -20,7 +19,7 @@ My goal is primarily to improve Lighthouse Performance on mobile (>90). I assume
             You can use normal image tags in combination with the CSS object-fit:cover to make normal images behave as background images!"
 
     - Delete or revise hero image css as needed
-3. Home page images - revise /layouts/home templates so images are processed as regular images. Those images appear to only work from /static/
+3. Home page images - revise /layouts/home templates so images are processed as regular images. Those images now appear to only work from /static/
 4. CSS - I'd like to eliminate render blocking resources and reduce mobile load time. Remove unused CSS, serve critical CSS in head, minify.
     - Critical CSS - [inlining css](https://www.rockyourcode.com/inline-critical-css-with-hugo-pipes/). This [critical path generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/) may be helpful.
     - Remove unused CSS
@@ -49,6 +48,18 @@ My goal is primarily to improve Lighthouse Performance on mobile (>90). I assume
         <script src=https://crestwoodpainting.com/script.js></script>
         ```
 8. Annoying mystery: some of the css is lost on our Windows machine, all fine on android phones and my Chromebook. What's going on?
-    - Front page headline block is not transparent, obscures hero image
+    - Front page headline block is not transparent, obscures part of hero image
     - Front page Intro section h4 text (Interior, Exterior, Offices) is blue
     - links are underlined in blue, should be red
+
+[crestwoodpainting.com](https://crestwoodpainting.com), Hugo v0.133.0 extended, <https://github.com/boetiusj/hugo-dev>
+
+Full overview here: <https://github.com/boetiusj/hugo/blob/mk/developer.md>
+1. Responsive Images - webp, width and height, won't distort SVGs
+2. Hero section - convert background image to regular image
+3. Home page images - move to markdown
+4. CSS - critical CSS, purgeCSS
+5. Appointment booking tweak
+6. Blog page - Previous / Next link are missing
+7. js serve to all pages?
+8. Windows mystery

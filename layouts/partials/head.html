@@ -22,8 +22,9 @@
 
 {{ $styles := resources.Concat "styles.css" (slice $bootstrap $main) | postCSS | minify | fingerprint "sha512" }}
 
-<link rel="stylesheet" media="print" href="{{ $styles.Permalink }}" onload="this.media='all';this.integrity='{{ $styles.Data.Integrity }}';" async>
-<noscript><link rel="stylesheet" href="{{ $styles.Permalink }}"></noscript>
+<!--<link rel="stylesheet" media="print" href="{{ $styles.Permalink }}" onload="this.media='all';this.integrity='{{ $styles.Data.Integrity }}';" async>-->
+<!--<noscript><link rel="stylesheet" href="{{ $styles.Permalink }}"></noscript>-->
+<style>{{ $styles.Content | safeCSS }}</style>
 
 <!--Favicon-->
 {{- $iconsPath := "favicons/" }}

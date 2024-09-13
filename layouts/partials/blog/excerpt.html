@@ -1,7 +1,7 @@
 <div class="col-lg-6 col-md-6 mb-5 blog-item-wrap">
   <div class="blog-item">
     {{ $image := default "/images/lead-safe-certified-155.webp" .Params.image }}
-    <img loading="lazy" src="{{ $image }}" alt="blog excerpt img" class="img-fluid rounded excerpt_preview">
+    {{ partial "image" (dict "src" $image "class" "img-fluid w-100 rounded excerpt_preview" "loading" "lazy")  }}
 
     <div class="blog-item-content bg-white p-4">
       {{ partial "blog/excerpt-meta" . }}

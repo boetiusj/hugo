@@ -4,6 +4,9 @@ paginate = 10
 timeout = "100s"
 googleAnalytics = "G-Y229K0TNJR"
 # old G (before '24) analytics: UA-1372967-1
+[build]
+  writeStats = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderHooks]

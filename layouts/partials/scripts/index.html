@@ -2,15 +2,18 @@
 Essential Scripts
 =====================================-->
 <!-- Main jQuery -->
-<script src={{ absURL "plugins/jquery/jquery.min.js" }}></script>
+<script src={{ absURL "plugins/jquery/jquery.min.js" }} defer></script>
+
 <!-- Bootstrap 4.3.1 -->
-<script src={{ absURL "plugins/bootstrap/bootstrap.min.js" }}></script>
+<script src={{ absURL "plugins/bootstrap/bootstrap.min.js" }} defer></script>
 
 <!-- Google Map -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU" defer></script>
-<script src={{ absURL "plugins/google-map/map.js" }} defer></script>
+{{ if .Params.googleMaps }}
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU" defer></script>
+  <script src={{ absURL "plugins/google-map/map.js" }} defer></script>
+{{ end }}
 
-<script src={{ absURL "/script.js" }}></script>
+<script src={{ absURL "/script.js" }} defer></script>
 
 {{/* partialCached "pixel" .*/}}
 
@@ -24,4 +27,4 @@ Essential Scripts
 {{- $main := resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath . }}
 
 {{- $bundle := slice $variables $functions $main | resources.Concat "js/bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
-<script src="{{ $bundle.RelPermalink }}" async></script>
+<script src="{{ $bundle.RelPermalink }}" defer></script>

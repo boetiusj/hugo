@@ -2,7 +2,7 @@
 	'use strict';
 
 	// testimonial-wrap
-	if ($('.testimonial-wrap').length !== 0) {
+	if ($('.testimonial-wrap').length !== 0 && $('.testimonial-wrap').slick) {
 		$('.testimonial-wrap').slick({
 			slidesToShow: 2,
 			slidesToScroll: 2,

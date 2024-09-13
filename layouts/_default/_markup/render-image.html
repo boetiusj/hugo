@@ -3,5 +3,5 @@
   {{ .Page.Scratch.Set "firstImageDone" true }}
   {{ partial "image" (dict "src" .Destination "class" "img-fluid w-100" "fetchPriority" "high") }}
 {{ else }}
-  {{ partial "image" (dict "src" .Destination "class" "img-fluid w-100") }}
+  {{ partial "image" (dict "src" .Destination "class" "img-fluid w-100") "loading" "lazy" }}
 {{ end }}

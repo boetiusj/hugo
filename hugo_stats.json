@@ -232,12 +232,6 @@
       "widget"
     ],
     "ids": [
-      "Contact",
-      "Services",
-      "Why Us?",
-      "[map[name:Interiors url:/interior-painter-kansas-city/] map[name:Exteriors url:/exterior-painting-kansas-city/] map[name:Cabinets url:/cabinet-painting/] map[name:Office Experts url:/office-painting-experts/]]",
-      "[map[name:Send Us a Note url:/contact/] map[name:Blog - the Nitty Gritty url:/blog/] map[name:Payments url:/payments/]]",
-      "[map[name:Who & Why url:/who/] map[name:Reviews url:/reviews/] map[name:12 Best Questions url:/12-questions-ask-painter/] map[name:FAQs url:/faqs/]]",
       "a-color-horror-story",
       "a-confirmation-is-on-its-way-til-then---some-things-to-consider",
       "a-crestwood-painter-for-a-day-can",
@@ -323,9 +317,6 @@
       "lead-testing",
       "licensed",
       "long-term-commitment",
-      "map[name:Contact submenu:[map[name:Send Us a Note url:/contact/] map[name:Blog - the Nitty Gritty url:/blog/] map[name:Payments url:/payments/]] url:/contact/]",
-      "map[name:Services submenu:[map[name:Interiors url:/interior-painter-kansas-city/] map[name:Exteriors url:/exterior-painting-kansas-city/] map[name:Cabinets url:/cabinet-painting/] map[name:Office Experts url:/office-painting-experts/]] url:#]",
-      "map[name:Why Us? submenu:[map[name:Who & Why url:/who/] map[name:Reviews url:/reviews/] map[name:12 Best Questions url:/12-questions-ask-painter/] map[name:FAQs url:/faqs/]] url:#]",
       "material-warranty",
       "may-i-have-a-copy-of-your-insurance-certificate-for-my-files",
       "morecolors",

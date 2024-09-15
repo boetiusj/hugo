@@ -250,21 +250,21 @@ a {
 
 a:focus,
 a:hover {
-  color: $primary-color;
-  text-decoration: none;
+  color: $primary-color !important;
+  text-decoration: none !important;
 }
 
 a:focus {
-  outline: none;
+  outline: none !important;
 }
 
 .content {
   a {
-    text-decoration: underline;
-    text-decoration-color: $primary-color;
+    text-decoration: underline $primary-color !important;
+    text-decoration-color: $primary-color !important;
     &:hover {
-      text-decoration: underline;
-      text-decoration-color: $primary-color;
+      text-decoration: underline $primary-color !important;
+      text-decoration-color: $primary-color !important;
     }
   }
 }
@@ -289,4 +289,8 @@ a:focus {
 
 .page-wrapper {
   padding: 70px 0;
+}
+
+.block {
+  background-color: transparent;
 }

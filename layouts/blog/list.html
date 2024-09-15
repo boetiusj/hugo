@@ -10,14 +10,16 @@
 <section class="section blog-wrap bg-gray">
 	<div class="container">
 		<div class="row">
-		{{ if $enableSidebar }}<div class="col-lg-8"><div class="row">{{ end }}
-			{{ range $paginator.Pages }}
-				{{ partial "blog/excerpt" . }}
-			{{ end }}
-		{{ if $enableSidebar }}
-			</div></div>
-			{{ partial "blog/sidebar" . }}
-		{{ end }}
+      <div class="{{ if $enableSidebar }}col-lg-8{{ end }}">
+        <div class="row">
+        {{ range $paginator.Pages }}
+          {{ partial "blog/excerpt" . }}
+        {{ end }}
+        {{ if $enableSidebar }}
+          {{ partial "blog/sidebar" . }}
+        {{ end }}
+        </div>
+      </div>
 		</div>
 
 		<div class="row justify-content-center mt-5">
@@ -27,5 +29,4 @@
 		</div>
 	</div>
 </section>
-
-{{- end }}
+{{ end }}

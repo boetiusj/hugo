@@ -1,0 +1,61 @@
+{{/* Check for required arguments src): */}}
+{{ if not .src }} {{ errorf "Image Optimization: the partial 'lib/image' requires a 'src' argument." }} {{ end }}
+
+{{/* Get resource from assets folder: */}}
+{{ $resource := dict }}
+{{ with resources.Get .src }} {{ $resource = . }} {{ end }}
+
+{{ if not $resource }} {{ warnf "Image Optimization: the image '%s' has not been found." .src }} {{ end }}
+
+{{ if eq $resource.MediaType.SubType "svg" }}
+  <img
+    {{ with $resource.Permalink }}src="{{ . }}"{{ end }}
+    {{ with .class }} class="{{ . }}" {{ end }}
+    alt="{{ . }}"
+  />
+{{ else }}
+  {{/* Configure the image widths to be generated: */}}
+  {{ $breakpoints := (slice 1200 992 768 576) }}
+
+  {{/* Generate the images: */}}
+  {{ $images := slice }}
+  {{ range $breakpoints  }}
+    {{ if (ge $resource.Width .) }}
+      {{ $opts := (printf "%dx webp" .) }}
+      {{ $image := $resource.Resize $opts }}
+      {{ $images = append $images (slice $image) }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Build the srcset: */}}
+  {{ $srcset := slice }}
+  {{ range $images }}
+    {{ $srcset = append $srcset (slice (printf "%s %dw" .Permalink .Width)) }}
+  {{ end }}
+  {{ $srcset = delimit $srcset ", " }}
+
+  {{/* Build the sizes: */}}
+  {{ $sizes := slice }}
+  {{ $sizes = append $sizes (slice (printf "%dpx" 1400)) }}
+  {{ range $images }}
+    {{ $sizes = append $sizes (slice (printf "(max-width: %dpx) %dpx" .Width .Width)) }}
+  {{ end }}
+  {{ $sizes = delimit $sizes ", " }}
+
+  {{ $defaultSrc := (index $images (sub (len $images) 1)) }}
+  {{ $defaultSrc = (default $defaultSrc $resource)}}
+
+  {{/* Return the img element: */}}
+  <img
+    {{ with $defaultSrc.Permalink }}src="{{ . }}"{{ end }}
+    {{ with $defaultSrc.Width }} width="{{ . }}" {{ end }}
+    {{ with $defaultSrc.Height }} height="{{ . }}" {{ end }}
+    {{ with $srcset }} srcset="{{ . }}" {{ end }}
+    {{ with $sizes }} sizes="(min-width: 1200px) 1140px, (min-width: 992px) 960px, (min-width: 768px) 720px, (min-width: 576px) 540px" {{ end }}
+    {{ with .class }} class="{{ . }}" {{ end }}
+    {{ with .fetchPriority }} fetchPriority="{{ . }}" {{ end }}
+    {{ with .loading }} loading="{{ . }}" {{ end }}
+    alt='{{ default .Title "Featured Image" }}'
+  />
+{{ end }}
+

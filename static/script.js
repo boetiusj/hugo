@@ -2,7 +2,7 @@
 	'use strict';
 
 	// testimonial-wrap
-	if ($('.testimonial-wrap').length !== 0) {
+	if ($('.testimonial-wrap').length !== 0 && $('.testimonial-wrap').slick) {
 		$('.testimonial-wrap').slick({
 			slidesToShow: 2,
 			slidesToScroll: 2,
@@ -45,13 +45,11 @@
 	}
 
 	// navbarDropdown
-	if ($(window).width() < 992) {
-		$('#navbar .dropdown-toggle').on('click', function () {
-			$(this).siblings('.dropdown-menu').animate({
-				height: 'toggle'
-			}, 300);
-		});
-	}
+  $('#navbar .dropdown-toggle').on('click', function () {
+    $(this).siblings('.dropdown-menu').animate({
+      height: 'toggle'
+    }, 300);
+  });
 
 	$(window).on('scroll', function () {
 		//.Scroll to top show/hide

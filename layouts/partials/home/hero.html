@@ -2,7 +2,8 @@
 <!-- Slider Start -->
 {{ $hero := .Params.hero }}
 {{ $bg := default "/images/january.webp" $hero.image }}
-<section class="slider" style="--bg: url({{ $bg }})">
+<section class="slider position-relative">
+  {{ partial "image" (dict "src" $bg "class" "position-absolute inset-0 object-fit-cover") }}
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-9 col-md-10">

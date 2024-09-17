@@ -1,9 +1,10 @@
 {{ $title := split site.Title " " }}
 {{ $logo := site.Params.logo }}
+{{ $logoResource := resources.Get $logo }}
 <a class="navbar-brand" href={{ absURL "/" }}>
   {{ if and $logo (gt (len $logo) 4) }}
-  <img src="{{ $logo }}" class="nav_logo" alt="Crestwood Painting logo" width="200">
+  <img src="{{ $logoResource.Permalink }}" class="nav_logo" alt="Crestwood Painting logo" width="{{ $logoResource.Width }}" height="{{ $logoResource.Height }}">
   {{ else }}
-  {{ index $title 0 }} <span>{{ index $title 1 }}</span>
+    {{ index $title 0 }} <span>{{ index $title 1 }}</span>
   {{ end }}
 </a>

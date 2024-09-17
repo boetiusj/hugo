@@ -6,19 +6,25 @@
 <!-- ** Mobile Specific Metas ** -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+
 {{ partial "opengraph.html" . }}
+
+<!--Fonts-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
 <!-- bootstrap.min css -->
-<link rel="stylesheet" href={{ absURL "plugins/bootstrap/bootstrap.min.css" }}>
+{{ $bootstrap := resources.Get "bootstrap/bootstrap.min.css" }}
 
 <!-- Main Stylesheet -->
 {{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
-{{ $stylesheet := "scss/main.scss" }}
-{{- $styles := resources.Get $stylesheet | resources.ExecuteAsTemplate $stylesheet . | resources.ToCSS $options | resources.Fingerprint "sha512" }}
+{{- $main := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "scss/main.scss" . | css.Sass $options }}
 
-<!-- preload assets declaration -->
-<link rel="preload" href="{{ $styles.Permalink }}" integrity = "{{ $styles.Data.Integrity }}" as="style" crossorigin="anonymous">
+{{ $styles := resources.Concat "styles.css" (slice $bootstrap $main) | postCSS | minify | fingerprint "sha512" }}
 
-<link rel = 'stylesheet' href = '{{ $styles.Permalink }}' integrity = '{{ $styles.Data.Integrity }}' crossorigin="anonymous">
+<!--<link rel="stylesheet" media="print" href="{{ $styles.Permalink }}" onload="this.media='all';this.integrity='{{ $styles.Data.Integrity }}';" async>-->
+<!--<noscript><link rel="stylesheet" href="{{ $styles.Permalink }}"></noscript>-->
+<style>{{ $styles.Content | safeCSS }}</style>
 
 <!--Favicon-->
 {{- $iconsPath := "favicons/" }}

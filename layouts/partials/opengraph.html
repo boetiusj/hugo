@@ -140,5 +140,5 @@ strings.TrimSuffix "/" $.Page.Permalink }}
   }
 </script>
 {{ end }} {{- template "_internal/twitter_cards.html" . -}} {{- if eq (getenv
-"HUGO_ENV") "production" }} {{- template "_internal/google_analytics.html" . }}
+"HUGO_ENV") "production" }} {{- partial "scripts/google_analytics.html" . }}
 {{- end }}

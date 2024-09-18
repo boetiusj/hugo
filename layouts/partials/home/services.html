@@ -19,7 +19,7 @@
 				<div class="service-item mb-5">
           {{ $image := resources.Get (printf "images/svg/%s.svg" .icon) }}
           <span class="svg-h-13"> {{ $image.Content | safeHTML }} </span>
-					<h3 class="mb-3">{{ .name }}</h3>
+					<h4 class="mb-3">{{ .name }}</h4>
 					<p>{{ .description }}</p>
 				</div>
 			</div>

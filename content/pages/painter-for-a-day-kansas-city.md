@@ -8,7 +8,7 @@ date: "2011-09-21"
 index: true
 ---
 
-[![painter for a day Crestwood kansas city](/images/Painter-for-a-Day-Crestwood_opt-1024x1024.jpg)](/images/Painter-for-a-Day-Crestwood_opt.jpg)
+![painter for a day Crestwood kansas city](/images/painter-for-a-day.webp)
 
 A hassle-free way to hire a professional painter for small projects.
 

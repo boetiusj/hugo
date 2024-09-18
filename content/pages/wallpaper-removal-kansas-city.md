@@ -9,7 +9,7 @@ index: true
 coverImage: "tn_Wallpaper-removal.jpg"
 ---
 
-![wallpaper removal kansas city crestwood painting](/images/tn_Wallpaper-removal.jpg)
+![wallpaper removal kansas city crestwood painting](/images/wallpaper-removal.webp)
 
 Safe wallpaper removal with a non-toxic, no-odor solution. Then carefully wash the walls to thoroughly remove adhesive residue.
 

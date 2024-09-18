@@ -40,4 +40,4 @@ Rather than rely strictly on labor, there are products now available that allow 
 
 Using more effective scrapers and taking advantage of new paint technologies, painters can deliver an environmentally friendly, aesthetically pleasing and longer lasting paint job than was available in the past.
 
-![painter review online crestwood painting](/images/Ty-Esser.jpg)
+![painter review online crestwood painting](/images/r16-5-esser.webp)

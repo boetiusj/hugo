@@ -100,8 +100,5 @@ Images - should be served according to device, should include H and W. Should al
 ## Appearance
 
 - [ ] Rework tags and categories
-- [ ] ?? Phone link under booking button
-- [ ] ?? Add search?
 - [ ] [Image divs](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side). [Responsive image gallery, W3](https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive). [Image gallery, Hugo git](https://github.com/rootwork/hugo-module-gallery-grid)
   - [ ] Footer: PCA, Lead Safe, Waldo
-- YouCanBook.me: booking form hidden fields - inline (City, St 12345) rather than current new line each field?

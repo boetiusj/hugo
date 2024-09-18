@@ -1,4 +1,8 @@
 # Developer
+Tidy up package-lock.json, package.json, postcss.config.js
+Maps?
+Self host Matomo?
+
 
 [crestwoodpainting.com](https://crestwoodpainting.com), Hugo v0.133.0 extended, <https://github.com/boetiusj/hugo-dev>
 

@@ -6,7 +6,7 @@ keywords: "wallpaper removal, kansas city"
 canonical: "https://crestwoodpainting.com/wallpaper-removal-kansas-city/"
 date: "2011-09-18"
 index: true
-coverImage: "tn_Wallpaper-removal.jpg"
+coverImage: "wallpaper-removal.webp"
 ---
 
 ![wallpaper removal kansas city crestwood painting](/images/wallpaper-removal.webp)

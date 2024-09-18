@@ -29,7 +29,7 @@ Crestwood Painting has done a small ranch home in Westwood for $2200. We've also
 - Prep - A home in poor condition requires more prep work than one in good condition. Prep work take time; more time certainly affects cost - something to keep in mind when considering an attractive lower price.
 - Colors I - [Each color](/exterior-paint-important/) adds to the complexity of the overall project and each color means another trip up the ladder. A mid-century ranch house is fine with 3 colors;  a classic Craftsman might require five colors to properly highlight the architectural details.
 
-  >![paint house exterior kansas city crestwood painting](/images/ranch-house.jpg) Smaller houses cost less to paint.
+  >![paint house exterior kansas city crestwood painting](/images/ranch-house.webp) Smaller houses cost less to paint.
 
 - Colors II - Poor quality paint doesn't cover very well. Some painters charge more for a color change (e.g. dark blue over white). If that's the case you might ask that painter about product choice.
 - Details I - Shutters are often an accent color. If shutters can be easily removed there's no problem; if plastic shutters are fixed with pound-in-never-come-out plastic anchors it might be necessary to leave them in place and paint around them.

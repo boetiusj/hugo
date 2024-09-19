@@ -26,19 +26,18 @@ This will produce text with a degree of contrast
 
 ```markdown
 {{< text >}}
-<!-- markdown text -->
+<!-- markdown text --> Text true.
 {{< /text>}}
 ```
 
-![](/screenshots/SCR-20230226-mrn.png)
+Some text.
 
 ```markdown
 {{< text true >}}
-<!-- markdown text -->
+<!-- markdown text --> Text true example.
 {{< /text>}}
 ```
 
-![](/screenshots/SCR-20230226-mru.png)
 
 ### Booking form
 

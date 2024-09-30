@@ -9,6 +9,8 @@
 
 ### Content
 
+- FAQ page for each type of service?
+    - [Or single FAQ page - good example](view-source:https://www.zappos.com/general-questions#faq-list). With "Return to Top" link after each question. [This has tabs](https://www.nintendo.com/us/switch/faq/#section-nintendo-switch)
 - Pages linked in Interiors (basements, bedrooms, cabinets, weirdest, lofts/condos, office interiors)
 - Pages linked in Exteriors (front doors, office exteriors)
 - Update and add blog pages, based on FAQs

@@ -40,4 +40,4 @@ Finally, upside down storage means the paint in the can seals the lid, making pr
 
 Industry experts acknowledge that just about 0% of the paint stored in your basement is likely to ever see the light of day, so the whole storage thing may be a triumph of Hope over Reason. At least now you've got reason to hope that your paint will remain in usable condition.
 
-Still not sure if it's usable? Give us a call - we'd be happy to take a look.
+Still not sure if it's usable? Give us a call - we'd be happy to take a look. Thanks!

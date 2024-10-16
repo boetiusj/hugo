@@ -7,10 +7,10 @@
 - [Orig. Theme](https://github.com/themefisher/megakit-bootstrap): Themefisher Megakit Bootstrap
 - [Eric Murphy](https://ericmurphy.xyz/blog/), [Youtube](https://www.youtube.com/@EricMurphyxyz/search?query=hugo)
 
-### Content
+## Content
 
 - FAQ page for each type of service?
-    - [Or single FAQ page - good example](view-source:https://www.zappos.com/general-questions#faq-list). With "Return to Top" link after each question. [This has tabs](https://www.nintendo.com/us/switch/faq/#section-nintendo-switch)
+  - [Or single FAQ page - good example](view-source:https://www.zappos.com/general-questions#faq-list). With "Return to Top" link after each question. [This has tabs](https://www.nintendo.com/us/switch/faq/#section-nintendo-switch)
 - Pages linked in Interiors (basements, bedrooms, cabinets, weirdest, lofts/condos, office interiors)
 - Pages linked in Exteriors (front doors, office exteriors)
 - Update and add blog pages, based on FAQs
@@ -19,7 +19,7 @@
 - Top of page button at bottom
 - Common misconceptions (caulk all the same, paint and primer in one, ceiling paint as primer, all paint is the same, cheap is as good as expensive)
 
-### Images
+## Images
 
 - [Gallery examples](https://www.liwen.id.au/heg/), [code here](https://github.com/liwenyip/hugo-easy-gallery/)
 - [nowrap Codepen](https://codepen.io/team/css-tricks/pen/bEajLE/1ea1ef35d942d0041b0467b4d39888d3)
@@ -30,11 +30,11 @@
 ### Other
 
 - Rework tags and categories
-    - blog categories: Color-Choices, How-To-Hire-Painter, Painting-Tips, Painting-Challenges, General, Home-Maintenance-Tips, Painting-Reviews, Green / Eco
-    - blog tags: better-business-bureau, interior-painting, painting-insurance, cleaning, interior-painting, prep-work, nail-pops, prep, estimates, online-reviews, painters, aluminum-siding, contrasting-colors, exterior-painting, shingles, shutters, vinyl-siding, exterior-painting, re-siding, caulk, interior-painting, prep, trim, wood, painting-insurance, contrasting-colors, exterior-painting, trim
+  - blog categories: Color-Choices, How-To-Hire-Painter, Painting-Tips, Painting-Challenges, General, Home-Maintenance-Tips, Painting-Reviews, Green / Eco
+  - blog tags: better-business-bureau, interior-painting, painting-insurance, cleaning, interior-painting, prep-work, nail-pops, prep, estimates, online-reviews, painters, aluminum-siding, contrasting-colors, exterior-painting, shingles, shutters, vinyl-siding, exterior-painting, re-siding, caulk, interior-painting, prep, trim, wood, painting-insurance, contrasting-colors, exterior-painting, trim
 - Wildcard booking page
 
-### G services
+## G services
 
 - [hCaptcha](https://www.hcaptcha.com/) added to form submission
 - [Google Analytics alternative](umami.is) --> umami, Matomo

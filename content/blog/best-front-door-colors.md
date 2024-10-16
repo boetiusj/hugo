@@ -1,7 +1,7 @@
 ---
 title: Best Front Door Colors
 url: best-front-door-colors
-description: A closer look at the factors involved in choosing interior trim paint colors.
+description: Popular colors for front doors.
 keywords: front door, paint colors
 canonical: https://crestwoodpainting.com/best-front-door-colors/
 date: 2023-07-22

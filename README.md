@@ -38,7 +38,6 @@ Some text.
 {{< /text>}}
 ```
 
-
 ### Booking form
 
 ```markdown

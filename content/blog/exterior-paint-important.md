@@ -31,4 +31,8 @@ However, one client had her house painted, then was horrified to see that the gr
 
 But, knowing how important color is, she sucked it up, hired me to tweak the color scheme, and is paying to have it repainted! While I admire her for being able to admit she made a mistake, if she had hired an experienced color consultant in the first place, she wouldn’t be paying for another paint job.
 
-A [color consultation](/color-it-beautiful/) can save you time, money, and energy. Get the colors right from the start by calling Diane Stewart at 913-284-6621.
+A color consultation can save you time, money, and energy. Get the colors right from the start - full sized (8 1/2" x 11") post-it pages are available from [Samplize.com](https://www.samplize.com/). This is a handy option that allows viewing a color on different sides of the house and in different lighting.
+
+Some paint manufacturers offer [virtual color consultations]https://www.sherwin-williams.com/en-us/virtual-color-consultation or online tools that allow photo coloring. Several of our customers have had great experiences with [the Color Concierge](https://thecolorconcierge.com/).
+
+Whatever you do, do not go to the paint store and stare at the 1000s of color options - you'll drive yourself nuts.

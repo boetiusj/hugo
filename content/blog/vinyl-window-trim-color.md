@@ -1,7 +1,7 @@
 ---
 title: "Vinyl Window Trim Color"
 url: "vinyl-window-trim-color"
-description: "-"
+description: "Vinyl windows can affect trim color"
 keywords: "-"
 canonical: "https://crestwoodpainting.com/vinyl-window-trim-color"
 date: "2013-11-21"

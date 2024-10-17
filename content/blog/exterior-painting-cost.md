@@ -1,8 +1,8 @@
 ---
 title: "How Much Does Exterior Painting Cost?"
 url: "exterior-painting-cost"
-description: "- "
-keywords: "- "
+description: "Cost of exterior painting in Kansas City"
+keywords: "cost"
 canonical: "https://crestwoodpainting.com/exterior-painting-cost"
 date: "2013-03-04"
 index: true
@@ -23,7 +23,7 @@ tags:
 
 After making the decision to [paint the exterior](/exterior-painting-kansas-city/) of their home, Kansas City homeowners want to know about cost. The short answer is always "it depends" because there are so many factors involved.
 
-Crestwood Painting has done a small ranch home in Westwood for $2200. We've also painted several large, older homes that ran about $15,000 and gem just off Ward Parkway was  $24,000. In general, most homes are in the $6000 to $12,000 range. Here are some of the considerations:
+Crestwood Painting has done a small ranch home in Westwood for $2200. We've also painted several large, older homes that ran about $15,000 and gem just off Ward Parkway was $24,000. In general, most homes are in the $6000 to $12,000 range. Here are some of the considerations:
 
 - Material - if we're painting vinyl or aluminum siding it only needs to be washed. But [cedar clapboards](/painting-shake-shingles/), on the other hand, require hand scraping of every square inch of exposed surface.
 - Prep - A home in poor condition requires more prep work than one in good condition. Prep work take time; more time certainly affects cost - something to keep in mind when considering an attractive lower price.

@@ -35,4 +35,4 @@ tags:
 
 "Green is also associated with gardening, sustainable living and environmental issues since it aligns us with the cycles of nature, and encourages us to appreciate the earth. If plants are green and healthy, then life is good!"
 
-Diane is very good at choosing colors that will complement existing colors - whether roof, stone foundation, pillows, etc. This means a unified whole rather than matchy-match or the usual DIY hodge-podge. Give her a call (913-284-6621) or visit her site at colorsenseconsulting.com
+A skilled color consultant will complement existing colors - whether roof, stone foundation, pillows, etc. This means a unified whole rather than matchy-match or the usual DIY hodge-podge.

@@ -12,7 +12,7 @@ index: true
 
 ## If You’re New to Painting
 
-Relax \- we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; [or jump to FAQs](#Exterior-Painting-FAQs) at the bottom of this page, too.
+Relax \- we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; [or jump to FAQs](#Give-Us-a-Call) at the bottom of this page, too.
 
 ### Getting Ready: A Few Simple Steps
 

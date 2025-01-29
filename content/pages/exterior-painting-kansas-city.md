@@ -12,7 +12,7 @@ index: true
 
 ## If You’re New to Painting
 
-Relax \- we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; [take a look at our FAQs](#abcd) at the bottom of this page, too.
+Relax \- we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; [or jump to FAQs](#Exterior-Painting-FAQs) at the bottom of this page, too.
 
 ### Getting Ready: A Few Simple Steps
 
@@ -118,7 +118,9 @@ After we’re finished, we make sure everything is cleaned up. This includes rem
 
 We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this \- let’s find what works best for your situation. Click here to see our reviews, then book an estimate time.
 
-## Exterior Painting FAQs <a name="abcd"></a>
+## Exterior Painting FAQs
+
+Here are some of the top questions we get.
 
 ### What is Included in Exterior House Painting?
 

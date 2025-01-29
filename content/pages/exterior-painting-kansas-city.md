@@ -12,11 +12,11 @@ index: true
 
 ## If You’re New to Painting
 
-Relax \- we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; or jump to FAQs at the bottom of this page, too.
+Relax \- we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; you'll find good FAQs at the bottom of this page.
 
 ### Getting Ready: A Few Simple Steps
 
-So things run smoothly, we’ll share a quick checklist of things to do before we get started.
+After a project is Set To Go and so things run smoothly, we’ll share a quick checklist of things to do before we get started.
 
 * Clear the Work Area – Moving furniture or anything near the workspace helps us work efficiently and keeps your belongings safe.  
 * Check the Yard – A quick scan for obstacles (including dog doo—thanks in advance\!) makes setup and movement easier.  
@@ -50,7 +50,7 @@ For example:
 * Accent Colors – Used for small details to add contrast.  
 * Front Door – A chance to make a statement\!
 
-No need to memorize the lingo—just tell us what catches your eye, and we’ll guide you from there. `[See our color page](color-help.md)` for some more ideas.
+No need to memorize the lingo—just tell us what catches your eye, and we’ll guide you from there. [See our color page](color-help.md) for some more ideas.
 
 ## Exterior Prep
 

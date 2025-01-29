@@ -26,7 +26,7 @@ Replacing cabinets is pricey. Painting gives you the same upgraded look at a fra
 
 A full remodel can take months. Cabinet painting? More like days. It’s the perfect solution for busy households that want an update without the wait.
 
-< A wonderful job on my kitchen cabinets! They gave an accurate and fair estimate, worked full days and were extremely neat and courteous.
+> A wonderful job on my kitchen cabinets! They gave an accurate and fair estimate, worked full days and were extremely neat and courteous.
 
 ![Painted cabinets](/images/cabinets/c-loftgray.jpg)
 

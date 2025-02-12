@@ -11,6 +11,10 @@
   }
 }
 
+.svg-h-13 {
+    vertical-align: middle; /* mk added, helps with alignment */
+}
+
 .object-fit-cover {
   object-fit: cover;
 }

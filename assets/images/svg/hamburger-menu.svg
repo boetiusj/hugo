@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools 
+
+919 bytes → 267 bytes 29.05%
+<svg width="800" height="800" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path stroke="#0C0310" stroke-width="2" stroke-linecap="round" d="M5 7h14M5 17h14M5 12h14"/></g></svg>
+
+-->
 <svg width="800px" height="800px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="currentColor">
     <title>Menu</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -7,13 +12,13 @@
             <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24">
 
 </rect>
-            <line x1="5" y1="7" x2="19" y2="7" id="Path" stroke="#0C0310" stroke-width="3" stroke-linecap="round">
+            <line x1="4" y1="7" x2="19" y2="7" id="Path" stroke="#0C0310" stroke-width="3" stroke-linecap="round">
 
 </line>
-            <line x1="5" y1="17" x2="19" y2="17" id="Path" stroke="#0C0310" stroke-width="3" stroke-linecap="round">
+            <line x1="4" y1="17" x2="19" y2="17" id="Path" stroke="#0C0310" stroke-width="3" stroke-linecap="round">
 
 </line>
-            <line x1="5" y1="12" x2="19" y2="12" id="Path" stroke="#0C0310" stroke-width="1" stroke-linecap="round">
+            <line x1="4" y1="12" x2="19" y2="12" id="Path" stroke="#0C0310" stroke-width="3" stroke-linecap="round">
 
 </line>
         </g>

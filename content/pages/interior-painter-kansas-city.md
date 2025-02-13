@@ -131,7 +131,7 @@ Partnering with Crestwood Painting means a hassle-free process, exceptional craf
 
 ## Book An Estimate Today
 
-We’ll help narrow objectives and priorities and go over best options - there are many ways to approach this. [Book an Estimate with us](/content/book-form) and let’s find what works best for your situation.
+We’ll help narrow objectives and priorities and go over best options - there are many ways to approach this. [Book an Estimate with us](https://crestwoodpainting.com/book-us/) and let’s find what works best for your situation.
 
 ## FAQs \- Interior Painting
 
@@ -157,7 +157,7 @@ If you just need your blue walls light gray, we can do that. And if you’re aft
 
 ### How Long Does an Interior Painting Estimate Take?
 
-Our online [booking form](https://crestwoodpainting.com/book-us/) is quick and easy. Or, \[call our friendly answering service\](tel:816-805-4515). You’ll get a confirmation email right away. And then a reminder 24 hours before.
+Our online [booking form](https://crestwoodpainting.com/book-us/) is quick and easy. Or, call our friendly answering service (816-805-4515). You’ll get a confirmation email right away. And then a reminder 24 hours before.
 
 Most estimates take 30 minutes or less, but we’re not watching the clock. If you want to dive into details and talk through every aspect of the project, we’re all ears. Our goal is to leave you feeling informed and comfortable with the process ahead.
 

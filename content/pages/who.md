@@ -14,7 +14,7 @@ Consistent communication. Clear proposals, clear expectations. Friendly people w
 
 ### Fully licensed and insured
 
-From the very beginning we've had a KCMO business license and full insurance. And we send a copy of that insurance along with every single proposal. So you can have confidence from the get-go.
+From the very beginning we've had a KCMO business license and full insurance. You'll get a copy of that insurance along with your proposal. Because confidence starts with transparency.
 
 {{< gallery >}}
 
@@ -22,11 +22,11 @@ From the very beginning we've had a KCMO business license and full insurance. An
 - ![EPA Lead paint certified](/images/Lead-Safe-Certified120.webp)
 {{< /gallery >}}
 
-Crestwood Painting has professional certifications and affiliations. Lead-safe certified by the EPA since way back in 2011 and an active member of the [Painting Contractors Association](https://www.pcapainted.org/) since 2008.
+We take professionalism seriously. EPA Lead-Safe Certified since 2011 and an active member of the [Painting Contractors Association](https://www.pcapainted.org/) since 2008, we stay up to date on industry best practices, safety standards, and the best products for your home.
 
 ### High Customer Ratings
 
-Year after year, all the way back to 2007, we have rave [reviews, feedback & testimonials](/reviews/). Customers call us back and tell their friends and families their great experience.
+Since 2007, we’ve built our business on happy customers and solid referrals. [Our reviews](/reviews/) speak for themselves — homeowners love working with us, and they come back again and again. When people find a painting company that shows up, does the job right, and respects their home, they don’t keep it a secret.
 
 ### Schedule Driven
 
@@ -47,12 +47,11 @@ Every company succeeds with their people. At Crestwood Painting we patiently loo
 
 After starting in '07 we needed a name but the obvious "Brookside Painting" URL was taken by a company in Brooklyn. No kidding. So, a long cup of coffee with a marketing expert lead to "Home Tones". As in Home painting and Tones of color. Genius, right?
 
-It was immediately shot down (wife and daughter: "you've got to be kidding"). They are not marketing experts, but in less than 5 minutes they decided on Crestwood Painting. Whadda ya gonna do?
+It was immediately shot down (wife and daughter: "you've got to be kidding"). They are not marketing experts, but in less than 5 minutes they decided on Crestwood Painting. So there's that.
+
+Named after Crestwood, a classic Kansas City neighborhood tucked just south of UMKC at Oak St., it felt like the perfect fit. Local, established, and rooted in the community.
 
 ![Crestwood neighborhood sign](/images/crestwood-neighborhood.jpg)
-"Crestwood" is another classic Kansas City neighborhood within Brookside, snuggled in just south of UMKC at Oak St.
-
-[![customer review painter kansas city crestwood painting](/images/r17-4-glorfeld.webp)](/reviews/)
 
 #### What is No Drips, No Drama?
 

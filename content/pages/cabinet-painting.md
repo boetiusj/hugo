@@ -48,7 +48,7 @@ Even if they don’t get the same daily traffic, cabinets in laundry rooms or re
 
 ## Paint Cabinet Interiors?
 
-It depends. If your interiors are wood or MDF (particle board), a protective coat of paint can help extend their life. But if they’re melamine (a smooth, plastic-like surface), painting them isn’t always necessary—unless the color is truly tragic.
+It depends. If your interiors are wood or MDF (particle board), a protective coat of paint can help extend their life. But if they’re melamine (a smooth, plastic-like surface), painting them isn’t always necessary — unless the color is truly tragic.
 
 ![kitchen cabinet painting](/images/cabinets/c-peninsula.jpg)
 
@@ -66,7 +66,7 @@ Easy to clean, fast-drying, and low-odor, latex paints sound great—except most
 
 ### Urethane
 
-The best of both worlds—durable, scratch-resistant, and low-odor. Urethane-based paints stand up to heavy use and provide a beautiful, long-lasting finish. Bonus: they clean up with water, so no smelly thinners required.
+The best of both worlds - durable, scratch-resistant, and low-odor. Urethane-based paints stand up to heavy use and provide a beautiful, long-lasting finish. Bonus: they clean up with water, so no smelly thinners required.
 
 ## How Long Does Cabinet Paint Last?
 
@@ -88,12 +88,12 @@ Pricing varies, but here’s what factors in:
 
 ### Size Matters
 
-More cabinets \= more materials, more labor, and higher cost.
+More cabinets = more materials, more labor and, for sure, higher cost.
 
 ### Condition Matters
 
 - A cabinet in rough shape needs extra prep work to bring it back to life.  
-- Water damage, heavy dings, sagging hinges \- at some point other options might be worth considering.
+- Water damage, heavy dings, sagging hinges - at some point other options might be worth considering.
 
 ### Details Matter
 
@@ -124,7 +124,7 @@ Painting cabinets isn’t just about a great finish—it’s about keeping your 
 - Cabinet Interiors – If only the exteriors are being painted, interiors are carefully shielded to prevent overspray.  
 - Temporary Dust Barriers – When needed, ZipWalls or plastic enclosures are set up to contain dust and minimize disruption to the rest of your home.
 
-A clean workspace \= a better final result. Careful protection reduces cleanup time, prevents accidental messes, and ensures your freshly painted cabinets are the only thing that stands out when the job is done.
+A clean workspace = a better final result. Careful protection reduces cleanup time, prevents accidental messes, and ensures your freshly painted cabinets are the only thing that stands out when the job is done.
 
 > I feel like our cabinets look brand new and we are very happy with their work. We have used Crestwood before and we would definitely use them again in the future!
 

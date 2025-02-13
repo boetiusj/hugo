@@ -10,19 +10,13 @@ index: true
 
 ![Apples to Apples comparison](/images/applesoranges.webp)
 
-Important to ask "How confident am I that this contractor can do what he says?"
-
-Cover these points with each painter you interview – you’ll soon have a good idea who will provide the work you’re after.
-
-![fountain room](/images/interior/fountainrm.jpg)
-
 ## Prep Work Is Critical
 
 The single most important part of a quality paint job. Some homes require more prep time than painting time. A careful, methodical and systematic approach will maximize the performance benefits of high quality materials. Will they pressure wash to clean dirt, or also to remove paint (spray tip and technique matter)?
 
 Use backer rod for large gaps (good), or just fill with caulk (bad)? Use sharp scrapers or dull putty knives to remove paint? Attention to detail is essential to the final result. Most homeowners won’t know about shortcuts taken with tedious prep work until well after their check has been cashed.
 
-![modern stairway](/images/interior/Modern-Stairway.jpg)
+![fountain room](/images/interior/fountainrm.jpg)
 
 ## Paint Quality
 
@@ -34,7 +28,7 @@ Every paint manufacturer makes a range of products – from very high quality to
 
 Materials are often not included. This is a huge unknown for the homeowner – no incentive for the painter to eliminate waste or estimate paint quantities accurately.
 
-> Workman’s comp insurance is required by law; liability insurance is required by common sense. Some painters have neither.
+> Workman’s comp insurance is required by law; liability insurance is required by common sense. Many painters have neither.
 
 ![painted apartment building](/images/exterior/brick-apartment.jpg)
 
@@ -50,6 +44,8 @@ Workman’s compensation insurance is required by law; liability insurance is re
 
 Closely supervised, experienced painters will always deliver a better job than unsupervised, inexperienced workers. Proper attire (painters “whites”) is an easy gauge of the level of professionalism. An agreement that eliminates assumptions about the type of work to be done and a supervisor that clearly communicates with his crew and the homeowner will ensure that all expectations are met.
 
+> Important to ask "How confident am I that this contractor can do what he says?"
+
 ### Long-Term Commitment?
 
 A professional crew can paint most houses in less than 2 weeks. If you've hired a crew of one, or they work a "flexible" schedule, they may be a part of your life for quite a bit longer. Great if you don’t mind them using your bathroom, but most homeowners want to get the whole thing over with sooner rather than later. At the other end of the spectrum are the “blow and go” or “quick change” artists – quick prep, quick spray, collect the check and outta here. If that’s what you’re paying for, OK, but not so good if you’re paying for a top-notch job.
@@ -57,3 +53,5 @@ A professional crew can paint most houses in less than 2 weeks. If you've hired 
 ### Extras
 
 Trash bags for daily pick-up, no blaring music, no foul language, professional attire, tarps on the driveway prevent permanent reminders of your paint project – these small details do make a difference.
+
+![modern stairway](/images/interior/Modern-Stairway.jpg)

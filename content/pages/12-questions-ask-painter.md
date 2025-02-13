@@ -9,7 +9,8 @@ index: true
 ---
 
 ![painter questions kansas city](/images/Checkbox.webp)
-Be sure to ask these questions _before_ you decide on a painter.
+
+## Ask These Questions _before_ You Choose a Painter
 
 ### Do you have proof of insurance?
 
@@ -48,9 +49,9 @@ All of this assumes quality materials – if you’re being steered toward a low
 
 ### What is a properly painted surface?
 
-![pca paint ed kansas city crestwood painting](/images/logo-pca100.webp)
+![pca painting contractors association](/images/logo-pca100.webp)
 
-The [Painting Contractors Assoc](https://pcapainted.org) has established clear standards for its members, from accepted production rates to appropriate materials and application techniques. Objective standards make it easy for homeowner and painter to agree on what a [properly painted surface](/12-questions-ask-painter/#properlypainted) is. Membership in trade organizations indicates a level of professional commitment.
+The [Painting Contractors Assoc](https://pcapainted.org) has established clear standards for its members, from accepted production rates to appropriate materials and application techniques. Objective standards make it easy for homeowner and painter to agree on what a [properly painted surface](#properly-painted-surface) is. Membership in trade organizations indicates a level of professional commitment.
 
 ### Do you require any payment up front?
 
@@ -82,5 +83,5 @@ This question will tell you if the painter is informed about the lead issue or i
 
 It’s best to assume that any paint applied to your house before 1978 contains lead. Any sanding should be collected in a HEPA (High Efficiency Particulate Air) filtered vacuum. Sanding without HEPA filtration and appropriate breathing protection is a violation of EPA guidelines and OSHA regulations.
 
-\* 4.89. PROPERLY PAINTED SURFACE:
-A surface uniform in appearance, color, texture, hiding and sheen. It is also free of foreign material, lumps, skins, runs, sags, holidays, misses, or insufficient coverage. It is also a surface free of drips, spatters, spills or overspray caused by the Painting Contractor’s Association workforce. \[PCA, P1-04\]
+# PROPERLY PAINTED SURFACE:
+A surface uniform in appearance, color, texture, hiding and sheen. It is also free of foreign material, lumps, skins, runs, sags, holidays, misses, or insufficient coverage. It is also a surface free of drips, spatters, spills or overspray caused by the Painting Contractor’s  workforce. \[PCA, P1-04\]

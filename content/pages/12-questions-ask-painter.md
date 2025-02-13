@@ -83,5 +83,6 @@ This question will tell you if the painter is informed about the lead issue or i
 
 It’s best to assume that any paint applied to your house before 1978 contains lead. Any sanding should be collected in a HEPA (High Efficiency Particulate Air) filtered vacuum. Sanding without HEPA filtration and appropriate breathing protection is a violation of EPA guidelines and OSHA regulations.
 
-# PROPERLY PAINTED SURFACE:
+#### PROPERLY PAINTED SURFACE
+
 A surface uniform in appearance, color, texture, hiding and sheen. It is also free of foreign material, lumps, skins, runs, sags, holidays, misses, or insufficient coverage. It is also a surface free of drips, spatters, spills or overspray caused by the Painting Contractor’s  workforce. \[PCA, P1-04\]

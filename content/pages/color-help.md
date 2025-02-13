@@ -67,7 +67,7 @@ Shutters can add charm and definition, but not every home needs them. If they’
 
 Coloring brick \- whether natural limewash or paint \- can transform and refresh an aging exterior. But it’s also a permanent decision that requires careful prep and the right products to ensure a lasting finish.
 
-### White Windows PLUS White Trim? Sure?
+### White Windows PLUS White Trim?
 
 Pairing white windows with white trim might seem like a safe choice, but it can sometimes leave a home looking overpowered with white squares. Adding subtle contrast with a slightly darker trim color (linen-ish) can help define architectural features and add some dimension.
 

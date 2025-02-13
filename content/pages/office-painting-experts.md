@@ -101,11 +101,14 @@ Call Crestwood Painting for your office painting needs. We're an established and
 - ![Edward Jones painting office kansas city](/images/O-edwardjones.webp)
 - ![office painting fedex kansas city](/images/O-fedex-logo.webp)
 - ![office painting cintas](/images/O-Cintas.webp)
+{{< /gallery >}}
+
+{{< gallery >}}
 
 - ![office painting United Way](/images/O-UnitedWay.webp)
 - ![commercial painting warehouse Republic](/images/O-Republic.webp)
 - ![office painting Thrifty](/images/O-Thrifty.webp)
 - ![office painting Bluebird](/images/O-Bluebird.webp)
-
 {{< /gallery >}}
+
 ![commercial painting senior crestwood](/images/r-sunrise-senior-living.webp)

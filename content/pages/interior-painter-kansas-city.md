@@ -12,7 +12,7 @@ index: true
 
 ## Interior Painting – What to Expect
 
-A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are [helpful FAQs](#faqs---interior-painting) at the bottom of this page and hundreds of ([customer reviews](/content/pages/reviews.md)), too.
+A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are [helpful Interior FAQs](#faqs---interior-painting) at the bottom of this page and hundreds of ([customer reviews](/content/pages/reviews.md)), too.
 
 ## Let’s Talk: Colors & Expectations
 
@@ -141,8 +141,7 @@ A small bedroom can be painted for less than $1000; a whole house interior can r
 
 #### Rule of Thumb
 
-Generally, the biggest bang for the buck is wall paint \- because walls are less labor-intensive and the visual transformation is greatest. Trim is more labor intensive and will usually be repainted some kind of white \- so a relatively small visual transformation but greater cost.  
- white. A relatively small visual transformation but greater cost.
+Generally, the biggest bang for the buck is wall paint \- because walls are less labor-intensive and the visual transformation is greatest. Trim is more labor intensive and will usually be repainted some kind of white \- so a relatively small visual change.  
 
 #### What Should Be Painted?
 

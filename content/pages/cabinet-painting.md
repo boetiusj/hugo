@@ -76,6 +76,8 @@ A great paint job can last for years—but just how long depends on the use and 
 
 For kitchens that don’t see much action, cabinet paint can stay looking fresh for a decade or more with minimal upkeep.
 
+ > We are very happy with the quality of the work. I would recommend them for painting cabinets to anyone.
+
 ### A Short Time (six teenage cooks)
 
 If your kitchen sees daily battles with sauce splatters and sticky fingers, expect more wear. Touch-ups or a refresh might be needed in a few years.
@@ -123,6 +125,8 @@ Painting cabinets isn’t just about a great finish—it’s about keeping your 
 - Temporary Dust Barriers – When needed, ZipWalls or plastic enclosures are set up to contain dust and minimize disruption to the rest of your home.
 
 A clean workspace \= a better final result. Careful protection reduces cleanup time, prevents accidental messes, and ensures your freshly painted cabinets are the only thing that stands out when the job is done.
+
+> I feel like our cabinets look brand new and we are very happy with their work. We have used Crestwood before and we would definitely use them again in the future!
 
 ### Prep Work: The Foundation of a Fabulous Finish
 

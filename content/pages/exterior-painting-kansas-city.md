@@ -12,7 +12,7 @@ index: true
 
 ## If You’re New to Painting
 
-Relax \- we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; you'll find good FAQs at the bottom of this page.
+Relax \- we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; some [good Exterior FAQs here](#exterior-painting-faqs) are helpful, too.
 
 ### Getting Ready: A Few Simple Steps
 
@@ -30,6 +30,8 @@ No stress, no surprises—we’ll walk you through everything and make sure you�
 ### Choosing a Color Scheme
 
 Still undecided on colors? You’re not alone—half of our clients start that way. We’ll help you pick the perfect combination to make sure your home stands out for all the right reasons.
+
+> They did a fantastic job, were easy to work with, professional, and clearly care about the work they are doing
 
 #### How Many Colors?
 
@@ -50,7 +52,7 @@ For example:
 * Accent Colors – Used for small details to add contrast.  
 * Front Door – A chance to make a statement\!
 
-No need to memorize the lingo—just tell us what catches your eye, and we’ll guide you from there. [See our color page](color-help.md) for some more ideas.
+No need to memorize the lingo — just tell us what catches your eye, and we’ll guide you from there. [See our color page](color-help.md) for some more ideas.
 
 ## Exterior Prep
 
@@ -79,6 +81,8 @@ If we encounter cracks or small holes in stucco, we make sure to patch them up w
 ### Jobsite Protection
 
 We go the extra mile to keep your home protected—drop cloths, surface covers, even special wraps for your car (because no one wants a speckled driveway or a ‘custom’ paint job on their patio set).
+
+> We selected them based on positive referrals from neighbors.
 
 ### Plants and Shrubs
 
@@ -138,6 +142,8 @@ We keep things straightforward so you know exactly what’s covered.
 Let’s talk real-world results. In year 14, two of our very first customers called to repaint. Fourteen years? That’s a solid run. And guess what? There are still homes we painted in 2007 that are looking sharp today.
 
 It’s not magic—just good prep, great products, and a process designed to stand the test of time.
+
+> Crestwood just finished painting the exterior of my two-story, 1930's vintage house. They worked hard to make sure everything was done correctly, and the team did a great job.
 
 ### How Much Does Exterior Painting Cost?
 

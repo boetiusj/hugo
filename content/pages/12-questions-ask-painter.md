@@ -12,6 +12,8 @@ index: true
 
 ## Ask These Questions _before_ You Choose a Painter
 
+---
+
 ### Do you have proof of insurance?
 
 Every painter should carry General Liability insurance with not less than $1 million in coverage. This insurance protects the homeowner from damage done by the painter, e.g. 5 gallons of white latex is spilled on your new roof or a ladder crashes onto your convertible. Repair work? That falls under carpentry and requires a separate rider. Proper insurance is Business 101. Of course, if these accidents really didn’t happen nobody would need insurance.

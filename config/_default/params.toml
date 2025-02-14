@@ -2,7 +2,7 @@ blogPageSidebarOn = false
 latestPosts = 3
 email = "admin@crestwoodpainting.com"
 phone = "816-805-4515"
-copyright = "Copyright &copy; 2007 - {{ now.Format 2006 }} [Crestwood Painting](https://crestwoodpainting.com/)"
+copyright = "Copyright &copy; 2007 - {year} [Crestwood Painting](https://crestwoodpainting.com/)"
 logo = "/images/logo-crestwood.webp"
 # [nav_cta]
 # show = true

@@ -25,7 +25,7 @@
 - name: "Contact"
   url: "/contact/"
   submenu:
-    - name: "Send Us a Note"
+    - name: "Email Us"
       url: "/contact/"
     - name: "Blog - the Nitty Gritty"
       url: "/blog/"

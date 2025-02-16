@@ -17,15 +17,15 @@ intro:
   show: true # turn to false to hide
   showValues: true # turn to false to hide
   values: # or benefits/qualities
-    - title: Exteriors
+    - title: Lasting Exteriors
       summary: "Durable protection for homes new, old and mid-century. Commercial buildings too."
       svcimg: /images/ls-stucco-500.webp
       link: /exterior-painting-kansas-city/
-    - title: Interiors
+    - title: Comfy Interiors
       summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."
       svcimg: /images/dr-orange-500.webp
       link: /interior-painter-kansas-city/
-    - title: Offices
+    - title: Busy Offices
       svcimg: /images/blue-mfg-500.webp
       summary: "Quiet and careful, one room at a time - on your schedule."
       link: /office-painting-experts/
@@ -35,7 +35,7 @@ cta:
   description: "We're ready for your project."
   phone: "816-805-4515"
   show: true # turn to false to hide
-  image: "/images/bgcanadalake.webp"
+  image: "/images/bgCanadaLake.webp"
   button:
     url: "/book-us"
     label: "Schedule an Estimate"

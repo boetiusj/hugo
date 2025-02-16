@@ -1,16 +1,16 @@
 ---
-title: "Plaster Repair"
-url: "plaster-repair-kansas-city"
-description: "Plaster and drywall repairs - No Drips, No Drama. Big holes or little dings - blended to almost invisible. Call today to learn about scheduling."
+title: "Plaster and Drywall Repair"
+url: "plaster-drywall-repair"
+description: "Plaster and drywall - tidy repairs done with No Drips, No Drama. Book an Estimate today."
 keywords: "plaster repair, drywall repair, Kansas City, Crestwood Painting"
-canonical: "https://crestwoodpainting.com/plaster-repair-kansas-city/"
+canonical: "https://crestwoodpainting.com/plaster-drywall-repair/"
 date: "2011-09-21"
 index: true
 ---
 
 ![plaster drywall repair Kansas City Crestwood Painting](/images/interior/plaster-holes-ceil-wall.jpg)
 
-### Plaster & Drywall Repair
+## Plaster & Drywall Repair
 
 Things shift, cracks appear, and sometimes walls just don’t cooperate. Whether it’s a sneaky leak or wood expanding and contracting with the seasons, plaster and drywall repairs are a standard part of any [interior paintinging project](/interior-painter-kansas-city/). Because let’s be honest \- paint looks best on a smooth, well-prepped surface.
 
@@ -28,13 +28,13 @@ Plaster is a dense, hard surface traditionally applied by hand in multiple layer
 
 Drywall, on the other hand, is a modern, factory-made panel composed of natural gypsum sandwiched between layers of recycled paper. Because of these differences, repairs require the right materials and techniques to ensure a seamless finish.
 
-#### Repairing Traditional Plaster
+### Repairing Traditional Plaster
 
 Time-tested techniques like plaster washers, patching compounds, and bonding agents can restore damaged plaster without compromising its integrity. Often, large hole patches (say, after a plumber finishes) will involve techniques from both traditional plaster and drywall.
 
 > A wide range of crack repair and plaster products mean almost every situation can be addressed.
 
-#### Repairing Drywall
+### Repairing Drywall
 
 Drywall repairs start with secure screws and proper bracing. Setting-type joint compound provides strength and durability, while joint tape reinforces seams and prevents future cracking.
 
@@ -46,15 +46,15 @@ Plaster and drywall damage comes in all shapes and sizes. Hairline cracks are co
 
 A smooth patch on a textured wall sticks out like a sore thumb. Whether it’s orange peel, knockdown, or popcorn texture, repairs need to match the existing surface for a seamless look. And for older popcorn ceilings? Testing for asbestos is always a good idea before making any changes.
 
-### Cost of Plaster Repair
+## Cost of Plaster Repair
 
 Plaster repair costs vary widely depending on the scope of damage, surface texture, and level of detail required. A single hairline crack over a doorway? That's pretty straightforward. A ceiling full of spiderweb cracks or an entire wall with delaminated plaster? Now that’s a different story.
 
-In Kansas City, we’ve seen repair costs range from $50 for a simple patch to $5,000 for extensive restoration. Whether it’s a minor fix or a full-scale repair, proper prep ensures a seamless finish that looks great—just don’t count on cosmetic repairs to hold buildings together.
+In Kansas City, we’ve seen repair costs range from $50 for a simple patch to $5,000 for extensive restoration. Whether it’s a minor fix or a full-scale repair, proper prep ensures a seamless finish that looks great — just don’t count on cosmetic repairs to hold buildings together.
 
 ### Plaster Repair Process
 
-#### Seal the Room to Help Prevent Dust Migration
+#### Seal the Area to Help Prevent Dust Migration
 
 Plaster repair creates fine dust that can settle everywhere if not properly contained. We seal off the work area with plastic sheeting and zipper doors to keep the mess where it belongs.
 

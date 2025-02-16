@@ -13,7 +13,7 @@ index: true
 
 ## Choosing Exterior Colors
 
-Picking an [exterior paint color](/content/pages/exterior-painting-kansas-city.md) can feel like a big decision, but with the right resources and a little guidance, you’ll find a color you love that enhances your home’s style and curb appeal.
+Picking an [exterior paint color](/content/pages/exterior-painting-kansas-city.md) can feel like a big decision, but with the right resources and a little guidance, you’ll find a color you love that enhances your home’s style and curb appeal. Down below there are hints for [Exterior](#exterior-color-hints) and [Interior colors](#interior-color-hints), too.
 
 ### Color Resources
 
@@ -33,11 +33,11 @@ It’s tempting to head straight to the paint store and stare at the wall of end
 
 Small paint chips don’t give you the full picture when choosing an exterior color. Peel-and-stick samples from paint manufacturers and [Samplize](https://www.samplize.com/) offer a better way to see how colors compare against existing materials. These letter-sized swatches can be moved and viewed in different light, making them a simple way to test colors before committing.
 
-> One thing to miss just a bit on your living room color, quite another make that same mistake on an entire exterior.
+> It's one thing to miss by just a bit on your living room color, quite another make that same mistake on an entire exterior.
 
 #### Online Color Consultants – Expert Help at Your Fingertips
 
-If you’d rather skip the guesswork, online consultants offer color guidance tailored to your home. Send photos, tell them you like Blue but not Red (or whatever), mid-century or traditional, etc. Costs vary, many offer a color rendering.
+If you’d rather skip the guesswork, online consultants offer color guidance tailored to your home. Send photos, tell them you like Blue but not Red (or whatever), mid-century or traditional, etc. Costs vary as do the deliverables - some homeowners find that a color rendering is especially helpful.
 
 #### Local Color Consultants – Being There
 
@@ -79,6 +79,8 @@ Too much of the same color can make a home blend into the background. Thoughtful
 
 Soft, balanced contrast can enhance a home's character without feeling too stark or overwhelming. Harsh contrasts can be bold and dramatic, but they might not be for everyone. Finding the right balance ensures a fresh, intentional look that feels just right.
 
+> There were 6 different colors and three different sheens of paint to be used and lot of detail in painting the wood paneling in the living room.
+
 ### Front Door – Recessed (Hole) or Bright Start?
 
 A recessed front door can disappear into the shadows, making a home feel less inviting. And a dark door color magnifies this effect. A bold, well-chosen front door color adds warmth and personality, creating a welcoming focal point that draws the eye.
@@ -88,8 +90,28 @@ A recessed front door can disappear into the shadows, making a home feel less in
 * Black is not a color - it is the *absence* of color  
 * White is the combination of *all* colors
 
-### Garage Door Statement
+### Garage Door - Statement?
 
 A garage door is not the place to make a color statement unless your garage door is a true architectural feature. Consider going with the body color of the house so that the large chunk of garage door color doesn't call too much attention to itself.
+
+## Interior Color Hints
+
+Choosing an interior color is about more than just picking a favorite shade — it’s about finding a color combination that reflects your vision and still works with the natural light, finishes, and architectural features of your home. Here are a few key factors to consider:
+
+### Sheen – Surface Texture Matters
+
+The right sheen can enhance or emphasize a surface, especially under critical lighting conditions. Flat and matte finishes help hide minor imperfections, while satin and semi-gloss highlight texture and detail, which can be great — or not so great—depending on the condition of your walls.
+
+### Natural Light
+
+Sunlight shifts throughout the day, changing how paint colors appear. A soft gray in the morning might look cooler in the afternoon and warmer at night. Always test colors in different lighting conditions before making a final decision. This is a great use of peel n' stick color samples.
+
+### Floor Color
+
+Your walls don’t exist in a vacuum—flooring plays a big role in how a color reads. Dark wood or tile can make lighter walls pop, while neutral flooring allows for bolder wall colors without overwhelming the space.
+
+### Fireplace Color
+
+Fireplaces naturally draw attention, but if the original materials feel outdated (hello, 1970s brick\!), a fresh color can work wonders. The goal is to enhance — not overpower — the rest of the room. Whether it’s brick, stone, or painted wood, coordinating your fireplace color with your walls creates a seamless, intentional look that ties the space together.
 
 [![paint colors, painter review, crestwood painting](/images/r09-5-tonyl.webp)](/reviews/)

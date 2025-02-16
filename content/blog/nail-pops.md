@@ -14,7 +14,6 @@ tags:
   - "prep"
 ---
 
-Exterior siding nail - properly set, no moisture infiltration
 ![nail pop crestwood painting](/images/nail-pop-surface-intact.webp)
 
 First, let's understand what a "nail pop" is - simply a nail head that protrudes above the surrounding surface. They're usually caused by structural settling or by normal expansion and contraction - both interior and exterior. Here's how to deal with them.
@@ -23,7 +22,7 @@ First, let's understand what a "nail pop" is - simply a nail head that protrudes
 
 On exteriors, a nail head that is visible does not mean that nail head has "popped". On exterior work it's generally impractical to make nail heads _invisible_. They should, however, not be _protruding_. On newer construction especially (less than 25 years old, very often "value engineered" plywood siding) structures settle, construction is hurried and sometimes improperly dried lumber is used - a perfect recipe.
 
-If the siding contractor had only adjusted the nail guns to just dimple the siding surface... Or if another second was taken to be sure that each nail was driven perpendicular to the surface... Or if a better quality siding material had been used... But no time or money for all that.
+If the siding contractor had only adjusted the nail guns to just dimple the siding surface... Or if another second was taken to be sure that each nail was driven perpendicular to the surface... Or if a better quality siding material had been used... But, heck - there's no time or money for all of that.
 
 Nail heads that are visible but that have not loosened to break the paint film are doing their job just fine and it's best to let them be. Nails that are protruding should be set flush with a hammer, primed if there is evidence of rust and sealed with a high grade caulk to keep moisture out.
 

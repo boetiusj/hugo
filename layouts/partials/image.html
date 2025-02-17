@@ -1,4 +1,5 @@
 {{/* Check for required arguments src): */}}
+{{ partial "partials/image.html" (dict "src" "path/to/image.jpg" "alt" "Your Alt Text" "class" "your-class") }}
 {{ if not .src }} {{ errorf "Image Optimization: the partial 'lib/image' requires a 'src' argument." }} {{ end }}
 
 {{/* Get resource from assets folder: */}}

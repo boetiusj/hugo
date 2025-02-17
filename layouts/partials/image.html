@@ -55,7 +55,7 @@
     {{ with .class }} class="{{ . }}" {{ end }}
     {{ with .fetchPriority }} fetchPriority="{{ . }}" {{ end }}
     {{ with .loading }} loading="{{ . }}" {{ end }}
-    alt='{{ default .Title "Featured Image" }}'
+    alt='{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) | default "Featured Image" }}'
   />
 {{ end }}
 

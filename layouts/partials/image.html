@@ -1,5 +1,4 @@
 {{/* Check for required arguments src): */}}
-{{ partial "partials/image.html" (dict "src" "path/to/image.jpg" "alt" "Your Alt Text" "class" "your-class") }}
 {{ if not .src }} {{ errorf "Image Optimization: the partial 'lib/image' requires a 'src' argument." }} {{ end }}
 
 {{/* Get resource from assets folder: */}}
@@ -46,9 +45,10 @@
   {{ $defaultSrc := (index $images (sub (len $images) 1)) }}
   {{ $defaultSrc = (default $defaultSrc $resource)}}
 
-  {{/* Return the img element: */}}
   {{/* Debugging: Log the received alt parameter */}}
-{{ warnf "Received alt parameter: %s" .alt }}
+  {{ warnf "Received alt parameter: %s" .alt }}
+
+  {{/* Return the img element: */}}
   <img
     {{ with $defaultSrc.Permalink }}src="{{ . }}"{{ end }}
     {{ with $defaultSrc.Width }} width="{{ . }}" {{ end }}
@@ -61,4 +61,3 @@
     alt='{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) | default "Featured Image" }}'
   />
 {{ end }}
-

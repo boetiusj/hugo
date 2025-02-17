@@ -1,7 +1,5 @@
 # Hugo
 
-Roadmap has been moved [to own file](./roadmap.md)
-
 ## Common Links
 
 - {{< figure src="/images/Parkville-300x199.jpg" width="200" alt="Alt text" class="left" >}}

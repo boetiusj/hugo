@@ -46,7 +46,7 @@ Moisture, humidity, and a parade of personal care products—bathroom cabinets h
 
 Even if they don’t get the same daily traffic, cabinets in laundry rooms or rec spaces still benefit from a fresh, durable finish that resists wear and tear.
 
-## Paint Cabinet Interiors?
+### Can You Paint Cabinet Interiors?
 
 It depends. If your interiors are wood or MDF (particle board), a protective coat of paint can help extend their life. But if they’re melamine (a smooth, plastic-like surface), painting them isn’t always necessary — unless the color is truly tragic.
 
@@ -82,7 +82,7 @@ For kitchens that don’t see much action, cabinet paint can stay looking fresh 
 
 If your kitchen sees daily battles with sauce splatters and sticky fingers, expect more wear. Touch-ups or a refresh might be needed in a few years.
 
-## Cost of Cabinet Painting
+## Cost of Kitchen Cabinet Painting
 
 Pricing varies, but here’s what factors in:
 
@@ -107,9 +107,9 @@ A basic refresh costs less than a showroom-quality, factory-smooth finish. Premi
 
 Small bathroom vanities can start around $1,800, while large, high-end kitchens can run $15,000+. Having a clear discussion about expectations helps us guide you toward the right solution.
 
-## The Cabinet Painting Process
+## How to Paint Cabinets
 
-From prep to final cleanup, here’s what to expect:
+From prep to final cleanup, this is the process we follow.
 
 ### Clean
 

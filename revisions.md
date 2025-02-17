@@ -1,12 +1,11 @@
 # Revisions
 
 - image Name defaults to Featured Image per image.html, does not recognize markdown Title ()
-- Social proof: PCA, Waldo, Summit Safety
+- Social proof: PCA, Waldo, (Brookside?), APC magazine, inPaint, bloggerlocal, Summit Safety
 - image sizes revised on the fly, css needed for left alignment - <https://tracknut.ca/tech/markdown-image-handling/>
 - /book-us page: hide zip code form on process.
 - painter-overland-park
 - [Google Maps](https://www.corewebvitals.io/pagespeed/google-maps-100-percent-pagespeed)
-- footer logos - PCA, Waldo, inPaint, bloggerlocal, summitsafety
 - [Schema update, address and other pages](https://www.schemaapp.com/schema-markup/how-to-do-schema-markup-for-local-business/)
 - [Schema public access?](https://stackoverflow.com/questions/56926034/schema-org-for-service-based-businesses-without-an-address) - "publicAccess": false
 - [Orig. Theme](https://github.com/themefisher/megakit-bootstrap): Themefisher Megakit Bootstrap

@@ -8,7 +8,6 @@
 4. images resized in markdown? So, a particular image might be sized at 600px (or 60%) wide rather than full width.
 
 Full overview here: <https://github.com/boetiusj/hugo/blob/mk/developer.md>
-1. 
-2. 
-3. 
-4. 
+1.This
+2.That
+3.Other

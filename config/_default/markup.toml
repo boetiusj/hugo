@@ -4,6 +4,10 @@
     hardwraps = true # MK added to allow line breaks in titles i.e. Home title
   [goldmark.extensions]
     typographer = false
+  [markup.goldmark.parser] # added 2-17-25 per https://tracknut.ca/tech/markdown-image-handling/
+    wrapStandAloneImageWithinParagraph = false
+    [markup.goldmark.parser.attribute]
+      block = true
  
 [highlight]
   codeFences = true

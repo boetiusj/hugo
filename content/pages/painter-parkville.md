@@ -3,12 +3,12 @@ title: "Painter in Parkville"
 url: "painter-parkville"
 description: "Crestwood Painting in Parkville, MO - the Project Map will show you where!"
 keywords: "-"
-canonical: "https://crestwoodpainting.com"
+canonical: "https://crestwoodpainting.com/painter-parkville"
 date: "2014-01-03"
 index: true
 ---
 
-![Painter Parkville Crestwood ](/images/Parkville-300x199.jpg)
+![Downtown Parkville image](/images/Parkville-300x199.jpg)
 
 Crestwood has done both exterior and interior painting in Parkville. Homes or offices - we take the same care in performing our work. Well-trained employees applying the very best materials. Because we use low VOC "green" paints you might not even smell our work!
 

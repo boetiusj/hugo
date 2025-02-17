@@ -8,7 +8,7 @@ date: "2011-09-18"
 index: true
 ---
 
-![interior paint living room kansas city](/images/interior/entry-stairs.webp)
+![living room paint image](/images/interior/entry-stairs.webp)
 
 ## Interior Painting – What to Expect
 
@@ -22,7 +22,7 @@ Your estimate isn’t just about numbers—it’s a chance to fine-tune the deta
 
 Every home—and every budget—is different. Some repairs are essential, while others are a matter of preference. We’ll talk through the options and tailor the work to fit your needs, so you get the right balance of prep and paint for your space.
 
-![living room mantel](/images/interior/brick-fp-paint.jpg)
+![living room mantel image](/images/interior/brick-fp-paint.jpg)
 
 ### Choosing a Color? Here’s Where to Start
 
@@ -77,7 +77,7 @@ With our meticulous approach, you can be sure your home will remain clean, organ
 ## Interior Prep Work: The Secret to a Lasting Finish
 
 A beautifully painted interior starts with a strong foundation, so we take extra care to ensure your walls, trim, and other surfaces are perfectly prepped before the first coat of paint goes on.
-![white mantel](/images/interior/mantel-white-close.webp)
+![white mantel closeup image](/images/interior/mantel-white-close.webp)
 
 ### Wall Prep
 

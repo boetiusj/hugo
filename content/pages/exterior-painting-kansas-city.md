@@ -96,7 +96,7 @@ We’ll flag specific plants with caution tape, or if necessary, we can arrange 
 
 It's a good idea to trim back any greenery that’s close to the house to help protect your landscaping. We’re careful, but a little prep goes a long way in ensuring everything stays safe.
 
-![stucco paint gray](/images/exterior/stately-great-paint.webp)
+![stucco paint gray house](/images/exterior/stately-great-paint.webp)
 
 ## The Painting Process
 
@@ -217,4 +217,4 @@ There won’t be a test, but this list might save some searching. Yes, it’s bo
 * Corbels – Ornamental supports under eaves or overhangs.  
 * Brackets – Structural or decorative angled supports under porches, eaves, or beams.
 
-[![customer review exterior painting kansas city](/images/r13-4-alex-t.webp)](/reviews/)
+[![customer review exterior painting](/images/r13-4-alex-t.webp)](/reviews/)

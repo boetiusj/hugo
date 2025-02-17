@@ -2,6 +2,13 @@
 
 Roadmap has been moved [to own file](./roadmap.md)
 
+## Common Links
+
+- {{< figure src="/images/Parkville-300x199.jpg" width="200" alt="Alt text" class="left" >}}
+- [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
+- [Project Map](/map "Project Map")
+- [Reviews page](/reviews/ "Online Reviews – Painters in Kansas City")
+
 ## Blog articles
 
 ```markdown

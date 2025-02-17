@@ -46,6 +46,8 @@
   {{ $defaultSrc = (default $defaultSrc $resource)}}
 
   {{/* Return the img element: */}}
+  {{/* Debugging: Log the received alt parameter */}}
+{{ warnf "Received alt parameter: %s" .alt }}
   <img
     {{ with $defaultSrc.Permalink }}src="{{ . }}"{{ end }}
     {{ with $defaultSrc.Width }} width="{{ . }}" {{ end }}

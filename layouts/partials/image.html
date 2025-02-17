@@ -19,7 +19,7 @@
 
   {{/* Generate the images: */}}
   {{ $images := slice }}
-  {{ range $breakpoints  }}
+  {{ range $breakpoints }}
     {{ if (ge $resource.Width .) }}
       {{ $opts := (printf "%dx webp" .) }}
       {{ $image := $resource.Resize $opts }}

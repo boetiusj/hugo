@@ -1,7 +1,7 @@
 {{ $firstImageDone := .Page.Scratch.Get "firstImageDone" }}
 {{ if not $firstImageDone }}
   {{ .Page.Scratch.Set "firstImageDone" true }}
-  {{ partial "image" (dict "src" .Destination "class" "img-fluid" "fetchPriority" "high") }}
+  {{ partial "image" (dict "src" .Destination "alt" .Text "class" "img-fluid" "fetchPriority" "high") }}
 {{ else }}
-  {{ partial "image" (dict "src" .Destination "class" "img-fluid" "loading" "lazy") }}
+  {{ partial "image" (dict "src" .Destination "alt" .Text "class" "img-fluid" "loading" "lazy") }}
 {{ end }}

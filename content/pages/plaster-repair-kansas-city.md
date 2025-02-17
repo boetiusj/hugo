@@ -8,7 +8,7 @@ date: "2011-09-21"
 index: true
 ---
 
-![plaster drywall repair Kansas City Crestwood Painting](/images/interior/plaster-holes-ceil-wall.jpg)
+![plaster drywall repair image](/images/interior/plaster-holes-ceil-wall.jpg)
 
 ## Plaster & Drywall Repair
 
@@ -78,4 +78,4 @@ To prevent cracks from returning, paper tape is embedded in joint compound to re
 
 The final step is a smooth, seamless finish. Multiple thin coats of joint compound are applied and sanded between layers to blend the patch perfectly into the surrounding surface before priming and painting.
 
-[![exterior painting kansas city crestwood](/images/r13-09-alexisd.webp)](/painter-reviews/)
+[![review exterior painting](/images/r13-09-alexisd.webp)](/painter-reviews/)

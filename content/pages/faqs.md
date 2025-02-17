@@ -129,20 +129,20 @@ faqs:
       We pay well enough to attract high quality people. Our painters are real people with real lives and real families, living right here in Kansas City.
 ---
 
-![paint FAQ questions kansas city crestwood painting](/images/faq-pic.webp)
+![paint FAQ questions image](/images/faq-pic.webp)
 
 Good questions help homeowners make good decisions.
 
 - [Oil or Latex?](#oil)
 - [What does "Licensed & Insured" mean?](#licensed)
-- [Can I paint my storm windows?](#storms)
+- [Can I paint aluminum storm windows?](#storms)
 - [Flat, eggshell or glossy?](#sheen)
 - [What about lead paint?](#lead)
 - [How long should a paint job last?](#howlong)
 - [Are more colors better?](#morecolors)
 - [The case for inexpensive paint.](#expensive-paint)
 - [What's involved in an "average" paint job?](#average-paint-job)
-- [What color for the front door?](#front-door)
+- [What is the best front door color?](#front-door)
 - [What is the best way to apply paint?](#apply-paint)
 - [Where can I go for more answers?](#answers)
 - [How to test if paint is oil or latex?](#test-oil-latex)

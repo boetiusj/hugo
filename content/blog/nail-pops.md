@@ -20,7 +20,7 @@ tags:
 
 A nail pop is simply a nail head that has pushed above the surface of a wall or siding. These can appear both inside and outside your home, usually due to structural settling, seasonal expansion and contraction, or construction shortcuts. While nail pops can be unsightly, they’re rarely a sign of water intrusion or structural failure. Here’s what you need to know about fixing them the right way.
 
-{{< figure src="/images/nail-pop-drywall.webp" width="200" alt="drywall nail pop" >}}
+{{< figure src="/images/nail-pop-surface-intact.webp" width="200" alt="siding nail pop" >}}
 
 ### Exterior Nail Pops
 
@@ -28,7 +28,7 @@ On [exterior surfaces](/content/pages/exterior-painting-kansas-city.md), a visib
 
 If the original siding crew had taken an extra second to properly set each nail—just dimpling the surface without overdriving—it could have prevented many of these issues. But time and budgets don’t always allow for that level of care.
 
-{{< figure src="/images/nail-pop-surface-intact.webp" width="200" alt="siding nail pop" >}}
+{{< figure src="/images/nail-pop-drywall.webp" width="200" alt="drywall nail pop" >}}
 
 #### When to Fix Exterior Nail Pops
 
@@ -56,7 +56,7 @@ Interior nail pops happen for similar reasons—settling, lumber shrinkage, or i
 3. Set the nail. If the nail is still in place, tap it slightly below the surface.  
 4. Patch it up. Use spackle or drywall compound to skim over the area, let it dry, sand it smooth, and paint.
 
-> I can’t recommend Crestwood enough. They are efficient, professional, and make sure every detail is nailed.
+> I can’t recommend Crestwood enough. They are efficient, professional, and make sure every detail is nailed. {{< sub "[(more reviews here)](/content/pages/reviews.md)" >}}
 
 Interior nail pops are a common but purely cosmetic issue caused by natural settling. They’re most noticeable along ceiling joints and can be a hassle to reach, but with the right fix—securing the drywall, setting the nail, and patching smoothly—they disappear with minimal effort.
 

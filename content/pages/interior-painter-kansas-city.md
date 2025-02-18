@@ -97,7 +97,7 @@ Textured plaster (knockdown, orange-peel, etc.) can be tricky to match after a r
 
 Interior prep is the foundation of a great paint job. At Crestwood Painting, we take the time to do it right, so your home looks great now and for years to come.
 
-> Of course it’s disruptive to have your home invaded for a handful of days, but I can’t think of a single thing Crestwood Painting could have done to make the experience better. ([See more reviews here](/content/pages/reviews.md))
+> Of course it’s disruptive to have your home invaded for a handful of days, but I can’t think of a single thing Crestwood Painting could have done to make the experience better. {{< sub "[(see more reviews here)](/content/pages/reviews.md)" >}}
 
 ## Let’s Paint
 
@@ -157,7 +157,7 @@ If you just need your blue walls light gray, we can do that. And if you’re aft
 
 ### How Long Does an Interior Painting Estimate Take?
 
-Our online [booking form](https://crestwoodpainting.com/book-us/) is quick and easy. Or, call our friendly answering service (816-805-4515). You’ll get a confirmation email right away. And then a reminder 24 hours before.
+It's quick and easy to [book an estimate time](https://crestwoodpainting.com/book-us/) or, call our friendly answering service (816-805-4515). You’ll get a confirmation email right away. And then a reminder 24 hours before.
 
 Most estimates take 30 minutes or less, but we’re not watching the clock. If you want to dive into details and talk through every aspect of the project, we’re all ears. Our goal is to leave you feeling informed and comfortable with the process ahead.
 

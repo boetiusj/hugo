@@ -52,7 +52,7 @@ For example:
 * Accent Colors – Used for small details to add contrast.  
 * Front Door – A chance to make a statement\!
 
-No need to memorize the lingo — just tell us what catches your eye, and we’ll guide you from there. [See our color page](color-help.md) for some more ideas.
+No need to memorize the lingo — just tell us what catches your eye, and we’ll guide you from there. [See our color page](/color-help/) for some more ideas.
 
 ## Exterior Prep
 
@@ -68,7 +68,7 @@ Gently clean to-be-painted surfaces to remove cobwebs, dirt, and bird poop. No h
 
 ### Scrape, Prime, Caulk
 
-Loose and peeling paint is scraped to a tight surface, bare wood gets primed for proper adhesion, [nail pops](/content/blog/nail-pops.md) addressed and gaps are sealed with caulk. For tricky surfaces like cedar trim, we use special oil primers to block tannin stains and peel-bonding primers to help smooth out chipped edges.
+Loose and peeling paint is scraped to a tight surface, bare wood gets primed for proper adhesion, [nail pops](/nail-pops/) addressed and gaps are sealed with caulk. For tricky surfaces like cedar trim, we use special oil primers to block tannin stains and peel-bonding primers to help smooth out chipped edges.
 
 ### Windows
 
@@ -120,7 +120,7 @@ After we’re finished, we make sure everything is cleaned up. This includes rem
 
 ## Book an Estimate
 
-We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this \- let’s find what works best for your situation. Click here to [see our reviews](/reviews), then [book an estimate time](/book-us).
+We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this \- let’s find what works best for your situation. Click here to [see our reviews](/reviews), then [book an estimate time](/book-us/).
 
 ## Exterior Painting FAQs
 

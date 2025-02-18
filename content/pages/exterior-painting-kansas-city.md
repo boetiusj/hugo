@@ -118,9 +118,9 @@ We paint functional elements like gutters, downspouts, and utilities the same co
 
 After we’re finished, we make sure everything is cleaned up. This includes removing masking tape, folding up drop cloths, reinstalling storm windows, and ensuring the grounds are clear of any debris. Any remaining paint will be left on-site for touch-ups.
 
-## Give Us a Call
+## Book an Estimate
 
-We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this \- let’s find what works best for your situation. Click here to see our reviews, then book an estimate time.
+We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this \- let’s find what works best for your situation. Click here to [see our reviews](/reviews), then [book an estimate time](/book-us).
 
 ## Exterior Painting FAQs
 

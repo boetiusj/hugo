@@ -70,7 +70,7 @@
             <li class="list-inline-item">
               <a href="{{ .profile }}" aria-label="{{ .platform }}" alt='social icon'>
                 {{ $image := resources.Get (printf "images/svg/%s.svg" .icon) }}
-                <span class="svg-h-13 mr-2" aria-labelledby="social-icon" role='img'> {{ $image.Content | safeHTML }} </span>
+                <span class="svg-h-13 mr-2" aria-label="social-icon" role='img'> {{ $image.Content | safeHTML }} </span>
               </a>
             </li>
             {{ end }}

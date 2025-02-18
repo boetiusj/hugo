@@ -5,7 +5,7 @@
       href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
       role="img"
       alt="facebook icon"
-      aria-labelledby="facebook-icon"
+      aria-label="facebook-icon"
     >
       {{ $imageFacebook := resources.Get "images/svg/facebook-f.svg" }}
       <span class="svg-h-13 mr-2">
@@ -18,7 +18,7 @@
       href="https://x.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}"
       role="img"
       alt="X icon"
-      aria-labelledby="x-icon"
+      aria-label="x-icon"
     >
       {{ $imageTwitter := resources.Get "images/svg/twitter-x.svg" }}
       <span class="svg-h-13 mr-2">
@@ -31,7 +31,7 @@
       href="https://www.instagram.com/sharer/sharer.php?u={{ .Permalink }}"
       role="img"
       alt="instagram icon"
-      aria-labelledby="instagram-icon"
+      aria-label="instagram-icon"
     >
       {{ $imageInstagram := resources.Get "images/svg/instagram.svg" }}
       <span class="svg-h-13 mr-2">

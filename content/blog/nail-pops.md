@@ -24,7 +24,7 @@ A nail pop is simply a nail head that has pushed above the surface of a wall or 
 
 ### Exterior Nail Pops
 
-On exterior surfaces, a visible nail head isn’t always a nail pop. Exterior nails are often left slightly visible, especially on newer construction where plywood siding and rapid building timelines create the perfect conditions for minor shifting.
+On [exterior surfaces](/content/pages/exterior-painting-kansas-city.md), a visible nail head isn’t always a nail pop. Exterior nails are often left slightly visible, especially on newer construction where plywood siding and rapid building timelines create the perfect conditions for minor shifting.
 
 If the original siding crew had taken an extra second to properly set each nail—just dimpling the surface without overdriving—it could have prevented many of these issues. But time and budgets don’t always allow for that level of care.
 
@@ -47,7 +47,7 @@ Sometimes, leaving well enough alone is the best approach. If the nail is doing 
 
 ### Interior Nail Pops
 
-Interior nail pops happen for similar reasons—settling, lumber shrinkage, or improper fastening. However, they’re usually more noticeable to homeowners since they look tacky—especially when they appear along ceiling joints, where structural movement is most common. These can be trickier to reach, making them more of a nuisance, but they’re still part of a thorough painting project.
+Interior nail pops happen for similar reasons—settling, lumber shrinkage, or improper fastening. However, they’re usually more noticeable to homeowners since they look tacky—especially when they appear along ceiling joints, where structural movement is most common. These can be trickier to reach, making them more of a nuisance, but they’re still part of a thorough [interior painting project](/content/pages/interior-painter-kansas-city.md).
 
 #### How to Fix Interior Nail Pops
 
@@ -55,6 +55,8 @@ Interior nail pops happen for similar reasons—settling, lumber shrinkage, or i
 2. Secure the drywall. Whether you remove the nail or not, drive a drywall screw about an inch or two away from the pop to anchor the sheetrock more securely.  
 3. Set the nail. If the nail is still in place, tap it slightly below the surface.  
 4. Patch it up. Use spackle or drywall compound to skim over the area, let it dry, sand it smooth, and paint.
+
+> I can’t recommend Crestwood enough. They are efficient, professional, and make sure every detail is nailed.
 
 Interior nail pops are a common but purely cosmetic issue caused by natural settling. They’re most noticeable along ceiling joints and can be a hassle to reach, but with the right fix—securing the drywall, setting the nail, and patching smoothly—they disappear with minimal effort.
 

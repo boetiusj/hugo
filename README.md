@@ -30,6 +30,7 @@ image: "/images/Rose-bushes.jpg" <!-- main image, shows on the card -->
 
 This will produce text with a degree of contrast
 {{< text "this is the text" >}}
+{{< text >}} text in between {{< /text>}}
 
 ### Booking form
 

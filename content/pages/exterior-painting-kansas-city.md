@@ -82,7 +82,7 @@ If we encounter cracks or small holes in stucco, we make sure to patch them up w
 
 We go the extra mile to keep your home protected—drop cloths, surface covers, even special wraps for your car (because no one wants a speckled driveway or a ‘custom’ paint job on their patio set).
 
-> We selected them based on positive referrals from neighbors.
+> We selected them based on positive referrals from neighbors.{{< sub "[(more reviews here)](/reviews.md)" >}}
 
 ### Plants and Shrubs
 

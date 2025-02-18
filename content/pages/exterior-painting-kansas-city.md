@@ -68,7 +68,7 @@ Gently clean to-be-painted surfaces to remove cobwebs, dirt, and bird poop. No h
 
 ### Scrape, Prime, Caulk
 
-Loose and peeling paint is scraped to a tight surface, bare wood gets primed for proper adhesion and  gaps are sealed with caulk. For tricky surfaces like cedar trim, we use special oil primers to block tannin stains and peel-bonding primers to help smooth out chipped edges.
+Loose and peeling paint is scraped to a tight surface, bare wood gets primed for proper adhesion, [nail pops](/content/blog/nail-pops.md) addressed and gaps are sealed with caulk. For tricky surfaces like cedar trim, we use special oil primers to block tannin stains and peel-bonding primers to help smooth out chipped edges.
 
 ### Windows
 

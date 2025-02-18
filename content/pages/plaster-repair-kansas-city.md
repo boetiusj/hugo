@@ -8,7 +8,7 @@ date: "2011-09-21"
 index: true
 ---
 
-![plaster drywall repair image](/images/interior/plaster-holes-ceil-wall.jpg)
+![plaster drywall repair](/images/interior/plaster-holes-ceil-wall.jpg)
 
 ## Plaster & Drywall Repair
 
@@ -32,7 +32,7 @@ Drywall, on the other hand, is a modern, factory-made panel composed of natural 
 
 Time-tested techniques like plaster washers, patching compounds, and bonding agents can restore damaged plaster without compromising its integrity. Often, large hole patches (say, after a plumber finishes) will involve techniques from both traditional plaster and drywall.
 
-> A wide range of crack repair and plaster products mean almost every situation can be addressed.
+> Excellent repair of water [damaged plaster ceiling](/content/pages/reviews.md). Clear communication about project, professional workmanship.
 
 ### Repairing Drywall
 
@@ -51,6 +51,8 @@ A smooth patch on a textured wall sticks out like a sore thumb. Whether it’s o
 Plaster repair costs vary widely depending on the scope of damage, surface texture, and level of detail required. A single hairline crack over a doorway? That's pretty straightforward. A ceiling full of spiderweb cracks or an entire wall with delaminated plaster? Now that’s a different story.
 
 In Kansas City, we’ve seen repair costs range from $50 for a simple patch to $5,000 for extensive restoration. Whether it’s a minor fix or a full-scale repair, proper prep ensures a seamless finish that looks great — just don’t count on cosmetic repairs to hold buildings together.
+
+> A wide range of crack repair and plaster products mean almost every situation can be addressed.
 
 ### Plaster Repair Process
 

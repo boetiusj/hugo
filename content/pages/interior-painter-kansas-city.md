@@ -8,7 +8,7 @@ date: "2011-09-18"
 index: true
 ---
 
-![living room paint image](/images/interior/entry-stairs.webp)
+![living room paint](/images/interior/entry-stairs.webp)
 
 ## Interior Painting – What to Expect
 
@@ -22,7 +22,7 @@ Your estimate isn’t just about numbers—it’s a chance to fine-tune the deta
 
 Every home—and every budget—is different. Some repairs are essential, while others are a matter of preference. We’ll talk through the options and tailor the work to fit your needs, so you get the right balance of prep and paint for your space.
 
-![living room mantel image](/images/interior/brick-fp-paint.jpg)
+![white living room](/images/interior/brick-fp-paint.jpg)
 
 ### Choosing a Color? Here’s Where to Start
 
@@ -77,7 +77,7 @@ With our meticulous approach, you can be sure your home will remain clean, organ
 ## Interior Prep Work: The Secret to a Lasting Finish
 
 A beautifully painted interior starts with a strong foundation, so we take extra care to ensure your walls, trim, and other surfaces are perfectly prepped before the first coat of paint goes on.
-![white mantel closeup image](/images/interior/mantel-white-close.webp)
+![white mantel closeup](/images/interior/mantel-white-close.webp)
 
 ### Wall Prep
 
@@ -91,7 +91,7 @@ And when we say "trim," we’re talking about more than just door frames. Trim i
 
 ### Plaster & Drywall Repairs
 
-If your walls or ceilings need some TLC, we’ve got it covered. Whether it’s drywall or plaster, we’ll repair holes, cracks or other damage with care, ensuring repairs blend in seamlessly and hold up over time. Here's a complete [overview of plaster repair](/content/pages/plaster-repair-kansas-city.md).
+If your walls or ceilings need some TLC, we’ve got it covered. Whether it’s drywall or plaster, we’ll repair [nail pops](/content/blog/nail-pops.md), cracks or other damage with care, ensuring repairs blend in seamlessly and hold up over time. Here's a complete [overview of plaster repair](/content/pages/plaster-repair-kansas-city.md).
 
 Textured plaster (knockdown, orange-peel, etc.) can be tricky to match after a repair. While we strive for the best possible outcome, we’ll want to have a conversation to set realistic expectations so there are no surprises.
 
@@ -191,4 +191,4 @@ A little caution goes a long way\! While paint dries quickly, it takes about two
 - Door Stop – A strip of trim inside door frames that helps seal the door.  
 - Picture Frame Molding – Trim arranged in rectangles on walls for a decorative effect.
 
-[![house painting review kansas city](/images/r14-12-conley.webp)](/reviews/)
+[![house painting review](/images/r14-12-conley.webp)](/reviews/)

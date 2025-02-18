@@ -2,6 +2,7 @@
 
 ## Common Links
 
+- {{< sub "[(see more reviews here)](/reviews/)" >}}
 - {{< figure src="/images/Parkville-300x199.jpg" width="200" alt="Alt text" class="left" >}}
 - ![Gravel Calls](gravel-calls.jpeg)
     {width="200" alt="Gravel Calls" class="center"}

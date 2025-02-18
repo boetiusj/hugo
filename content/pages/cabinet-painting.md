@@ -2,7 +2,7 @@
 title: "Cabinet Painting"
 url: "cabinet-painting"
 description: "Painting cabinets - the easiest way to a clean and modern kitchen."
-keywords: "Kitchen cabinet painting, Kansas City painting, bathroom vanity painting, wall paneling painting, Crestwood Painting"
+keywords: "Kitchen cabinet painting, bathroom vanity painting, wall paneling painting"
 canonical: "https://crestwoodpainting.com/cabinet-painting/"
 date: "2011-09-21"
 index: true
@@ -76,7 +76,7 @@ A great paint job can last for years—but just how long depends on the use and 
 
 For kitchens that don’t see much action, cabinet paint can stay looking fresh for a decade or more with minimal upkeep.
 
- > We are very happy with the quality of the work. I would recommend them for painting cabinets to anyone.
+ > We are very happy with the quality of the work. I would recommend them for painting cabinets to anyone.{{< sub "[(see more reviews here)](/reviews/)" >}}
 
 ### A Short Time (six teenage cooks)
 

@@ -12,7 +12,7 @@ index: true
 
 ## Interior Painting – What to Expect
 
-A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are [helpful Interior FAQs here](#faqs---interior-painting) and hundreds of ([customer reviews](/content/pages/reviews.md)), too. [Cabinet painting?](/content/pages/cabinet-painting.md) Yep, we do that.
+A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are [helpful Interior FAQs here](#faqs---interior-painting) and hundreds of ([customer reviews](/reviews/)), too. [Cabinet painting?](/cabinet-painting/) Yep, we do that.
 
 ## Let’s Talk: Colors & Expectations
 
@@ -46,7 +46,7 @@ Flat walls help hide surface irregularities and absorb light, making them a grea
 
 When in doubt, we’ll help you weigh the options so you get the right balance of looks and practicality.
 
-> The team was on time, professional and made clean up a breeze. My house looks way better! Thank you! ([See more reviews here](/content/pages/reviews.md))
+> The team was on time, professional and made clean up a breeze. My house looks way better! Thank you! ([See more reviews here](/reviews/))
 
 ## How We Safeguard Your Space While We Paint
 
@@ -91,13 +91,13 @@ And when we say "trim," we’re talking about more than just door frames. Trim i
 
 ### Plaster & Drywall Repairs
 
-If your walls or ceilings need some TLC, we’ve got it covered. Whether it’s drywall or plaster, we’ll repair [nail pops](/content/blog/nail-pops.md), cracks or other damage with care, ensuring repairs blend in seamlessly and hold up over time. Here's a complete [overview of plaster repair](/content/pages/plaster-repair-kansas-city.md).
+If your walls or ceilings need some TLC, we’ve got it covered. Whether it’s drywall or plaster, we’ll repair [nail pops](/nail-pops/), cracks or other damage with care, ensuring repairs blend in seamlessly and hold up over time. Here's a complete [overview of plaster repair](/plaster-repair-kansas-city/).
 
 Textured plaster (knockdown, orange-peel, etc.) can be tricky to match after a repair. While we strive for the best possible outcome, we’ll want to have a conversation to set realistic expectations so there are no surprises.
 
 Interior prep is the foundation of a great paint job. At Crestwood Painting, we take the time to do it right, so your home looks great now and for years to come.
 
-> Of course it’s disruptive to have your home invaded for a handful of days, but I can’t think of a single thing Crestwood Painting could have done to make the experience better. {{< sub "[(see more reviews here)](/content/pages/reviews.md)" >}}
+> Of course it’s disruptive to have your home invaded for a handful of days, but I can’t think of a single thing Crestwood Painting could have done to make the experience better. {{< sub "[(see more reviews here)](/reviews/)" >}}
 
 ## Let’s Paint
 

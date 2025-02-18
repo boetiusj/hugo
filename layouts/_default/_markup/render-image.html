@@ -5,4 +5,3 @@
 {{ else }}
   {{ partial "image" (dict "src" .Destination "alt" .Text "class" "img-fluid" "loading" "lazy") }}
 {{ end }}
-{{ warnf "Render-image: Received alt parameter: %s" .Text }}

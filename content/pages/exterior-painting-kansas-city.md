@@ -31,7 +31,7 @@ No stress, no surprises—we’ll walk you through everything and make sure you�
 
 Still undecided on colors? You’re not alone—half of our clients start that way. We’ll help you pick the perfect combination to make sure your home stands out for all the right reasons.
 
-> They did a fantastic job, were easy to work with, professional, and clearly care about the work they are doing
+> They did a fantastic job, were easy to work with, professional, and clearly care about the work they are doing.
 
 #### How Many Colors?
 
@@ -167,11 +167,15 @@ Moral of the story? If the weather’s cooperating, we’re painting.
 
 Sheen is mostly about looks rather than durability. Here’s the usual breakdown:
 
-* Body of the house? Flat or satin—this is a coin toss.  
-* Trim? Satin or semi-gloss—a little shine adds crispness.  
+* Body of the house? Flat or satin — this is a coin toss.  
+* Trim? Satin or semi-gloss — a little shine adds crispness.  
 * Front doors & shutters? Gloss or semi-gloss—to spiff things up\!
 
 In suburban homes, satin all around is a safe bet. Older, traditional homes often mix two different sheens for contrast. Higher sheens clean up easier but can also highlight imperfections more than lower sheen finishes.
+
+### What Else Should I Ask?
+
+We've had great feedback from our [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter") page. Let us know if you like it.
 
 ### Final Thoughts
 

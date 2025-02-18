@@ -16,7 +16,7 @@ A well-planned painting project means minimal disruption and maximum results. We
 
 ## Let’s Talk: Colors & Expectations
 
-Your estimate isn’t just about numbers—it’s a chance to fine-tune the details. We’ll discuss any needed repairs, [go over color](/color-help/) and sheen options, and set clear expectations for the project. This conversation ensures everything is planned out before work begins, so the process is smooth and stress-free.
+Your estimate isn’t just about numbers—it’s a chance to fine-tune the details. We’ll discuss any needed repairs, [go over color](/color-help/) and sheen options, and set clear expectations for the project. We'll even steer you to [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter"). This conversation ensures everything is planned out before work begins, so the process is smooth and stress-free.
 
 ### Repairs: Finding the Right Fit for Your Project
 
@@ -34,7 +34,7 @@ Not sure where to begin? We’ve got links to online color tools and professiona
 
 ### Flat, Satin, or Gloss? Here’s What to Consider
 
-Paint sheen choice is often about aesthetics—but let’s be honest, it can also be downright confusing. With terms like satin, eggshell, matte, and low luster being *nearly* interchangeable, it’s no wonder people get stuck.
+Paint sheen choice is often about aesthetics—but let’s be honest, it can also be downright confusing. With terms like satin, eggshell, matte, and low luster being _nearly_ interchangeable, it’s no wonder people get stuck.
 
 The short version?
 
@@ -46,7 +46,7 @@ Flat walls help hide surface irregularities and absorb light, making them a grea
 
 When in doubt, we’ll help you weigh the options so you get the right balance of looks and practicality.
 
-> The team was on time, professional and made clean up a breeze. My house looks way better! Thank you! ([See more reviews here](/reviews/))
+> The team was on time, professional and made clean up a breeze. My house looks way better! Thank you! {{< sub "[(more reviews here)](/reviews.md)" >}}
 
 ## How We Safeguard Your Space While We Paint
 
@@ -77,6 +77,7 @@ With our meticulous approach, you can be sure your home will remain clean, organ
 ## Interior Prep Work: The Secret to a Lasting Finish
 
 A beautifully painted interior starts with a strong foundation, so we take extra care to ensure your walls, trim, and other surfaces are perfectly prepped before the first coat of paint goes on.
+
 ![white mantel closeup](/images/interior/mantel-white-close.webp)
 
 ### Wall Prep
@@ -97,7 +98,7 @@ Textured plaster (knockdown, orange-peel, etc.) can be tricky to match after a r
 
 Interior prep is the foundation of a great paint job. At Crestwood Painting, we take the time to do it right, so your home looks great now and for years to come.
 
-> Of course it’s disruptive to have your home invaded for a handful of days, but I can’t think of a single thing Crestwood Painting could have done to make the experience better. {{< sub "[(see more reviews here)](/reviews/)" >}}
+> Of course it’s disruptive to have your home invaded for a handful of days, but I can’t think of a single thing Crestwood Painting could have done to make the experience better.{{< sub "[(more reviews here)](/reviews.md)" >}}
 
 ## Let’s Paint
 

@@ -24,7 +24,13 @@ function checkAvailability(row = []) {
 
 function pushClass(element, className) {
   if (element && !element.classList.contains(className)) {
+    console.log(`Adding class ${className} to element`, element);
     element.classList.add(className);
+  } else {
+    console.log(
+      `Element already has class ${className} or element is null`,
+      element
+    );
   }
 }
 
@@ -38,18 +44,31 @@ function toggleBookForm(iframe) {
       if (zip_checkup.length) {
         const query = `&CITY=${zip_checkup[1]}&STATE=${zip_checkup[2]}&ZIP=${zip_checkup[0]}&TYPE=${job_type}`;
         iframe.src = `${iframe.src}${query}`;
-        pushClass(iframe.closest(".booking"), "active");
+        const bookingElement = iframe.closest(".booking");
+        console.log("Booking element:", bookingElement);
+        pushClass(bookingElement, "active");
 
         // Hide the breadcrumbs
         const breadcrumbs = document.querySelector(".breadcrumbs");
         if (breadcrumbs) {
           breadcrumbs.style.display = "none";
         }
+
         // Debugging: Check if the form is hidden
         const bookForm = document.querySelector("#bookform");
         if (bookForm) {
           console.log("Book form element:", bookForm);
-          console.log("Book form display style:", bookForm.style.display);
+          console.log(
+            "Book form display style before hiding:",
+            bookForm.style.display
+          );
+          bookForm.style.display = "none";
+          console.log(
+            "Book form display style after hiding:",
+            bookForm.style.display
+          );
+        } else {
+          console.log("Book form element not found");
         }
       } else {
         window.location.href = iframe.parentNode.dataset.regrets;
@@ -63,22 +82,21 @@ function sanitizeZip(zip) {
     zip;
 }
 
+// Ensure checkServiceArea is called to set up event listeners
 function checkServiceArea() {
-  const forms = elems('form');
+  const forms = document.querySelectorAll('form');
   forms.forEach(form => {
     form.addEventListener('submit', (event) => {
       const target = event.target;
       if(target.closest('.booking') && (form.id == 'bookform')) {
         event.preventDefault();
-        const data = formValues(form);
-        user_zip = data.zip.trim(empty_string);
+        const data = new FormData(form);
+        user_zip = data.get('zip').trim();
         user_zip = sanitizeZip(user_zip);
-        job_type = data.jobtype.trim(empty_string);
-
-        toggleBookForm(elem('iframe', form.parentNode));
+        job_type = data.get('jobtype').trim();
+        toggleBookForm(document.querySelector('iframe', form.parentNode));
       }
-    })
-  })
+    });
+  });
 }
-
 checkServiceArea();

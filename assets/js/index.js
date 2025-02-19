@@ -24,13 +24,7 @@ function checkAvailability(row = []) {
 
 function pushClass(element, className) {
   if (element && !element.classList.contains(className)) {
-    console.log(`Adding class ${className} to element`, element);
     element.classList.add(className);
-  } else {
-    console.log(
-      `Element already has class ${className} or element is null`,
-      element
-    );
   }
 }
 
@@ -45,7 +39,6 @@ function toggleBookForm(iframe) {
         const query = `&CITY=${zip_checkup[1]}&STATE=${zip_checkup[2]}&ZIP=${zip_checkup[0]}&TYPE=${job_type}`;
         iframe.src = `${iframe.src}${query}`;
         const bookingElement = iframe.closest(".booking");
-        console.log("Booking element:", bookingElement);
         pushClass(bookingElement, "active");
 
         // Hide the breadcrumbs
@@ -54,19 +47,11 @@ function toggleBookForm(iframe) {
           breadcrumbs.style.display = "none";
         }
 
-        // Debugging: Check if the form is hidden
+// Hide the book-form element
         const bookForm = document.querySelector("#bookform");
         if (bookForm) {
-          console.log("Book form element:", bookForm);
-          console.log(
-            "Book form display style before hiding:",
-            bookForm.style.display
-          );
-          bookForm.style.display = "none";
-          console.log(
-            "Book form display style after hiding:",
-            bookForm.style.display
-          );
+          bookForm.style.display = 'none';
+        }
         } else {
           console.log("Book form element not found");
         }

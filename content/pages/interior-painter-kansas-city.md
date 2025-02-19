@@ -46,7 +46,7 @@ Flat walls help hide surface irregularities and absorb light, making them a grea
 
 When in doubt, we’ll help you weigh the options so you get the right balance of looks and practicality.
 
-> The team was on time, professional and made clean up a breeze. My house looks way better! Thank you! {{< sub "[(more reviews here)](/reviews.md)" >}}
+> The team was on time, professional and made clean up a breeze. My house looks way better! Thank you! {{< sub "[(more reviews here)](/reviews/)" >}}
 
 ## How We Safeguard Your Space While We Paint
 

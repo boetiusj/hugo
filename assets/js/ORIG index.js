@@ -22,27 +22,22 @@ function checkAvailability(row = []) {
   return zip_checkup;
 }
 
-function pushClass(element, className) {
-  if (element && !element.classList.contains(className)) {
-    element.classList.add(className);
-  }
-}
-
 function toggleBookForm(iframe) {
+
   fetch(ga_sheets_endpoint)
-    .then((response) => response.json())
-    .then(function (data) {
-      data.values.forEach((row) =>
-        zip_checkup.length ? false : checkAvailability(row)
-      );
-      if (zip_checkup.length) {
-        const query = `&CITY=${zip_checkup[1]}&STATE=${zip_checkup[2]}&ZIP=${zip_checkup[0]}&TYPE=${job_type}`;
-        iframe.src = `${iframe.src}${query}`;
-        pushClass(iframe.closest(".booking"), "active");
-      } else {
-        window.location.href = iframe.parentNode.dataset.regrets;
-      }
-    });
+  .then(response => response.json())
+  .then(function(data) {
+    data.values.forEach(row => zip_checkup.length ? false : checkAvailability(row));
+    if(zip_checkup.length) {
+      // double check $zip1
+      const query =  `&CITY=${zip_checkup[1]}&STATE=${zip_checkup[2]}&ZIP=${zip_checkup[0]}&TYPE=${job_type}`;
+      iframe.src = `${iframe.src}${query}`;
+      pushClass(iframe.closest('.booking'), active_class);
+    } else {
+      window.location.href = iframe.parentNode.dataset.regrets;
+    }
+  });
+
 }
 
 function sanitizeZip(zip) {

@@ -39,11 +39,17 @@ function toggleBookForm(iframe) {
         const query = `&CITY=${zip_checkup[1]}&STATE=${zip_checkup[2]}&ZIP=${zip_checkup[0]}&TYPE=${job_type}`;
         iframe.src = `${iframe.src}${query}`;
         pushClass(iframe.closest(".booking"), "active");
-        
+
         // Hide the breadcrumbs
         const breadcrumbs = document.querySelector(".breadcrumbs");
         if (breadcrumbs) {
           breadcrumbs.style.display = "none";
+        }
+        // Debugging: Check if the form is hidden
+        const bookForm = document.querySelector("#bookform");
+        if (bookForm) {
+          console.log("Book form element:", bookForm);
+          console.log("Book form display style:", bookForm.style.display);
         }
       } else {
         window.location.href = iframe.parentNode.dataset.regrets;

@@ -1,3 +1,11 @@
+.breadcrumbs {
+  display:inline-block;
+}
+
+.breadcrumbs:not(:last-child) {
+  margin-right:.5rem;
+}
+
 .text-black-breadcrumbs {
   color: #575757;
 }

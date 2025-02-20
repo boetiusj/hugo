@@ -1,11 +1,15 @@
+.navbar-toggler {
+  font-size: 1.0em;
+}
+
 .book-cal-btn {
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 2px solid $primary-color; /* Use primary color for the border */
-  color: var(--dark-gray);
+  border: 2px solid #88888;
+  color: #888888;
   background-color: transparent;
-  padding: 0.5rem 1rem;
+  padding: 0.4rem .7rem;
   border-radius: 50px; /* Rounded full */
   transition: background-color 0.3s, color 0.3s, border-color 0.3s;
 
@@ -23,7 +27,10 @@
 
 .book-cal-text {
   flex-grow: 1;
+  font-weight: 700;
   text-align: center;
+  color:#b40909
+  text-transform: none
 }
 
 .breadcrumbs {
@@ -58,9 +65,13 @@
 
 .nav {
   &_logo {
-    max-width: 200px;
+    max-width: 180px;
     height: auto;
   }
+}
+
+.navbar-brand {
+  margin-right: .1rem;
 }
 
 .video {

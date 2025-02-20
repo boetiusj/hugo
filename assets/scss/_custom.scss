@@ -6,12 +6,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 2px solid;
-  border-color: #888888;
+  /*  border: 2px solid #88888; */
   color: #888888;
   background-color: transparent;
   padding: 0.4rem .7rem;
-  border-radius: 50px; /* Rounded full */
+  border-radius: 50px; 
   transition: background-color 0.3s, color 0.3s, border-color 0.3s;
 
   &:hover {
@@ -30,8 +29,6 @@
   flex-grow: 1;
   font-weight: 700;
   text-align: center;
-  color:#b40909;
-  text-transform: none;
 }
 
 .breadcrumbs {

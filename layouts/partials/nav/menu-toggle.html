@@ -1,3 +1,21 @@
+<a href="/book-us/">
+  <button
+    type="button"
+    class="btn book-cal-btn"
+    aria-label="Book Us"
+  >
+    {{ $calendarIcon := resources.Get "images/svg/calendar-icon.svg" }}
+    <img
+      src="{{ $calendarIcon.Permalink }}"
+      aria-label="Calendar icon"
+      width="24"
+      height="24"
+      class="calendar-icon"
+    />
+    <span class="book-cal-text">Book Us</span>
+  </button>
+</a>
+
 <button
   class="navbar-toggler collapsed"
   type="button"
@@ -8,14 +26,11 @@
   aria-label="Toggle navigation"
 >
   {{ $image := resources.Get "images/svg/hamburger-menu.svg" }}
-  <span
-    ><img
+  <span>
+    <img
       src="{{ $image.Permalink }}"
       aria-label="Toggle navigation"
       width="32"
-      height="32"
-      role="img"
-      aria-label="hamburger-menu"
-      alt="hamburger-menu"
-  /></span>
+    />
+  </span>
 </button>

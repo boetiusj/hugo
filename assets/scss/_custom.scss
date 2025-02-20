@@ -1,3 +1,31 @@
+.book-cal-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid $primary-color; /* Use primary color for the border */
+  color: var(--dark-gray);
+  background-color: transparent;
+  padding: 0.5rem 1rem;
+  border-radius: 50px; /* Rounded full */
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+
+  &:hover {
+    background-color: var(--dark-gray);
+    color: $primary-color;
+    border-color: $primary-color;
+  }
+}
+
+.book-cal-btn .calendar-icon {
+  fill: $primary-color; /* Use primary color for the calendar icon */
+  margin-right: 0.5rem;
+}
+
+.book-cal-text {
+  flex-grow: 1;
+  text-align: center;
+}
+
 .breadcrumbs {
   display:inline-block;
 }

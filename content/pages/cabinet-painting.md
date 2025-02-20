@@ -56,15 +56,15 @@ It depends. If your interiors are wood or MDF (particle board), a protective coa
 
 Not all paints are created equal, especially when it comes to cabinets. Choosing the right one makes all the difference in durability and appearance.
 
-### Oil
+### Old Oil
 
 Once the gold standard, oil-based paints have fallen out of favor. They yellow over time, chip more easily, and come with strong odors and long drying times.
 
-### Latex
+### OK Latex
 
-Easy to clean, fast-drying, and low-odor, latex paints sound great—except most don’t hold up well on cabinets. Be sure to choose a high-quality, cabinet-grade formula.
+Easy to clean, fast-drying, and low-odor, latex paints sound great — except most don’t hold up well on cabinets. Be sure to choose a high-quality, cabinet-grade formula.
 
-### Urethane
+### Modern Urethane
 
 The best of both worlds - durable, scratch-resistant, and low-odor. Urethane-based paints stand up to heavy use and provide a beautiful, long-lasting finish. Bonus: they clean up with water, so no smelly thinners required.
 
@@ -113,7 +113,7 @@ From prep to final cleanup, this is the process we follow.
 
 ### Clean
 
-Every cabinet gets a thorough cleaning to remove grease, grime, and buildup—because paint only sticks as well as the surface underneath.
+Every cabinet gets a thorough cleaning to remove grease, grime, and buildup — because paint only sticks as well as the surface underneath.
 
 ### Protect: Keeping Your Space Clean & Safe
 
@@ -124,7 +124,7 @@ Painting cabinets isn’t just about a great finish—it’s about keeping your 
 - Cabinet Interiors – If only the exteriors are being painted, interiors are carefully shielded to prevent overspray.  
 - Temporary Dust Barriers – When needed, ZipWalls or plastic enclosures are set up to contain dust and minimize disruption to the rest of your home.
 
-A clean workspace = a better final result. Careful protection reduces cleanup time, prevents accidental messes, and ensures your freshly painted cabinets are the only thing that stands out when the job is done.
+A clean workspace means a better final result. Careful protection reduces cleanup time, prevents accidental messes, and ensures your freshly painted cabinets are the only thing that stands out when the job is done.
 
 > I feel like our cabinets look brand new and we are very happy with their work. We have used Crestwood before and we would definitely use them again in the future!
 

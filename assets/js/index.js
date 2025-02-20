@@ -51,7 +51,6 @@ function toggleBookForm(iframe) {
         const bookForm = document.querySelector("#bookform");
         if (bookForm) {
           bookForm.style.display = 'none';
-        }
         } else {
           console.log("Book form element not found");
         }

@@ -12,6 +12,10 @@ logo = "/images/logo-crestwood.webp"
 [comments]
 enable = false
 [[socials]]
+platform = "instagram"
+profile = "https://www.instagram.com/crestwoodpainting/"
+icon = "insta-crp"
+[[socials]]
 platform = "fb"
 profile = "https://www.facebook.com/crestwoodpainting" 
 icon = "fb-crp"
@@ -19,12 +23,3 @@ icon = "fb-crp"
 platform = "X"
 profile = "https://x.com/crestwoodpaint"
 icon = "xtwitter-crp"
-[[socials]]
-platform = "instagram"
-profile = "https://www.instagram.com/crestwoodpainting/"
-icon = "insta-crp"
-# [[orgs]]
-# platform = "PCA"
-# profile = "https://www.pcapainted.org/"
-# img = "[Painting Contractors Association](/images/logo-pca100.webp)
-# Waldo? SW, BM, EPA?

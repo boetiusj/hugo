@@ -1,5 +1,18 @@
 <ul class="list-inline">
   <li class="list-inline-item">Share:</li>
+    <li class="list-inline-item">
+    <a
+      href="https://www.instagram.com/sharer/sharer.php?u={{ .Permalink }}"
+      role="img"
+      alt="instagram icon"
+      aria-label="instagram-icon"
+    >
+      {{ $imageInstagram := resources.Get "images/svg/insta-crp.svg" }}
+      <span class="svg-h-13 mr-2">
+        {{ $imageInstagram.Content | safeHTML }}
+      </span>
+    </a>
+  </li>
   <li class="list-inline-item">
     <a
       href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
@@ -23,19 +36,6 @@
       {{ $imageTwitter := resources.Get "images/svg/xtwitter-crp.svg" }}
       <span class="svg-h-13 mr-2">
         {{ $imageTwitter.Content | safeHTML }}
-      </span>
-    </a>
-  </li>
-  <li class="list-inline-item">
-    <a
-      href="https://www.instagram.com/sharer/sharer.php?u={{ .Permalink }}"
-      role="img"
-      alt="instagram icon"
-      aria-label="instagram-icon"
-    >
-      {{ $imageInstagram := resources.Get "images/svg/insta-crp.svg" }}
-      <span class="svg-h-13 mr-2">
-        {{ $imageInstagram.Content | safeHTML }}
       </span>
     </a>
   </li>

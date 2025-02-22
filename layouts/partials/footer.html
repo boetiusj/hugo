@@ -32,18 +32,7 @@
           </ul>
         </div>
       </div>
-<!--      <div class="col-lg-2 col-md-6 col-sm-6">
-        <div class="widget">
-          <h4 class="text-capitalize mb-4">Quick Links</h4>
 
-          <ul class="list-unstyled footer-menu lh-35">
-            {{ range $menu.links }}
-            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-      -->
      <div class="col-lg-3 col-md-6 col-sm-6 mx-auto">
         <div class="widget">
           <h3 class="text-capitalize mb-4">Book Us</h3>
@@ -52,11 +41,6 @@
             <li>Clear communication</li>
           </ul>
 
-<!--          <form action="#" class="sub-form">
-            <input type="text" class="form-control mb-3" placeholder="Subscribe Now ...">
-            <a href="#" class="btn btn-main btn-small">subscribe</a>
-          </form>
-          -->
           <a href="/book-us" class="btn btn-main btn-round-full">Schedule an Estimate{{ $imageAngleRight := resources.Get "images/svg/angle-right-solid.svg" }}
             <span class="btn-icon flex aling-items-center ml-2 svg-h-8 mr-2"> {{ $imageAngleRight.Content | safeHTML }} </span></a>
         </div>
@@ -83,7 +67,6 @@
         </div>
         <div class="col-lg-6 text-left text-lg-right">
           <ul class="list-inline footer-socials">
-            <!--<li class="list-inline-item"><a href="/images/logo-waldo-kc.webp" alt="logo waldo business association" src="https://www.waldokc.org/about/history" style="width:100px;" </a></li> -->
             {{ range $config.socials }}
             <li class="list-inline-item">
               <a href="{{ .profile }}" aria-label="{{ .platform }}" alt='social icon'>

@@ -1,13 +1,13 @@
 {
   "htmlElements": {
     "tags": [
+      "?xml",
       "a",
       "b",
       "blockquote",
       "body",
       "br",
       "button",
-      "circle",
       "div",
       "em",
       "figure",

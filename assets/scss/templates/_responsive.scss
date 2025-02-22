@@ -51,9 +51,6 @@
     margin-right: 10px;
   }
 
-  .navbar-toggler{
-    // color: $light;
-  }
   .slider .block h1 {
       font-size: 38px;
       line-height: 50px;
@@ -87,10 +84,6 @@
 @include mobile-xs{
    .header-top .header-top-info a {
       display: block;
-  }
-
-  .navbar-toggler{
-    // color: $light;
   }
 
   .content-title {

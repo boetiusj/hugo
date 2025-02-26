@@ -20,7 +20,7 @@ Removing soiled, peeling or just plain ugly wallpaper will transform the feel of
 - It really is a dirty, nasty chore - we're experts.
 - Popcorn ceiling removal too - asbestos test required
 
-## The Wallpaper Removal Process:
+## The Wallpaper Removal Process
 
 - Set up a tidy work area
 - Tape n' tarp to protect the floor and furniture
@@ -45,4 +45,4 @@ Removal costs start at $600 per day per painter. Generally, one painter can remo
 - Our workers love it - no mask or gloves required!
 - Leaves no chemical residue on your walls
 
-![painter review crestwood painting kansas city](/images/Bryant-Borchers.jpg)
+![painter review crestwood painting kansas city](/images/r16-6-borchers.webp)

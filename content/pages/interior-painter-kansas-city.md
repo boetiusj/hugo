@@ -92,7 +92,7 @@ And when we say "trim," we’re talking about more than just door frames. Trim i
 
 ### Plaster & Drywall Repairs
 
-If your walls or ceilings need some TLC, we’ve got it covered. Whether it’s drywall or plaster, we’ll repair [nail pops](/nail-pops/), cracks or other damage with care, ensuring repairs blend in seamlessly and hold up over time. Here's a complete [overview of plaster repair](/plaster-repair-kansas-city/).
+If your walls or ceilings need some TLC, we’ve got it covered. Whether it’s drywall or plaster, we’ll repair [nail pops](/nail-pops/), cracks or other damage with care, ensuring repairs blend in seamlessly and hold up over time. Here's a complete [overview of plaster repair](/plaster-drywall-repair/).
 
 Textured plaster (knockdown, orange-peel, etc.) can be tricky to match after a repair. While we strive for the best possible outcome, we’ll want to have a conversation to set realistic expectations so there are no surprises.
 

@@ -19,7 +19,9 @@ First impressions matter, and your office is a reflection of your brand. A fresh
 
 ### Professionalism and Precision
 
-At Crestwood, we bring precision and attention to detail to every office painting project. Our team’s professionalism ensures that the work is done correctly the first time, on time, and with minimal disruption to your office environment. We approach each project with the mindset of a fine craftsman—your satisfaction is our top priority.
+At Crestwood, we bring precision and attention to detail to every office painting project. Our approach ensures that the work is done correctly the first time, on time, and with minimal disruption to your office environment. Take a look at this nitty gritty [case study](/office-painting-case-study/) of another office project we did.
+
+![office painting](/images/office/office102.jpg)
 
 ## Offices We’ve Painted
 
@@ -52,6 +54,8 @@ The wrong paint color can contribute to poor lighting conditions, making an offi
 
 Frequent touch-ups due to low-quality paint result in higher maintenance costs. Investing in premium, durable paint reduces the need for regular maintenance, saving time and money in the long run.
 
+> A well-planned project means minimal office disruption.
+
 ### Inconsistent Color Schemes
 
 An office with mismatched colors can feel disjointed and unprofessional. A cohesive color scheme throughout your office promotes a sense of unity and professionalism.
@@ -70,6 +74,8 @@ Paint manufacturers have come a long way in developing paints that give off litt
 * Health and Safety Compliance: Using low- and no-VOC paints helps you meet indoor air quality standards and creates a healthier workspace—great for peace of mind and potentially helpful if you’re aiming for LEED certification.
 
 Choosing low- and no-VOC paints for your office isn’t just about being environmentally friendly; it’s about creating a more comfortable, healthier space for everyone who walks through your doors.
+
+![office painting](/images/O-print-layout.webp)
 
 ### Which Facilities Prefer Low- and No-VOC Paints?
 
@@ -147,14 +153,6 @@ A fresh coat of paint does more than just make your office look good—it adds l
 
 A freshly painted office isn’t just about aesthetics—it’s a smart investment in the longevity, efficiency, and overall value of your workspace. Crestwood Painting will deliver a beautiful, durable finish that pays off in more ways than one.
 
-[case study](/office-painting-case-study/)
-
-> A well-planned project means minimal office disruption.
-
-![office painting](/images/office/office102.jpg)
-
-![office painting](/images/O-print-layout.webp)
-
 {{< gallery >}}
 
 * ![UMKC painting customer](/images/o-umkc1.webp)
@@ -170,5 +168,3 @@ A freshly painted office isn’t just about aesthetics—it’s a smart investme
 * ![office painting Thrifty](/images/O-Thrifty.webp)
 * ![office painting Bluebird](/images/O-Bluebird.webp)
 {{< /gallery >}}
-
-![commercial painting senior crestwood](/images/r-sunrise-senior-living.webp)

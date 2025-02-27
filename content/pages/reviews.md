@@ -2,12 +2,12 @@
 title: "Crestwood Reviews"
 url: "reviews"
 description: "Melissa J. said: I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed."
-keywords: "customer reviews, testimonials, feedback, Crestwood Painting, painter reviews"
+keywords: "customer reviews, testimonials, feedback, painter reviews"
 canonical: "https://crestwoodpainting.com/reviews/"
 date: "2011-09-21"
 index: true
 ---
-Real customer reviews for interior, exterior, cabinet and office painting. [Video testimonials](/video-testimonials/), too!
+## Customer reviews for interior, exterior, cabinet and office painting
 
 > I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed. *Melissa J*
 

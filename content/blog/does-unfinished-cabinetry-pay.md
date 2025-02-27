@@ -58,4 +58,3 @@ You're always better to take advantage of a cabinet manufacturer's factory-perfe
 What's it cost to paint or stain bathroom vanities? Generally, $100 per lineal foot is a good guide. So, a 5' vanity will be about $500 and a 3' vanity will be around $350. This assumes there is other work being done and, of course, your mileage may vary depending on the painter you call.
 
 [![interior painting plaster](/images/r16-2-burge.jpg)](/plaster-repair-kansas-city/)
-

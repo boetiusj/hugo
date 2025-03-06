@@ -6,6 +6,29 @@ keywords: "exterior house painting, paint colors, Kansas City, Crestwood Paintin
 canonical: "https://crestwoodpainting.com/exterior-painting-kansas-city/"
 date: "2011-09-18"
 index: true
+faqs: 
+  - question: "What is Included in Exterior House Painting?"
+    id: "ex-incl"
+    answer: If it’s painted now, it’ll be painted again. If it’s not, we won’t. That means siding, trim, doors, soffits, fascia, and accent trim all get a fresh coat.
+
+  - question: "How Long Does Exterior Paint Last?"
+    id: "ex-last"
+    answer: Let’s talk real-world results. In year 14, two of our very first customers called to repaint. Fourteen years? That’s a solid run. And guess what? There are still homes we painted in 2007 that are looking sharp today.
+
+  - question: "How Much Does Exterior Painting Cost?"
+    id: "ex-cost"
+    answer: * Small ranch-style home: Around $5,000  
+* Larger, more detailed homes: Can go up to $40,000
+
+  - question: "When Is It OK to Paint Exteriors?"
+    id: "ex-season"
+    answer: Kansas City’s seasons can be unpredictable, but we work within the best temperature and weather conditions to get great results. Spring through Thanksgiving is our typical painting season, though the exact start and stop dates vary each year.
+
+  - question: "What’s the Best Exterior Sheen?"
+    id: "ex-sheen"
+    answer: * Body of the house? Flat or satin — this is a coin toss.  
+* Trim? Satin or semi-gloss — a little shine adds crispness.  
+* Front doors & shutters? Gloss or semi-gloss—to spiff things up
 ---
 
 ![exterior paint gray house](/images/exterior/x-blue.webp)
@@ -126,7 +149,7 @@ We can take a look at your objectives and priorities and then narrow down the be
 
 Here are some of the top questions we get.
 
-### What is Included in Exterior House Painting?
+### [What is Included in Exterior House Painting?](#ex-incl)
 
 If it’s painted now, it’ll be painted again. If it’s not, we won’t. Simple, right? That means siding, trim, doors, soffits, fascia, and accent trim all get a fresh coat.
 
@@ -137,7 +160,7 @@ If it’s painted now, it’ll be painted again. If it’s not, we won’t. Simp
 
 We keep things straightforward so you know exactly what’s covered.
 
-### How Long Does Exterior Paint Last?
+### [How Long Does Exterior Paint Last?](#ex-last)
 
 Let’s talk real-world results. In year 14, two of our very first customers called to repaint. Fourteen years? That’s a solid run. And guess what? There are still homes we painted in 2007 that are looking sharp today.
 
@@ -145,7 +168,7 @@ It’s not magic—just good prep, great products, and a process designed to sta
 
 > Crestwood just finished painting the exterior of my two-story, 1930's vintage house. They worked hard to make sure everything was done correctly, and the team did a great job.
 
-### How Much Does Exterior Painting Cost?
+### [How Much Does Exterior Painting Cost?](#ex-cost)
 
 Painting costs can vary, but here’s the ballpark:
 
@@ -154,7 +177,7 @@ Painting costs can vary, but here’s the ballpark:
 
 Pricing depends on size, the number of colors, color placement complexity, accessibility, and any needed repairs. While some painters may offer lower pricing, we focus on lasting results and a smooth experience—so no do-overs in a few years.
 
-### When Is It OK to Paint Exteriors?
+### [When Is It OK to Paint Exteriors?](#ex-season)
 
 Kansas City’s seasons can be unpredictable, but we work within the best temperature and weather conditions to get great results. Spring through Thanksgiving is our typical painting season, though the exact start and stop dates vary each year.
 
@@ -163,7 +186,7 @@ Kansas City’s seasons can be unpredictable, but we work within the best temper
 
 Moral of the story? If the weather’s cooperating, we’re painting.
 
-### What’s the Best Exterior Sheen?
+### [What’s the Best Exterior Sheen?](#ex-sheen)
 
 Sheen is mostly about looks rather than durability. Here’s the usual breakdown:
 

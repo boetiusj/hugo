@@ -23,7 +23,7 @@ faqs:
   - question: Do I Have to Move Out for Interior Painting?
     id: "move-out"
     answer: |
-      Nope\! Most homeowners stay put while we paint. Thanks to low-VOC, low-odor paints and fast drying times, there’s minimal disruption to your daily routine.
+      Nope\! Most homeowners stay put while we paint. Thanks to low-VOC, low-odor paints and fast drying times, there’s minimal disruption to your daily routine. While some areas may be off-limits for a short time, we’ll work with you to schedule the project in a way that keeps your home livable—whether that means painting one room at a time or prioritizing high-traffic areas first.
 
   - question: "Do I Have to Be Careful with New Paint?"
     id: "careful"

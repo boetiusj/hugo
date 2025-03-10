@@ -9,26 +9,20 @@ index: true
 faqs: 
   - question: "What is Included in Exterior House Painting?"
     id: "ex-incl"
-    answer: If it’s painted now, it’ll be painted again. If it’s not, we won’t. That means siding, trim, doors, soffits, fascia, and accent trim all get a fresh coat.
-
+    answer: If it’s painted now, it’ll be painted again. If it’s not, we won’t. Simple, right? That means siding, trim, doors, soffits, fascia, and accent trim all get a fresh coat. \* Garages? Usually included—unless you’ve got something unique going on. \* Sheds? Sometimes, if they need love too. \* Playhouses? Not so much—though we’ll gladly offer color advice for the mini-mansion in your backyard\! \* Stone foundation? Nope. Unless it's already painted. We keep things straightforward so you know exactly what’s covered.    
   - question: "How Long Does Exterior Paint Last?"
     id: "ex-last"
-    answer: Let’s talk real-world results. In year 14, two of our very first customers called to repaint. Fourteen years? That’s a solid run. And guess what? There are still homes we painted in 2007 that are looking sharp today.
-
+    answer: Let’s talk real-world results. In year 14, two of our very first customers called to repaint. Fourteen years? That’s a solid run. And guess what? There are still homes we painted in 2007 that are looking sharp today. It’s not magic—just good prep, great products, and a process designed to stand the test of time.
   - question: "How Much Does Exterior Painting Cost?"
-    id: "ex-cost"
-    answer: * Small ranch-style home: Around $5,000  
-* Larger, more detailed homes: Can go up to $40,000
-
+    id: "ex-cost" 
+    answer: Painting costs can vary, but here’s the ballpark. \* Small ranch-style home? Around $5,000. \* Larger, more detailed homes can go up to $40,000. Pricing depends on size, the number of colors, color placement complexity, accessibility, and any needed repairs. While some painters may offer lower pricing, we focus on lasting results and a smooth experience—so no do-overs in a few years.
   - question: "When Is It OK to Paint Exteriors?"
     id: "ex-season"
-    answer: Kansas City’s seasons can be unpredictable, but we work within the best temperature and weather conditions to get great results. Spring through Thanksgiving is our typical painting season, though the exact start and stop dates vary each year.
+    answer: Kansas City’s seasons can be unpredictable, but we work within the best temperature and weather conditions to get great results. Spring through Thanksgiving is our typical painting season, though the exact start and stop dates vary each year. \* Cold weather? Most high-performance paints work down to 35°F, but we won’t push our painters to test it. \* Summer heat? No problem\! Unlike what many think, there’s no “perfect” painting season. As long as best practices are followed, we can paint right through a KC summer. Moral of the story? If the weather’s cooperating, we’re painting.
 
   - question: "What’s the Best Exterior Sheen?"
     id: "ex-sheen"
-    answer: * Body of the house? Flat or satin — this is a coin toss.  
-* Trim? Satin or semi-gloss — a little shine adds crispness.  
-* Front doors & shutters? Gloss or semi-gloss—to spiff things up
+    answer: Sheen is mostly about looks rather than durability. Here’s the usual breakdown. \* Body of the house? Flat or satin — this is a coin toss. \* Trim? Satin or semi-gloss — a little shine adds crispness. \* Front doors & shutters? Gloss or semi-gloss—to spiff things up\! In suburban homes, satin all around is a safe bet. Older, traditional homes often mix two different sheens for contrast. Higher sheens clean up easier but can also highlight imperfections more than lower sheen finishes.
 ---
 
 ![exterior paint gray house](/images/exterior/x-blue.webp)
@@ -145,60 +139,9 @@ After we’re finished, we make sure everything is cleaned up. This includes rem
 
 We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this \- let’s find what works best for your situation. Click here to [see our reviews](/reviews), then [book an estimate time](/book-us/).
 
-## Exterior Painting FAQs
-
-Here are some of the top questions we get.
-
-### [What is Included in Exterior House Painting?](#ex-incl)
-
-If it’s painted now, it’ll be painted again. If it’s not, we won’t. Simple, right? That means siding, trim, doors, soffits, fascia, and accent trim all get a fresh coat.
-
-* Garages? Usually included—unless you’ve got something unique going on.  
-* Sheds? Sometimes, if they need love too.  
-* Playhouses? Not so much—though we’ll gladly offer color advice for the mini-mansion in your backyard\!
-* Stone foundation? No way.
-
-We keep things straightforward so you know exactly what’s covered.
-
-### [How Long Does Exterior Paint Last?](#ex-last)
-
-Let’s talk real-world results. In year 14, two of our very first customers called to repaint. Fourteen years? That’s a solid run. And guess what? There are still homes we painted in 2007 that are looking sharp today.
-
-It’s not magic—just good prep, great products, and a process designed to stand the test of time.
-
-> Crestwood just finished painting the exterior of my two-story, 1930's vintage house. They worked hard to make sure everything was done correctly, and the team did a great job.
-
-### [How Much Does Exterior Painting Cost?](#ex-cost)
-
-Painting costs can vary, but here’s the ballpark:
-
-* Small ranch-style home: Around $5,000  
-* Larger, more detailed homes: Can go up to $40,000
-
-Pricing depends on size, the number of colors, color placement complexity, accessibility, and any needed repairs. While some painters may offer lower pricing, we focus on lasting results and a smooth experience—so no do-overs in a few years.
-
-### [When Is It OK to Paint Exteriors?](#ex-season)
-
-Kansas City’s seasons can be unpredictable, but we work within the best temperature and weather conditions to get great results. Spring through Thanksgiving is our typical painting season, though the exact start and stop dates vary each year.
-
-* Cold weather? Most high-performance paints work down to 35°F, but we won’t push our painters to test it.  
-* Summer heat? No problem\! Unlike what many think, there’s no “perfect” painting season. As long as best practices are followed, we can paint right through a KC summer.
-
-Moral of the story? If the weather’s cooperating, we’re painting.
-
-### [What’s the Best Exterior Sheen?](#ex-sheen)
-
-Sheen is mostly about looks rather than durability. Here’s the usual breakdown:
-
-* Body of the house? Flat or satin — this is a coin toss.  
-* Trim? Satin or semi-gloss — a little shine adds crispness.  
-* Front doors & shutters? Gloss or semi-gloss—to spiff things up\!
-
-In suburban homes, satin all around is a safe bet. Older, traditional homes often mix two different sheens for contrast. Higher sheens clean up easier but can also highlight imperfections more than lower sheen finishes.
-
 ### What Else Should I Ask?
 
-We've had great feedback from our [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter") page. Let us know if you like it.
+We get good feedback on [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter") page. Still more questions? Call or email - we will answer.
 
 ### Final Thoughts
 

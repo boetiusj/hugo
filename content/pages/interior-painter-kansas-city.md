@@ -34,10 +34,6 @@ A well-planned painting project means minimal disruption and maximum results. We
 
 Your estimate isn’t just about numbers—it’s a chance to fine-tune the details. We’ll discuss any needed repairs, [go over color](/color-help/) and sheen options, and set clear expectations for the project. We'll even steer you to [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter"). This conversation ensures everything is planned out before work begins, so the process is smooth and stress-free.
 
-### Repairs: Finding the Right Fit for Your Project
-
-Every home—and every budget—is different. Some repairs are essential, while others are a matter of preference. We’ll talk through the options and tailor the work to fit your needs, so you get the right balance of prep and paint for your space.
-
 ![white living room](/images/interior/brick-fp-paint.jpg)
 
 ### Choosing a Color? Here’s Where to Start
@@ -63,6 +59,10 @@ Flat walls help hide surface irregularities and absorb light, making them a grea
 When in doubt, we’ll help you weigh the options so you get the right balance of looks and practicality.
 
 > The team was on time, professional and made clean up a breeze. My house looks way better! Thank you! {{< sub "[(more reviews here)](/reviews/)" >}}
+
+### Repairs: Finding the Right Fit for Your Project
+
+Every home—and every budget—is different. Some repairs are essential, while others are a matter of preference. We’ll talk through the options and tailor the work to fit your needs, so you get the right balance of prep and paint for your space.
 
 ## How We Safeguard Your Space While We Paint
 
@@ -92,7 +92,7 @@ With our meticulous approach, you can be sure your home will remain clean, organ
 
 ### Insider Tips
 
-Sometimes homeowners don't know they have options.
+There are always option, it helps to know what to ask.
 
 #### Rule of Thumb
 
@@ -102,13 +102,13 @@ Generally, the biggest bang for the buck is wall paint \- because walls are less
 
 Options range from Everything (walls, ceilings, trim) right down to painting an accent wall. We’ll work with your budget and time constraints to find the best match for your situation. And yes, it’s OK to mix and match \- everything in the Living Room, but walls only in the kitchen.
 
-#### Repairs - Maybe. And Maybe Not
+#### Repairs Are Subjective
 
-Homes settle, water leaks happen and new crown molding is installed. We’ll discuss, assess, fix the glitches and then make it match the rest of the house. We also take care of wallpaper removal, texture matching (or removal). Repairs take time.
+Homes settle, water leaks happen and plaster cracks. Sometimes bringing everything up to showroom level is just not in the cards. As they say, Rome wasn't built in a day. We’ll assess the situation and discuss options, then make a plan.
 
 #### Nitty Gritty
 
-If you just need your blue walls light gray, we can do that. And if you’re after a higher level of finish, we can do that too. Those details will be clearly spelled out in our three page proposal so you know exactly what you can expect once work gets started.
+If you just need your blue walls light gray, we can do that. And if you’re after a higher level of finish, we can do that too. Let's talk about what's important to you. Those details will be clearly spelled out in our three page proposal so you know exactly what you can expect once work gets started.
 
 ## Interior Prep Work: The Secret to a Lasting Finish
 

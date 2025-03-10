@@ -10,32 +10,25 @@ faqs:
   - question: "How Much Does Interior Painting Cost?"
     id: "costx"
     answer: A small bedroom can be painted for less than $1000; a whole house interior can run over $100k \- really.  Many factors so, when we’re asked, well \- it depends.
-
   - question: "How Long Does an Interior Painting Estimate Take?"
     id: "est-int"
-    answer: | 
-      Most estimates take 30 minutes or less, but we’re not watching the clock. If you want to dive into details and talk through every aspect of the project, we’re all ears. Our goal is to leave you feeling informed and comfortable with the process ahead.
-
+    answer: It's quick and easy to [book an estimate time](https://crestwoodpainting.com/book-us/) or, call our friendly answering service (816-805-4515). You’ll get a confirmation email right away. And then a reminder 24 hours before. Most estimates take 30 minutes or less, but we’re not watching the clock. If you want to dive into details and talk through every aspect of the project, we’re all ears. Our goal is to leave you feeling informed and comfortable with the process ahead. On the day of the estimate, we’ll arrive on time. The visit is friendly and casual—there’s no sales pitch, just a conversation to understand your goals. We’ll measure each room, mark up photos, and go over options to help you feel confident about your choices.
   - question: "How Long Does Interior Painting Take?"
     id: "int-time"
-    answer: |
-      A Living Room (walls, ceiling and trim) can usually be completed in two days. Or longer, with plaster repair and extensive trim prep.
+    answer: A Living Room (walls, ceiling and trim) can usually be completed in two days. Or longer, with plaster repair and extensive trim prep.
   - question: Do I Have to Move Out for Interior Painting?
     id: "move-out"
-    answer: |
-      Nope\! Most homeowners stay put while we paint. Thanks to low-VOC, low-odor paints and fast drying times, there’s minimal disruption to your daily routine. While some areas may be off-limits for a short time, we’ll work with you to schedule the project in a way that keeps your home livable—whether that means painting one room at a time or prioritizing high-traffic areas first.
-
+    answer: Nope\! Most homeowners stay put while we paint. Thanks to low-VOC, low-odor paints and fast drying times, there’s minimal disruption to your daily routine. While some areas may be off-limits for a short time, we’ll work with you to schedule the project in a way that keeps your home livable—whether that means painting one room at a time or prioritizing high-traffic areas first.
   - question: "Do I Have to Be Careful with New Paint?"
     id: "careful"
-    answer: |
-      It takes about two to three weeks to fully cure—meaning it reaches maximum hardness and durability. During this time, it’s best to avoid scrubbing, bumping, or placing heavy objects against freshly painted surfaces."
+    answer: A little caution goes a long way\! While paint dries quickly, it takes about two to three weeks to fully cure—meaning it reaches maximum hardness and durability. During this time, it’s best to avoid scrubbing, bumping, or placing heavy objects against freshly painted surfaces. If you need to clean a spot, a gentle wipe with a damp cloth will do the trick. After curing, your walls and trim will be fully ready for everyday life.
 ---
 
 ![living room paint](/images/interior/entry-stairs.webp)
 
 ## Interior Painting – What to Expect
 
-A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are [helpful Interior FAQs here](#faqs---interior-painting) and hundreds of ([customer reviews](/reviews/)), too. [Cabinet painting?](/cabinet-painting/) Yep, we do that.
+A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are helpful Interior FAQs down below and hundreds of ([customer reviews](/reviews/)), too. [Cabinet painting?](/cabinet-painting/) Yep, we do that.
 
 ## Let’s Talk: Colors & Expectations
 
@@ -97,6 +90,26 @@ Since tails and paint don’t (or shouldn’t) mix, it’s best to make arrangem
 
 With our meticulous approach, you can be sure your home will remain clean, organized, and free of damage while we work. No Drips. No Drama. Just the care and protection your home deserves.
 
+### Insider Tips
+
+Sometimes homeowners don't know they have options.
+
+#### Rule of Thumb
+
+Generally, the biggest bang for the buck is wall paint \- because walls are less labor-intensive and the visual transformation is greatest. Trim is more labor intensive and will usually be repainted some kind of white \- so a relatively small visual change.  
+
+#### Do You Have to Paint Everything?
+
+Options range from Everything (walls, ceilings, trim) right down to painting an accent wall. We’ll work with your budget and time constraints to find the best match for your situation. And yes, it’s OK to mix and match \- everything in the Living Room, but walls only in the kitchen.
+
+#### Repairs - Maybe. And Maybe Not
+
+Homes settle, water leaks happen and new crown molding is installed. We’ll discuss, assess, fix the glitches and then make it match the rest of the house. We also take care of wallpaper removal, texture matching (or removal). Repairs take time.
+
+#### Nitty Gritty
+
+If you just need your blue walls light gray, we can do that. And if you’re after a higher level of finish, we can do that too. Those details will be clearly spelled out in our three page proposal so you know exactly what you can expect once work gets started.
+
 ## Interior Prep Work: The Secret to a Lasting Finish
 
 A beautifully painted interior starts with a strong foundation, so we take extra care to ensure your walls, trim, and other surfaces are perfectly prepped before the first coat of paint goes on.
@@ -156,48 +169,6 @@ Partnering with Crestwood Painting means a hassle-free process, exceptional craf
 ## Book An Estimate Today
 
 We’ll help narrow objectives and priorities and go over best options - there are many ways to approach this. [Book an Estimate with us](https://crestwoodpainting.com/book-us/) and let’s find what works best for your situation.
-
-## FAQs \- Interior Painting
-
-### [How Much Does Interior Painting Cost?](#cost)
-
-A small bedroom can be painted for less than $1000; a whole house interior can run over $100k \- really.  Many factors mean a wide range in costs. So, when we’re asked “What is the Cost of Interior Paint?”, well \- it depends.
-
-#### Rule of Thumb
-
-Generally, the biggest bang for the buck is wall paint \- because walls are less labor-intensive and the visual transformation is greatest. Trim is more labor intensive and will usually be repainted some kind of white \- so a relatively small visual change.  
-
-#### What Should Be Painted?
-
-Options range from Everything (walls, ceilings, trim) right down to painting an accent wall. We’ll work with your budget and time constraints to find the best match for your situation. And yes, it’s OK to mix and match \- everything in the Living Room, but walls only in the kitchen.
-
-#### Repairs
-
-Homes settle, water leaks happen and new crown molding is installed. We’ll discuss, assess, fix the glitches and then make it match the rest of the house. We also take care of wallpaper removal, texture matching (or removal). Repairs take time.
-
-#### Nitty Gritty
-
-If you just need your blue walls light gray, we can do that. And if you’re after a higher level of finish, we can do that too. Those details will be clearly spelled out in our three page proposal so you know exactly what you can expect once work gets started.
-
-### [How Long Does an Interior Painting Estimate Take?](#est-int)
-
-It's quick and easy to [book an estimate time](https://crestwoodpainting.com/book-us/) or, call our friendly answering service (816-805-4515). You’ll get a confirmation email right away. And then a reminder 24 hours before.
-
-Most estimates take 30 minutes or less, but we’re not watching the clock. If you want to dive into details and talk through every aspect of the project, we’re all ears. Our goal is to leave you feeling informed and comfortable with the process ahead.
-
-On the day of the estimate, we’ll arrive on time. The visit is friendly and casual—there’s no sales pitch, just a conversation to understand your goals. We’ll measure each room, mark up photos, and go over options to help you feel confident about your choices.
-
-### [How Long Does Interior Painting Take?](#int-time)
-
-A Living Room (walls, ceiling and trim) can usually be completed in two days. Or longer, with plaster repair and extensive trim prep.
-
-### [Do I Have to Move Out for Interior Painting?](#move-out)
-
-Nope\! Most homeowners stay put while we paint. Thanks to low-VOC, low-odor paints and fast drying times, there’s minimal disruption to your daily routine. While some areas may be off-limits for a short time, we’ll work with you to schedule the project in a way that keeps your home livable—whether that means painting one room at a time or prioritizing high-traffic areas first.
-
-### [Do I Have to Be Careful with New Paint?](#careful)
-
-A little caution goes a long way\! While paint dries quickly, it takes about two to three weeks to fully cure—meaning it reaches maximum hardness and durability. During this time, it’s best to avoid scrubbing, bumping, or placing heavy objects against freshly painted surfaces. If you need to clean a spot, a gentle wipe with a damp cloth will do the trick. After curing, your walls and trim will be fully ready for everyday life.
 
 ## Interior Painting Terms
 

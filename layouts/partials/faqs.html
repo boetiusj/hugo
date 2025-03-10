@@ -1,5 +1,5 @@
+<h2>FAQs - {{ .Title }}</h2>
 {{ range .Params.faqs }}
-  <h2>FAQs</h2>
   <h3 id="{{ .id }}">{{ .question }}</h3>
   <div>
     {{ partial "func/getMarkdown" (dict "content" .answer) }}

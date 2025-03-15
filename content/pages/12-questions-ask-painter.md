@@ -10,7 +10,7 @@ index: true
 
 {{< figure src="/images/Checkbox.webp" width="100" alt="checklist image" class="left" >}}
 
-## Ask These Questions _before_ You Choose a Painter
+## Ask These Questions _Before_ You Choose a Painter
 
 ---
 

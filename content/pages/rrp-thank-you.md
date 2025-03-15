@@ -10,8 +10,6 @@ index: false
 
 ### Thanks - we've received your confirmation
 
-![Kansas City EPA certified painter](/images/gray-lead-safe-certified.webp)
-
 ---
 
 ![customer review painter kansas city crestwood painting](/images/r17-4-glorfeld.webp)

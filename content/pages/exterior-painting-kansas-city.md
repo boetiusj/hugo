@@ -29,17 +29,11 @@ faqs:
 
 ## If You’re New to Painting
 
-Relax \- we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; some [good Exterior FAQs here](#exterior-painting-faqs) are helpful, too.
-
-![exterior paint green ranch](/images/exterior/x-greenranch.webp)
-
-### Choosing a Color Scheme
-
-Still undecided on colors? You’re not alone—half of our clients start that way. We’ll help you pick the perfect combination to make sure your home stands out for all the right reasons.
+Relax \- we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; also check the Exterior FAQs down below, too.
 
 > They did a fantastic job, were easy to work with, professional, and clearly care about the work they are doing.
 
-#### How Many Colors?
+### How Many Colors?
 
 The number of colors depends on the size, style, and character of your home.
 
@@ -51,7 +45,9 @@ For example:
 * A 1990s two-story home might use three colors: body, trim, and an accent.  
 * A 1930s two-story home might shine with five colors: two body colors, trim, front door, and an accent.
 
-#### Common House Color Terms
+![exterior paint green ranch](/images/exterior/x-greenranch.webp)
+
+### Common House Color Terms
 
 * Body – The main surface (stucco, siding, brick, etc.).  
 * Trim – Areas like windows, soffits, fascia, and door frames.  
@@ -77,7 +73,7 @@ Before we begin painting, we make sure everything is ready for a smooth and safe
 
 ### Clear the Area
 
-Move any obstacles like furniture or garden items. We also establish a “shop” area (usually in a corner of the back yard) for ladders and equipment.
+Ladders and painters will be moving, best to clear a safe path. Grills, furniture and toys top the list. There will be a “shop” area (usually in a corner of the back yard) for ladders and equipment.
 
 ### Clean, Not "Pressure" Wash
 

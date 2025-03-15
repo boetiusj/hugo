@@ -9,40 +9,41 @@ index: true
 coverImage: "wallpaper-removal.webp"
 ---
 
-![wallpaper removal kansas city crestwood painting](/images/wallpaper-removal.webp)
+![wallpaper removal](/images/wallpaper-removal.webp)
 
-Safe wallpaper removal with a non-toxic, no-odor solution. Then carefully wash the walls to thoroughly remove adhesive residue.
+## What You Want For Your Wallpaper
 
-Removing soiled, peeling or just plain ugly wallpaper will transform the feel of any Kansas City room. Then you have the option to hang new wallpaper (really!) or dial back to a calming paint color.
+Ideally, wallpaper removal is quick and easy—just peel it off, with no mess, no wall damage, and no stubborn adhesive left behind. In a perfect scenario, the paper was installed correctly on a properly prepped wall, making removal a smooth process that leaves your walls clean and ready for [fresh paint](/content/pages/interior-painter-kansas-city/).
 
-- Considerate workers respect your home
-- Two wallpaper removal potions: removal only or removal and paint-ready
-- It really is a dirty, nasty chore - we're experts.
-- Popcorn ceiling removal too - asbestos test required
+### What You Might Find
 
-## The Wallpaper Removal Process
+Unfortunately, wallpaper removal rarely goes as planned. Many walls were never properly sized (primed before wallpaper installation), meaning the paper has bonded tightly to the drywall or plaster. Instead of peeling off in large, satisfying strips, it tears into tiny, stubborn pieces. The adhesive might refuse to release, leaving behind a sticky, patchy mess. The removal process can quickly turn into a nightmare—damaged walls, gouged drywall, unexpected repairs, and frustration levels rising. What starts as a simple DIY project often ends in regret, stress, and maybe even a drink to ease the pain.
 
-- Set up a tidy work area
-- Tape n' tarp to protect the floor and furniture
-- Remove wallpaper and adhesive glue
-- Scrub walls and rinse to remove residue
-- Repair, fill, seal or sand per the agreed Scope of Work
-- Professional techniques ensure clean lines and a flash-free and lint-free finish
+> ...extremely professional from the moment he stepped into the house through communicating changes to the bid that arose because of my hamfisted attempt to remove wallpaper before they arrived (protip - just pay Mike's crew to remove wallpaper instead of putting yourself through that misery).
 
-## The Cost for Wallpaper Removal
+### What to Expect During Removal
 
-Removal costs start at $600 per day per painter. Generally, one painter can remove wallpaper in one bedroom in a day. But, some factors can affect the removal time and therefore the cost
+When you hire a professional for wallpaper removal, you can expect an organized and efficient process from start to finish. Professionals begin by setting up a tidy work area, carefully taping and tarping to protect your floors, furniture, and trim from dust, debris, and moisture. They then remove the wallpaper and adhesive glue using specialized tools and techniques tailored to the wallpaper type and wall condition.
 
-- Number of layers
-- Wall condition
-- Ceiling height
-- Previous wall prep
-- We'll advise the best options for your situation
+Once the wallpaper is gone, the walls are thoroughly scrubbed and rinsed to eliminate any residue, ensuring a clean surface ready for the next steps. If needed, we’ll repair any wall damage, fill holes or cracks, seal stains, and sand rough spots according to the agreed Scope of Work. Their expertise guarantees clean lines, a flash-free surface, and a lint-free finish, leaving your walls perfectly prepped for a fresh coat of paint or a new design.
 
-## What We Use
+### When to NOT Remove Wallpaper
 
-- Best in Class - [Safe 'n Simple](https://safeandsimple.mysimplestore.com/) is no-odor, biodegradeable, non-toxic. MSDS available
-- Our workers love it - no mask or gloves required!
-- Leaves no chemical residue on your walls
+Sometimes, wallpaper removal just isn’t the best option—too much time, too much mess, too much cost. When that happens, it’s best to have a conversation about practical alternatives. And in many cases, that means painting over the wallpaper as the most reasonable tradeoff.
 
-![painter review crestwood painting kansas city](/images/r16-6-borchers.webp)
+## Cost For Wallpaper Removal
+
+Here again, it depends:
+
+* Number of Layers
+More layers mean more time. Are they well-adhered? Water-permeable? The more layers, the more complex the removal process.
+* Wall Condition
+The condition of the walls plays a major role in pricing. If the walls are damaged, uneven, or have existing issues like mold or water stains, additional repairs are needed to create a smooth, paint-ready surface. Poorly maintained or aged walls may require patching, sanding, or even sealing.
+* Ceiling Height
+Taller ceilings add complexity, requiring scaffolding or tall ladders. Vaulted ceilings? Fuhgeddaboudit—unless you're up for the extra effort and cost.
+* Previous Wall Prep
+If the wallpaper was installed over poorly prepared surfaces—like unprimed drywall or previous repairs—the adhesive may have bonded too tightly, making removal more challenging. In these cases, extra care and time are needed to avoid damaging the underlying wall.
+
+At Crestwood Painting, we carefully evaluate each of these factors before providing an estimate. We’ll advise you on the best options for your situation, whether it’s full removal, partial removal, or other alternatives, ensuring the most cost-effective and efficient solution.
+
+![painter review crestwood painting](/images/r16-6-borchers.webp)

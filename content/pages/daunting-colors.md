@@ -18,8 +18,8 @@ If you're planning to paint the exterior of your house, one of the most importan
 
 "Don't believe the paint chip. Never believe the paint chip," warns historic-color specialist Robert Schweitzer of Ann Arbor, Mich., who tells the story about a homeowner who handed her painter what she thought was a gray chip, left town and returned to find her house was lavender.
 
-Funny: The chip certainly looked gray indoors.
-Not funny: The repainting cost $15,000.
+* Funny: The chip certainly looked gray indoors.
+* Not funny: The repainting cost $15,000.
 
 Choosing the right exterior color can be daunting, Schweitzer said. "It's not like painting a wall or buying an ugly shirt." If you choose wrong, "it's a very expensive mistake."
 

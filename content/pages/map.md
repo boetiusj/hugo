@@ -9,7 +9,7 @@ index: true
 googleMap: true
 ---
 
-Map of some of the 100's and 100's of painting projects we've done - home and office! Click, drag &  zoom to explore painting projects in Kansas City.
+## We Paint Kansas City
 
 <div class="map">
   <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU" width="900" height="600" class="map"></iframe>
@@ -25,4 +25,3 @@ This code from Upwork John:
 Map of some of the 100's and 100's of painting projects we've done - home and office! Click, drag &  zoom to explore painting projects in Kansas City.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU" width="1200" height="600"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe> -->
-

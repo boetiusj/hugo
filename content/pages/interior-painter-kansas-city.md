@@ -78,7 +78,7 @@ For your floors, we’ll use super-tough non-marking underlayment or heavy-duty 
 
 ### Delicate Surfaces
 
-Some areas need an even gentler touch, such as wallpaper, older paint finishes, or varnished floors. For these, we use painter’s blue tape, specially designed for delicate surfaces, to help minimize any damage when tape is removed.
+Some areas need an even gentler touch, such as wallpaper (have you considered [wallpaper removal](/content/pages/wallpaper-removal-kansas-city/)?), older paint finishes, or varnished floors. For these, we use painter’s blue tape, specially designed for delicate surfaces, to help minimize any damage when tape is removed.
 
 ### Furniture and Artwork
 

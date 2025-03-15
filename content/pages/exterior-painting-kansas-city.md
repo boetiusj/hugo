@@ -31,17 +31,6 @@ faqs:
 
 Relax \- we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; some [good Exterior FAQs here](#exterior-painting-faqs) are helpful, too.
 
-### Getting Ready: A Few Simple Steps
-
-After a project is Set To Go and so things run smoothly, we’ll share a quick checklist of things to do before we get started.
-
-* Clear the Work Area – Moving furniture or anything near the workspace helps us work efficiently and keeps your belongings safe.  
-* Check the Yard – A quick scan for obstacles (including dog doo—thanks in advance\!) makes setup and movement easier.  
-* Final Decisions – Still deciding on a color? Thinking about updating your house numbers? Or mailbox? Now’s the time\!
-* [Check out our reviews](/reviews/)
-
-No stress, no surprises—we’ll walk you through everything and make sure you’re set for a smooth, easy process.
-
 ![exterior paint green ranch](/images/exterior/x-greenranch.webp)
 
 ### Choosing a Color Scheme
@@ -70,6 +59,17 @@ For example:
 * Front Door – A chance to make a statement\!
 
 No need to memorize the lingo — just tell us what catches your eye, and we’ll guide you from there. [See our color page](/color-help/) for some more ideas.
+
+### Getting Ready: A Few Simple Steps
+
+After a project is Set To Go and so things run smoothly, we’ll share a quick checklist of things to do before we get started.
+
+* Tidy Up – If you're concerned about anything (furniture? toys?) just let us know - we may be able to help you move things.  
+* Check the Yard – A quick scan for obstacles (including dog doo—thanks in advance\!) makes setup and movement easier.  
+* Final Decisions – Still deciding on a color? Thinking about updating your house numbers? Or mailbox? Now’s the time\!
+* [Check out our reviews](/reviews/)
+
+No stress, no surprises—we’ll walk you through everything and make sure you’re set for a smooth, easy process.
 
 ## Exterior Prep
 
@@ -129,7 +129,7 @@ We use premium paints from trusted brands like Sherwin-Williams Duration and Ben
 
 ### Gutters, Downspouts, and Utilities
 
-We paint functional elements like gutters, downspouts, and utilities the same color as the surface behind them. These elements should blend in, not stand out. However, we can also emphasize or de-emphasize features like basement doors or pet doors based on your preferences.
+We paint functional elements like gutters, downspouts, and utilities the same color as the surface behind them. These non-architectural elements should blend in, not stand out. However, we can also emphasize or de-emphasize features like basement doors or pet doors based on your preferences.
 
 ### Final Cleanup
 

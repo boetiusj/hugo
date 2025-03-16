@@ -8,12 +8,11 @@ date: "2018-09-27"
 index: true
 googleMap: true
 ---
+## Paint Map of Kansas City
 
-## We Paint Kansas City
+### We've Painted in Your Neighborhood
 
-<div class="map">
-  <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU" width="900" height="600" class="map"></iframe>
-</div>
+  ### <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU" width="900" height="600" class="map"></iframe>
 
 <!-- 
 This code from Upwork John:

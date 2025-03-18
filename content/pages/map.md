@@ -12,7 +12,7 @@ googleMap: true
 
 ### We've Painted in Your Neighborhood
 
-  ### <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU" width="900" height="600" class="map"></iframe>
+### <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU" width="900" height="600" class="map"></iframe>
 
 <!-- 
 This code from Upwork John:

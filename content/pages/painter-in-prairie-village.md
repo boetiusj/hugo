@@ -8,7 +8,7 @@ date: "2014-01-03"
 index: true
 ---
 
-[![Paint contractor Prairie Village KS](/images/PVKS-300x156.jpg)](/images/PVKS.jpg)
+[![Paint contractor Prairie Village](/images/PVKS-300x156.jpg)](/images/PVKS.jpg)
 
 Crestwood has done both exterior and interior painting in Prairie Village. Homes or offices - we take the same care in performing our work. Well-trained employees applying the very best materials. Because we use low VOC "green" paints you might not even smell our work!
 

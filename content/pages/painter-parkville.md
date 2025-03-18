@@ -46,7 +46,7 @@ Scheduling is easy. Our quick online form lets you book a 30-minute consultation
 
 ### Why Parkville Homeowners Choose Crestwood Painting
 
-* Proven Results – See what your neighbors say in our.[customer reviews.](/reviews/ "Online Reviews – Painters in Kansas City")  
+* Proven Results – See what your neighbors say in our [customer reviews.](/reviews/ "Online Reviews – Painters in Kansas City")  
 * Interior & Exterior Expertise – Explore our interior and exterior painting services.  
 * Cabinet Transformations – Learn more about our cabinet painting.  
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")

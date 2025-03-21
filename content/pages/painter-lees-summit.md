@@ -50,27 +50,27 @@ A playroom should be as lively or as calming as your child needs. Bold colors br
 
 First impressions start at the curb, and a beautifully painted exterior sets the tone. It boosts curb appeal while shielding your home from the elements. Here’s how we can make your home shine:
 
-### Front Doors – A splash of color, a touch of gloss, and a whole lot of wow
+#### Front Doors – A splash of color, a touch of gloss, and a whole lot of wow
 
 Whether classic or bold, your front door sets the mood. We’ll help you create a welcoming entrance that feels just right. Because sometimes, the smallest details make the biggest impact.
 
-### Garage Painting – Clean lines, matched color, and a finish that holds up
+#### Garage Painting – Clean lines, matched color, and a finish that holds up
 
 We handle garage doors or the entire garage exterior, depending on your needs. Our work adds polish while protecting from weather and wear. The result? A garage that looks like part of the home, not an afterthought.
 
-### Playset Painting – Fresh, fun, and fully protected
+#### Playset Painting – Fresh, fun, and fully protected
 
 From bold colors to subtle shades, we’ll help your playset stand out—or blend in beautifully. Our paints are kid-safe, long-lasting, and tough on wear. Because your backyard deserves just as much care as the house.
 
-### Gazebo Painting – Give your gazebo a second life
+#### Gazebo Painting – Give your gazebo a second life
 
 Kansas City’s weather can take a toll, but a quality paint job adds longevity and style. We’ll help you turn it into a true focal point in your yard. It’s your retreat—let’s make it shine.
 
-### Fence Staining – Beauty meets durability
+#### Fence Staining – Beauty meets durability
 
 Our stains soak in deep to preserve and protect, not just coat the surface. The result is a consistent, rich color that holds up through Kansas City’s changing seasons. Your fence will thank you.
 
-### Metal Fence Painting – Sleek finish, serious protection
+#### Metal Fence Painting – Sleek finish, serious protection
 
 We’ll strip old paint if needed and apply high-performance coatings built for metal. That means less rust, less maintenance, and more curb appeal. Because a metal fence should look as strong as it is.
 
@@ -88,5 +88,5 @@ A free estimate is just a click away. We show up on time, go over every detail, 
 
 We know Lee's Summit homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 
-### <iframe src="**https://www.google.com/maps/d/u/0/viewer?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.922074041274925%2C-94.41204013502343&z=12**`" width="550" height="412" class="map"></iframe>**  
-[Crestwood Map - Lee’s Summit](/map/ "Project Map")
+<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.922074041274925%2C-94.41204013502343&z=12" width="550" height="412"></iframe>  
+[Crestwood Map - Lee’s Summit MO](/map/)

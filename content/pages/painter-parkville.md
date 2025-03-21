@@ -12,7 +12,7 @@ index: true
 
 ## Professional Painting in Overland Park
 
-Crestwood Painting delivers lasting results for [Parkville] homes. Whether it’s interior walls, exterior surfaces, or cabinets, our team gets it done right. No drips, no drama—just a hassle-free experience and a beautiful finish.
+Crestwood Painting delivers lasting results for Parkville homes. Whether it’s interior walls, exterior surfaces, or cabinets, our team gets it done right. No drips, no drama—just a hassle-free experience and a beautiful finish.
 
 ### Interior Painting
 

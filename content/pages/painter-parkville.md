@@ -8,7 +8,7 @@ date: "2014-01-03"
 index: true
 ---
 
-![Downtown Parkville image](/images/Parkville-300x199.jpg
+![Downtown Parkville image](/images/Parkville-300x199.jpg)
 
 ## Professional Painting in Overland Park
 
@@ -88,5 +88,6 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 
 In Parkville, details matter—and so does durability. We take pride in delivering lasting finishes that make your home look its best for years to come.
 
-### <iframe src="https://www.google.com/maps/d/u/0/viewer?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.227009465235895%2C-94.65573074680744&z=12" width="550" height="412" class="map"></iframe>  
-[Crestwood Map - Parkville, MO](/map/ "Project Map")
+<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.227009465235895%2C-94.65573074680744&z=12" width="550" height="412"></iframe>
+  
+[Crestwood Map - Parkville MO](/map/)

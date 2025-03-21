@@ -41,7 +41,7 @@ Homes more than 30 years old have many layers of (lead) paint, aluminum storm wi
 
 {{< gallery >}}
 
-- ![ppg crestwood painting kansas city](/images/Logo-sq-PPG100.webp)
+- ![ppg crestwood painting kansas city](/images/logo-sq-ppg100.webp)
 - ![sw crestwood painting kansas city](/images/logosq-SW100.webp)
 - ![benjamin moore crestwood painting kansas city](/images/logosqBM100.webp)
 {{< /gallery >}}

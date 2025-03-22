@@ -131,7 +131,7 @@ faqs:
 
 ![paint FAQ questions image](/images/faq-pic.webp)
 
- ## FAQs
+## FAQs
 
 Because good questions help homeowners make good decisions.
 

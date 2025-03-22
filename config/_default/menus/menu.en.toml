@@ -10,3 +10,6 @@ url = "/payments/"
 [[company]]
 name = "Privacy"
 url = "/privacy-policy/"
+[[company]]
+name = "12 Questions"
+url = "/12-questions/"

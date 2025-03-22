@@ -2,21 +2,21 @@
 {{ $menu := site.Menus }}
 <footer class="footer section">
   <div class="container">
-    <div class="row mb-4">
-      <div class="col">
-        <img src="/images/logosq-SW100.webp" alt="Benjamin Moore" class="img-fluid">
+    <div class="row align-items-center">
+      <div class="col-6 col-md-4 col-lg-2 mb-24 d-flex justify-content-center">
+        <img src="/images/logosqBM100.webp" alt="Benjamin Moore" class="img-fluid footer-image">
       </div>
-      <div class="col">
-        <img src="/images/logo-pca100.webp" alt="Painting Contractors Assoc" class="img-fluid">
+      <div class="col-6 col-md-4 col-lg-2 mb-4 d-flex justify-content-center">
+        <img src="/images/logo-pca100.webp" alt="Painting Contractors Assoc" class="img-fluid footer-image">
       </div>
-      <!-- <div class="col">
-        <img src="/images/other/sp-badge-300.png" alt="PPG Paint" class="img-fluid">
+      <div class="col-6 col-md-4 col-lg-2 mb-4 d-flex justify-content-center">
+        <img src="/images/logo-sq-ppg100.webp" alt="PPG Paint" class="img-fluid footer-image">
       </div>
-      <div class="col">
-        <img src="/images/other/sp-badge-300.png" alt="Waldo Bus. Assoc." class="img-fluid">
+      <!-- <div class="col-6 col-md-4 col-lg-2 mb-4 d-flex justify-content-center">
+        <img src="/images/assoc-brookside.webp" alt="Waldo Biz Assoc" class="img-fluid footer-image">
       </div> -->
-      <div class="col">
-        <img src="/images/Lead-Safe-Certified120.webp" alt="EPA" class="img-fluid">
+      <div class="col-6 col-md-4 col-lg-2 mb-4 d-flex justify-content-center">
+        <img src="/images/Lead-Safe-Certified120.webp" alt="EPA" class="img-fluid footer-image">
       </div> 
     </div>
     <hr>
@@ -39,6 +39,7 @@
           <ul><li>Easy - not salesy</li>
             <li>30 min. or less</li>
             <li>Clear communication</li>
+            <li>Professional & friendly</li>
           </ul>
 
           <a href="/book-us" class="btn btn-main btn-round-full">Schedule an Estimate{{ $imageAngleRight := resources.Get "images/svg/angle-right-solid.svg" }}
@@ -46,27 +47,40 @@
         </div>
       </div>
 
-      <div class="col-lg-3 col-sm-6">
+      <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="widget">
-          <div class="logo mb-4">
-            {{ partial "nav/logo" . }}
-          </div>
-          <h4><a href="mailto:{{ $config.email }}">Email Us</a></h4>
-          <a href="tel:{{ $config.phone }}">{{ $config.phone }}</span></a>
-          <p>Waldo / Brookside <br>Kansas City, MO 64114</p>
+          <h3 class="text-capitalize mb-4">Cities</h3>
+          <ul class="list-unstyled footer-menu lh-35">
+            <li><a href="/painter-lees-summit">Lee's Summit</a></li>
+            <li><a href="/painter-prairie-village">Prairie Village</a></li>
+            <li><a href="/painter-leawood">Leawood</a></li>
+            <li><a href="/painter-overland-park">Overland Park</a></li>
+            <li><a href="/painter-belton">Belton</a></li>
+            <li><a href="/painter-mission-hills">Mission Hills</a></li>
+            <li><a href="/painter-parkville">Parkville</a></li>
+          </ul>
         </div>
       </div>
-      </div>
+    </div>
     <div class="footer-btm pt-4">
       <div class="row">
-        <div class="col-lg-6">
+        <div class="col-lg-3 col-md-6 col-sm-6 text-left">
           <div class="copyright">
             {{ markdownify (replace $config.copyright "{year}" now.Year) }}
             <br>No Drips, No Drama&#8482;
           </div>
         </div>
-        <div class="col-lg-6 text-left text-lg-right">
-          <ul class="list-inline footer-socials">
+        <div class="col-lg-3 col-sm-6 col-sm-6 mx-auto text-center">
+        <div class="widget">
+          <h6>Contact US</h6>
+          <p><a href="mailto:{{ $config.email }}">Email Crestwood</a>
+          <br>
+          <a href="tel:{{ $config.phone }}">Or Call {{ $config.phone }}</span></a>
+          <br>Waldo / Brookside / KCMO</p>
+        </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-6 text-right">
+          <ul class="list-inline footer-socials d-flex justify-content-end">
             {{ range $config.socials }}
             <li class="list-inline-item">
               <a href="{{ .profile }}" aria-label="{{ .platform }}" alt='social icon'>

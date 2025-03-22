@@ -1,6 +1,6 @@
 ---
 title: "Painter in Belton"
-url: "painter-in-belton"
+url: "painter-belton"
 description: "Crestwood Painting in Belton, MO - homes and offices!"
 keywords: "painter belton mo"
 canonical: "https://crestwoodpainting.com/painter-belton/"

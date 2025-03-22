@@ -1,6 +1,6 @@
 ---
 title: "Painter in Prairie Village"
-url: "painter-in-prairie-village"
+url: "painter-prairie-village"
 description: "Crestwood Painting in Prairie Village - exteriors, interiors, offices!"
 keywords: "prairie village ks painting crestwood"
 canonical: "https://crestwoodpainting.com/painter-in-prairie-village/"

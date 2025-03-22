@@ -44,7 +44,7 @@ High humidity can take a toll on bathroom walls, leading to peeling and stains. 
 
 A well-painted living room enhances your style and creates a cozy atmosphere. The right colors and finishes can make the space feel more open, intimate, or sophisticated. A fresh coat of paint keeps it looking clean and well-maintained.
 
-![painting review](/assets/images/r11-7-kara.webp)
+![painting review](/images/r11-7-kara.webp)
 
 #### Playroom Painting
 

@@ -29,7 +29,7 @@ faqs:
 
 ## If You’re New to Painting
 
-Relax \- we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; also check the Exterior FAQs down below, too.
+Relax - we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; also check the Exterior FAQs down below, too.
 
 > They did a fantastic job, were easy to work with, professional, and clearly care about the work they are doing.
 

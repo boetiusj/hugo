@@ -8,7 +8,7 @@ date: "2018-08-28"
 index: true
 ---
 
-{{< figure src="/images/Checkbox.webp" width="100" alt="checklist image" class="left" >}}
+{{< figure src="/images/Checkbox.webp" width="100" alt="checklist image" >}}
 
 ## Ask These Questions _Before_ You Choose a Painter
 

@@ -1,14 +1,14 @@
 ---
-title: "Video Testimonials"
-url: "video-testimonials"
-description: "Customer video reviews and testimonials given for Crestwood Painting."
+title: "Video Reviews"
+url: "video-reviews"
+description: "Customer video reviews given for Crestwood Painting."
 keywords: "review painting kansas city Crestwood Painting office interior"
-canonical: "https://crestwoodpainting.com/video-testimonials/"
+canonical: "https://crestwoodpainting.com/video-reviews/"
 date: "2017-12-02"
 index: true
 ---
 
-### Customer Reviews and Feedback
+## Videos - Customer Reviews
 
 Also see [online reviews here](/reviews/).
 

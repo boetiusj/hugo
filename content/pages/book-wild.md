@@ -6,6 +6,7 @@ keywords: "estimate schedule"
 canonical: "https://crestwoodpainting.com/wild/"
 date: "2024-01-19"
 index: false
+nofooter: true
 ---
 
 {{< book-form-wild >}}

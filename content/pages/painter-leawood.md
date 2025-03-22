@@ -1,18 +1,18 @@
 ---
 title: "Painter in Leawood"
-url: "painter-in-leawood"
+url: "painter-leawood"
 description: "Crestwood Painting in Leawood, KS - homes and offices!"
 keywords: "painter leawood ks"
-canonical: "https://crestwoodpainting.com/painter-in-leawood/"
+canonical: "https://crestwoodpainting.com/painter-leawood/"
 date: "2014-01-04"
 index: true
 ---
 
 [![Painter leawood ks crestwood](/images/Leawood2.jpg)](/images/Leawood2.jpg)
 
-## Professional Painting in Overland Park
+## Professional Painting in Leawood
 
-From interiors to exteriors, Crestwood Painting brings lasting beauty to [Leawood] homes. Our team delivers smooth, even finishes with no drips and no stress. A hassle-free process means you enjoy the results without the headaches.
+From interiors to exteriors, Crestwood Painting brings lasting beauty to Leawood homes. Our team delivers smooth, even finishes with no drips and no stress. A hassle-free process means you enjoy the results without the headaches.
 
 ### Interior Painting
 
@@ -21,6 +21,8 @@ From kitchens to living rooms, our work delivers lasting beauty and reliability.
 #### Plaster & Drywall Repair
 
 Small wall damage can quickly turn into an eyesore. We handle everything from minor cracks to larger drywall and plaster repairs. The result? A smooth, solid surface that blends perfectly with the rest of your home.
+
+> Communication awesome - calls were answered, e-mails returned - this is NOT common with many contractors.
 
 #### Ceiling Painting
 
@@ -62,6 +64,8 @@ A freshly painted garage makes a big visual difference. We’ll get the color ri
 
 We’ll refresh your playset with safe, durable coatings that handle the rough-and-tumble of everyday use. Bright, fun colors make it a backyard highlight. And with weather protection built in, it stays that way.
 
+> The painters were delightful, neat, and courteous. Everything was cleaned up every night.
+
 #### Gazebo Painting – Protection meets polish
 
 We apply weather-resistant finishes that extend the life of your gazebo. It’s about more than looks—it’s about keeping your outdoor space inviting year-round. A small update that makes a big impact.
@@ -88,5 +92,7 @@ We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, tak
 
 Painting in Leawood means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.96307847542675%2C-94.62469427857097&z=14" width="550" height="412"></iframe>  
+<div class="map-responsive">
+<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.96307847542675%2C-94.62469427857097&z=14" width="550" height="412"></iframe>
+</div>
 [Crestwood Map - Leawood, KS](/map/ "Project Map")

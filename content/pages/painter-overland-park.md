@@ -22,6 +22,8 @@ Whether it’s your kitchen or living room, we bring lasting quality and peace o
 
 Cracks, holes, and other imperfections can ruin the look of a freshly painted wall. We provide seamless repairs, ensuring a smooth surface that enhances your home's appearance.
 
+> Quick. Professional. Clean...knew exactly what needed to be done and went above and beyond. What else could you ask for?
+
 #### Ceiling Painting
 
 Over time, ceilings can yellow or develop stains. A fresh coat of paint can brighten a room and create a crisp, clean look. We handle everything from flat white ceilings to detailed textures.
@@ -42,6 +44,8 @@ High-humidity areas require the right paint and application. We use moisture-res
 
 As a central gathering space, your living room should feel warm and inviting. We help you choose colors and finishes that enhance your style and create a cozy atmosphere.
 
+![painting review](/assets/images/r17-2-jimmye.webp)
+
 #### Playroom Painting
 
 Brighten up a playroom with fun, vibrant colors or soothing pastels. We use durable, washable paints to keep walls looking fresh despite everyday play and activity.
@@ -61,6 +65,8 @@ A freshly painted garage creates a crisp, clean look that complements your home.
 #### Playset Painting – Keep it colorful, safe, and ready for fun
 
 We use durable, kid-safe paints to brighten up wooden or metal playsets. A fresh coat keeps everything looking great and protected from the elements. It’s a quick way to make the backyard feel brand new.
+
+> The crew was extremely thorough, quiet, polite and very, very tidy.
 
 #### Gazebo Painting – Add charm and keep the weather out
 
@@ -88,5 +94,5 @@ Scheduling a free estimate is quick and easy. Our [online form makes booking sim
 
 We love helping Overland Park homes look their best, inside and out. Every project is built to last and finished with care for a clean, beautiful result.
 
-<iframe src="1&ll=38.9717797549329%2C-94.65888233780228&z=14" width="550" height="412"></iframe>  
+<iframe src="1&ll=38.9717797549329%2C-94.65888233780228&z=14" width="550" height="412"></iframe> 
 [Crestwood Map - Overland Park, KS](/map/)

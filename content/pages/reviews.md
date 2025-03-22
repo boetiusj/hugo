@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/reviews/"
 date: "2011-09-21"
 index: true
 ---
-## Customer reviews for interior, exterior, cabinet and office painting
+## Customer Reviews and Feedback
 
 > I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed. *Melissa J*
 
@@ -712,6 +712,7 @@ The crew at Crestwood Painting was very professional. They were punctual and cle
 Paul C.
 
 > We have peace of mind knowing we can call a contractor that we can trust to be timely, reliable, accurate, clean, tidy, efficient and affordable.
+
 **Plan to hire them again**
 12/4/14
 I highly recommend Crestwood Painting and plan to hire them again when needed. They painted the entire interior of my house. Very professional and knowledgeable consultants to answer all your questions. Speedy high quality service.

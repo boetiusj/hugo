@@ -3,17 +3,16 @@ title: "Painter in Mission Hills"
 url: "painter-mission-hills"
 description: "Crestwood Painting in Mission Hills, KS - homes and offices!"
 keywords: "painter mission hills ks"
-canonical: "https://crestwoodpainting.com/painter-in-leawood/"
+canonical: "https://crestwoodpainting.com/painter-mission-hills/"
 date: "2025-03-21"
 index: true
 ---
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.01678200524971%2C-94.6223768499821&z=14" width="550" height="412"></iframe>  
-[Crestwood Map - Mission Hills KS](/map/ "Project Map")
-
 ## House Painting in Mission Hills
 
 From interiors to exteriors, Crestwood Painting brings lasting beauty to Mission Hills homes. Our team delivers smooth, even finishes with no drips and no stress. A hassle-free process means you enjoy the results without the headaches.
+
+> Communication awesome - calls were answered, e-mails returned - this is NOT common with many contractors.
 
 ### Interior Painting
 
@@ -36,6 +35,8 @@ Remodeling isn’t always necessary to refresh your space. A cabinet painting jo
 Whether you want a playful space for kids or a dramatic home theater, basement paint changes everything. It brightens dark corners, enhances lighting, and gives the space a finished feel. The right color and finish can make your basement as comfortable as any other room.  
 Bathroom Painting  
 High-humidity areas require the right paint and application. We use moisture-resistant paints to prevent mold and mildew while giving your bathroom a fresh, clean appearance.
+
+![painting review](/assets/images/r12-7-dianah.webp)
 
 #### Living Room Painting
 
@@ -69,6 +70,8 @@ Whether it’s a quiet reading nook or party central, your gazebo deserves a lit
 
 A newly-stained fence looks better, lasts longer, and stands up to the elements. Staining enhances color uniformity, protects against weathering, and extends the life of the wood. Whether refreshing aging wood or choosing a new color, a fresh stain keeps your fence looking its best.
 
+> This was the best experience my family and I have ever had working with a contractor! Our home looks beautiful, with all the work finished on time in a professional manner.
+
 #### Metal Fence Painting – Protection that looks good
 
 We’ll strip old paint if needed and apply high-performance coatings built for metal. That means less rust, less maintenance, and more curb appeal. Because a metal fence should look as strong as it is.
@@ -86,3 +89,8 @@ We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, tak
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 
 Painting in Mission Hills means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
+
+<div class="map-responsive">
+<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.01678200524971%2C-94.6223768499821&z=14" width="550" height="412"></iframe>
+</div>
+[Crestwood Map - Mission Hills KS](/map/ "Project Map")

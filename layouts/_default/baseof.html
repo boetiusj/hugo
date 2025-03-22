@@ -7,7 +7,9 @@
   {{ partial "nav/index" . }}
   {{ block "main" . }}{{ end }}
   {{ partial "scripts/index" . }}
-  {{ partial "footer" . }}
+  {{ if not .Params.nofooter }}
+    {{ partial "footer" . }}
+  {{ end }}  
 </body>
 
 </html>

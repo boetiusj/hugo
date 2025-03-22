@@ -75,7 +75,7 @@ It's important that the contractor you hire makes your people feel comfortable a
 
 Crestwood Painting screens our applicants so that you’ll only have the kind of painters your business staff can feel safe with. Nice people that enjoy their co-workers and take pride in doing a great job. Our employees wear professional painters’ whites paints and Crestwood uniform shirts and will communicate clearly should your people have any questions.
 
-Safety matters so we make sure to [train our employees](/crestwood-people/) on how to safely work in commercial environments. Fall protection training, lift training - sure. But also training for hot and cold weather, safety harness use, sprayer safety . We’ll use caution tape and orange cones to direct people and traffic appropriately. people don’t wind up in our wet paint. Drop cloths when they’re needed, doors closed where possible. We’re even equipped to set up temporary barrier walls if that’s a better option.
+Safety matters so we make sure to [train our employees](/crestwood-people/) on how to safely work in commercial environments. Fall protection training, lift training - sure. But also training for hot and cold weather, safety harness use, sprayer safety . We’ll use caution tape and orange cones to direct people and traffic appropriately. So people don’t wind up in our wet paint. Drop cloths when they’re needed, doors closed where possible. We’re even equipped to set up temporary barrier walls if that’s a better option.
 
 ### What if There's a Problem?
 

@@ -2,7 +2,7 @@
 title: "Frequently Asked Questions"
 url: "faqs"
 description: "painting, faq, customer, Kansas City, questions"
-keywords: "faqs"
+keywords: "painting faqs"
 canonical: "https://crestwoodpainting.com/faqs"
 date: "2011-08-29"
 index: "true"
@@ -131,7 +131,9 @@ faqs:
 
 ![paint FAQ questions image](/images/faq-pic.webp)
 
-Good questions help homeowners make good decisions.
+ ## FAQs
+
+Because good questions help homeowners make good decisions.
 
 - [Oil or Latex?](#oil)
 - [What does "Licensed & Insured" mean?](#licensed)

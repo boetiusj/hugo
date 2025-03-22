@@ -10,7 +10,7 @@ index: true
 
 ![Downtown Parkville image](/images/Parkville-300x199.jpg)
 
-## Professional Painting in Overland Park
+## Professional Painting in Parkville
 
 Crestwood Painting delivers lasting results for Parkville homes. Whether it’s interior walls, exterior surfaces, or cabinets, our team gets it done right. No drips, no drama—just a hassle-free experience and a beautiful finish.
 
@@ -21,6 +21,8 @@ From cozy living spaces to busy kitchens, we ensure a flawless, durable finish. 
 #### Plaster & Drywall Repair
 
 Walls take a beating over time, from door knob dings to ceiling cracks. Whether it’s drywall or plaster, we make repairs seamless and smooth. When we’re done, it’s like the damage was never there.
+
+> The estimate turnaround was quick and included a rather detailed SOW as well insurance documentation --very professional and better than any of the others I'd received.
 
 #### Ceiling Painting
 
@@ -37,6 +39,8 @@ A freshly painted basement transforms it from a dull, unfinished space into a br
 #### Bathroom Painting
 
 Bathrooms need paint that can handle humidity and daily use. Moisture-resistant paints prevent mold, mildew, and unsightly drip marks. A fresh coat keeps your bathroom looking clean and inviting.
+
+![painting review](/images/r11-7-kara.webp)
 
 #### Living Room Painting
 
@@ -61,6 +65,8 @@ We paint garage doors and full garage exteriors with a crisp, clean finish. Whet
 #### Playset Painting – Bright colors, long-lasting protection
 
 We paint wood and metal playsets with finishes that hold up to sun, rain, and serious playtime. Safe, tough paints keep things fun and worry-free. It’s one more way to keep your outdoor space looking fresh.
+
+> The most professional tradesmen I have dealt with in my 40 years as a homeowner.
 
 #### Gazebo Painting – Keep your backyard retreat looking its best
 
@@ -88,6 +94,7 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 
 In Parkville, details matter—and so does durability. We take pride in delivering lasting finishes that make your home look its best for years to come.
 
+<div class="map-responsive">
 <iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.227009465235895%2C-94.65573074680744&z=12" width="550" height="412"></iframe>
-  
+</div>
 [Crestwood Map - Parkville MO](/map/)

@@ -16,11 +16,13 @@ A fresh coat of paint should enhance your home, not add to your stress. Crestwoo
 
 ### Interior Painting
 
-We bring precision and durability to every space, from living rooms to kitchens. Explore our services:
+We bring precision and durability to every space, from living rooms to kitchens.  Explore our services:
 
 #### Plaster & Drywall Repair
 
 Ceilings and walls aren’t immune to daily wear and tear. From bathroom moisture damage to settling cracks, we repair and reinforce problem areas. Your walls will look fresh, sturdy, and ready for years to come.
+
+> Crestwood Painting was prompt, kept our house clean and completed the project on time.
 
 #### Ceiling Painting
 
@@ -58,6 +60,8 @@ Whether classic or bold, your front door sets the mood. We’ll help you create 
 
 We handle garage doors or the entire garage exterior, depending on your needs. Our work adds polish while protecting from weather and wear. The result? A garage that looks like part of the home, not an afterthought.
 
+> Communication awesome - calls were answered, e-mails returned - this is NOT common with many contractors.
+
 #### Playset Painting – Fresh, fun, and fully protected
 
 From bold colors to subtle shades, we’ll help your playset stand out—or blend in beautifully. Our paints are kid-safe, long-lasting, and tough on wear. Because your backyard deserves just as much care as the house.
@@ -88,5 +92,7 @@ A free estimate is just a click away. We show up on time, go over every detail, 
 
 We know Lee's Summit homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.922074041274925%2C-94.41204013502343&z=12" width="550" height="412"></iframe>  
+<div class="map-responsive">
+<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.922074041274925%2C-94.41204013502343&z=12" width="550" height="412"></iframe>
+</div>
 [Crestwood Map - Lee’s Summit MO](/map/)

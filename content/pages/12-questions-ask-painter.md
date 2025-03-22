@@ -1,9 +1,9 @@
 --- 
 title: "12 Top Painter Questions"
-url: "12-questions-ask-painter"
-description: "Solid questions to ask a painter - so you BOTH know what to expect. Whether home or office painting, these questions help ensure a good experience."
-keywords: "Painter questions, house painter questions, what to ask a painter, exterior painting questions, questions, Kansas City"
-canonical: "https://crestwoodpainting.com/12-questions-ask-painter/"
+url: "12-questions"
+description: "Solid questions to ask a painter - so you BOTH know what to expect."
+keywords: "Painter questions"
+canonical: "https://crestwoodpainting.com/12-questions/"
 date: "2018-08-28"
 index: true
 ---

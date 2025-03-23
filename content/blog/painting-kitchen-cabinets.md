@@ -6,7 +6,7 @@ keywords: "paint kitchen cabinets kansas city crestwood"
 canonical: "https://crestwoodpainting.com/painting-kitchen-cabinets/"
 date: "2013-02-18"
 index: true
-image: "/images/Finished-uppers_opt.jpg"
+image: "/images/finished-kitchen.webp"
 categories:
   - "painting-challenges"
 tags:
@@ -15,7 +15,7 @@ tags:
   - "kitchen"
   - "wood"
 ---
-![painted cabinets Golden Oak](/images/Finished-uppers_opt.jpg) Updated Golden Oak - this young couple was delighted with the transformation.
+![painted cabinets Golden Oak](/assets/images/finished-kitchen.webp) Updated Golden Oak - this young couple was delighted with the transformation.
 
 Golden Oak cabinets are so last century. But re-staining or painting kitchen cabinets is not as straight-forward as painting your living room. Here's what to look for:
 

@@ -12,12 +12,18 @@
       <div class="col-6 col-md-4 col-lg-2 mb-4 d-flex justify-content-center">
         <img src="/images/logo-sq-ppg100.webp" alt="PPG Paint" class="img-fluid footer-image">
       </div>
-      <div class="col-6 col-md-4 col-lg-2 mb-4 d-flex justify-content-center">
-        <img src="/assets/images/logo-sq-ppg100.webp" alt="Waldo Biz Assoc" class="img-fluid footer-image">
+      <!-- <div class="col-6 col-md-4 col-lg-2 mb-4 d-flex justify-content-center">
+        <img src="/images/sp-bks100yrs.webp" alt="brookside100 yrs" class="img-fluid footer-image">
       </div>
       <div class="col-6 col-md-4 col-lg-2 mb-4 d-flex justify-content-center">
+        <img src="/images/sp-bks100yrs.webp" alt="Waldo Biz Assoc" class="img-fluid footer-image">
+      </div> -->
+      <div class="col-6 col-md-4 col-lg-2 mb-4 d-flex justify-content-center">
         <img src="/images/Lead-Safe-Certified120.webp" alt="EPA" class="img-fluid footer-image">
-      </div> 
+      </div>
+      <!-- <div class="col-6 col-md-4 col-lg-2 mb-4 d-flex justify-content-center">
+        <img src="/images/sp-blogger-local.webp" alt="local-badge" class="img-fluid footer-image">
+      </div> --> 
     </div>
     <hr>
     <div class="row">
@@ -25,7 +31,7 @@
         <div class="widget">
           <h3 class="text-capitalize mb-4">Company</h3>
 
-          <ul class="list-unstyled footer-menu lh-35">
+          <ul class="list-unstyled footer-menu"> <!-- removed  lh-35 -->
             {{ range $menu.company }}
             <li><a href="{{ .URL }}">{{ .Name }}</a></li>
             {{ end }}
@@ -50,7 +56,7 @@
       <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="widget">
           <h3 class="text-capitalize mb-4">Cities</h3>
-          <ul class="list-unstyled footer-menu lh-35">
+          <ul class="list-unstyled footer-menu"> <!-- removed  lh-35 -->
             <li><a href="/painter-lees-summit">Lee's Summit</a></li>
             <li><a href="/painter-prairie-village">Prairie Village</a></li>
             <li><a href="/painter-leawood">Leawood</a></li>

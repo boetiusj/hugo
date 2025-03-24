@@ -66,7 +66,7 @@
         </div>
       </div>
 
-<div class="col-lg-3 col-md-6 col-sm-6">
+     <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="widget">
           <h3 class="text-capitalize mb-4">Links</h3>
 
@@ -77,22 +77,14 @@
           </ul>
         </div>
       </div>
+    </div>
 
-
-      
-    
-    
-    
     <div class="footer-btm pt-4">
       <div class="container">
       <div class="row d-flex justify-content-between">
-        <div class="col-lg-3 col-md-6 col-sm-6 text-left">
-          <div class="copyright">
-            {{ markdownify (replace $config.copyright "{year}" now.Year) }}
-            <br>No Drips, No Drama&#8482;
-          </div>
-        </div>
-        <div class="col-lg-3 col-sm-6 col-sm-6 text-center">
+        
+        
+        <div class="col-lg-3 col-sm-6 col-sm-6 text-left">
         <div class="widget">
           <h6>Contact US</h6>
           <p><a href="mailto:{{ $config.email }}">Email Crestwood</a>
@@ -101,8 +93,9 @@
           <br>Waldo / Brookside / KCMO</p>
         </div>
         </div>
-        <div class="col-lg-3 col-md-6 col-sm-6 text-right">
-          <ul class="list-inline footer-socials d-flex justify-content-end">
+        
+        <div class="col-lg-3 col-md-6 col-sm-6 text-left">
+          <ul class="list-inline footer-socials d-flex justify-content">
             {{ range $config.socials }}
             <li class="list-inline-item">
               <a href="{{ .profile }}" aria-label="{{ .platform }}" alt='social icon'>
@@ -113,9 +106,15 @@
             {{ end }}
           </ul>
         </div>
+<div class="col-lg-3 col-md-6 col-sm-6 text-left">
+          <div class="copyright">
+            {{ markdownify (replace $config.copyright "{year}" now.Year) }}
+            <br>No Drips, No Drama&#8482;
+          </div>
+        </div>
+
       </div>
     </div>
-  </div>
   </div>
 </footer>
 

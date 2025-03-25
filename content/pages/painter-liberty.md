@@ -82,7 +82,7 @@ Metal fences need more than paint—they need protection. We apply long-lasting 
 
 ### Book a Free Estimate
 
-Scheduling a free estimate is quick and easy. Our \[online form makes booking simple\](/book-us/), and \- yep \- we arrive on time. In about 30 minutes, we’ll answer your questions and provide a thorough assessment.
+Scheduling a free estimate is quick and easy. Our [online form makes booking simple](/book-us/), and - yep - we arrive on time. In about 30 minutes, we’ll answer your questions and provide a thorough assessment.
 
 ### Why Liberty MO Homeowners Choose Crestwood Painting
 
@@ -97,4 +97,5 @@ We know Liberty homes deserve a finish that looks great and stays that way. That
 <div class="map-responsive">
 <iframe src="1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.04021895794532%2C-94.61763633003903&z=15" width="550" height="412"></iframe>
 </div>
+
 [Crestwood Map - Liberty, MO](/map/)

@@ -52,7 +52,7 @@ For example:
 * Body – The main surface (stucco, siding, brick, etc.).  
 * Trim – Areas like windows, soffits, fascia, and door frames.  
 * Accent Colors – Used for small details to add contrast.  
-* Front Door – A chance to make a statement\!
+* Front Door – A chance to make a statement!
 
 No need to memorize the lingo — just tell us what catches your eye, and we’ll guide you from there. [See our color page](/color-help/) for some more ideas.
 
@@ -61,8 +61,8 @@ No need to memorize the lingo — just tell us what catches your eye, and we’l
 After a project is Set To Go and so things run smoothly, we’ll share a quick checklist of things to do before we get started.
 
 * Tidy Up – If you're concerned about anything (furniture? toys?) just let us know - we may be able to help you move things.  
-* Check the Yard – A quick scan for obstacles (including dog doo—thanks in advance\!) makes setup and movement easier.  
-* Final Decisions – Still deciding on a color? Thinking about updating your house numbers? Or mailbox? Now’s the time\!
+* Check the Yard – A quick scan for obstacles (including dog doo—thanks in advance!) makes setup and movement easier.  
+* Final Decisions – Still deciding on a color? Thinking about updating your house numbers? Or mailbox? Now’s the time!
 * [Check out our reviews](/reviews/)
 
 No stress, no surprises—we’ll walk you through everything and make sure you’re set for a smooth, easy process.
@@ -133,7 +133,7 @@ After we’re finished, we make sure everything is cleaned up. This includes rem
 
 ## Book an Estimate
 
-We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this \- let’s find what works best for your situation. Click here to [see our reviews](/reviews), then [book an estimate time](/book-us/).
+We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this - let’s find what works best for your situation. Click here to [see our reviews](/reviews/), then [book an estimate time](/book-us/).
 
 ### What Else Should I Ask?
 

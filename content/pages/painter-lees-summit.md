@@ -95,4 +95,5 @@ We know Lee's Summit homes deserve a finish that looks great and stays that way.
 <div class="map-responsive">
 <iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.922074041274925%2C-94.41204013502343&z=12" width="550" height="412"></iframe>
 </div>
+
 [Crestwood Map - Lee’s Summit MO](/map/)

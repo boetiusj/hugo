@@ -82,7 +82,7 @@ A freshly painted metal fence says "Well-maintained\!" and protects from rust an
 
 ## Book a Free Estimate
 
-Get a hassle-free estimate at a time that works for you. We show up on time, take our time to understand your needs, and answer all your questions. Most consultations take about 30 minutes, but we’re never in a hurry. \[Book your estimate now.\](/book-us/)
+Get a hassle-free estimate at a time that works for you. We show up on time, take our time to understand your needs, and answer all your questions. Most consultations take about 30 minutes, but we’re never in a hurry. [Book your estimate now.](/book-us/)
 
 ### Why Westwood KS Homeowners Choose Crestwood Painting
 
@@ -97,4 +97,5 @@ We know Westwood homes deserve a finish that looks great and stays that way. Tha
 <div class="map-responsive">
 <iframe src="1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.04021895794532%2C-94.61763633003903&z=15" width="550" height="412"></iframe>
 </div>
+
 [Crestwood Map - Westwood, KS](/map/)

@@ -40,7 +40,7 @@ Your estimate isn’t just about numbers—it’s a chance to fine-tune the deta
 
 Picking a color can feel overwhelming, but trust your gut and go with what you love. Designers have plenty of opinions on the perfect shade, but in the end it's your space.
 
-That said, don't get carried away \- if you're moving in two years your K State Purple dining room might not be a home buyer's preference.
+That said, don't get carried away - if you're moving in two years your K State Purple dining room might not be a home buyer's preference.
 
 Not sure where to begin? We’ve got links to online color tools and professional consultants who can help you explore options and find the perfect fit for your space — without second-guessing every swatch.
 
@@ -78,13 +78,13 @@ For your floors, we’ll use super-tough non-marking underlayment or heavy-duty 
 
 ### Delicate Surfaces
 
-Some areas need an even gentler touch, such as wallpaper (have you considered [wallpaper removal](/content/pages/wallpaper-removal-kansas-city/)?), older paint finishes, or varnished floors. For these, we use painter’s blue tape, specially designed for delicate surfaces, to help minimize any damage when tape is removed.
+Some areas need an even gentler touch, such as wallpaper (have you considered [wallpaper removal](/wallpaper-removal-kansas-city/)?), older paint finishes, or varnished floors. For these, we use painter’s blue tape, specially designed for delicate surfaces, to help minimize any damage when tape is removed.
 
 ### Furniture and Artwork
 
 We also take care of items like pianos and Plaza Art Fair finds by covering them with painter’s plastic. This creates a barrier that keeps dust, paint, and debris far away from your prized possessions.
 
-### Pets(\!)
+### Pets(!)
 
 Since tails and paint don’t (or shouldn’t) mix, it’s best to make arrangements for pets in order to preserve their natural look.
 
@@ -96,11 +96,11 @@ There are always option, it helps to know what to ask.
 
 #### Rule of Thumb
 
-Generally, the biggest bang for the buck is wall paint \- because walls are less labor-intensive and the visual transformation is greatest. Trim is more labor intensive and will usually be repainted some kind of white \- so a relatively small visual change.  
+Generally, the biggest bang for the buck is wall paint - because walls are less labor-intensive and the visual transformation is greatest. Trim is more labor intensive and will usually be repainted some kind of white - so a relatively small visual change.  
 
 #### Do You Have to Paint Everything?
 
-Options range from Everything (walls, ceilings, trim) right down to painting an accent wall. We’ll work with your budget and time constraints to find the best match for your situation. And yes, it’s OK to mix and match \- everything in the Living Room, but walls only in the kitchen.
+Options range from Everything (walls, ceilings, trim) right down to painting an accent wall. We’ll work with your budget and time constraints to find the best match for your situation. And yes, it’s OK to mix and match - everything in the Living Room, but walls only in the kitchen.
 
 #### Repairs Are Subjective
 
@@ -118,7 +118,7 @@ A beautifully painted interior starts with a strong foundation, so we take extra
 
 ### Wall Prep
 
-Great paint starts with smooth walls. We lightly sand to knock down bumps and fuzzies, giving you a cleaner finish. Small picture-hanging holes? We’ll fill and sand them—unless you want to hang your artwork in the same spot (just let us know\!). For bigger dings and dents, we use high-quality filler to even things out, so your walls are fresh and ready for paint.
+Great paint starts with smooth walls. We lightly sand to knock down bumps and fuzzies, giving you a cleaner finish. Small picture-hanging holes? We’ll fill and sand them—unless you want to hang your artwork in the same spot (just let us know!). For bigger dings and dents, we use high-quality filler to even things out, so your walls are fresh and ready for paint.
 
 ### Trim Prep
 
@@ -138,7 +138,7 @@ Interior prep is the foundation of a great paint job. At Crestwood Painting, we 
 
 ## Let’s Paint
 
-After all of that critical prep work \- finally, it’s time to bring your vision to life\!
+After all of that critical prep work - finally, it’s time to bring your vision to life!
 
 ### Painting Trim
 
@@ -168,7 +168,7 @@ Partnering with Crestwood Painting means a hassle-free process, exceptional craf
 
 ## Book An Estimate Today
 
-We’ll help narrow objectives and priorities and go over best options - there are many ways to approach this. [Book an Estimate with us](https://crestwoodpainting.com/book-us/) and let’s find what works best for your situation.
+We’ll help narrow objectives and priorities and go over best options - there are many ways to approach this. [Book an Estimate with us](/book-us/) and let’s find what works best for your situation.
 
 ## Interior Painting Terms
 

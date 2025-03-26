@@ -8,7 +8,7 @@ date: "2014-01-04"
 index: true
 ---
 
-[![Painter leawood ks crestwood](/images/Leawood2.jpg)](/images/Leawood2.jpg)
+![painter leawood](/images/city/leawood-museum.jpg)
 
 ## Professional Painting in Leawood
 
@@ -57,6 +57,8 @@ A great-looking exterior adds charm, character, and lasting protection to your h
 #### Front Doors – Make an entrance that gets noticed
 
 A professionally painted door adds character, curb appeal, and a touch of polish. It’s the first thing people see—and the last thing they'll forget. We use high-quality materials for a finish that lasts through the seasons.
+
+![Leawood KS painting](/images/city/leawood.jpg)
 
 #### Garage Painting – Curb appeal doesn’t stop at the front door
 

@@ -38,7 +38,7 @@ Whether you want a playful space for kids or a dramatic home theater, basement p
 Bathroom Painting  
 High-humidity areas require the right paint and application. We use moisture-resistant paints to prevent mold and mildew while giving your bathroom a fresh, clean appearance.
 
-![painting review](/images/r12-7-dianah.webp)
+![mission hills house](/images/city/mhks_home.jpeg)
 
 #### Living Room Painting
 
@@ -95,5 +95,7 @@ We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, tak
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 
 Painting in Mission Hills means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
+
+![painting review](/images/r12-7-dianah.webp)
 
 [Crestwood Map - Mission Hills KS](/map/ "Project Map")

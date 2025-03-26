@@ -8,8 +8,8 @@ date: "2014-01-03"
 index: true
 ---
 
-![Downtown Parkville image](/images/Parkville-300x199.jpg)
-
+![parkville jogger](/images/city/parkville+jogger.jpg
+)
 ## Professional Painting in Parkville
 
 Crestwood Painting delivers lasting results for Parkville homes. Whether it’s interior walls, exterior surfaces, or cabinets, our team gets it done right. No drips, no drama—just a hassle-free experience and a beautiful finish.
@@ -97,5 +97,7 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")"
 
 In Parkville, details matter—and so does durability. We take pride in delivering lasting finishes that make your home look its best for years to come.
+
+![painting review](/images/r18-2-ruben.webp)
 
 [Crestwood Map - Parkville MO](/map/)

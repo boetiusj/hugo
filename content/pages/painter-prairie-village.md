@@ -8,7 +8,7 @@ date: "2014-01-03"
 index: true
 ---
 
-![Paint contractor Prairie Village](/images/PVKS-300x156.jpg)
+![Paint contractor Prairie Village](/images/city/pvks.jpg)
 
 ## Professional Painting in Overland Park
 

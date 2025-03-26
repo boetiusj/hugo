@@ -8,6 +8,8 @@ date: "2025-03-21"
 index: true
 ---
 
+![mission hills painting](/images/city/mhks.jpg)
+
 ## House Painting in Mission Hills
 
 From interiors to exteriors, Crestwood Painting brings lasting beauty to Mission Hills homes. Our team delivers smooth, even finishes with no drips and no stress. A hassle-free process means you enjoy the results without the headaches.

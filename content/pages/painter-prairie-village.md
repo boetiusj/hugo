@@ -94,7 +94,7 @@ We use specialized coatings that not only enhance appearance but also prevent co
 * Prairie Village homeowners count on us for beautiful work that stands the test of time. From prep to finish, we focus on quality that lasts.
 
 <div class="map-responsive">
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.99471484575232%2C-94.63221313816486&z=14" width="550" height="412"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.99471484575232%2C-94.63221313816486&z=14" width="500" height="600"></iframe>
 </div>
 
 [Crestwood Map - Prairie Village, KS](/map/ "Project Map")

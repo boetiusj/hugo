@@ -95,7 +95,7 @@ Scheduling a free estimate is quick and easy. Our [online form makes booking sim
 We know Liberty homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 
 <div class="map-responsive">
-<iframe src="1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.04021895794532%2C-94.61763633003903&z=15" width="550" height="412"></iframe>
+<iframe src="1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.04021895794532%2C-94.61763633003903&z=15" width="500" height="600"></iframe>
 </div>
 
 [Crestwood Map - Liberty, MO](/map/)

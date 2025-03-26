@@ -8,7 +8,7 @@ date: "2025-03-25"
 index: true
 ---
 
-![loch lloyd painting](/assets/images/city/lochl.jpeg)
+![loch lloyd painting](/images/city/lochl.jpeg)
 
 ## Professional Painting in Loch Lloyd
 
@@ -93,7 +93,7 @@ Scheduling a free estimate is quick and easy. Our [online form makes booking sim
 Painting in Loch Lloyd means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
 
 <div class="map-responsive">
-<iframe src="1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.04021895794532%2C-94.61763633003903&z=15" width="550" height="412"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.82310637218403%2C-94.60042339994392&z=14" width="500" height="600"></iframe>
 </div>
 
 [Crestwood Map - Loch Lloyd](/map/)

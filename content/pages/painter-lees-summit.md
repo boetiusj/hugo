@@ -40,7 +40,7 @@ Whether you want a playful space for kids or a dramatic home theater, basement p
 
 Over time, steam and splashes can leave bathroom walls looking worn. The right paint resists moisture, preventing mildew and unsightly drips. A fresh coat brightens the space and keeps it looking polished.
 
-[lee's summit painting](/images/city/ls-downtown.jpg)
+![lee's summit painting](/images/city/ls-downtown.jpg)
 
 #### Living Room Painting
 

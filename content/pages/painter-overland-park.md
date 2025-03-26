@@ -8,7 +8,7 @@ date: "2014-01-04"
 index: true
 ---
 
-[![Overland Park KS image](/images/OPKS.jpg)](/images/OPKS.jpg)
+![Overland Park KS image](/images/OPKS.jpg)
 
 ## Professional Painting in Overland Park
 

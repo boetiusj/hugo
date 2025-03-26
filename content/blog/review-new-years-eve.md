@@ -1,8 +1,8 @@
 ---
-title: "Rave Review!"
+title: "New Year's Eve Review"
 url: "review-new-years-eve"
-description: "Kind words from a lady that didn't hire - but wishes that she had."
-keywords: "house painting review, Crestwood Painting, Kansas City"
+description: "Kind words from a lady that didn't hire us."
+keywords: "house painting review"
 canonical: "https://crestwoodpainting.com/review-new-years-eve/"
 date: "2012-12-31"
 index: true
@@ -15,11 +15,11 @@ tags:
   - "painters"
 ---
 
-![Reviews, Referrals, feedback - crestwood painting kansas city](/images/other/yard-sign.jpg)
+![crestwood yard sign](/images/other/yard-sign.jpg)
 
 ## Feedback on New Year's Eve
 
-This was a nice treat on New Years Eve - [positive feedback](/reviews/) from a lady that _didn't_ hire us! The Proposal was sent in February, last contact was mid-March - then this arrived in December. Fortunately, Crestwood Painting customers don't have this kind of experience.
+This was a nice treat on New Years Eve - positive feedback from a lady that _didn't_ hire us! The Proposal was sent in February, last contact was mid-March. Then, the note below arrived out of the blue - on December 31st! Fortunately, Crestwood Painting customers don't have this kind of experience.
 
 > I chose a cheaper bid. And they were a band of idiots...I am so sorry I did not hire you, and won't make that mistake in the future.
 
@@ -40,6 +40,8 @@ Best regards, Barbara L
 
 ### Nice Words
 
-Kansas City homeowners have a wide range of options available when they look for a painter. Most homeowners are happy to pay a little more than to be totally dissatisfied with the experience.
+Kansas City homeowners have a wide range of options available when they look for [an exterior painter](/exterior-painting-kansas-city/). Most homeowners are happy to pay a little more than to be totally dissatisfied with the experience.
 
-Give us a call and we can discuss the options that are best for your situation and budget.
+Give us a call and we can discuss the options that are best for your situation and budget. Meantime, see if [12 Questions to Ask Before You Hire a Painter](/12-questions-ask-painter/) might help you avoid some of what Barbara ran into.
+
+![review](/images/r15-2-goff.webp)

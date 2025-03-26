@@ -95,7 +95,7 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 We know Belton homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 
 <div class="map-responsive">
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.849533456497085%2C-94.5876154211491&z=12" width="550" height="412"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.849533456497085%2C-94.5876154211491&z=12" width="500" height="600"></iframe>
 </div>
 
 [Crestwood Map - Belton, MO](/map/)

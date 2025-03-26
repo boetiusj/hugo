@@ -8,7 +8,7 @@ date: "2025-03-21"
 index: true
 ---
 
-![painting review](/images/r18-2-ruben.webp)
+![liberty mo downtown](/images/city/liberty.jpg)
 
 ## Professional Painting in Liberty
 
@@ -39,6 +39,8 @@ A simple coat of paint can turn your basement into a stylish and functional exte
 #### Wallpaper Removal – Clean slate, done right
 
 Wallpaper removal is harder than it looks—unless you call us. Our [wallpaper removal pros](/wallpaper-removal-kansas-city/) deliver smooth walls and a fresh, modern appearance with zero hassle.
+
+![painting review](/images/r18-2-ruben.webp)
 
 #### Bathroom Painting – A fresh look, even in high humidity
 

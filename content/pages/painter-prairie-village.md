@@ -32,6 +32,10 @@ Cabinets take a beating from daily use, but a fresh coat of paint can bring them
 
 > We have peace of mind knowing we can call a contractor that we can trust to be timely, reliable, accurate, clean, tidy, efficient and affordable.
 
+#### Wallpaper Removal – Out with the old, in with the smooth
+
+We’ll take care of the mess so you don’t have to. Enjoy an updated appearance and the confidence of hiring a [professional wallpaper removal expert](/wallpaper-removal-kansas-city/).
+
 #### Basement Painting
 
 Painting your basement gives it a finished, polished look, making it feel just as welcoming as your living room. It hides exposed pipes and wires while setting the perfect mood for a playroom, gym, or home theater. A thoughtful color choice makes the space more functional and inviting.
@@ -92,9 +96,5 @@ We use specialized coatings that not only enhance appearance but also prevent co
 * Cabinet Transformations – Learn more about our [cabinet painting](/cabinet-painting/).  
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")"  
 * Prairie Village homeowners count on us for beautiful work that stands the test of time. From prep to finish, we focus on quality that lasts.
-
-<div class="map-responsive">
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.99471484575232%2C-94.63221313816486&z=14" width="500" height="600"></iframe>
-</div>
 
 [Crestwood Map - Prairie Village, KS](/map/ "Project Map")

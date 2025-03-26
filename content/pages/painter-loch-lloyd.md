@@ -28,6 +28,10 @@ Cracks and holes in your walls can make a space feel neglected. Our expert repai
 
 Time, moisture, and repairs can leave ceilings looking worn. We smooth out imperfections in drywall or plaster and apply a flawless coat of paint. The result? A ceiling that looks clean, bright, and like new.
 
+#### Wallpaper Removal – Peel back the years
+
+Skip the DIY struggle and trust a pro for a clean finish. We make it easy to move on from outdated wallpaper with our [expert removal services](/wallpaper-removal-kansas-city/).
+
 #### Cabinet Painting – Old cabinets, new attitude
 
 Remodeling isn’t always necessary to refresh your space. A cabinet painting job updates your kitchen or bathroom with a sleek, durable finish. You’ll be amazed at how much a new color can change the entire look of a room.
@@ -91,9 +95,5 @@ Scheduling a free estimate is quick and easy. Our [online form makes booking sim
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 
 Painting in Loch Lloyd means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
-
-<div class="map-responsive">
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.82310637218403%2C-94.60042339994392&z=14" width="500" height="600"></iframe>
-</div>
 
 [Crestwood Map - Loch Lloyd](/map/)

@@ -46,6 +46,10 @@ Over time, steam and splashes can leave bathroom walls looking worn. The right p
 
 The living room should be a place where you love to spend time. A fresh paint job creates a clean, polished look while setting the right mood. The perfect color choice brings warmth, character, and a sense of home.
 
+#### Wallpaper Removal – Smooth walls, zero stress
+
+From prep to cleanup, we handle every detail with care. Trust our [Kansas City wallpaper removal](/wallpaper-removal-kansas-city/) team for a clean, updated look without the frustration.
+
 #### Playroom Painting
 
 A playroom should be as lively or as calming as your child needs. Bold colors bring energy, while gentle pastels create a soothing atmosphere. With high-quality, washable paint, the room stays looking great no matter how much fun takes place.
@@ -93,9 +97,5 @@ A free estimate is just a click away. We show up on time, go over every detail, 
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 
 We know Lee's Summit homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
-
-<div class="map-responsive">
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.922074041274925%2C-94.41204013502343&z=12" width="500" height="600"></iframe>
-</div>
 
 [Crestwood Map - Lee’s Summit MO](/map/)

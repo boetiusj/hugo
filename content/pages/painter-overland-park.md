@@ -24,6 +24,10 @@ Cracks, holes, and other imperfections can ruin the look of a freshly painted wa
 
 > Quick. Professional. Clean...knew exactly what needed to be done and went above and beyond. What else could you ask for?
 
+#### Wallpaper Removal – Clean slate, done right
+
+Wallpaper removal is harder than it looks—unless you call us. Our [wallpaper removal pros](/wallpaper-removal-kansas-city/) deliver smooth walls and a fresh, modern appearance with zero hassle.
+
 #### Ceiling Painting
 
 Over time, ceilings can yellow or develop stains. A fresh coat of paint can brighten a room and create a crisp, clean look. We handle everything from flat white ceilings to detailed textures.
@@ -93,9 +97,5 @@ Scheduling a free estimate is quick and easy. Our [online form makes booking sim
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 
 We love helping Overland Park homes look their best, inside and out. Every project is built to last and finished with care for a clean, beautiful result.
-
-<div class="map-responsive">
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.971824502479606%2C-94.66943127347908&z=13" width="500" height="600"></iframe>
-</div>
 
 [Crestwood Map - Overland Park, KS](/map/)

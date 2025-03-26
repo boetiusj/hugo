@@ -46,6 +46,10 @@ A new color in the living room can completely change the feel of the space. Whet
 
 A fresh coat of paint makes a playroom feel exciting and inviting. Vibrant hues encourage creativity, while softer shades provide a relaxing retreat. With durable, easy-to-clean finishes, the room stays looking great through every stage of childhood.
 
+#### Wallpaper Removal – Peel back the years
+
+Skip the DIY struggle and trust a pro for a clean finish. We make it easy to move on from outdated wallpaper with our [expert removal services](/wallpaper-removal-kansas-city/).
+
 ### Exterior Painting in Mission Hills
 
 Your home’s exterior should make you smile every time you pull into the driveway. A professional paint job keeps it looking fresh and well-maintained. Here’s how we can help:
@@ -89,9 +93,5 @@ We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, tak
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 
 Painting in Mission Hills means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
-
-<div class="map-responsive">
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.01678200524971%2C-94.6223768499821&z=14" width="500" height="600"></iframe>
-</div>
 
 [Crestwood Map - Mission Hills KS](/map/ "Project Map")

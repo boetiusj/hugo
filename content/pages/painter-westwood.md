@@ -28,6 +28,10 @@ Ceilings can yellow over time, making a room feel dull and aged. Water stains, c
 
 > The most professional tradesmen I have dealt with in my 40 years as a homeowner.
 
+#### Wallpaper Removal – Out with the old, in with the smooth
+
+We’ll take care of the mess so you don’t have to. Enjoy an updated appearance and the confidence of hiring a [professional wallpaper removal expert](/wallpaper-removal-kansas-city/).
+
 #### Cabinet Painting – Big impact, less disruption
 
 Remodeling isn’t always necessary to refresh your space. A cabinet painting job updates your kitchen or bathroom with a sleek, durable finish. You’ll be amazed at how much a new color can change the entire look of a room.
@@ -93,9 +97,5 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 
 We know Westwood homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
-
-<div class="map-responsive">
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.04021895794532%2C-94.61763633003903&z=15" width="500" height="600"></iframe>
-</div>
 
 [Crestwood Map - Westwood, KS](/map/)

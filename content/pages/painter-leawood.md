@@ -36,6 +36,10 @@ Remodeling isn’t always necessary to refresh your space. A cabinet painting jo
 
 A well-painted basement isn’t just about looks—it’s about function, too. The right finish makes walls easy to clean, brightens the space, and hides imperfections. Whether for relaxing or working out, a fresh coat of paint makes all the difference.
 
+#### Wallpaper Removal – Out with the old, in with the smooth
+
+We’ll take care of the mess so you don’t have to. Enjoy an updated appearance and the confidence of hiring a [professional wallpaper removal expert](/wallpaper-removal-kansas-city/).
+
 #### Bathroom Painting
 
 Bathroom walls deal with constant moisture, which can lead to mold and water stains. A durable, moisture-resistant finish helps protect surfaces and keep them looking flawless. The right paint ensures a fresh, clean appearance that lasts.
@@ -95,9 +99,5 @@ We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, tak
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 
 Painting in Leawood means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
-
-<div class="map-responsive">
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.96307847542675%2C-94.62469427857097&z=14" width="500" height="600"></iframe>
-</div>
 
 [Crestwood Map - Leawood, KS](/map/ "Project Map")

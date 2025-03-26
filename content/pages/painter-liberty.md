@@ -36,6 +36,10 @@ New cabinets are expensive, but a fresh paint job delivers the same impact for m
 
 A simple coat of paint can turn your basement into a stylish and functional extension of your home. Light colors create an airy feel, while bold choices bring energy to media rooms or play spaces. A professional paint job ensures it looks great and lasts for years.
 
+#### Wallpaper Removal – Clean slate, done right
+
+Wallpaper removal is harder than it looks—unless you call us. Our [wallpaper removal pros](/wallpaper-removal-kansas-city/) deliver smooth walls and a fresh, modern appearance with zero hassle.
+
 #### Bathroom Painting – A fresh look, even in high humidity
 
 A clean, well-painted bathroom makes a big difference in your home’s overall feel. Moisture-resistant paint helps prevent stains and peeling, keeping walls in top shape. A fresh color update gives your bathroom a crisp, refreshed look.
@@ -93,9 +97,5 @@ Scheduling a free estimate is quick and easy. Our [online form makes booking sim
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 
 We know Liberty homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
-
-<div class="map-responsive">
-<iframe src="1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.04021895794532%2C-94.61763633003903&z=15" width="500" height="600"></iframe>
-</div>
 
 [Crestwood Map - Liberty, MO](/map/)

@@ -36,6 +36,10 @@ Give your kitchen or bathroom a fresh, updated look without the cost of a full r
 
 A freshly painted basement transforms it from a dull, unfinished space into a bright and inviting part of your home. Light-reflective colors make it feel open and airy, while darker tones create a cozy theater room. No matter its use, a well-painted basement adds comfort and style.
 
+#### Wallpaper Removal – Smooth walls, zero stress
+
+From prep to cleanup, we handle every detail with care. Trust our [Kansas City wallpaper removal](/wallpaper-removal-kansas-city/) team for a clean, updated look without the frustration.
+
 #### Bathroom Painting
 
 Bathrooms need paint that can handle humidity and daily use. Moisture-resistant paints prevent mold, mildew, and unsightly drip marks. A fresh coat keeps your bathroom looking clean and inviting.
@@ -93,9 +97,5 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")"
 
 In Parkville, details matter—and so does durability. We take pride in delivering lasting finishes that make your home look its best for years to come.
-
-<div class="map-responsive">
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=39.227009465235895%2C-94.65573074680744&z=12" width="550" height="412"></iframe>
-</div>
 
 [Crestwood Map - Parkville MO](/map/)

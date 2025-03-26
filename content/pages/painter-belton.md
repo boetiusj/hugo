@@ -8,6 +8,8 @@ date: "2025-03-21"
 index: true
 ---
 
+![belton painting company](/images/city/belton.jpg)
+
 ## Professional Painting in Belton
 
 Crestwood Painting brings expert craftsmanship and lasting results to Belton homes. Whether refreshing interiors, reviving exteriors, or updating cabinets, our skilled team delivers a smooth, worry-free experience.

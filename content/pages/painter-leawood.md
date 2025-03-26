@@ -22,7 +22,7 @@ From kitchens to living rooms, our work delivers lasting beauty and reliability.
 
 Small wall damage can quickly turn into an eyesore. We handle everything from minor cracks to larger drywall and plaster repairs. The result? A smooth, solid surface that blends perfectly with the rest of your home.
 
-> Communication awesome - calls were answered, e-mails returned - this is NOT common with many contractors.
+> The estimate turnaround was quick and included a rather detailed SOW as well insurance documentation --very professional and better than any of the others I'd received.
 
 #### Ceiling Painting
 
@@ -47,6 +47,8 @@ A new color in the living room can completely change the feel of the space. Whet
 #### Playroom Painting
 
 The right paint can turn a playroom into a space that sparks joy and adventure. Bright, playful colors inspire creativity, while soft pastels offer a cozy escape. With durable, washable finishes, the walls stay clean and fresh through every activity.
+
+> Communication awesome - calls were answered, e-mails returned - this is NOT common with many contractors.
 
 ### Exterior Painting in Leawood
 

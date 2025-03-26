@@ -8,7 +8,7 @@ date: "2014-01-04"
 index: true
 ---
 
-![Overland Park KS image](/images/OPKS.jpg)
+![Overland Park KS](/images/city/opks.jpg)
 
 ## Professional Painting in Overland Park
 
@@ -44,7 +44,7 @@ High-humidity areas require the right paint and application. We use moisture-res
 
 As a central gathering space, your living room should feel warm and inviting. We help you choose colors and finishes that enhance your style and create a cozy atmosphere.
 
-![painting review](/images/r17-2-jimmye.webp)
+![painting review](/images/r-23-4-laurie.jpg)
 
 #### Playroom Painting
 

@@ -8,7 +8,7 @@ date: "2014-01-04"
 index: true
 ---
 
-[![paint contractor lee's summit crestwood](/images/Lees-Summit.jpg)](/images/Lees-Summit.jpg)
+![paint contractor lee's summit crestwood](/assets/images/city/ls-poppys.jpg)
 
 ## Professional Painting in Lee’s Summit
 
@@ -22,7 +22,7 @@ We bring precision and durability to every space, from living rooms to kitchens.
 
 Ceilings and walls aren’t immune to daily wear and tear. From bathroom moisture damage to settling cracks, we repair and reinforce problem areas. Your walls will look fresh, sturdy, and ready for years to come.
 
-> Crestwood Painting was prompt, kept our house clean and completed the project on time.
+> We had a great experience using Crestwood to have our kitchen cabinets painted as well as the walls and the ceiling. They did an excellent job, showed up on time every morning, communicated everything with us so we knew what to expect and finished ahead of schedule.
 
 #### Ceiling Painting
 
@@ -40,6 +40,8 @@ Whether you want a playful space for kids or a dramatic home theater, basement p
 
 Over time, steam and splashes can leave bathroom walls looking worn. The right paint resists moisture, preventing mildew and unsightly drips. A fresh coat brightens the space and keeps it looking polished.
 
+[lee's summit painting](/assets/images/city/ls-downtown.jpg)
+
 #### Living Room Painting
 
 The living room should be a place where you love to spend time. A fresh paint job creates a clean, polished look while setting the right mood. The perfect color choice brings warmth, character, and a sense of home.
@@ -48,7 +50,7 @@ The living room should be a place where you love to spend time. A fresh paint jo
 
 A playroom should be as lively or as calming as your child needs. Bold colors bring energy, while gentle pastels create a soothing atmosphere. With high-quality, washable paint, the room stays looking great no matter how much fun takes place.
 
-## Exterior Painting in Lee's Summit
+### Exterior Painting in Lee's Summit
 
 First impressions start at the curb, and a beautifully painted exterior sets the tone. It boosts curb appeal while shielding your home from the elements. Here’s how we can make your home shine:
 
@@ -87,7 +89,7 @@ A free estimate is just a click away. We show up on time, go over every detail, 
 * Proven Results – See what your neighbors say in our [customer reviews](/reviews/ "Online Reviews – Painters in Kansas City").  
 * FAQs? Oodles! Plenty of insightful [FAQs here](/faqs/) but also very specific Qs at the bottom of the [interior](/interior-painter-kansas-city/) and [exterior](/exterior-painting-kansas-city/) pages.  
 * Interior & Exterior Expertise – Explore our [interior](/interior-painter-kansas-city/) and [exterior painting](/exterior-painting-kansas-city/) services.  
-* Cabinet Transformations – Learn more about our [cabinet painting](/cabinet-painting/).  
+* Cabinet Transformations – Learn more about [cabinet painting](/cabinet-painting/).  
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 
 We know Lee's Summit homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.

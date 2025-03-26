@@ -31,6 +31,8 @@ Once the wallpaper is gone, the walls are thoroughly scrubbed and rinsed to elim
 
 Sometimes, wallpaper removal just isn’t the best option—too much time, too much mess, too much cost. When that happens, it’s best to have a conversation about practical alternatives. And in many cases, that means painting over the wallpaper as the most reasonable tradeoff.
 
+![painter review crestwood painting](/images/r16-6-borchers.webp)
+
 ## Cost For Wallpaper Removal
 
 Here again, it depends:
@@ -46,4 +48,5 @@ If the wallpaper was installed over poorly prepared surfaces—like unprimed dry
 
 At Crestwood Painting, we carefully evaluate each of these factors before providing an estimate. We’ll advise you on the best options for your situation, whether it’s full removal, partial removal, or other alternatives, ensuring the most cost-effective and efficient solution.
 
-![painter review crestwood painting](/images/r16-6-borchers.webp)
+![wallpaper removal valuted ceiling](/images/fuhgeddaboudit.webp)
+

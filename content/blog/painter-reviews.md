@@ -1,9 +1,9 @@
 ---
 title: "Rave Review!"
-url: "painter-reviews"
+url: "review-new-years-eve"
 description: "Kind words from a lady that didn't hire - but wishes that she had."
 keywords: "house painting review, Crestwood Painting, Kansas City"
-canonical: "https://crestwoodpainting.com/painter-reviews/"
+canonical: "https://crestwoodpainting.com/review-new-years-eve/"
 date: "2012-12-31"
 index: true
 image: "/images/other/yard-sign.jpg"
@@ -15,9 +15,11 @@ tags:
   - "painters"
 ---
 
-![Reviews, Referrals, feedback - crestwood painting kansas city](/images/other/yard-sign.jpg) Our customers are our best advertisement!
+![Reviews, Referrals, feedback - crestwood painting kansas city](/images/other/yard-sign.jpg)
 
-This was a nice treat on New Years Eve - [positive feedback](/reviews/) from a lady that _didn't_ hire us! Proposal sent in Feb.,  last contact was mid-March - then this arrived in December. Fortunately, [Crestwood Painting customers](/video-testimonials/) don't have this kind of experience.
+## Feedback on New Year's Eve
+
+This was a nice treat on New Years Eve - [positive feedback](/reviews/) from a lady that _didn't_ hire us! The Proposal was sent in February, last contact was mid-March - then this arrived in December. Fortunately, Crestwood Painting customers don't have this kind of experience.
 
 > I chose a cheaper bid. And they were a band of idiots...I am so sorry I did not hire you, and won't make that mistake in the future.
 
@@ -33,7 +35,7 @@ This was a nice treat on New Years Eve - [positive feedback](/reviews/) from a l
 
 "I am so sorry I did not hire you, and won't make that mistake in the future. There have been a few people asking about a painter, since they knew I had my house done. I will pass on your name.
 
-May the new year bring you much success, good health, and happiness.
+"May the new year bring you much success, good health, and happiness.
 Best regards, Barbara L
 
 ### Nice Words

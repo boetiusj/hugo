@@ -14,7 +14,7 @@ tags:
   - "prep"
 ---
 
-> nail pop *(noun)* | \\ˈnāl ˌpäp| A condition in which a nail protrudes above the surface of drywall or siding due to structural movement, wood shrinkage, or improper installation.
+> nail pop *(noun)* | ˈnāl ˌpäp| A condition in which a nail protrudes above the surface of drywall or siding due to structural movement, wood shrinkage, or improper installation.
 
 ## Nail Pops: What They Are and How to Fix Them
 
@@ -43,11 +43,13 @@ Despite common concerns, exterior nail pops typically don’t lead to water intr
 
 One suburban homeowner was determined to eliminate every visible nail head on their siding, insisting that each one be hammered in and sealed with caulk. The result? A tedious, time-consuming process that actually made things worse. In trying to "fix" the problem, they ended up with a siding full of small, smooth caulk spots that stood out against the textured surface — even after painting. Worse, some nails were driven too deep, breaking the protective paint film and increasing the risk of moisture damage.
 
-Sometimes, leaving well enough alone is the best approach. If the nail is doing its job and hasn’t broken through the paint, it’s best left untouched. Fixing what isn’t actually broken can create bigger headaches in the long run\!
+Sometimes, leaving well enough alone is the best approach. If the nail is doing its job and hasn’t broken through the paint, it’s best left untouched. Fixing what isn’t actually broken can create bigger headaches in the long run!
 
 ### Interior Nail Pops
 
 Interior nail pops happen for similar reasons—settling, lumber shrinkage, or improper fastening. However, they’re usually more noticeable to homeowners since they look tacky—especially when they appear along ceiling joints, where structural movement is most common. These can be trickier to reach, making them more of a nuisance, but they’re still part of a thorough [interior painting project](/interior-painter-kansas-city/).
+
+![nail pops](/images/interior/nail-pop.png)
 
 #### How to Fix Interior Nail Pops
 

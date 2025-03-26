@@ -46,9 +46,9 @@ Options include covering the ceiling with drywall, applying a new texture, or si
 
 ### Paint-and-Ignore
 
-This is the easiest and most cost-effective option. First, vacuum to remove dust; then seal any water stains and paint \- it’ll be bright and clean.
+This is the easiest and most cost-effective option. First, vacuum to remove dust; then seal any water stains and paint - it’ll be bright and clean.
 
-### Retexture \- Don’t
+### Retexture - Don’t
 
 Not kidding here. Adding more texture will stress the adhesive bond of the existing texture. Imagine some of your new texture pulling off some of your old texture and falling on your bedspread while you doze. ‘Nuff said.
 
@@ -64,8 +64,8 @@ Popcorn ceilings gained popularity in the 1950s for their noise-dampening and fl
 
 The cost of popcorn ceiling removal depends on several factors that can affect the cost significantly, including the size of the area, ceiling height, ceiling slope, ceiling access and whether asbestos is present. Generally, removal costs start at about $5 per square foot for non-asbestos ceilings. Crestwood Painting provides detailed estimates, ensuring transparency and no surprises. Our team can guide you through the process, from testing and safe removal to a finally beautifully finished ceiling.
 
-### More Info Needed\?
+### More Info Needed?
 
-Take a look at what many previous customers have said in [rave reviews](/content/pages/reviews/) about [interior painting](/content/pages/interior-painter-kansas-city/) and [wallpaper removal](/content/pages/wallpaper-removal-kansas-city/). Be sure to not miss [12 Questions to Ask](/content/pages/12-questions-ask-painter/) _before_ you hire a painter.
+Take a look at what many previous customers have said in [rave reviews](/reviews/) about [interior painting](/interior-painter-kansas-city/) and [wallpaper removal](/wallpaper-removal-kansas-city/). Be sure to not miss [12 Questions to Ask](/12-questions-ask-painter/) _before_ you hire a painter.
 
 ![online painting review crestwood painting](/images/r13-10-ann-d.webp)

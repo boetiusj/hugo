@@ -13,7 +13,7 @@ index: true
 
 ## Choosing Exterior Colors
 
-Picking an [exterior paint color](/content/pages/exterior-painting-kansas-city.md) can feel like a big decision, but with the right resources and a little guidance, you’ll find a color you love that enhances your home’s style and curb appeal. Down below there are hints for [Exterior](#exterior-color-hints) and [Interior colors](#interior-color-hints), too.
+Picking an [exterior paint color](/exterior-painting-kansas-city/) can feel like a big decision, but with the right resources and a little guidance, you’ll find a color you love that enhances your home’s style and curb appeal. Down below there are hints for [Exterior](#exterior-color-hints) and [Interior colors](#interior-color-hints), too.
 
 ### Color Resources
 
@@ -65,7 +65,7 @@ Shutters can add charm and definition, but not every home needs them. If they’
 
 ### Brick – Natural Limewash?
 
-Coloring brick \- whether natural limewash or paint \- can transform and refresh an aging exterior. But it’s also a permanent decision that requires careful prep and the right products to ensure a lasting finish.
+Coloring brick - whether natural limewash or paint - can transform and refresh an aging exterior. But it’s also a permanent decision that requires careful prep and the right products to ensure a lasting finish.
 
 ### White Windows PLUS White Trim?
 
@@ -112,6 +112,6 @@ Your walls don’t exist in a vacuum—flooring plays a big role in how a color 
 
 ### Fireplace Color
 
-Fireplaces naturally draw attention, but if the original materials feel outdated (hello, 1970s brick\!), a fresh color can work wonders. The goal is to enhance — not overpower — the rest of the room. Whether it’s brick, stone, or painted wood, coordinating your fireplace color with your walls creates a seamless, intentional look that ties the space together.
+Fireplaces naturally draw attention, but if the original materials feel outdated (hello, 1970s brick!), a fresh color can work wonders. The goal is to enhance — not overpower — the rest of the room. Whether it’s brick, stone, or painted wood, coordinating your fireplace color with your walls creates a seamless, intentional look that ties the space together.
 
 [![paint colors, painter review, crestwood painting](/images/r09-5-tonyl.webp)](/reviews/)

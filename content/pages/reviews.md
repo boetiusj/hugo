@@ -784,7 +784,7 @@ Jennifer B.
 Quality work. The new door wasn't in when they painted the house and they happily came back and after it was installed. Also cleaned up some spots I found. We also added some additional work that wasn't in the original scope and it was done at a fair price.
 Jean M.
 
-> The team was professional and friendly. At the end of each day, the job site was cleaned and their workmanship was very good. They met my expectations
+> The team was professional and friendly. At the end of each day, the job site was cleaned and their workmanship was very good. They met my expectations.
 
 **Showed up each day on time**
 7/1/14

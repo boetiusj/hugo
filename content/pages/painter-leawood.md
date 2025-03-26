@@ -93,7 +93,7 @@ We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, tak
 Painting in Leawood means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
 
 <div class="map-responsive">
-<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.96307847542675%2C-94.62469427857097&z=14" width="550" height="412"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU&femb=1&ll=38.96307847542675%2C-94.62469427857097&z=14" width="500" height="600"></iframe>
 </div>
 
 [Crestwood Map - Leawood, KS](/map/ "Project Map")

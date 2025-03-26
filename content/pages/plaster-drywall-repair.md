@@ -12,7 +12,7 @@ index: true
 
 ## Plaster & Drywall Repair
 
-Things shift, cracks appear, and sometimes walls just don’t cooperate. Whether it’s a sneaky leak or wood expanding and contracting with the seasons, plaster and drywall repairs are a standard part of any [interior painting project](/interior-painter-kansas-city/). Because let’s be honest \- paint looks best on a smooth, well-prepped surface.
+Things shift, cracks appear, and sometimes walls just don’t cooperate. Whether it’s a sneaky leak or wood expanding and contracting with the seasons, plaster and drywall repairs are a standard part of any [interior painting project](/interior-painter-kansas-city/). Because let’s be honest - paint looks best on a smooth, well-prepped surface.
 
 ### Plaster vs. Drywall – What’s the Difference?
 
@@ -24,9 +24,9 @@ Plaster is a dense, hard surface traditionally applied by hand in multiple layer
 
 ![Plumbing wall damage](/images/interior/plaster-dwall-plumbing.jpg)
 
-#### Drywall Sandwich
+#### Drywall - A Gypsum Sandwich
 
-Drywall, on the other hand, is a modern, factory-made panel composed of natural gypsum sandwiched between layers of recycled paper. Because of these differences, repairs require the right materials and techniques to ensure a seamless finish.
+Drywall, on the other hand, is a modern, factory-made panel composed of natural gypsum sandwiched between layers of recycled paper. Drywall really is a green product. Because of these differences, repairs require the right materials and techniques to ensure a seamless finish.
 
 ### Repairing Traditional Plaster
 

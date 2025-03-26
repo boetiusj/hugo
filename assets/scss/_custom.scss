@@ -53,7 +53,9 @@
   }
 }
 .footer-image {
-  max-height: 80px;
+  width: auto;
+  height: 100%; /* Allow the image to fill the full height of its container */
+  max-height: 80px; 
   object-fit: contain;
   display: block; /* Ensure the image is treated as a block element */
   margin-left: auto; /* Center the image horizontally */

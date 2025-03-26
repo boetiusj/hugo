@@ -64,7 +64,7 @@ A well-painted home exterior makes a statement before you even step inside. It�
 
 Your door deserves more than just a coat of paint—it needs presence. We’ll help you choose a bold color that works with your home’s style. The result? A front door that feels custom and completely you.
 
-#### Garage Painting 
+#### Garage Painting
 
 We accurately match your home’s colors for a seamless appearance. From doors to siding, we’ll make sure the finish is sharp and smooth. Because yes, your garage deserves the same attention as the rest of the house.
 

@@ -11,6 +11,7 @@ categories:
   - "products"
 tags:
   - "paint"
+
 ---
 
 ![burnish builders paint](/images/interior/burnish.webp)

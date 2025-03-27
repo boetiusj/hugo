@@ -1,19 +1,19 @@
 ---
-title: "Top 3 Must-Haves For Hiring A Painter"
-url: "top-3-must-haves-hiring-painter"
+title: "Top 3 Clauses"
+url: "top-3-clauses"
 description: "Get these in your painting contract."
-keywords: "hire,expectations, paint contractor"
-canonical: "https://crestwoodpainting.com/top-3-must-haves-hiring-painter/"
+keywords: "clause,expectations, paint contractor"
+canonical: "https://crestwoodpainting.com/top-3-clauses/"
 date: "2023-10-22" 
 index: true
-image: /images/rose-bushes.webp
+image: /images/interior/balusters.jpg
 categories:
-  - "how-to-hire-painter"
+  - "business"
 tags:
   - "estimates"
   - "painting-insurance"
 ---
-![Crestwood Painting rose bushes](/images/rose-bushes.webp)
+![Crestwood Painting rose bushes](/images/interior/balusters.jpg)
 
 ## Set Expectations
 

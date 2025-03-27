@@ -6,7 +6,7 @@ keywords: front door, paint colors
 canonical: https://crestwoodpainting.com/best-front-door-colors/
 date: 2023-07-22
 index: true
-image: /images/yellow-front-door-curb-appeal.webp
+image: /images/doors/fd-gloss.jpg
 categories:
   - Exterior
 tags:
@@ -114,4 +114,4 @@ Your front door is a chance to express your style and elevate your home's exteri
 
 Whether you want your home to stand out or simply feel more inviting, a freshly painted door is a great place to start. [Get in touch with us](/book-us/) to schedule a color consultation or painting estimate.
 
-![painting review](/assets/images/r09-5-tonyl.webp)
+![painting review](/images/r09-5-tonyl.webp)

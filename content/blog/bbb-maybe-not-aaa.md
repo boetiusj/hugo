@@ -14,7 +14,7 @@ tags:
   - "local-partners"
 ---
 
-![Better Business Bureau Accredited Business](/images/BBBaccredited.jpg "Better Business Bureau Accredited Business")Here's an inside look at the old-time consumer "watchdog" agency, the Better Business Bureau. We're pleased to belong to the BBB and happy to have an A+ rating, but some have had a less-than-ideal experience.
+![Better Business Bureau Accredited Business](/images/bbbaccredited-opt-185x300-6502074cd21f7.webp)
 
 A roofing contractor starts his thorough overview of the BBB with this:
 

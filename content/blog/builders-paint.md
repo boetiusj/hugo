@@ -25,7 +25,7 @@ Often found in new construction homes and renovation flips around Kansas City, b
 
 In the world of new construction and remodeling, speed and cost are everything. When you're painting dozens of rooms across multiple houses, every dollar counts. That’s why builders and rehabbers turn to the least expensive paint available.
 
-![painter review](/assets/images/r16-5-esser.webp)
+![painter review](/images/r16-5-esser.webp)
 
 These products are low in solids (resins and pigments) and high in water. Less material in the can means a thinner, weaker coating on the wall. It dries quickly, looks decent from a distance, and costs very little. Perfect for closing day—but not for long-term living.
 
@@ -77,7 +77,7 @@ Not sure what kind of paint you have? Here are a few signs you’re dealing with
 
 If any of these sound familiar, you’re not imagining things. Builders paint simply isn’t designed for long-term performance.
 
-![painter review kansas city](/assets/images/r-23-4-laurie.jpg)
+![painter review kansas city](/images/r-23-4-laurie.jpg)
 
 ### What Can Be Done?
 

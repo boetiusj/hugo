@@ -1,12 +1,12 @@
 ---
-title: "Builders Paint is Tough to Clean"
+title: "Builders Paint is Crummy"
 url: "builders-paint"
 description: "Builders paint has earned its reputation"
 keywords: "paint builders quality"
 canonical: "https://crestwoodpainting.com/builders-paint/"
 date: "2021-04-06"
 index: true
-image: "/images/burnish-labeled.webp"
+image: "/images/interior/burnish.webp"
 categories:
   - "products"
 tags:
@@ -17,7 +17,7 @@ tags:
 
 ## Builders Paint: A Reputation Earned
 
-You’ve probably seen it: walls painted in dull grays or muted tans that seem to show every scuff, streak, and fingerprint. That’s “builders paint”—and while it may look fine on day one, it rarely holds up under real-world use.
+You’ve probably seen it: walls painted in dull grays or muted tans that seem to show every scuff, streak, and fingerprint. That’s “builders paint” — and while it may look fine on day one, it rarely holds up under real-world use.
 
 Often found in new construction homes and renovation flips around Kansas City, builders paint is chosen for one reason: it’s cheap. And homeowners are usually the ones left to deal with the consequences.
 
@@ -31,7 +31,7 @@ These products are low in solids (resins and pigments) and high in water. Less m
 
 And since the homeowner rarely has a say in the brand or finish, most people don't realize they’ve inherited a problem until the paint starts failing.
 
-> Communication with the owner and job lead were both excellent.  All workers were friendly and courteous and respectful of our property.  Excellent experience!
+> You grab a sponge, give it a gentle wipe—and now there’s a clean spot that looks worse than the dirt ever did. That’s because builders paint isn't designed to be cleaned.
 
 ### Poor Coverage and Color Limitations
 
@@ -45,7 +45,7 @@ Builders paint lacks the body to conceal surface flaws. Drywall seams, nail pops
 
 In many cases, even after a fresh coat, you can still spot repairs underneath. And with flat finishes commonly used in these situations (because they’re easier to touch up), the paint absorbs light rather than reflecting it—making imperfections even more obvious.
 
-> We have peace of mind knowing we can call a contractor that we can trust to be timely, reliable, accurate, clean, tidy, efficient and affordable.
+> Burnishing happens when friction polishes the paint, creating shiny, discolored spots on flat or matte surfaces. It’s especially common in high-touch areas like hallway corners, around door frames, or anywhere bags and jackets brush the wall.
 
 ### Cleaning Makes It Worse
 

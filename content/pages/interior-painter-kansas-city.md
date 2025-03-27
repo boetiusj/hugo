@@ -186,4 +186,4 @@ We’ll help narrow objectives and priorities and go over best options - there a
 - Door Stop – A strip of trim inside door frames that helps seal the door.  
 - Picture Frame Molding – Trim arranged in rectangles on walls for a decorative effect.
 
-[![house painting review](/images/r14-12-conley.webp)](/reviews/)
+![house painting review](/images/reviews/r23-4-karenp.png)

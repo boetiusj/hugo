@@ -113,4 +113,4 @@ When expectations are clearly defined—what’s included, what’s excluded, an
 
 A painting agreement isn’t about covering yourself legally—though that’s a bonus. It’s about communication. The more clearly a project is described, the more likely it is to be delivered as expected. And as they say: a job well specified is half delivered.
 
-![painting review](/assets/images/r17-4-glorfeld.webp)
+![painting review](/images/r17-4-glorfeld.webp)

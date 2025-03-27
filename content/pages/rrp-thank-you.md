@@ -8,7 +8,7 @@ date: "2015-06-07"
 index: false
 ---
 
-### Thanks - we've received your confirmation
+## Thanks - we've received your confirmation
 
 ---
 

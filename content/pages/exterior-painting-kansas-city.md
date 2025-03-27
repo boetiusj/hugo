@@ -23,6 +23,7 @@ faqs:
   - question: "What’s the Best Exterior Sheen?"
     id: "ex-sheen"
     answer: Sheen is mostly about looks rather than durability. Here’s the usual breakdown. \* Body of the house? Flat or satin — this is a coin toss. \* Trim? Satin or semi-gloss — a little shine adds crispness. \* Front doors & shutters? Gloss or semi-gloss—to spiff things up\! In suburban homes, satin all around is a safe bet. Older, traditional homes often mix two different sheens for contrast. Higher sheens clean up easier but can also highlight imperfections more than lower sheen finishes.
+
 ---
 
 ![exterior paint gray house](/images/exterior/x-blue.webp)

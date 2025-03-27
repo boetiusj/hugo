@@ -5,7 +5,7 @@ description: "painting, faq, customer, Kansas City, questions"
 keywords: "painting faqs"
 canonical: "https://crestwoodpainting.com/faqs"
 date: "2011-08-29"
-index: "true"
+index: true
 faqs: 
   - question: Oil or Latex?
     id: oil
@@ -127,6 +127,7 @@ faqs:
       Our professional painters are pleasant and very competent – no creepy dudes. We hire subcontractors and hold them accountable to deliver on clear expectations. The language they get is the same language we send to the customer - same language, same expectations.
 
       We pay well enough to attract high quality people. Our painters are real people with real lives and real families, living right here in Kansas City.
+
 ---
 
 ![paint FAQ questions image](/images/faq-pic.webp)

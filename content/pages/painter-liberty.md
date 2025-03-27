@@ -1,5 +1,5 @@
 ---
-title: "Painter in Libertry"
+title: "Painter in Liberty"
 url: "painter-liberty"
 description: "Crestwood Painting in Liberty - homes and offices!"
 keywords: "painter liberty"

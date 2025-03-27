@@ -6,7 +6,9 @@ keywords: "office painting commercial maintenance kansas city"
 canonical: "https://crestwoodpainting.com/office-painting-experts/"
 date: "2017-01-16"
 index: true
+
 ---
+
 ![office painting kansas city](/images/office/blue-mfg.jpg)
 
 ## The Benefits of Office Painting

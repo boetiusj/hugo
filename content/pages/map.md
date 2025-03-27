@@ -7,7 +7,9 @@ canonical: "https://crestwoodpainting.com/map/"
 date: "2018-09-27"
 index: true
 googleMap: true
+
 ---
+
 ## Paint Map of Kansas City
 
 ### We've Painted in Your Neighborhood

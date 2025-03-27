@@ -11,6 +11,11 @@ index: true
 
 > I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed. *Melissa J*
 
+**Definitely recommend them!**
+1/25
+They were super nice, hard-working, and detail-oriented. Communication all along the way was great. I was really pleased with the experience and can't recommend them highly enough!
+LeeAnn H.
+
 **Did a perfect job**
 8/24
 My experience with Crestwood painting was great. The painters were on time, super Pleasant and did a perfect job. The amazing thing is my patio looks better now than when they started because they actually cleaned up stray weeds and anything else that might have been in the way of their painting. I can wholeheartedly recommend them!

@@ -17,7 +17,7 @@ tags:
 
 You’ve probably seen it: walls painted in dull grays or muted tans that seem to show every scuff, streak, and fingerprint. That’s “builders paint” — and while it may look fine on day one, it rarely holds up under real-world use.
 
-![burnish builders paint](/images/interior/burnish)
+![burnish builders paint](/images/interior/burnish.webp)
 
 Often found in new construction homes and renovation flips around Kansas City, builders paint is chosen for one reason: it’s cheap. And homeowners are usually the ones left to deal with the consequences.
 

@@ -14,6 +14,7 @@ tags:
   - "exterior-painting"
   - "painters"
   - "rain"
+
 ---
 
 ![Painting news](/images/Painting-news.jpg)

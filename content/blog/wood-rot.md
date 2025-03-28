@@ -12,7 +12,9 @@ categories:
 tags:
   - "exterior-painting"
   - "re-siding"
+
 ---
+
 ![wood rot](/images/woodrot.webp)
 "Wood rot” is a term we hear often. Homeowners in Kansas City often assume that peeling paint or any less-than-ideal appearance is wood rot. Not so – sometimes it really is wood rot but just as often it is simply a [solid paint job](/reviews/) away from being just fine.
 

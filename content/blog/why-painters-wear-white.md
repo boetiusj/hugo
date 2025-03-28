@@ -11,6 +11,7 @@ categories:
   - how-to-hire-painter
 tags:
   - painters
+
 ---  
 
 ![why painters wear whites](/images/painters-whites.webp)

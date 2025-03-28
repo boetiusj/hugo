@@ -13,7 +13,9 @@ tags:
   - "exterior-painting"
   - "shingles"
   - "wood"
+
 ---
+
 ![Cedar shake shingle painting](/images/shake-shingles.webp) Cedar Shake shingles can split if they haven't been cared for.
 
 Cedar shake shingles can split and curl when not properly cared for. While replacing damaged shingles sounds straightforward, here's what to look out for.

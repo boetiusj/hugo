@@ -79,7 +79,7 @@ Always try a paint sample on your intended surface. Observe it in both natural l
 
 ### Rules of Thumb vs. Personal Preference
 
-Conventional wisdom may say flat or matte for ceilings, satin for walls, and semi-gloss or higher for trim. But personal preference plays a huge part—some people like a bit of shine on the exterior, while others prefer a totally flat finish. My spouse loves the look of a flat exterior, so our house is flat despite my inclination toward satin.
+Conventional wisdom may say flat or matte for ceilings, flat (or satin) for walls and semi-gloss or higher for trim. But personal preference plays a huge part—some people like a bit of shine on the exterior, while others prefer a totally flat finish. For example, I prefer a satin sheen for exteriors, but my wife prefers flat—so our house is flat!
 
 #### Balancing Looks and Practical Needs
 

@@ -12,6 +12,7 @@ categories:
 tags:
   - "estimates"
   - "online-reviews"
+
 ---
 
 ![Paint estimate Kansas City Crestwood Painting](/images/estimate-definition.webp)The first question most homeowners ask a contractor is “Can I get an estimate?” But there really are four questions you should ask _before_ that one. The first three questions are for your contractor, the last is for you to ask yourself:

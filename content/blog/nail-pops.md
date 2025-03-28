@@ -12,6 +12,7 @@ categories:
 tags:
   - "nail-pops"
   - "prep"
+
 ---
 
 > nail pop *(noun)* | ˈnāl ˌpäp| A condition in which a nail protrudes above the surface of drywall or siding due to structural movement, wood shrinkage, or improper installation.

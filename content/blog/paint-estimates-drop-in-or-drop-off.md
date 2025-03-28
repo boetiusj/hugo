@@ -13,6 +13,7 @@ tags:
   - "estimates"
   - "exterior-painting"
   - "painters"
+
 ---
 
 People sometimes assume a painter can stop by, check out their house and leave an estimate in the mail box. Here's what can go wrong with that approach.

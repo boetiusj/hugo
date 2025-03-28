@@ -17,6 +17,7 @@ tags:
   - "shingles"
   - "shutters"
   - "vinyl-siding"
+
 ---
 
 ![Hyde Park Kansas City exterior paint cost kansas city crestwood painting](/images/imag0145.webp) This Hyde Park treasure cost about $8000 to paint.

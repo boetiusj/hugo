@@ -14,6 +14,7 @@ tags:
   - "estimates"
   - "exterior-painting"
   - "office"
+
 ---
 
 ![Painted small ranch](/images/painted-small-ranch.webp)There is often a pleasant laugh when the answer is "Well, we'll paint your shoes if you stand still long enough." But every once in a while we stumble on a nice story...

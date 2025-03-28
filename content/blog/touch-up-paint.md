@@ -12,6 +12,7 @@ categories:
 tags:
   - "interior-painting"
   - "kitchen"
+
 ---
 
 ![paint touch up](/images/nail-polish.webp)

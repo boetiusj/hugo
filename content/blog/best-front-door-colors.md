@@ -13,7 +13,9 @@ tags:
   - Colors
   - Front-door
 slug: front-door-colors
+
 ---
+
 ![front door color](/images/doors/fd-gloss.jpg)
 
 ## Front Doors: The Focal Point

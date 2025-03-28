@@ -12,6 +12,7 @@ categories:
 tags:
   - "estimates"
   - "neutral-colors"
+
 ---
 
 ![Paint colors - Deep base crestwood painting kansas city](/images/duration.jpg)'Dja ever notice that deep paint colors don't seem to cover as well as lighter colors? There's a simple reason for this and it involves a [recent post](/titanium-dioxide-in-your-paint-can/) about titanium dioxide.

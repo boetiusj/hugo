@@ -11,6 +11,7 @@ categories:
   - "how-to-hire-painter"
 tags:
   - "painting-insurance"
+
 ---
 
 ![uninsured paint contractor](/images/sketchy.webp)

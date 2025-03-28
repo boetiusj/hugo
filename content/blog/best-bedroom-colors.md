@@ -15,6 +15,7 @@ tags:
   - "color-consulting"
   - "contrasting-colors"
   - "interior-painting"
+
 ---
 
 ![Bedroom paint colors](/images/bedroompaintcolors.webp "Blue Bedroom") Bedrooms can be either a relaxing refuge or a nondescript place to hang your clothes - I choose relaxing refuge. Here's my favorite [color consultant](/colors-relaxation/) Diane Stewart on bedrooms:

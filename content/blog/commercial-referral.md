@@ -11,7 +11,9 @@ categories:
   - "commercial"
 tags:
   - "interior"
+
 ---
+
 ![Painting commercial hospital retirement](/images/brighton-gardens.webp)
 
 ## Unexpected Niceties

@@ -14,6 +14,7 @@ tags:
   - "color-testing"
   - "contrasting-colors"
   - "exterior-painting"
+
 ---
 
 ![exterior paint colors kansas city painter crestwood painting](/images/colors.webp)Another update from Kansas City color consultant Diane Stewart at Color Sense Consulting. Exterior colors can be tricky and, as Diane points out, it's tough to visualize what the whole house will look like from a tiny paint-store sample. Here's Diane Stewart:

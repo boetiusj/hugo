@@ -15,6 +15,7 @@ tags:
   - "contrasting-colors"
   - "interior-painting"
   - "trim"
+
 ---
 
 ![White Trim paint](/images/interior/balusters.jpg)Trim color, [especially for interiors](/interior-painter-kansas-city/), often defaults to a generic "white". Color consultant Diane Stewart explains very clearly why there's more to it than meets the eye.

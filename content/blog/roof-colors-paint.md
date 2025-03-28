@@ -15,6 +15,7 @@ tags:
   - "exterior-painting"
   - "roof"
   - "shingles"
+
 ---
 
 ![Paint colors roof colors](/images/paint-colors-roof-colors.webp) Roof color can be a factor when choosing paint colors.

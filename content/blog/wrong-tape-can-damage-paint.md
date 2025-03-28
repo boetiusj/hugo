@@ -13,7 +13,9 @@ tags:
   - "exterior-painting"
   - "interior-painting"
   - "trim"
+
 ---
+
 ![Holiday decorating kansas city painted trim](/images/3M-Delicate-Surface.jpg)
 The right tape will help prevent damage to interior painted trim when decorating for the Holidays.
 

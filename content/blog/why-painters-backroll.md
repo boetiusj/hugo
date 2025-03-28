@@ -12,7 +12,9 @@ categories:
 tags:
   - "exterior-painting"
   - "spray-painting"
+
 ---
+
 ![Spray paint kansas city](/images/spray.webp)
 Spraying allows for the most efficient and consistent application of paint.
 

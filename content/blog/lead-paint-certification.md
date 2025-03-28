@@ -13,6 +13,7 @@ tags:
   - "better-business-bureau"
   - "interior-painting"
   - "painting-insurance"
+
 ---
 
 ![Lead paint certification](/images/lead-safe-certified-155.webp)

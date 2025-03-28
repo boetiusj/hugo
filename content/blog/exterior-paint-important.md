@@ -13,6 +13,7 @@ tags:
   - "color-testing"
   - "contrasting-colors"
   - "exterior-painting"
+
 ---
 
 ![Exterior paint colors](/images/Exterior-paint-colors.jpg "Exterior Paint Color Schemes")Here is this year's final exterior color update from Kansas City's best color consultant - Diane Stewart at Color Sense Consulting. We routinely hear high praise from customers that have worked with Diane. She's pleasant, knowledgeable and really listens to what's important to her clients.

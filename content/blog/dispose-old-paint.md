@@ -13,6 +13,7 @@ tags:
   - "latex-paint"
   - "oil-paint"
   - "paint-disposal"
+
 ---
 
 ![Old Paint - Disposal](/images/oldpaintcans.webp) Best to take old paint to the local recycling center for safe and legal disposal.

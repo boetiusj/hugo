@@ -14,12 +14,10 @@ tags:
   - "interior-painting"
   - "kitchen"
   - "wood"
-
 ---
+Golden Oak cabinets are so last century. But re-staining or painting kitchen cabinets is not as straight-forward as painting your living room. Here's what to look for:
 
 ![painted cabinets Golden Oak](/images/finished-kitchen.webp)
-
-Golden Oak cabinets are so last century. But re-staining or painting kitchen cabinets is not as straight-forward as painting your living room. Here's what to look for:
 
 - Material - there are trade-offs. Solvent-based (oil) materials have some advantages, but they have terrible odor. Not just your average terrible, but industrial strength, move out-of-your-house-for-three-days kind of terrible. A latex product solves the odor issue and the right product will solve the durability issue.
 - Application - there are some DIY kits available that say the product can be brushed on, but most professionals wouldn't even think of brushing [kitchen cabinets](/cabinet-painting/). Cabinets require a silky-smooth, even layer of paint - the kind of finish that can only be achieved with a sprayer, a practiced hand and a keen eye.

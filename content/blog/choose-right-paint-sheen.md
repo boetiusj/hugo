@@ -16,12 +16,11 @@ tags:
   - "trim"
 
 ---
-
-![living room](/images/interior/lr-lighted-shelves.jpg)
-
 ## Choosing Paint Sheen
 
 When considering how to choose paint sheen, it’s essential to recognize that sheen is as important as color, influencing both appearance and practicality.
+
+![living room](/images/interior/lr-lighted-shelves.jpg)wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 
 ### Understanding Light Reflectance
 

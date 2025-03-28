@@ -14,7 +14,6 @@ tags:
   - Front-door
 slug: front-door-colors
 ---
-
 ## Front Doors: The Focal Point
 
 Few things influence a home’s curb appeal like the front door. It’s the one place on your exterior where color can really make a statement—bold or subtle, elegant or playful. Whether you're selling your home or just refreshing its look, painting the front door is one of the simplest ways to make a strong, lasting impression.

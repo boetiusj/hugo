@@ -13,14 +13,12 @@ tags:
   - "estimates"
   - "online-reviews"
   - "painters"
-
 ---
-
-![crestwood yard sign](/images/other/yard-sign.jpg)
-
 ## Feedback on New Year's Eve
 
 This was a nice treat on New Years Eve - positive feedback from a lady that _didn't_ hire us! The Proposal was sent in February, last contact was mid-March. Then, the note below arrived out of the blue - on December 31st! Fortunately, Crestwood Painting customers don't have this kind of experience.
+
+![crestwood yard sign](/images/other/yard-sign.jpg)
 
 > I chose a cheaper bid. And they were a band of idiots...I am so sorry I did not hire you, and won't make that mistake in the future.
 

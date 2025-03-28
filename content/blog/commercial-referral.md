@@ -13,12 +13,11 @@ tags:
   - "interior"
 
 ---
-
-![Painting commercial hospital retirement](/images/brighton-gardens.webp)
-
 ## Unexpected Niceties
 
 Met a very nice man to discuss removing grass cloth wallpaper in his home. We quickly struck up a pleasant and wide-ranging conversation - first a book, then back to painting, then on to travel, etc. Add this to the "Why I love my job" list .
+
+![Painting commercial hospital retirement](/images/brighton-gardens.webp)
 
 I mentioned that we have been doing some ongoing work at a nursing home. This is a new development for our company and is a very enjoyable change of pace from our normal work.
 

@@ -11,7 +11,6 @@ categories:
   - "interior"
 
 ---
-
 We transformed the [inside of a nice Brookside home](/interior-painter-kansas-city/) and the homeowner ran into exactly what's described here: colors that on one wall or time of day looked completely different than another. The homeowner was surprised, but Debby Zimmer at Paint Quality Institute explains what's going on:
 ![paint color sample](/images/color-samples.webp)
 

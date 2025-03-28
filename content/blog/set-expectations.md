@@ -12,16 +12,14 @@ categories:
 tags:
   - "estimates"
   - "painting-insurance"
-
 ---
-
-![clear communication](/images/keep-it-simple.jpg)
-
 ## Set Expectations
 
 When both the contractor and the homeowner are clear on what’s being done, how it’s being done, and what to expect along the way, the job usually goes pretty smoothly. So why do painting projects sometimes end in frustration?
 
 Most of the time, it comes down to mismatched expectations.
+
+![clear communication](/images/keep-it-simple.jpg)
 
 ### On the Same Page
 

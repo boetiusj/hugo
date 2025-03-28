@@ -11,12 +11,10 @@ categories:
   - "home-maintenance-tips"
 tags:
   - "latex-paint"
-
 ---
+The leftover (latex) paint in your basement will, sooner or later, become a disposal problem. Here's how to make sure your next can of paint remains in usable condition.
 
 ![paint storage](/images/leftover-paint.webp) Properly stored paint can last many years.
-
-The leftover (latex) paint in your basement will, sooner or later, become a disposal problem. Here's how to make sure your next can of paint remains in usable condition.
 
 As a general rule of thumb, if a can of paint is less than one third full it is not worth storing - leave the lid off and let it dry completely. Then, leave it out with your household trash - dry paint is considered disposable household trash.
 

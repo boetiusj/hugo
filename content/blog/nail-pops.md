@@ -17,11 +17,11 @@ tags:
 
 > nail pop *(noun)* | ˈnāl ˌpäp| A condition in which a nail protrudes above the surface of drywall or siding due to structural movement, wood shrinkage, or improper installation.
 
+{{< figure src="/images/nail-pop-surface-intact.webp" width="200" alt="siding nail pop" >}}
+
 ## Nail Pops: What They Are and How to Fix Them
 
 A nail pop is simply a nail head that has pushed above the surface of a wall or siding. These can appear both inside and outside your home, usually due to structural settling, seasonal expansion and contraction, or construction shortcuts. While nail pops can be unsightly, they’re rarely a sign of water intrusion or structural failure. Here’s what you need to know about fixing them the right way.
-
-{{< figure src="/images/nail-pop-surface-intact.webp" width="200" alt="siding nail pop" >}}
 
 ### Exterior Nail Pops
 

@@ -96,4 +96,4 @@ Scheduling a free estimate is quick and easy. Our [online form makes booking sim
 
 We love helping Overland Park homes look their best, inside and out. Every project is built to last and finished with care for a clean, beautiful result.
 
-![customer review](/assets/images/reviews/r24-7-annies.png)
+![customer review](/images/reviews/r24-7-annies.png)

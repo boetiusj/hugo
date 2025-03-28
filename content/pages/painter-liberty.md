@@ -98,4 +98,4 @@ Scheduling a free estimate is quick and easy. Our [online form makes booking sim
 
 We know Liberty homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 
-![customer review](/assets/images/reviews/r24-7-dawnk.png)
+![customer review](/images/reviews/r24-7-dawnk.png)

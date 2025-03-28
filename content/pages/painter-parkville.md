@@ -96,6 +96,4 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 
 In Parkville, details matter—and so does durability. We take pride in delivering lasting finishes that make your home look its best for years to come.
 
-![painting review](/images/r18-2-ruben.webp)
-
-![customer reviews](/assets/images/reviews/r24-5-wineingerk.png)
+![customer reviews](/reviews/r24-5-wineingerk.png)

@@ -98,4 +98,4 @@ We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, tak
 
 Painting in Leawood means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
 
-![customer review](/assets/images/reviews/r24-9-bethb.png)
+![customer review](/images/reviews/r24-9-bethb.png)

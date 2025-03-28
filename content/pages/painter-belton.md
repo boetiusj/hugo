@@ -94,4 +94,4 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 
 We know Belton homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 
-![customer review](/assets/images/reviews/r18-1-cindym.png)
+![customer review](/images/reviews/r18-1-cindym.png)

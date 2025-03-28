@@ -94,4 +94,4 @@ Scheduling a free estimate is quick and easy. Our [online form makes booking sim
 
 Painting in Loch Lloyd means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
 
-![customer review](/assets/images/reviews/r24-7-annies.png)
+![customer review](/images/reviews/r24-7-annies.png)

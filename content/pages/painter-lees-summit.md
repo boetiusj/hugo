@@ -96,4 +96,4 @@ A free estimate is just a click away. We show up on time, go over every detail, 
 
 We know Lee's Summit homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 
-![customer review](/assets/images/reviews/r24-8-jeffo.png)
+![customer review](/images/reviews/r24-8-jeffo.png)

@@ -14,7 +14,7 @@ tags:
 
 ---
 
-![burnish builders paint](/images/interior/burnish.webp)
+![burnish builders paint](/images/interior/burnish)
 
 ## Builders Paint: A Reputation Earned
 

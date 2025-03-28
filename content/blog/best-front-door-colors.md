@@ -16,11 +16,11 @@ slug: front-door-colors
 
 ---
 
-![front door color](/images/doors/fd-gloss.jpg)
-
 ## Front Doors: The Focal Point
 
 Few things influence a home’s curb appeal like the front door. It’s the one place on your exterior where color can really make a statement—bold or subtle, elegant or playful. Whether you're selling your home or just refreshing its look, painting the front door is one of the simplest ways to make a strong, lasting impression.
+
+![front door color](/images/doors/fd-gloss.jpg)
 
 A carefully chosen front door color sets a welcoming tone, hints at your style, and invites people in before they’ve even crossed the threshold. A deep black door suggests timeless sophistication. A cheery yellow or bold red feels warm and energetic. A slate blue or forest green leans classic and calm. The best part? There’s no “right” answer—just the one that fits *you*.
 

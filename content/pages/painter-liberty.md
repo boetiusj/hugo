@@ -93,11 +93,9 @@ Scheduling a free estimate is quick and easy. Our [online form makes booking sim
 ### Why Liberty MO Homeowners Choose Crestwood Painting
 
 * Proven Results – See what your neighbors say in our [customer reviews](/reviews/ "Online Reviews – Painters in Kansas City").  
-* FAQs? Oodles! Plenty of insightful [FAQs here](/faqs/) but also very specific Qs at the bottom of the [interior](/interior-painter-kansas-city/) and [exterior](/exterior-painting-kansas-city/) pages.  
-* Interior & Exterior Expertise – Explore more about [interior painting](/interior-painter-kansas-city/) and [exterior painting](/exterior-painting-kansas-city/) services.  
-* Cabinet Transformations – Learn more about our [cabinet painting](/cabinet-painting/).  
+* FAQs? Oodles! Plenty of insightful [FAQs here](/faqs/) but also very specific Qs at the bottom of the [interior](/interior-painter-kansas-city/) and [exterior](/exterior-painting-kansas-city/) pages.    
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 
 We know Liberty homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 
-[Crestwood Map - Liberty, MO](/map/)
+![customer review](/assets/images/reviews/r24-7-dawnk.png)

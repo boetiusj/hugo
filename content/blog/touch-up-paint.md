@@ -2,7 +2,7 @@
 title: "Touch-ups, Nail Polish"
 url: "touch-up-paint"
 description: "Paint touch-ups - what to look for"
-keywords: "touch-up"
+keywords: "touch-up paint"
 canonical: "https://crestwoodpainting.com/touch-up-paint/"
 date: "2014-07-30"
 index: true
@@ -15,7 +15,6 @@ tags:
 
 ---
 
-![paint touch up](/images/nail-polish.webp)
 A homeowner asked about touch-up painting for trim and kitchen cabinets - this explanation really clicked for her.
 
 Nails usually follow a three step process:

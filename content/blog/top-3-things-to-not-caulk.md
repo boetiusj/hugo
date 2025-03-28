@@ -13,7 +13,6 @@ tags:
   - "bad-paint-job"
   - "exterior-painting"
   - "shingles"
-
 ---
 
 ![Caulk kansas city painter crestwood](/images/caulk-here.webp) Sealing moisture out is perfect around doors and windows but sealing moisture in can grow mold and rot.

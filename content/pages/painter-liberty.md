@@ -8,7 +8,7 @@ date: "2025-03-21"
 index: true
 ---
 
-![liberty mo downtown](/images/city/liberty.jpg)
+![liberty,mo downtown](/images/city/liberty.jpg)
 
 ## Professional Painting in Liberty
 

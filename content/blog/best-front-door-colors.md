@@ -13,7 +13,6 @@ tags:
   - Colors
   - Front-door
 slug: front-door-colors
-
 ---
 
 ## Front Doors: The Focal Point

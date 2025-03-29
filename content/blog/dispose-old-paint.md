@@ -15,23 +15,57 @@ tags:
   - "paint-disposal"
 
 ---
+## How to Dispose of Old Paint
+Properly dealing with leftover paint not only keeps your home clutter-free but also safeguards the environment from hazardous chemicals. Whether you’ve just finished an [interior painting](/interior-painter-kansas-city/) project or wrapped up some [exterior painting info](/exterior-painting-kansas-city/), understanding how to handle old paint cans is crucial.
 
-![Old Paint - Disposal](/images/oldpaintcans.webp) Best to take old paint to the local recycling center for safe and legal disposal.
+![Old Paint - Disposal](/images/oldpaintcans.webp)
 
-Painters in Kansas City - whether DIY painters or pro's - all have the same challenge at the end of a job: how to get rid of old or leftover paint. There are the environmentally responsible options and then the legally questionable options. Let's take a look at both.
+### The Common Dilemma
+Storing old paint in basements or garages might seem harmless, but eventually those cans pile up. Disposing of them carelessly can lead to legal and environmental problems. If you still have paint questions, take a look at our [FAQs here](/faqs/) for additional insights.
 
-> A certain environmental agency may construe your donation to be disposal and suddenly your kind gesture is seen as dumping rather than donation
+### Keep a Little for Touch-Ups
+It’s usually a good idea to hold onto a quart or so of your [current paint color](/colors-relaxation/) for quick fixes when dents or scratches appear. Anything beyond that takes up space and may become a burden later.
 
-## Keep Some
+### PaintCare: Great Public Policy
+[PaintCare](https://www.paintcare.org/) is a nonprofit program that helps fund the recycling and proper disposal of unused paint in several states. In places where it’s adopted, a small fee on each paint can supports ongoing collection efforts.
 
-It's never a bad idea to hang on to a small amount of your [current paint color](/colors-relaxation/). Just an easy and quick way to cover dents and dings from everyday usage. But any quantities beyond a gallon or two present a problem. You can keep it in your basement, yes - but sooner or later you'll have to deal with it. Sooner is always better.
+#### Needs a Push in Kansas and Missouri
+Unfortunately, Kansas and Missouri haven’t yet implemented PaintCare. Residents can voice their support for a statewide paint stewardship program by contacting local representatives. Until then, local hazardous waste facilities remain the best option for disposing of leftover paint.
 
-## Get Rid of the Rest
+### Other Local Recycling Options
+While PaintCare isn’t available in Kansas or Missouri, you can still handle old paint responsibly:
+- [Johnson County Hazardous Waste](https://www.jocogov.org/department/environment/hazardous-materials)  
+- [KCMO Hazardous Waste Disposal](https://www.jacksongov.org/Residents/Home-and-Family/Household-Hazardous-Waste-Disposal)  
 
-The best way to dispose of old paint is to take the paint to a [city or county recycling center](https://www.jacksongov.org/Residents/Home-and-Family/Household-Hazardous-Waste-Disposal). Whether oil or latex paint, stain, varnish, etc., you'll avoid any legal liability or environmental consequences. After that, you're looking at the Less Than Ideal Solutions.
+These facilities accept oil-based and latex paints, stains, and varnishes. Their proper disposal methods keep dangerous chemicals out of landfills and water systems.
 
-1. Give leftover paint to a friend or relative to paint a dog house, treehouse or dollhouse. But best to not donate it to a theater group, scout troop, etc. A certain environmental agency may construe your donation to be disposal and suddenly your kind gesture is seen as dumping rather than donation.
-2. Old oil paint should be mixed and poured onto a cookie sheet (or similar) so it can dry. If you leave it in the can it will skin over leaving liquid under the dried layer - so no one will take it. I've heard of people pouring oil paint on old carpet to dry and then disposing of the carpet. Perfectly legal, if not a bit improvised.
-3. For latex paint you can mix in kitty litter right in the paint can - it absorbs the liquid and dries pretty quickly. Then dispose with household trash when dry.
+### Avoid Questionable Methods
+Pouring leftover paint down the drain or into a vacant lot might be quick, but it’s illegal and risks hefty fines if traced back to you. Proper disposal ensures compliance with environmental laws and keeps your community safe from pollution.
 
-Whatever you do, don't dispose of old paint down the drain, in a vacant lot or anywhere else that you know just isn't right. If you get cought at the time you'll be in a big pile of trouble. If it is traced back to you after the fact you'll be on the evening news.
+### Practical Ways to Let Paint Dry
+If immediate drop-off isn’t possible, you can dry the paint at home so it’s no longer hazardous. Always remember: **liquid paint is hazardous, dried paint is simply trash** (but confirm local regulations to be sure).
+
+#### Remove the Lid for a Couple of Months
+If there’s only a small amount left, take off the lid and leave the can in a ventilated area. Over time, the paint solidifies and can then be put out with your regular garbage pickup.
+
+#### Pour into a Larger Container
+For moderate quantities, spreading the paint into a shallow container (old baking sheets, cardboard boxes) speeds up drying by increasing surface area.
+
+#### Drying Oil Paint
+Oil-based paint tends to form a skin in the can, leaving liquid underneath. Pour it onto a disposable surface like old carpet scraps so everything dries thoroughly.
+
+#### Mixing Latex with Kitty Litter
+Latex paint can be combined with kitty litter or a commercial hardener. Stir until it solidifies, then dispose of it with normal household waste.
+
+### Caution with “Donating”
+Providing a small amount to a friend who needs to paint a doghouse or treehouse is usually fine. Offering gallons of paint to an organization can be interpreted as illegal disposal, so when in doubt, use an official hazardous waste facility.
+
+### Final Thoughts
+If you’re looking for more ways to make your next painting project a success—or if you want to learn about Crestwood Painting’s approach—below are some additional resources you may find helpful:
+
+- [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/)  
+- [FAQs here](/faqs/)  
+
+At Crestwood Painting, we’re committed to delivering top-quality work and eco-friendly practices. Keeping leftover paint out of landfills and waterways is just another way we help protect our community. If you have any questions or want to explore your next project, let’s talk!  
+
+![customr review](/images/reviews/r25-3-deanr.png)

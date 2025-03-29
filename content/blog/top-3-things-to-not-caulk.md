@@ -2,7 +2,7 @@
 title: "Top 3 Things to NOT Caulk"
 url: "top-3-things-to-not-caulk"
 description: "Caulking is key to proper paint prep - here's what to caulk and what not to caulk."
-keywords: "painting caulk kansas city crestwood"
+keywords: "painting caulk best practices"
 canonical: "https://crestwoodpainting.com/top-3-things-to-not-caulk/"
 date: "2014-07-15"
 index: true
@@ -10,7 +10,6 @@ image: "/images/caulk-here.webp"
 categories:
   - "painting-tips"
 tags:
-  - "bad-paint-job"
   - "exterior-painting"
   - "shingles"
 ---
@@ -84,4 +83,4 @@ Some contractors claim they “caulk everything,” but that approach often back
 
 Caulk works wonders for appearance and protection, but only when you know where—and where not—to use it. Bottom edges of siding, soffits, and storm windows should remain unsealed or only selectively caulked to prevent moisture issues. When in doubt, consult a professional or gather more information to ensure you’re making the best choices for your home’s longevity and curb appeal.
 
-![customer review](/assets/images/reviews/r19-8-dynelw.png)
+![customer review](/images/reviews/r19-8-dynelw.png)

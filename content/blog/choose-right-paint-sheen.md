@@ -20,7 +20,7 @@ tags:
 
 When considering how to choose paint sheen, it’s essential to recognize that sheen is as important as color, influencing both appearance and practicality.
 
-![living room](/images/interior/lr-lighted-shelves.jpg)wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+![living room](/images/interior/lr-lighted-shelves.jpg)
 
 ### Understanding Light Reflectance
 

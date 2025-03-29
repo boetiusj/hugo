@@ -15,7 +15,6 @@ tags:
   - "painting-insurance"
 
 ---
-
 ## THE RRP Rule
 
 For homes built before 1978, lead paint may be a factor in how painting work is done. To see that both homeowners and contractors are protected, EPA-accredited training and certification is required of all contractors working on older homes.

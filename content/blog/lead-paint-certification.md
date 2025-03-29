@@ -31,6 +31,7 @@ The RRP rule (Renovation, Repair and Painting) has been in place since 2011, reg
 - proper waste disposal
 
 Lead-safe work practices start with understanding that lead is a hazard to people, especially children.  Safe work practices mean plenty of tape and plastic to protect your home, your yard and your family.
+
 > ...often the yard is cleaner than it was when we started!
 
 ### Lead Testing

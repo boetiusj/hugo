@@ -14,7 +14,6 @@ tags:
   - "prep"
 
 ---
-
 > nail pop *(noun)* | ˈnāl ˌpäp| A condition in which a nail protrudes above the surface of drywall or siding due to structural movement, wood shrinkage, or improper installation.
 
 {{< figure src="/images/nail-pop-surface-intact.webp" width="200" alt="siding nail pop" >}}
@@ -40,6 +39,8 @@ If the original siding crew had taken an extra second to properly set each nail�
 
 Despite common concerns, exterior nail pops typically don’t lead to water intrusion. Water doesn’t force its way past the nail head under normal conditions, as there’s no pressure pushing it through. If the surrounding paint film remains intact, moisture has no direct path inside. However, if rust is visible or the paint is cracked, sealing the nail head with an oil-based primer and high-quality caulk ensures long-term protection against potential water damage.
 
+> Nail pops can be unsightly but are rarely a sign of water intrusion or structural failure.
+
 ### True Story\!
 
 One suburban homeowner was determined to eliminate every visible nail head on their siding, insisting that each one be hammered in and sealed with caulk. The result? A tedious, time-consuming process that actually made things worse. In trying to "fix" the problem, they ended up with a siding full of small, smooth caulk spots that stood out against the textured surface — even after painting. Worse, some nails were driven too deep, breaking the protective paint film and increasing the risk of moisture damage.
@@ -63,6 +64,8 @@ Interior nail pops happen for similar reasons—settling, lumber shrinkage, or i
 
 Interior nail pops are a common but purely cosmetic issue caused by natural settling. They’re most noticeable along ceiling joints and can be a hassle to reach, but with the right fix—securing the drywall, setting the nail, and patching smoothly—they disappear with minimal effort.
 
-#### Nailed It\! Wrapping Up Nail Pops
+#### Nailed It! Wrapping Up Nail Pops
 
 Nail pops, whether inside or out, are more about aesthetics than function. Exterior pops often look worse than they are, and over-fixing can create bigger problems. Interior pops, while unsightly, are easy to correct with the right approach. If you’re unsure whether yours need attention, [book an estimate time](/book-us/) with us — we’re happy to help keep your home looking its best. No drips, no drama—just solid, straightforward solutions.
+
+![customer review](/assets/images/reviews/r18-5-janets.png)

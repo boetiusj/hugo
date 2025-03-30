@@ -10,7 +10,7 @@ index: true
 
 ![Paint contractor Prairie Village](/images/city/pvks.jpg)
 
-## Professional Painting in Overland Park
+## Pro Painting in Prairie Village
 
 Homeowners in Prairie Village trust Crestwood Painting for quality that lasts. Our team specializes in interiors, exteriors, and cabinets, ensuring a flawless result. With us, you get expert work, zero hassle, and no mess left behind.
 

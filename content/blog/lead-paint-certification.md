@@ -10,9 +10,7 @@ image: /images/lead-safe-certified-155.webp
 categories:
   - "home-maintenance-tips"
 tags:
-  - "better-business-bureau"
   - "interior-painting"
-  - "painting-insurance"
 
 ---
 ## THE RRP Rule

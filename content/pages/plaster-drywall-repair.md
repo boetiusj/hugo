@@ -26,7 +26,7 @@ Plaster is a dense, hard surface traditionally applied by hand in multiple layer
 
 #### Drywall - A Gypsum Sandwich
 
-Drywall, on the other hand, is a modern, factory-made panel composed of natural gypsum sandwiched between layers of recycled paper. Drywall really is a green product. Because of these differences, repairs require the right materials and techniques to ensure a seamless finish.
+Drywall, on the other hand, is a (relatively) modern (1940's-ish), factory-made panel composed of natural gypsum sandwiched between layers of recycled paper. Drywall really is a green product. Because of these differences, repairs require the right materials and techniques to ensure a seamless finish.
 
 ### Repairing Traditional Plaster
 
@@ -80,4 +80,27 @@ To prevent cracks from returning, paper tape is embedded in joint compound to re
 
 The final step is a smooth, seamless finish. Multiple thin coats of joint compound are applied and sanded between layers to blend the patch perfectly into the surrounding surface before priming and painting.
 
-[![review exterior painting](/images/r13-09-alexisd.webp)](/painter-reviews/)
+[![review exterior painting](/images/reviews/r24-2-shellib.png)](/reviews/)
+
+### Plaster and Drywall Terms
+
+* Joint Compound (Mud) – A paste used to fill seams, holes, and imperfections in drywall.
+* Tape – Paper or mesh material applied over seams to reinforce drywall joints.
+* Sanding Sponge – A flexible sanding tool used to smooth joint compound.
+* Drywall Screws – Special screws with coarse threads for attaching drywall to studs.
+* Studs – Vertical wooden or metal framing members that support drywall.
+* Corner Bead – A metal or plastic strip that creates sharp, straight corners.
+* Mesh Tape – Self-adhesive fiberglass tape used to reinforce seams.
+* Paper Tape – A traditional tape for drywall seams that requires joint compound.
+* Blueboard – A type of drywall designed to bond with plaster finishes.
+* Skim Coat – A thin layer of joint compound or plaster applied for a smooth surface.
+* Popcorn Ceiling – A textured ceiling finish that was once popular in older homes.
+* Knockdown Texture – A drywall finish where the texture is slightly flattened after application.
+* Level 5 Finish – The highest-quality drywall finish, including a full skim coat.
+* Plaster Keys – Small ridges of plaster that hold it onto wooden or metal lath.
+* Drywall Anchor – A device used to securely attach screws to drywall.
+* Lath – Thin wooden, metal, or gypsum strips that hold plaster in older walls.
+* Crown Molding – Decorative trim installed at the intersection of walls and ceilings.
+* Drywall Knife – A tool used to apply and smooth joint compound.
+* Texturing – Applying a decorative finish to drywall using tools like brushes or sprayers.
+* Plaster Patch – A repair technique for fixing small cracks or holes in plaster.

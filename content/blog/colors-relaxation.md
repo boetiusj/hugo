@@ -9,7 +9,7 @@ index: true
 image: "/images/color-chips.webp"
 categories:
   - "color-tips"
-  - "interior
+  - "interior"
 
 ---
 This update from Kansas City color consultant Diane Stewart gives the low-down on color - relaxing color. We've referred many customers to Diane; if you're in a color quandary please give her a call.

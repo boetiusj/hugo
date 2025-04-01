@@ -16,7 +16,7 @@ googleAnalytics = "G-Y229K0TNJR"
 
 [taxonomies]
 category = "categories"
-categories = []
+# categories = []
 # tag = "tags"
 # tags = ["Products", "Tips", "Color", "Best Practices"]
 

@@ -15,8 +15,8 @@ googleAnalytics = "G-Y229K0TNJR"
         enableDefault = true       
 
 [taxonomies]
-# category = "categories"
-# categories = ["Interior", "Exterior", "Cabinets", "Commercial"]
+category = "categories"
+categories = []
 # tag = "tags"
 # tags = ["Products", "Tips", "Color", "Best Practices"]
 

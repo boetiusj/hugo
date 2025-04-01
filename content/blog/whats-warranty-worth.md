@@ -8,11 +8,8 @@ date: "2013-08-23"
 index: true
 image: "/images/peeling-exterior-paint-warranty.webp"
 categories:
-  - "how-to-hire-painter"
-tags:
-  - "better-business-bureau"
+  - "hiring-painters"
   - "painting-insurance"
-  - "warranty"
 
 ---
 

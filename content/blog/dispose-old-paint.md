@@ -8,11 +8,8 @@ date: "2012-12-10"
 index: true
 image: "/images/oldpaintcans.webp"
 categories:
-  - "home-maintenance-tips"
-tags:
-  - "latex-paint"
-  - "oil-paint"
-  - "paint-disposal"
+  - "good-to-know"
+  - "paint-disposal"  
 
 ---
 ## How to Dispose of Old Paint

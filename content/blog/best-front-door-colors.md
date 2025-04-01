@@ -8,10 +8,9 @@ date: 2023-07-22
 index: true
 image: /images/doors/fd-gloss.jpg
 categories:
-  - Exterior
-tags:
-  - Colors
-  - Front-door
+  - exterior
+  - colors
+  - front-door
 slug: front-door-colors
 ---
 ## Front Doors: The Focal Point

@@ -8,9 +8,7 @@ date: "2014-01-24"
 index: true
 image: "/images/duration.jpg"
 categories:
-  - "painting-challenges"
-tags:
-  - "neutral-colors"
+  - "color-tips"
 
 ---
 ## Tips for Dark Paint Colors

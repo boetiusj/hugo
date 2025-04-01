@@ -9,8 +9,7 @@ index: true
 image: /images/painters-whites.webp
 categories:
   - how-to-hire-painter
-tags:
-  - painters
+
 
 ---  
 

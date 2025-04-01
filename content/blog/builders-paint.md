@@ -8,9 +8,7 @@ date: "2021-04-06"
 index: true
 image: "/images/interior/burnish.webp"
 categories:
-  - "products"
-tags:
-  - "paint"
+  - "nitty-gritty"
 
 ---
 ## Builders Paint: A Reputation Earned

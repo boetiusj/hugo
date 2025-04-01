@@ -9,16 +9,15 @@ index: true
 image: "/images/spray.webp"
 categories:
   - "painting-tips"
-tags:
-  - "exterior-painting"
-  - "spray-painting"
+  - "spraying"
+  - "exterior"
 
 ---
-
-![Spray paint kansas city](/images/spray.webp)
 Spraying allows for the most efficient and consistent application of paint.
 
 Exterior house paint in Kansas City is applied in two ways: Spray only or spray and backroll. What is backrolling? Applying paint by sprayer and then using a paint roller to, in theory, push paint into small openings.
+
+![Spray paint kansas city](/images/spray.webp)
 
 And what about just brushing paint? Well, you _could_ brush an entire house, but that hasn’t happened in over 50 years.
 
@@ -51,7 +50,7 @@ On a breezy Kansas City summer day the paint can easily “skin over” before i
 - Slower
 - Widely varying paint thickness
 - Timing is critical
-- [Weather](/video-reviews/) is a factor
+- Weather is a factor
 - “Easy” areas get backrolled, "hard" areas don't
 - Unnecessary multiple existing coats
 - Pointless on smoother surface

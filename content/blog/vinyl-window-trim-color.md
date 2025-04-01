@@ -9,10 +9,8 @@ index: true
 image: "/images/white-wall-tire.webp"
 categories:
   - "painting-tips"
-tags:
-  - "contrasting-colors"
-  - "exterior-painting"
-  - "trim"
+  - "color-tips"
+  - "exterior"
 
 ---
 ## Vinyl Window Trim Color

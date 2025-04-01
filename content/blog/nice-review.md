@@ -8,11 +8,7 @@ date: "2013-07-01"
 index: true
 image: "/images/online-reviews.webp"
 categories:
-  - "painting-reviews"
-tags:
-  - "estimates"
-  - "exterior-painting"
-  - "rain"
+  - "feel-good"
 
 ---
 

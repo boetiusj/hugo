@@ -9,10 +9,7 @@ index: true
 image: "/images/wall-painting.webp"
 categories:
   - "painting-tips"
-tags:
-  - "drywall"
-  - "interior-painting"
-  - "plaster"
+  - "nitty-gritty"
 
 ---
 

@@ -8,9 +8,8 @@ date: "2014-06-02"
 index: true
 image: "/images/leftover-paint.webp"
 categories:
-  - "home-maintenance-tips"
-tags:
-  - "latex-paint"
+  - "good-to-know"
+
 ---
 The leftover (latex) paint in your basement will, sooner or later, become a disposal problem. Here's how to make sure your next can of paint remains in usable condition.
 

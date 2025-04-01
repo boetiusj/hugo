@@ -8,11 +8,8 @@ date: "2012-12-31"
 index: true
 image: "/images/other/yard-sign.jpg"
 categories:
-  - "painting-reviews"
-tags:
-  - "estimates"
-  - "online-reviews"
-  - "painters"
+  - "feel-good"
+  
 ---
 ## Feedback on New Year's Eve
 

@@ -65,4 +65,4 @@ Interior nail pops are a common but purely cosmetic issue caused by natural sett
 
 Nail pops, whether inside or out, are more about aesthetics than function. Exterior pops often look worse than they are, and over-fixing can create bigger problems. Interior pops, while unsightly, are easy to correct with the right approach. If you’re unsure whether yours need attention, [book an estimate time](/book-us/) with us — we’re happy to help keep your home looking its best. No drips, no drama—just solid, straightforward solutions.
 
-![customer review](/assets/images/reviews/r18-5-janets.png)
+![customer review](/reviews/r18-5-janets.png)

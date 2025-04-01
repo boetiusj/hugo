@@ -81,7 +81,7 @@ Titanium dioxide scatters and reflects light, ensuring you see the new color ins
 
 #### Learning More
 
-For a deeper dive into this crucial ingredient, take a look at [all about titanium dioxide](/titanium-dioxide-in-your-paint-can/). Understanding how it functions can help you choose the right product for challenging shades.
+For a deeper dive into this crucial ingredient, search for more about titanium dioxide. Understanding how it functions can help you choose the right product for challenging shades.
 
 ### Different Paint Bases
 

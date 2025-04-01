@@ -27,4 +27,4 @@ He then asked "which retirement home?" A bit surprised with the question, I answ
 
 ### Pleasant Surprise
 
-So if you're looking for that next stage in someone's life you might consider [Brighton Gardens](http://www.sunriseseniorliving.com/communities/brighton-gardens-of-prairie-village/overview.aspx) in Prairie Village. It's clean and well-maintained, and I'll bet they'll do a good job for your family as well.
+So if you're looking for that next stage in someone's life you might consider Brighton Gardens in Prairie Village. It's clean and well-maintained, and I'll bet they'll do a good job for your family as well.

@@ -26,7 +26,7 @@ Proper prep work is key, of course. Let's start with the wall surface itself: it
 
 ## Communicate
 
-Next comes holes, chips, wallpaper lines, cracks, etc. This requires a clear conversation with your painter - everybody needs to understand and agree on what the expectations are. This is about balancing time and cost with your expectations. Age matters here, too - 80 year old [plaster walls](/plaster-repair-kansas-city/) are often held to a different standard than 15 year old drywall.
+Next comes holes, chips, wallpaper lines, cracks, etc. This requires a clear conversation with your painter - everybody needs to understand and agree on what the expectations are. This is about balancing time and cost with your expectations. Age matters here, too - 80 year old [plaster walls](/plaster-drywall-repair.md) are often held to a different standard than 15 year old drywall.
 
 Once the prep work has been defined and then completed as agreed, it's time to start putting paint on the wall. But how to know what a properly painted surface is? The [Painting Contractors Association](https://pcapainted.org/) have objective standards for painting work.
 

@@ -59,7 +59,7 @@ High-end paints balance pigments and titanium dioxide—or similar components—
 
 #### Balancing Budget and Performance
 
-If you’re painting several rooms, consider premium paint for the most visible or high-traffic areas and a mid-range product elsewhere. For more information on selecting a reliable contractor, check out [12 Questions to Ask Before You Hire a Painter](https://chatgpt.com/12-questions-to-ask/).
+If you’re painting several rooms, consider premium paint for the most visible or high-traffic areas and a mid-range product elsewhere. For more information on selecting a reliable contractor, check out [12 Questions to Ask Before You Hire a Painter](/12-questions-ask-painter/).
 
 ### Why Color Choices Affect Project Costs
 

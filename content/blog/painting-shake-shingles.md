@@ -30,7 +30,7 @@ There are two considerations here: texture of the entire wall and texture of ind
 
 The other texture consideration is with the shingles themselves: older shingles have [often been painted 46 times](/exterior-painting-kansas-city/) and so much of the original texture has been lost. We've seen grooved shingles that have been painted smooth. New cedar shingles very often have two surface treatments: one side is relatively smooth while the other is generally grooved. Easy to match grooved with grooved; a bit of a trick when new smooth doesn't match old smooth.
 
-A [new shingle](/exterior-paint-new-homes/) may really be smooth but it may just as easily be very rough depending on where and how it was milled. Is matching texture important to you? Important enough to sand individual shingles when necessary?
+A [new shingle](/exterior-paint-important/) may really be smooth but it may just as easily be very rough depending on where and how it was milled. Is matching texture important to you? Important enough to sand individual shingles when necessary?
 
 So by now you've thrown up your hands and bellowed "Oiy!" - can't blame you. But as painting professionals it's up to us to set the expectation with our customers - what you can expect and also what you can't. That way there are no unmet expectations. Give us a call if you think we might be able to help.
 

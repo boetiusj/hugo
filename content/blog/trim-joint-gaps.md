@@ -32,4 +32,4 @@ The downside to all this efficiency is [joint gaps](/top-3-things-to-not-caulk/)
 
 > If you've got joint problems (sorry - painters's humor) give Crestwood Painting a call today.
 
-The [painting prep process](/kut-the-krud/) for this situation is similar to traditional joinery, but the long-term effects are very different. Scrape or sand excess paint or caulk, prime as needed and re-caulk the joint. Over time, these joints _will_ open or mis-match - it's just a consequence of design trade-offs.
+The painting prep process for this situation is similar to traditional joinery, but the long-term effects are very different. Scrape or sand excess paint or caulk, prime as needed and re-caulk the joint. Over time, these joints _will_ open or mis-match - it's just a consequence of design trade-offs.

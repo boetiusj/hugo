@@ -134,7 +134,7 @@ Textured plaster (knockdown, orange-peel, etc.) can be tricky to match after a r
 
 Interior prep is the foundation of a great paint job. At Crestwood Painting, we take the time to do it right, so your home looks great now and for years to come.
 
-> Of course it’s disruptive to have your home invaded for a handful of days, but I can’t think of a single thing Crestwood Painting could have done to make the experience better.{{< sub "[(more reviews here)](/reviews.md)" >}}
+> Of course it’s disruptive to have your home invaded for a handful of days, but I can’t think of a single thing Crestwood Painting could have done to make the experience better.{{< sub "[(more reviews here)](/reviews/)" >}}
 
 ## Let’s Paint
 

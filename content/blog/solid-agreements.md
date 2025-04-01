@@ -70,7 +70,7 @@ Some tasks are often best handled by the homeowner ahead of time:
 Once these are done, the job can begin smoothly.
 
 #### Before Work Begins
-A quick walkaround with your contractor provides a chance to confirm final color choices and finishes. If you’re still uncertain about which questions to ask, take a look at [12 Questions to Ask Before You Hire a Painter](/12-questions-to-ask/) for additional guidance. This extra preparation makes the first day on-site far less stressful.
+A quick walkaround with your contractor provides a chance to confirm final color choices and finishes. If you’re still uncertain about which questions to ask, take a look at [12 Questions to Ask Before You Hire a Painter](/12-questions-ask-painter/) for additional guidance. This extra preparation makes the first day on-site far less stressful.
 
 ### The First Day
 When the crew arrives, they’ll outline their immediate tasks, such as pressure washing, masking, or initial prep. This short briefing sets a cooperative tone and reassures you that the team is organized. If you have any last-minute concerns, share them right away so everyone can plan accordingly.

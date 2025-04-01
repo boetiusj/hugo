@@ -8,12 +8,8 @@ date: "2013-02-27"
 index: true
 image: "/images/interior/balusters.jpg"
 categories:
-  - "color-choices"
-tags:
-  - "color-consulting"
-  - "contrasting-colors"
-  - "interior-painting"
-  - "neutral-colors"
+  - "color-tips"
+
 ---
 
 ![Interior paint colors neutral crestwood](/images/interior/balusters.jpg) Neutral colors in a traditional home.

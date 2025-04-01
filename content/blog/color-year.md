@@ -8,10 +8,8 @@ date: "2014-01-17"
 index: true
 image: "/images/color-year.webp"
 categories:
-  - "color-choices"
-tags:
-  - "color-testing"
-  - "neutral-colors"
+  - "color-tips"
+
 ---
 ![color of the year](/images/color-year.webp) Some day we'll laugh about this...
 

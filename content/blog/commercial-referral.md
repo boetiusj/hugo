@@ -9,7 +9,6 @@ index: true
 image: "/images/brighton-gardens.webp"
 categories:
   - "commercial"
-tags:
   - "interior"
 
 ---

@@ -8,14 +8,8 @@ date: "2013-02-05"
 index: true
 image: "/images/StewartAfter_opt.jpg"
 categories:
-  - "color-choices"
-tags:
-  - "color-consulting"
-  - "contrasting-colors"
-  - "exterior-painting"
-  - "front-door"
-  - "neutral-colors"
-  - "trim"
+  - "color-tips"
+  - "exterior"
 
 ---
 

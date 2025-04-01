@@ -8,12 +8,9 @@ date: "2013-02-18"
 index: true
 image: "/images/finished-kitchen.webp"
 categories:
-  - "painting-challenges"
-tags:
-  - "cabinets-2"
-  - "interior-painting"
-  - "kitchen"
-  - "wood"
+  - "cabinets"
+  - "interior"
+
 ---
 Golden Oak cabinets are so last century. But re-staining or painting kitchen cabinets is not as straight-forward as painting your living room. Here's what to look for:
 

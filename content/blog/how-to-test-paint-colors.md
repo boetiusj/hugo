@@ -8,12 +8,7 @@ date: "2013-03-19"
 index: true
 image: "/images/colors.webp"
 categories:
-  - "painting-tips"
-tags:
-  - "color-consulting"
-  - "color-testing"
-  - "contrasting-colors"
-  - "exterior-painting"
+  - "color-tips"
 
 ---
 

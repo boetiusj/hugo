@@ -8,10 +8,8 @@ date: "2014-07-15"
 index: true
 image: "/images/caulk-here.webp"
 categories:
-  - "painting-tips"
-tags:
-  - "exterior-painting"
-  - "shingles"
+  - "nitty-gritty"
+
 ---
 ## Top 3 Things NOT to Caulk
 

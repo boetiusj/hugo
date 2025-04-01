@@ -7,8 +7,8 @@ canonical: "https://crestwoodpainting.com/touch-up-paint/"
 date: "2014-07-30"
 index: true
 image: "/images/nail-polish.webp"
-tags:
-  - "painting-tips"
+categories:
+  - "good-to-know"
 
 ---
 

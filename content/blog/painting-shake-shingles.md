@@ -8,11 +8,8 @@ date: "2014-04-02"
 index: true
 image: "/images/shake-shingles.webp"
 categories:
-  - "home-maintenance-tips"
-tags:
-  - "exterior-painting"
-  - "shingles"
-  - "wood"
+  - "good-to-know"
+  - "exterior"
 
 ---
 

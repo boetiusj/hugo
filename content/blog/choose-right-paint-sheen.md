@@ -8,12 +8,8 @@ date: "2013-01-28"
 index: true
 image: "/images/sheen-stripes.webp"
 categories:
-  - "painting-tips"
-tags:
-  - "egg-shell"
+  - "good-to-know"
   - "semi-gloss"
-  - "sheen"
-  - "trim"
 
 ---
 ## Choosing Paint Sheen

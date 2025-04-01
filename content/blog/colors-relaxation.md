@@ -8,13 +8,9 @@ date: "2013-10-04"
 index: true
 image: "/images/color-chips.webp"
 categories:
-  - "color-choices"
-tags:
-  - "bedroom"
-  - "blue"
-  - "brown"
-  - "contrasting-colors"
-  - "interior-painting"
+  - "color-tips"
+  - "interior
+
 ---
 This update from Kansas City color consultant Diane Stewart gives the low-down on color - relaxing color. We've referred many customers to Diane; if you're in a color quandary please give her a call.
 

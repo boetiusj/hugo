@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/best-bedroom-colors/"
 date: "2013-04-30"
 index: true
 image: "/images/bedroompaintcolors.webp"
-tags:
+categories:
   - "color-tips"
   - "interior"
 

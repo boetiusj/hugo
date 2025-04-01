@@ -8,9 +8,7 @@ date: "2013-09-28"
 index: true
 image: "/images/sketchy.webp"
 categories:
-  - "how-to-hire-painter"
-tags:
-  - "painting-insurance"
+  - "hiring-painters"
 
 ---
 

@@ -60,7 +60,7 @@ Interior nail pops happen for similar reasons—settling, lumber shrinkage, or i
 3. Set the nail. If the nail is still in place, tap it slightly below the surface.  
 4. Patch it up. Use spackle or drywall compound to skim over the area, let it dry, sand it smooth, and paint.
 
-> I can’t recommend Crestwood enough. They are efficient, professional, and make sure every detail is nailed.{{< sub "[(more reviews here)](/reviews.md)" >}}
+> I can’t recommend Crestwood enough. They are efficient, professional, and make sure every detail is nailed.{{< sub "[(more reviews here)](/reviews/)" >}}
 
 Interior nail pops are a common but purely cosmetic issue caused by natural settling. They’re most noticeable along ceiling joints and can be a hassle to reach, but with the right fix—securing the drywall, setting the nail, and patching smoothly—they disappear with minimal effort.
 

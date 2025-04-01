@@ -9,9 +9,7 @@ index: true
 image: "/images/woodrot.webp"
 categories:
   - "painting-challenges"
-tags:
-  - "exterior-painting"
-  - "re-siding"
+  - "exterior"
 
 ---
 

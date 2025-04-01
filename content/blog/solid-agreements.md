@@ -9,9 +9,7 @@ index: true
 image: /images/keep-it-simple.jpg
 categories:
   - "business"
-tags:
   - "estimates"
-  - "painting-insurance"
 ---
 ## Set Expectations
 

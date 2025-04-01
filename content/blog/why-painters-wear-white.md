@@ -8,7 +8,7 @@ date: 2013-01-07
 index: true
 image: /images/painters-whites.webp
 categories:
-  - how-to-hire-painter
+  - good-to-know
 
 
 ---  

@@ -8,9 +8,8 @@ date: "2013-04-30"
 index: true
 image: "/images/bedroompaintcolors.webp"
 tags:
-  - "bedroom"
-  - "color-consulting"
-  - "interior-painting"
+  - "color-tips"
+  - "interior"
 
 ---
 

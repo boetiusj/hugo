@@ -3,7 +3,7 @@ title: "Painter in Prairie Village"
 url: "painter-prairie-village"
 description: "Crestwood Painting in Prairie Village - exteriors, interiors, offices!"
 keywords: "prairie village ks painting crestwood"
-canonical: "https://crestwoodpainting.com/painter-in-prairie-village/"
+canonical: "https://crestwoodpainting.com/painter-prairie-village/"
 date: "2014-01-03"
 index: true
 ---

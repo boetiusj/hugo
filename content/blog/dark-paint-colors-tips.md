@@ -63,7 +63,7 @@ If you’re painting several rooms, consider premium paint for the most visible 
 
 ### Why Color Choices Affect Project Costs
 
-Darker or more saturated shades usually need more coats, more primer, and additional labor, which can raise the cost. Being upfront about your color preferences early on with your painter helps them give you an accurate estimate. For more insights on interior painting, see [interior painting](/interior-painting/).
+Darker or more saturated shades usually need more coats, more primer, and additional labor, which can raise the cost. Being upfront about your color preferences early on with your painter helps them give you an accurate estimate. For more insights on interior painting, see [interior painting](/interior-painter-kansas-city/).
 
 > A gray base offers a more neutral foundation than white, allowing the final shade to appear richer without overwhelming the surface.
 

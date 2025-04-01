@@ -51,7 +51,7 @@ On a breezy Kansas City summer day the paint can easily “skin over” before i
 - Slower
 - Widely varying paint thickness
 - Timing is critical
-- [Weather](/video-testimonials/) is a factor
+- [Weather](/video-reviews/) is a factor
 - “Easy” areas get backrolled, "hard" areas don't
 - Unnecessary multiple existing coats
 - Pointless on smoother surface

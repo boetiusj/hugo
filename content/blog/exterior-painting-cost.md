@@ -8,21 +8,13 @@ date: "2013-03-04"
 index: true
 image: "/images/imag0145.webp"
 categories:
-  - "general"
-  - "how-to-hire-painter"
-tags:
-  - "aluminum-siding"
-  - "contrasting-colors"
-  - "exterior-painting"
-  - "shingles"
-  - "shutters"
-  - "vinyl-siding"
+  - "good-to-know"
+  - "exterior"
 
 ---
-
-![Hyde Park Kansas City exterior paint cost kansas city crestwood painting](/images/imag0145.webp) This Hyde Park treasure cost about $8000 to paint.
-
 After making the decision to [paint the exterior](/exterior-painting-kansas-city/) of their home, Kansas City homeowners want to know about cost. The short answer is always "it depends" because there are so many factors involved.
+
+![Hyde Park Kansas City exterior paint cost kansas city crestwood painting](/images/imag0145.webp)
 
 Crestwood Painting has done a small ranch home in Westwood for $2200. We've also painted several large, older homes that ran about $15,000 and gem just off Ward Parkway was $24,000. In general, most homes are in the $6000 to $12,000 range. Here are some of the considerations:
 

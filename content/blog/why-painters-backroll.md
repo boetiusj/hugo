@@ -9,7 +9,7 @@ index: true
 image: "/images/spray.webp"
 categories:
   - "painting-tips"
-  - "spraying"
+  - "nitty-gritty"
   - "exterior"
 
 ---

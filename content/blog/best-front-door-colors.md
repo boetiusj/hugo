@@ -9,7 +9,6 @@ index: true
 image: /images/doors/fd-gloss.jpg
 categories:
   - exterior
-  - colors
   - front-door
 slug: front-door-colors
 ---

@@ -10,7 +10,7 @@ image: "/images/interior-trim.webp"
 categories:
   - "nitty-gritty"
   - "interior"
-  - "trim"
+  - "caulking"
 ---
 
 ![Interior Trim caulk gaps](/images/interior-trim.webp)Something we see quite often on [interior projects](/interior-painter-kansas-city/) is the different styles of interior carpentry and the effects that those styles have on a painted finish. Traditional styles tend to hide the effects of wood movement from

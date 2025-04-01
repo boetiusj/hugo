@@ -1,9 +1,9 @@
 --- 
 title: "12 Top Painter Questions"
-url: "12-questions"
+url: "12-questions-ask-painter"
 description: "Solid questions to ask a painter - so you BOTH know what to expect."
 keywords: "Painter questions"
-canonical: "https://crestwoodpainting.com/12-questions/"
+canonical: "https://crestwoodpainting.com/12-questions-ask-painter/"
 date: "2018-08-28"
 index: true
 ---

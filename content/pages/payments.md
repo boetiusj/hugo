@@ -10,7 +10,7 @@ index: true
 
 ## PayPal or Venmo - easy and secure
 
-<div class="row">
-    {{< paypal-form >}} - - -  
+<div class="row justify-content">
+    {{< paypal-form >}} - - -
     {{< figure src="/images/Venmo.webp" link="<https://venmo.com/?txn=pay&audience=private&recipients=@crestwood&note=Painting%20services/>" target="_self" alt="venmo payments" width="160">}}
 </div>

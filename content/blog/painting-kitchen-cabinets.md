@@ -8,7 +8,6 @@ date: "2013-02-18"
 index: true
 image: "/images/finished-kitchen.webp"
 categories:
-  - "cabinets"
   - "interior"
 
 ---

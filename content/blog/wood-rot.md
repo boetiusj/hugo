@@ -8,7 +8,6 @@ date: "2012-08-20"
 index: true
 image: "/images/woodrot.webp"
 categories:
-  - "painting-challenges"
   - "exterior"
 
 ---

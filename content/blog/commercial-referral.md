@@ -8,7 +8,6 @@ date: "2021-01-06"
 index: true
 image: "/images/brighton-gardens.webp"
 categories:
-  - "commercial"
   - "interior"
 
 ---

@@ -9,7 +9,7 @@ index: true
 image: "/images/sheen-stripes.webp"
 categories:
   - "good-to-know"
-  - "semi-gloss"
+  - "color-tips"
 
 ---
 ## Choosing Paint Sheen

@@ -8,10 +8,7 @@ date: "2013-02-11"
 index: true
 image: "/images/estimate-definition.webp"
 categories:
-  - "how-to-hire-painter"
-tags:
-  - "estimates"
-  - "online-reviews"
+  - "hiring-painters"
 
 ---
 

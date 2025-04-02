@@ -9,7 +9,6 @@ index: true
 image: "/images/peeling-exterior-paint-warranty.webp"
 categories:
   - "hiring-painters"
-  - "painting-insurance"
 
 ---
 

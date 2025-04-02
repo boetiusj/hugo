@@ -8,13 +8,8 @@ date: "2013-07-06"
 index: true
 image: "/images/interior/balusters.jpg"
 categories:
-  - "color-choices"
-tags:
-  - "bedroom"
-  - "color-consulting"
-  - "contrasting-colors"
-  - "interior-painting"
-  - "trim"
+  - "color-tips"
+  - "interior"
 
 ---
 

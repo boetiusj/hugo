@@ -8,13 +8,9 @@ date: "2013-05-20"
 index: true
 image: "/images/paint-colors-roof-colors.webp"
 categories:
-  - "color-choices"
-tags:
-  - "color-consulting"
-  - "contrasting-colors"
-  - "exterior-painting"
-  - "roof"
-  - "shingles"
+  - "color-tips"
+  - "exterior"
+
 
 ---
 

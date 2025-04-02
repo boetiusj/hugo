@@ -8,8 +8,7 @@ date: "2023-10-22"
 index: true
 image: /images/keep-it-simple.jpg
 categories:
-  - "business"
-  - "estimates"
+  - "good-to-know"
 ---
 ## Set Expectations
 

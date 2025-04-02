@@ -9,8 +9,8 @@ index: true
 image: /images/doors/fd-gloss.jpg
 categories:
   - exterior
-  - front-door
-slug: front-door-colors
+  - feel-good
+
 ---
 ## Front Doors: The Focal Point
 

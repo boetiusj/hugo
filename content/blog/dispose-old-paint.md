@@ -8,8 +8,7 @@ date: "2012-12-10"
 index: true
 image: "/images/oldpaintcans.webp"
 categories:
-  - "good-to-know"
-  - "paint-disposal"  
+  - "good-to-know" 
 
 ---
 ## How to Dispose of Old Paint

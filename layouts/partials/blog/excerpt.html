@@ -6,7 +6,7 @@
     <div class="blog-item-content bg-white p-4">
       {{ partial "blog/excerpt-meta" . }}
       <h3 class="mt-3 mb-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-      <p class="mb-4">{{ truncate 200 .Summary }}</p>
+      <p class="mb-4">{{ truncate 100 .Summary }}</p>
       
       <div class="mt-auto">
         <a href="{{ .RelPermalink }}" class="btn btn-small btn-main btn-round-full">Learn More</a>

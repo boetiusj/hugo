@@ -15,13 +15,11 @@ categories:
 
 Caulk is a vital part of any exterior painting or maintenance job, but sealing every gap or seam can do more harm than good if you don’t know where to draw the line.
 
-> If you seal the bottom edges and joints of soffits, any leak or overflow from gutters has nowhere to go.
-
-![caulk here but not there](/images/caulk-here.webp)
-
 ### Understanding Caulk’s Role
 
 Caulk is designed to seal joints around windows, doors, and trim. It prevents moisture infiltration and creates a seamless, unified look, especially on exterior surfaces. Because it smooths over gaps, cracks, and small crevices, caulk contributes significantly to a home’s curb appeal and structural integrity when used correctly.
+
+![caulk here but not there](/images/caulk-here.webp)
 
 ### Why Proper Caulking Matters
 
@@ -48,6 +46,8 @@ Soffits bridge the gap between a home’s exterior wall and the roofline. While 
 #### Think Like a Raindrop
 
 Water naturally follows the path of least resistance. If you seal the bottom edges and joints of soffits, any leak or overflow from gutters has nowhere to go. Over time, this can lead to pooling water that saturates the wood, defeating the entire purpose of moisture management. Instead, trust your roofing and gutter system to guide water away.
+
+> If you seal the bottom edges and joints of soffits, any leak or overflow from gutters has nowhere to go.
 
 #### Preventing Costly Issues
 

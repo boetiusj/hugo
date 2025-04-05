@@ -27,4 +27,9 @@ A paint chip is ink on paper, so it’s best to see how the paint color looks in
 7. When testing exterior colors, paint a large test board. See how it looks on all sides of the house.
 8. Stand back, and look at it from the street. Imagine how the color will “grow” when it’s magnified by square footage.
 
-If you feel overwhelmed looking at paint chips, take the guesswork out of choosing paint colors by working with a color consultant.
+Paint colors are 4 to 5 times more colorful outside than on a page or in shade.
+
+Whites look MUCH lighter outside than on the page, so pick a darker shade that won’t look stark outside. If we picked a white to match the vinyl windows, it would be too stark.
+
+In the context of light, white is considered the combination of all colors in the visible spectrum.
+And black is the absense of color.

@@ -41,8 +41,12 @@
       "style",
       "sub",
       "svg",
+      "table",
+      "td",
       "textarea",
+      "th",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [
@@ -95,6 +99,7 @@
       "col-xl-5",
       "collapse",
       "collapsed",
+      "color-cell",
       "contact-form-wrap",
       "contact__form",
       "container",
@@ -139,6 +144,7 @@
       "latest-post",
       "lead",
       "lh-36",
+      "light",
       "list-inline",
       "list-inline-item",
       "list-unstyled",
@@ -241,7 +247,8 @@
       "text-white-50",
       "video",
       "w-100",
-      "widget"
+      "widget",
+      "year-cell"
     ],
     "ids": [
       "1-bottom-edge-of-siding",

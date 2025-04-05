@@ -21,7 +21,7 @@ The "Color of the Year" can seem driven more by marketing hype than practicality
 
 ![color-of-the-year](/images/blog/color-matrix1-sm.png)
 
-The color choice is clearly subjective, with no clear pattern of agreement among manufacturers.
+You can see here that color choices are quite subjective, with no clear pattern of agreement among manufacturers.
 
 ### Personal Relevance
 

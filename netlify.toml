@@ -50,3 +50,7 @@ from = "/12-questions"
 to = "/12-questions-ask-painter"
 status = 301  
 
+[[redirects]]
+from = "/colors-relaxation"
+to = "/colors-interior"
+status = 301

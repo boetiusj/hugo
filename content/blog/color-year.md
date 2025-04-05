@@ -1,12 +1,12 @@
 ---
 title: "Color of the Year"
 url: "color-year"
-description: "Many paint and design companies select a color of the year with varying degrees of credibility. Sometime, they just goof."
-keywords: "color house painting kansas city crestwood"
+description: "Year after year, experts cannot agree on a color trend."
+keywords: "color house painting"
 canonical: "https://crestwoodpainting.com/color-year/"
 date: "2014-01-17"
 index: true
-image: "/images/color-year.webp"
+image: "/images/blog/color-matrix1-sm.png"
 categories:
   - "color-tips"
 
@@ -19,7 +19,7 @@ The annual "Color of the Year" can influence trends, but homeowners should consi
 
 The "Color of the Year" can seem driven more by marketing hype than practicality. While it generates conversation and inspiration, it may not be suitable for everyone’s home.
 
-![color-of-the-year](/images/blog/color-matrix/)
+![color-of-the-year](/images/blog/color-matrix1-sm.png)
 
 The color choice is clearly subjective, with no clear pattern of agreement among manufacturers.
 

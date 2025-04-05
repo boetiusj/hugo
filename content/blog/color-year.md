@@ -11,17 +11,17 @@ categories:
   - "color-tips"
 
 ---
-## Why "Color of the Year" Matters (Or Doesn't)
+## Why It Matters (Or Doesn't)
 
 The annual "Color of the Year" can influence trends, but homeowners should consider whether it truly fits their personal style.
+
+![color-of-the-year](/images/blog/color-matrix1-sm.png)
 
 ### The Marketing Effect
 
 The "Color of the Year" can seem driven more by marketing hype than practicality. While it generates conversation and inspiration, it may not be suitable for everyone’s home.
 
-![color-of-the-year](/images/blog/color-matrix1-sm.png)
-
-You can see here that color choices are quite subjective, with no clear pattern of agreement among manufacturers.
+You can see here that color choices are quite subjective - every manufacturer has it's own crew of seers with opinions. And there is no clear pattern of agreement among the manufacturers.
 
 ### Personal Relevance
 

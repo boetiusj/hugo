@@ -12,13 +12,11 @@ categories:
   - "color-tips"
 
 ---
-## Choosing Paint Sheen
-
 When considering how to choose paint sheen, it’s essential to recognize that sheen is as important as color, influencing both appearance and practicality.
 
 ![living room](/images/interior/lr-lighted-shelves.jpg)
 
-### Understanding Light Reflectance
+## Light Reflectance & Sheen
 
 Paint sheen refers to the level of light a surface bounces back into a space. You might wonder, is paint sheen important? Absolutely—higher sheens, like gloss and semi-gloss, reflect more light for a bright, polished look, while flatter sheens absorb light to create a softer effect. This interplay of shine and absorption significantly shapes a room’s ambiance or a home’s exterior impression.
 

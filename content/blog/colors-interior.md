@@ -6,7 +6,7 @@ keywords: "paint colors interior"
 canonical: "https://crestwoodpainting.com/colors-interior/"
 date: "2013-02-27"
 index: true
-image: "/images/interior/balusters.jpg"
+image: "/images/interior/green-walls.jpg"
 categories:
   - "color-tips"
   - "interior"
@@ -20,7 +20,7 @@ Colors influence mood, comfort, and the overall atmosphere of your living space.
 
 Different colors evoke various emotions—blue can be calming, yellow cheerful, and red stimulating. When selecting interior colors, think about the mood you want to create.
 
-![Interior paint colors neutral crestwood](/images/interior/balusters.jpg) Neutral colors in a traditional home.
+![green walls](images/interior/green-walls.jpg)
 
 ### Personal Preferences Matter
 

@@ -34,7 +34,7 @@ faqs:
   - question: What about lead paint?
     id: lead
     answer: |
-      The [EPA's lead brochure](https://www.epa.gov/lead/renovate-right-important-lead-hazard-information-families-child-care-providers-and-schools) is a good overview. For exterior painting, options run from ignoring the hazard up to workers in HazMat suits. As a practical matter, light scraping followed by the right primer is the route taken most often. Restoration (complete removal of all old paint) is costly and is usually only considered for small areas.
+      The [EPA's lead brochure](https://www.epa.gov/lead/renovate-right-important-lead-hazard-information-families-child-care-providers-and-schools) is a good overview.
 
   - question: How long should a paint job last?
     id: howlong
@@ -61,7 +61,7 @@ faqs:
   - question: What color for the front door?
     id: front-door
     answer: |
-      Here's an oldie-but-goodie. Photograph the front of your house filling as much of the frame as you can. Cut out the front door with an exacto knife and hold the picture against enough color chips until you find the perfect color. Easy trial and error and no brush cleaning!
+      Here's an oldie-but-goodie. Photograph the front of your house filling as much of the frame as you can. Cut out the front door with an exacto knife and hold the picture against enough color chips until you find the perfect color. Easy trial and error and no brush cleaning! There's a more thorough overview of [front door colors here.](/best-front-door-colors/)
 
   - question: What is the best way to apply paint?
     id: apply-paint

@@ -11,12 +11,11 @@ categories:
   - "good-to-know" 
 
 ---
-## How to Dispose of Old Paint
-Properly dealing with leftover paint not only keeps your home clutter-free but also safeguards the environment from hazardous chemicals. Whether you’ve just finished an [interior painting](/interior-painter-kansas-city/) project or wrapped up some [exterior painting info](/exterior-painting-kansas-city/), understanding how to handle old paint cans is crucial.
+Properly dealing with leftover paint not only keeps your home clutter-free but also safeguards the environment from hazardous chemicals. Whether you’ve just finished an interior project or wrapped up some exterior touch-up, understanding how to safely handle old paint is important.
 
 ![Old Paint - Disposal](/images/oldpaintcans.webp)
 
-### The Common Dilemma
+## The Leftover Paint Dilemma
 Storing old paint in basements or garages might seem harmless, but eventually those cans pile up. Disposing of them carelessly can lead to legal and environmental problems. If you still have paint questions, take a look at our [FAQs here](/faqs/) for additional insights.
 
 ### Keep a Little for Touch-Ups
@@ -64,4 +63,4 @@ If you’re looking for more ways to make your next painting project a success�
 
 At Crestwood Painting, we’re committed to delivering top-quality work and eco-friendly practices. Keeping leftover paint out of landfills and waterways is just another way we help protect our community. If you have any questions or want to explore your next project, let’s talk!  
 
-![customr review](/images/reviews/r25-3-deanr.png)
+![customer review](/images/reviews/r25-3-deanr.png)

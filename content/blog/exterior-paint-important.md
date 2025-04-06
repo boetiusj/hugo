@@ -2,7 +2,7 @@
 title: "Why are Exterior Paint Colors Important?"
 url: "exterior-paint-important"
 description: "A color consultant will make short work of exterior color selection while minimizing DIY risks."
-keywords: "paint colors exterior kansas city crestwood"
+keywords: "paint colors exterior crestwood"
 canonical: "https://crestwoodpainting.com/exterior-paint-important/"
 date: "2013-09-04"
 index: true

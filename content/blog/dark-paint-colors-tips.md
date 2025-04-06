@@ -11,21 +11,19 @@ categories:
   - "color-tips"
 
 ---
-## Tips for Dark Paint Colors
-
 Deep, vibrant paint colors can transform a room with dramatic flair, but you might be wondering how many coats of paint does it take to get that full, even coverage. As it turns out, extra steps and careful planning are often necessary for rich, saturated shades.
 
 ![Paint colors - deep base](/images/duration.jpg)
 
-### Why Deep Colors Don’t Cover as Well
+## Why Deep Colors Don’t Cover as Well
 
 Dark or intense shades like chocolate brown or burgundy require more tint in the formula, which reduces the space for coverage-boosting ingredients. This leads to diminished hiding power and reveals the old color underneath after the first coat or two. If you’ve ever experienced red paint challenges, you know how frustrating multiple coats can be when the color just won’t seem to settle.
 
 ### Coverage Challenges and Solutions
 
-Some hues, such as electric blue, raise immediate questions like is canary yellow tough to cover? The answer is often yes. Bright colors rely on large amounts of tint, making it harder to mask the existing surface.
+Some hues, such as electric blue or canary yellow, raise immediate questions - will this be tough to cover? The answer is often yes. Bright colors rely on large amounts of tint, making it harder to mask the existing surface.
 
-> Paint has limited space in the can. The higher the tint requirement, the less room there is for key ingredients that provide coverage. This balancing act explains why deeper hues often demand extra coats, whether it’s a deep burgundy or a glowing canary yellow.
+> There's only room for 128oz in a paint can. Deep colors need much more tint so there's less room for key ingredients that provide coverage. This balancing act explains why deeper hues often demand extra coats, whether it’s a Fire Engine Red or a shining Chartreuse.
 
 #### Choosing the Right Tools
 
@@ -83,7 +81,7 @@ For a deeper dive into this crucial ingredient, search for more about titanium d
 
 ### Different Paint Bases
 
-Manufacturers create various bases, each intended for a specific color range. If you pick a hue outside of one base’s capacity, the store or contractor may switch to another product line or base.
+Manufacturers create various bases, each intended for a specific color range. If you pick a hue outside of one base’s capacity, you may need to switch to another product line or base.
 
 #### Light vs. Dark Base
 

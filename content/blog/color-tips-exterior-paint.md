@@ -12,6 +12,10 @@ categories:
   - "exterior"
 
 ---
+Brick and roof colors, landscaping and even your neighbor's house color - these can all factor in when choosing colors for your home.
+
+![exterior paint colors](/images/exterior/stucco-stone.jpg)
+
 ## Choosing Exterior Colors to Match Your Home’s Style
 
 Exterior paint colors should complement your home’s unique architectural style.
@@ -72,7 +76,7 @@ For more ideas, explore our guide on the [best front door colors](/best-front-do
 
 Small-scale paint tests help ensure your final choice looks perfect in all conditions.
 
-![exterior paint colors kansas city](/images/StewartAfter_opt.jpg )
+![exterior paint colors kansas city](/images/stewartafter-opt-650208941d847.webp)
 
 ### Observing at Different Times
 
@@ -108,7 +112,7 @@ Regularly inspect your exterior for signs of wear like peeling, chipping, or fad
 
 ### Timely Refreshes
 
-Plan to repaint every 7-10 years, depending on your climate and paint quality. Keeping your paint fresh enhances your home's curb appeal and prevents deterioration.
+Plan to repaint every 10-15 years, depending on all the many variables. Keeping your paint fresh enhances your home's curb appeal and prevents deterioration.
 
 Review our [customer reviews](/reviews/) to see how homeowners maintain beautiful exteriors.
 

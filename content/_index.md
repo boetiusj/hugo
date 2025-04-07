@@ -19,7 +19,7 @@ intro:
   values: # or benefits/qualities
     - title: Lasting Exteriors
       summary: "Durable protection for homes new, old and mid-century. Commercial buildings too."
-      svcimg: /images/exterior/mission-rd-500-1.jpg
+      svcimg: /images/stucco-ornate-entry500.jpg
       link: /exterior-painting-kansas-city/
     - title: Comfy Interiors
       summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."

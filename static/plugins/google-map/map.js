@@ -248,12 +248,12 @@ function initialize() {
   map.setMapTypeId('grey');
   var marker_image = mapMarker;
   var pinIcon = new google.maps.MarkerImage(marker_image, null, null, null, new google.maps.Size(46, 40));
-  marker = new google.maps.Marker({
+  marker = new google.maps.marker.AdvancedMarkerElement({
     position: nottingham,
     map: map,
     icon: pinIcon,
-    title: mapMarkerName
-  })
+    title: mapMarkerName,
+  });
 }
 var map = document.getElementById('map');
 if (map != null) {

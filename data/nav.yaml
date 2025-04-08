@@ -23,7 +23,7 @@
     - name: "Office Experts"
       url: "/office-painting-experts/"
 - name: "Contact"
-  url: "/contact/"
+  url: "#"
   submenu:
     - name: "Email Us"
       url: "/contact/"

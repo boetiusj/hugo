@@ -11,7 +11,6 @@ categories:
   - "good-to-know"
 
 ---
-
 A homeowner asked about touch-up painting for trim and kitchen cabinets - this explanation really clicked for her.
 
 Nails usually follow a three step process:

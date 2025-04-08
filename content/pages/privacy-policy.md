@@ -6,7 +6,6 @@ keywords: privacy policy, Crestwood Painting
 canonical: https://crestwoodpainting.com/privacy-policy/
 date: 2012-09-07
 index: true
-slug: privacy-policy
 ---
 ## Our Privacy Policy
 

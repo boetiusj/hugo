@@ -5,7 +5,7 @@ description: "Warranty information - how Crestwood Painting customers are protec
 keywords: "painting warranty kansas city"
 canonical: "https://crestwoodpainting.com/warranty/"
 date: "2011-09-18"
-index: false
+index: true
 ---
 
 ## Warranty Information

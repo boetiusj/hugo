@@ -273,7 +273,7 @@ a:focus {
 }
 
 .page-title {
-  padding: 100px 0;
+  padding: 60px 0; /* changed from 100px */
   @extend .overly;
   .block {
     h1 {

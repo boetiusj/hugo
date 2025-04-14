@@ -54,3 +54,8 @@ status = 301
 from = "/colors-relaxation"
 to = "/colors-interior"
 status = 301
+
+[[redirects]]
+from = "/exterior-paint-important/"
+to = "/color-tips-exterior-paint"
+status = 301

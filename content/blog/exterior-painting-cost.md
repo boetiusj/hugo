@@ -6,7 +6,7 @@ keywords: "cost"
 canonical: "https://crestwoodpainting.com/exterior-painting-cost"
 date: "2013-03-04"
 index: true
-image: "/images/imag0145.webp"
+image: "/images/exterior/ranch-white.jpg"
 categories:
   - "good-to-know"
   - "exterior"
@@ -18,7 +18,7 @@ After deciding to paint, the next question is always cost—and the answer is us
 
 Prices vary widely depending on the home’s size, condition, and architectural complexity.
 
-![Hyde Park Kansas City exterior paint cost kansas city crestwood painting](/images/imag0145.webp)
+![exterior paint cost](/images/exterior/tudor-brick.jpg)
 
 ### Smaller Homes vs. Larger Projects
 
@@ -28,7 +28,7 @@ Crestwood Painting has painted cozy ranch homes for as little as $4500. At the o
 
 The majority of homes in Kansas City land between $7,000 and $15,000. Factors like height, trim detail, and color scheme play a big role in that range.
 
-> Our historical data shows that most high-quality exterior paints last upwards of 15 years when applied over properly prepped surfaces.
+> Our historical data shows that our process and materials last upwards of 15 years when applied over properly prepped surfaces.
 
 ### Neighborhood Styles Vary
 
@@ -38,8 +38,6 @@ Whether it’s a Roeland Park bungalow, a Brookside Tudor, or a multi-level home
 
 Older homes tend to need more prep, and they often include decorative elements like brackets and shutters. When you're working with 100-year-old wood siding and ornate trim, it’s reasonable to anticipate a bit more time and cost.
 
-> Think about all the elements needing paint—from soffits to siding, trim to decorative pieces.
-
 ## Surface Material Makes a Big Difference
 
 Different materials call for different prep techniques and paint systems.
@@ -47,6 +45,8 @@ Different materials call for different prep techniques and paint systems.
 ### James Hardie Siding
 
 Fiber cement siding like James Hardie is extremely durable but still benefits from proper surface prep and paint selection. While not as labor-intensive as wood, care must be taken with caulking and surface cleaning before painting.
+
+![exterior paint cost](/assets/images/exterior/ranch-white.jpg)
 
 ### Shake Shingles and Cedar Clapboard Siding
 

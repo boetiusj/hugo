@@ -12,20 +12,116 @@ categories:
   - "exterior"
 
 ---
-After making the decision to [paint the exterior](/exterior-painting-kansas-city/) of their home, Kansas City homeowners want to know about cost. The short answer is always "it depends" because there are so many factors involved.
+After deciding to paint, the next question is always cost—and the answer is usually “it depends.”
+
+## How Much Does Exterior Painting Cost in Kansas City?
+
+Prices vary widely depending on the home’s size, condition, and architectural complexity.
 
 ![Hyde Park Kansas City exterior paint cost kansas city crestwood painting](/images/imag0145.webp)
 
-Crestwood Painting has done a small ranch home in Westwood for $2200. We've also painted several large, older homes that ran about $15,000 and gem just off Ward Parkway was $24,000. In general, most homes are in the $6000 to $12,000 range. Here are some of the considerations:
+### Smaller Homes vs. Larger Projects
 
-- Material - if we're painting vinyl or aluminum siding it only needs to be washed. But [cedar clapboards](/painting-shake-shingles/), on the other hand, require hand scraping of every square inch of exposed surface.
-- Prep - A home in poor condition requires more prep work than one in good condition. Prep work take time; more time certainly affects cost - something to keep in mind when considering an attractive lower price.
-- Colors I - [Each color](/exterior-paint-important/) adds to the complexity of the overall project and each color means another trip up the ladder. A mid-century ranch house is fine with 3 colors;  a classic Craftsman might require five colors to properly highlight the architectural details.
+Crestwood Painting has painted small ranch homes for as little as $2,200. At the other end of the spectrum, we’ve worked on large historic homes off Ward Parkway with costs reaching $24,000.
 
-  >![paint house exterior kansas city crestwood painting](/images/ranch-house.webp) Smaller houses cost less to paint.
+### Most Homes Fall in the Middle
 
-- Colors II - Poor quality paint doesn't cover very well. Some painters charge more for a color change (e.g. dark blue over white). If that's the case you might ask that painter about product choice.
-- Details I - Shutters are often an accent color. If shutters can be easily removed there's no problem; if plastic shutters are fixed with pound-in-never-come-out plastic anchors it might be necessary to leave them in place and paint around them.
-- Details II - Corbels, brackets and crown molding are all often painted an accent color. Each can make the whole more impressive and each of these features requires care and attention to bring out the overall look.
+The majority of homes in Kansas City land between $6,000 and $12,000. Factors like height, trim detail, and color scheme play a big role in that range.
 
-Making the right decision for your home is easier when you have good information. Let us know if we can help!
+### Neighborhood Styles Vary
+
+Kansas City’s housing stock ranges from modest bungalows in Roeland Park to classic Tudors in Brookside. Each brings its own prep requirements, access challenges, and detail work.
+
+### Historic Homes Require More
+
+Older homes tend to need more prep, and they often include decorative elements like brackets and shutters. Expect a higher price tag when you're dealing with 100-year-old wood siding and ornate trim.
+
+> Think about all the elements needing paint—from soffits to siding, trim to decorative pieces.
+
+## Surface Material Makes a Big Difference
+
+Different materials call for different prep techniques and paint systems.
+
+### James Hardie Siding
+
+Fiber cement siding like James Hardie is extremely durable but still benefits from proper surface prep and paint selection. While not as labor-intensive as wood, care must be taken with caulking and surface cleaning before painting.
+
+### Shake Shingles and Cedar Clapboard Siding
+
+[Shake shingles and cedar clapboards](/painting-shake-shingles/) need more attention. Removing old paint, cleaning in grooves and edges, and ensuring proper priming of exposed wood all add to the scope—and cost—of the project.
+
+## The Power of Prep Work
+
+Proper preparation leads to longer-lasting results—but it also impacts the budget.
+
+### House Washing and Surface Cleaning
+
+Before anything else, the surface must be clean. A thorough house wash removes mildew, dirt, and chalky residue so paint adheres properly.
+
+### Removing Loose Paint, Priming, and Sealing
+
+Loose or peeling paint must be removed. Any bare wood needs to be primed, and all gaps sealed with caulk to prevent moisture intrusion. These steps are crucial for long-term durability.
+
+> Prep is where most of the labor happens—and it’s also where lasting value begins.
+
+## More Colors, More Cost
+
+Each additional paint color adds complexity, especially on homes with detailed trim.
+
+![paint house exterior kansas city crestwood painting](/images/ranch-house.webp)
+
+### Architectural Styles Influence Color Needs
+
+A mid-century home might use three colors: siding, trim, and shutters. A classic Craftsman or Queen Anne could easily require four or five to highlight features like corbels, beams, or dentil molding.
+
+> Our historical data shows that most high-quality exterior paints last upwards of 15 years when applied over properly prepped surfaces.
+
+### Dark Over Light (and Vice Versa)
+
+Changing from white to navy or forest green to beige can be dramatic—but not necessarily more expensive. Products like Sherwin-Williams Duration cover extremely well, often in a single coat when applied properly.
+
+### Ask About Product Choice
+
+If you’re planning a big color shift, talk with your painter about the best way to approach coverage. Testing a few sample areas (see our [how to test paint colors](/how-to-test-paint-colors/) guide) is a smart move before committing.
+
+## Trim, Shutters, and Architectural Details
+
+Details make a home stand out—but they also require extra time and care.
+
+### Removable vs. Fixed Shutters
+
+When shutters are attached with screws, they can usually be removed for painting. But plastic shutters secured with pound-in anchors are best left in place and painted around to avoid breakage or siding damage.
+
+### Bracketed Eaves, Corbels, and Trim Accents
+
+Decorative features like brackets and crown molding usually require precise brushwork. They often get accent colors, meaning more prep, more cutting-in, and more ladder work.
+
+## Choosing the Right Products
+
+The right paint delivers better results with fewer coats and longer durability.
+
+### Premium Paint Pays Off
+
+Sherwin-Williams Duration is a standout option for exterior surfaces. It offers excellent adhesion, durability, and color retention—especially in the Kansas City climate.
+
+### Performance Backed by Data
+
+Our historical data shows that most high-quality exterior paints last upwards of 15 years when applied over properly prepped surfaces. Investing in better paint means longer intervals between repainting and better-looking results throughout.
+
+## Making a Smart Plan for Your Exterior Project
+
+A little planning goes a long way toward a smoother experience and better results.
+
+### Ask Good Questions Early
+
+Not all painters prep the same way. Ask what kind of primer they use, if they caulk everything, and how they handle loose paint. If you’re unsure where to start, see our [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/).
+
+### Think Beyond the Paint
+
+A fresh coat of paint is a great time to update other features. Now might be the moment to refresh your [vinyl window trim color](/vinyl-window-trim-color/) or choose one of our [best front door colors](/best-front-door-colors/) for a bold entryway.
+
+## Ready to Start? Let’s Talk
+
+You can [book an estimate](/book-us/) online by choosing a time that works best for you. The meeting usually takes 30 minutes or less, and there’s no pressure—just straightforward answers and advice tailored to your home.
+
+![customer review](/images/reviews/r20-3-jamest.png)

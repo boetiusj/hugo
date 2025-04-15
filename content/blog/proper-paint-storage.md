@@ -11,32 +11,99 @@ categories:
   - "good-to-know"
 
 ---
-The leftover (latex) paint in your basement will, sooner or later, become a disposal problem. Here's how to make sure your next can of paint remains in usable condition.
-
-![paint storage](/images/leftover-paint.webp) Properly stored paint can last many years.
-
 As a general rule of thumb, if a can of paint is less than one third full it is not worth storing - leave the lid off and let it dry completely. Then, leave it out with your household trash - dry paint is considered disposable household trash.
 
-> Important to note: liquid paint is considered hazardous waste and must be disposed of accordingly - the Jackson County Household [Hazardous Waste Disposal](https://www.jacksongov.org/Residents/Home-and-Family/Household-Hazardous-Waste-Disposal) facility is a great option.
+## Why Paint Storage Matters
 
-Paint should always be stored indoors so that it can not freeze. If it has ever frozen, it is now toast.  A good test for frozen paint: stir it. Stir-able paint should be OK, if it feels like a brick it's probably been frozen.
+Leftover paint can be a problem or a solution—depending on how you store it.
 
-### The How's
+Most homes have a few partially used cans of paint sitting in a corner or shelf. Whether you’re planning to touch up trim or repaint a whole room, proper storage can mean the difference between usable paint and a hazardous mess.
+
+![paint storage](/images/leftover-paint.webp)
+
+Done right, a can of latex paint can last for years. Done wrong, it becomes unusable—and eventually a disposal issue.
+
+## When Is Paint Worth Saving?
+
+Less than a third of a can? Let it dry and toss it out with the regular trash.
+
+If you’ve just finished a project and have a few inches left in the can, it might not be worth the effort to save it. Paint that’s nearly empty dries out faster—even in a sealed container.
+
+Let the leftover paint dry completely with the lid off, then dispose of it with your regular household trash. Dried latex paint is not considered hazardous waste.
+
+> Important: Liquid paint is hazardous waste and must be taken to a facility like the [Jackson County Household Hazardous Waste Disposal](https://www.jacksongov.org/Residents/Home-and-Family/Household-Hazardous-Waste-Disposal) site.
+
+## Paint That’s Gone Bad
+
+Freezing, separating, or thickening? Here’s how to tell if your old paint is toast.
+
+Latex paint should never be stored where it can freeze. If the can has been through a winter in the garage, there’s a good chance it’s no longer usable.
+
+### Stir-Test First
+
+If the paint stirs smoothly and consistently, you’re probably fine. If it feels like you’re trying to mix a frozen milkshake—or worse, a paint brick—it's time to toss it.
+
+### What About Odor?
+
+If your paint smells sour or has a strange film on top, that’s another clear sign it's gone bad. Don’t use it—even if it technically spreads—it won’t cure properly.
+
+## How to Store Paint Properly
+
+A few simple steps can dramatically increase the shelf life of your leftover paint.
+
+The goal is to keep air and contaminants out while preventing temperature swings.
+
+### Step-by-Step Storage Tips
 
 1. Cover the opening of the can with plastic wrap
-2. Put the lid on securely
-3. Store the can upside down
+2. Clean the gutter and the lid thoroughly
+3. Seal the lid by pressing firmly all the way around—avoid hammering  
+4. Store the can upside down
 
-### The Why's
+### Bonus Tip: Remove Oxygen
 
-Plastic wrap will keep paint out of the "gutter" at the top of the can and will keep paint from drying on the lid. It's best to plan ahead: as soon as you open the can that will likely be leftover, wash the lid and use a pour spout to keep the gutter clean. Plastic wrap will also keep the lid from contacting the can where corrosion can start. See the photo.
+Right before sealing the can, exhale slowly into it. That replaces some of the oxygen with CO₂, which slows down drying.
 
-Now, before the lid goes on us committed Paint Geeks will exhale long and slow into the can. This will displace oxygen (dries paint) with CO2 (not so much).
+## Why These Storage Tips Work
 
-_Now,_ the lid - securely. Thumb-pressing is adequate; hammering is excessive and will usually damage the seal.
+Plastic wrap, upside-down storage, and clean lids aren’t fussy—they’re functional.
 
-Finally, upside down storage means the paint in the can seals the lid, making premature drying that much less likely.
+Plastic wrap keeps paint out of the gutter at the top of the can. This prevents crust from forming around the rim and keeps the seal clean.
 
-Industry experts acknowledge that just about 0% of the paint stored in your basement is likely to ever see the light of day, so the whole storage thing may be a triumph of Hope over Reason. At least now you've got reason to hope that your paint will remain in usable condition.
+Storing the can upside down helps the paint form its own seal at the lid. It’s one more way to keep oxygen out and extend the life of the product inside.
 
-Still not sure if it's usable? Give us a call - we'd be happy to take a look. Thanks!
+## Indoor Storage Only
+
+Paint should always be stored where it can’t freeze or overheat—your garage isn’t ideal.
+
+Basements are usually better than garages, especially in the Midwest where winter lows and summer highs can wreak havoc on paint. High heat can also cause separation or thickening.
+
+Aim for a space that’s dry, temperate, and out of reach of pets or kids. If a room is too hot for your electronics, it’s too hot for your paint.
+
+## Let’s Be Honest: Will You Use It Again?
+
+Most saved paint never gets reused—but good storage gives you the option.
+
+Industry experts estimate that almost none of the paint stored in American basements ever gets reopened. But if you plan ahead, keep records, and store it properly, that extra quart can be a real time-saver.
+
+### Label Everything
+
+Write the room name, paint brand, finish, and date on the can—or better yet, on masking tape across the lid. That way, when you're wondering what white you used on the dining room trim, the answer is waiting.
+
+### Use in Small Touch-Ups
+
+Touch-up work can be tricky (see our [tips for painting trim](/tips-for-painting-trim/)), but properly stored paint can help when done right. For best results, review our thoughts on [how to test paint colors](/how-to-test-paint-colors/) before committing to a full repaint.
+
+## Still Not Sure? We Can Help
+
+When in doubt, we’re happy to take a look and offer advice.
+
+If you’re unsure whether your paint is salvageable—or what to do next—feel free to ask. We can help assess what’s usable, what’s worth saving, and how best to move forward.
+
+Before your next job, review our [top 4 questions for a productive painting estimate](/top-4-questions-painting-estimate/), browse our [interior](/interior-painter-kansas-city/) project ideas, or see what others have to say on our [customer reviews](/reviews/) page.
+
+## Book a Quick Estimate
+
+Whether it’s time for a refresh or you just have questions, you can [book an estimate](/book-us/) using our simple online form. The meeting usually takes 30 minutes or less and gives you helpful insight with no pressure.
+
+![customer review](/assets/images/reviews/r23-5-lanee.png)

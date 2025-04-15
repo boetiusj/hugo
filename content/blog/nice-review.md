@@ -6,13 +6,18 @@ keywords: "painter review, kansas city, crestwood painting"
 canonical: "https://crestwoodpainting.com/nice-review/"
 date: "2013-07-01"
 index: true
-image: "/images/online-reviews.webp"
+image: "/images/reviews/r23-4-karenp.png"
 categories:
   - "feel-good"
 
 ---
+> Everyone I encountered was very friendly and easy to work with. I admit that I was a particularly difficult customer, for a variety of reasons, but Crestwood took all the flak I and my realtor could throw at them in stride.
+
+## This Was a Nice Surprise
 
 This was a review of the painting work we did for a new homeowner. Realtors had a very involved deal and rainy weather made this a bit of a challenge but the rain eventually stopped, the [exterior painting](/exterior-painting-kansas-city/) was soon completed and the homeowner is quite delighted!
+
+### Quoted Here
 
 "Crestwood Painting is an excellent example of getting what you pay for. While they were our most expensive estimate by a solid 20% over the next-highest competitor, I would absolutely (and likely will, down the line) use them again. We took a bit of a chance and chose them based on their stellar reputation and my excellent first impression during the initial estimate. I'm glad we made the choice we did. I heartily recommend their services.
 
@@ -26,4 +31,6 @@ Overall, Crestwood Painting is the outfit to contact if you want your painting d
 
 Our painters take pride in their good work, but their reward is all the more special when the happy customer is so appreciative.
 
-Are you ready for an outstanding contractor experience? Give us a call!
+Are you ready for an outstanding contractor experience? [Book an Estimate](/book-us/) and let's have a chat.
+
+![customer review](/images/reviews/r23-4-karenp.png)

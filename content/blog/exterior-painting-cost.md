@@ -46,7 +46,7 @@ Different materials call for different prep techniques and paint systems.
 
 Fiber cement siding like James Hardie is extremely durable but still benefits from proper surface prep and paint selection. While not as labor-intensive as wood, care must be taken with caulking and surface cleaning before painting.
 
-![exterior paint cost](/assets/images/exterior/ranch-white.jpg)
+![exterior paint cost](/images/exterior/ranch-white.jpg)
 
 ### Shake Shingles and Cedar Clapboard Siding
 

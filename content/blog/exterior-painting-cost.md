@@ -22,19 +22,21 @@ Prices vary widely depending on the home’s size, condition, and architectural 
 
 ### Smaller Homes vs. Larger Projects
 
-Crestwood Painting has painted small ranch homes for as little as $2,200. At the other end of the spectrum, we’ve worked on large historic homes off Ward Parkway with costs reaching $24,000.
+Crestwood Painting has painted cozy ranch homes for as little as $4500. At the other end of the spectrum, we’ve worked on Ward Parkway historic gems that can reach $35,000.
 
 ### Most Homes Fall in the Middle
 
-The majority of homes in Kansas City land between $6,000 and $12,000. Factors like height, trim detail, and color scheme play a big role in that range.
+The majority of homes in Kansas City land between $7,000 and $15,000. Factors like height, trim detail, and color scheme play a big role in that range.
+
+> Our historical data shows that most high-quality exterior paints last upwards of 15 years when applied over properly prepped surfaces.
 
 ### Neighborhood Styles Vary
 
-Kansas City’s housing stock ranges from modest bungalows in Roeland Park to classic Tudors in Brookside. Each brings its own prep requirements, access challenges, and detail work.
+Whether it’s a Roeland Park bungalow, a Brookside Tudor, or a multi-level home with wraparound porches, each Kansas City house has its special qualities. Prep work, accessibility, and fine details vary more than you might think.
 
 ### Historic Homes Require More
 
-Older homes tend to need more prep, and they often include decorative elements like brackets and shutters. Expect a higher price tag when you're dealing with 100-year-old wood siding and ornate trim.
+Older homes tend to need more prep, and they often include decorative elements like brackets and shutters. When you're working with 100-year-old wood siding and ornate trim, it’s reasonable to anticipate a bit more time and cost.
 
 > Think about all the elements needing paint—from soffits to siding, trim to decorative pieces.
 
@@ -73,8 +75,6 @@ Each additional paint color adds complexity, especially on homes with detailed t
 ### Architectural Styles Influence Color Needs
 
 A mid-century home might use three colors: siding, trim, and shutters. A classic Craftsman or Queen Anne could easily require four or five to highlight features like corbels, beams, or dentil molding.
-
-> Our historical data shows that most high-quality exterior paints last upwards of 15 years when applied over properly prepped surfaces.
 
 ### Dark Over Light (and Vice Versa)
 

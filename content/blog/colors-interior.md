@@ -12,11 +12,9 @@ categories:
   - "interior"
 
 ---
+Colors influence mood, comfort, and the overall atmosphere of your living space. Windows, direction, room size and furniture all play a roll.
+
 ## Understanding Color Psychology in Your Home
-
-Colors influence mood, comfort, and the overall atmosphere of your living space.
-
-### Emotional Impact of Colors
 
 Different colors evoke various emotions—blue can be calming, yellow cheerful, and red stimulating. When selecting interior colors, think about the mood you want to create.
 

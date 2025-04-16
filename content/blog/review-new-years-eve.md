@@ -11,9 +11,9 @@ categories:
   - "feel-good"
   
 ---
-## Feedback on New Year's Eve
+This was a nice treat on New Years Eve - very kind and thoughtful words from a lady that _didn't_ hire us!
 
-This was a nice treat on New Years Eve - positive feedback from a lady that _didn't_ hire us! The Proposal was sent in February, last contact was mid-March. Then, the note below arrived out of the blue - on December 31st! Fortunately, Crestwood Painting customers don't have this kind of experience.
+The Proposal was sent in February, last contact was mid-March. Then, the note below arrived out of the blue - on December 31st! Fortunately, Crestwood Painting customers don't have this kind of experience.
 
 ![crestwood yard sign](/images/other/yard-sign.jpg)
 

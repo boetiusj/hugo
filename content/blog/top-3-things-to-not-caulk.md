@@ -11,7 +11,7 @@ categories:
   - "nitty-gritty"
 
 ---
-## Top 3 Things NOT to Caulk
+## Caulk Do's & Don'ts
 
 Caulk is a vital part of any exterior painting or maintenance job, but sealing every gap or seam can do more harm than good if you don’t know where to draw the line.
 

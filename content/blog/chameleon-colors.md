@@ -11,7 +11,7 @@ categories:
   - "interior"
 
 ---
-## Chameleon Colors
+## Colors Change
 
 Paint colors often behave like chameleons, shifting their appearance as the light changes throughout the day. Homeowners are sometimes astonished at how a shade that looks pale green at noon can appear closer to yellow by evening or under warm incandescent bulbs.
 

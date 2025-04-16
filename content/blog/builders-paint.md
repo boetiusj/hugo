@@ -11,13 +11,17 @@ categories:
   - "nitty-gritty"
 
 ---
-## Builders Paint: A Reputation Earned
+Walls with builders paint look shabby; trim with builders paint feels sticky and yucky.
+
+## An Earned Reputation
 
 You’ve probably seen it: walls painted in dull grays or muted tans that seem to show every scuff, streak, and fingerprint. That’s “builders paint” — and while it may look fine on day one, it rarely holds up under real-world use.
 
 ![burnish builders paint](/images/interior/burnish.webp)
 
 Often found in new construction homes and renovation flips around Kansas City, builders paint is chosen for one reason: it’s cheap. And homeowners are usually the ones left to deal with the consequences.
+
+> You grab a sponge, give it a gentle wipe—and now there’s a clean spot that looks worse than the dirt ever did. That’s because builders paint isn't designed to be cleaned.
 
 ### Why Builders Use It
 
@@ -28,8 +32,6 @@ In the world of new construction and remodeling, speed and cost are everything. 
 These products are low in solids (resins and pigments) and high in water. Less material in the can means a thinner, weaker coating on the wall. It dries quickly, looks decent from a distance, and costs very little. Perfect for closing day—but not for long-term living.
 
 And since the homeowner rarely has a say in the brand or finish, most people don't realize they’ve inherited a problem until the paint starts failing.
-
-> You grab a sponge, give it a gentle wipe—and now there’s a clean spot that looks worse than the dirt ever did. That’s because builders paint isn't designed to be cleaned.
 
 ### Poor Coverage and Color Limitations
 

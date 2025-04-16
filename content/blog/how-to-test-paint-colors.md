@@ -11,7 +11,7 @@ categories:
   - "color-tips"
 
 ---
-Paint chips are unreliable—real paint in real light gives the only honest preview.
+Peel 'n Stick color samples have changed everything - they're cheap, easy and moveable, leaving messy and unreliable color samples way behind.
 
 ## Why Color Testing Matters
 

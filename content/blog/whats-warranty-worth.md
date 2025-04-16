@@ -11,8 +11,9 @@ categories:
   - "hiring-painters"
 
 ---
+Peeling paint is a possible warranty situation. What kind of company will stand behind their work?
 
-![Peeling exterior paint warranty](/images/peeling-exterior-paint-warranty.webp) Peeling paint is a possible warranty situation. What kind of company will stand behind their work?
+![Peeling exterior paint warranty](/images/peeling-exterior-paint-warranty.webp)
 
 Believe it or not, some homeowners have hired crummy contractors - the kind you have no confidence in. But these people are quite sure that if everything goes bad, they've still got a written warranty.
 

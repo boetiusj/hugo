@@ -1,5 +1,5 @@
 ---
-title: "3 Steps to Proper Paint Storage"
+title: "Proper Paint Storage - 3 Steps"
 url: "proper-paint-storage"
 description: "Tips on how to best make paint storage painless - when to keep paint, how to get rid of old paint and how to store paint so you can actually use it in the future."
 keywords: "paint storage tips"

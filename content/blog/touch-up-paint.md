@@ -1,5 +1,5 @@
 ---
-title: "Touch-ups, Nail Polish"
+title: "Touch-ups - Possible?"
 url: "touch-up-paint"
 description: "Paint touch-ups - what to look for"
 keywords: "touch-up paint"

@@ -1,5 +1,5 @@
 ---
-title: "Properly Painted Walls - What to Look For"
+title: "Properly Painted Walls - the Standard"
 url: "properly-painted-walls"
 description: "A clear explanation of just what \"properly painted walls\" are."
 keywords: "interior painting properly painted walls"

@@ -12,28 +12,92 @@ categories:
   - "nitty-gritty"
 
 ---
+A properly painted surface should appear even and consistent under normal lighting and typical viewing conditions.
 
-![Proper wall painting Kansas City](/images/wall-painting.webp) The right materials and technique mean a Properly Painted Surface - consistent sheen and no misses.
+## What Makes a Wall “Properly Painted”?
 
-As professional painters in Kansas City, we often are asked to repaint walls that were not done especially well in the first place. While it is obvious to us, most homeowners don't know how to determine if a paint job was done well or not. Putting color on the wall is easy- getting a uniform appearance is another matter entirely. Here's what to look for.
+It’s not about perfection—it’s about consistency, coverage, and how the surface looks under finished lighting from a normal viewing position.
 
-## No Fuzzies
+![Proper wall painting Kansas City](/images/wall-painting.webp)
 
-Proper prep work is key, of course. Let's start with the wall surface itself: it's not uncommon for existing paint to have roller fuzzies, bits of dried paint or other contaminants on the wall surface. The walls should be sanded to remove these imperfections. Careful though - too much sanding will remove roller stipple. Then you'll have a smooth spot in the middle of your otherwise stippled wall.
+Paint quality isn’t just about color. A properly painted wall looks uniform in texture, sheen, and coverage, with no obvious flaws or thin spots.
 
-## Communicate
+These expectations aren’t arbitrary—national industry standards exist to define what a good paint job looks like. Our role is to meet those standards while also matching the needs of the space and the history of the walls.
 
-Next comes holes, chips, wallpaper lines, cracks, etc. This requires a clear conversation with your painter - everybody needs to understand and agree on what the expectations are. This is about balancing time and cost with your expectations. Age matters here, too - 80 year old [plaster walls](/plaster-drywall-repair/) are often held to a different standard than 15 year old drywall.
+## Prep Work: Start with a Conversation
 
-Once the prep work has been defined and then completed as agreed, it's time to start putting paint on the wall. But how to know what a properly painted surface is? The [Painting Contractors Association](https://pcapainted.org/) have objective standards for painting work.
+Clear expectations about holes, cracks, and repairs help prevent surprises once the painting begins.
 
-> ...uniform in appearance, color, texture, hiding and sheen. It is also free of foreign material, lumps, skins, runs, sags, holidays, misses or insufficient coverage. It is also a surface free of drips, spatters, spills or over-spray caused by the Painting and Decorating Contractor’s workforce. In order to determine whether a surface has been “properly painted” it shall be examined without magnication at a distance of  thirty-nine (39) inches or one (1) meter, or more, under finished lighting conditions. \[PCA, P1-04\]
+> Many of the flaws we see come from previous projects. Part of what we do is clean up what others left behind.
 
-If you can see:
+### What Needs to Be Fixed?
 
-- old paint through the new paint
--  roller marks
--  runs or drips
-- paint is where it shouldn't be
+Does “patch the wall” mean fix every nail pop and bump—or just the big holes? Your idea of smooth may differ from your painter’s. That’s why it’s essential to talk about what level of prep you expect.
 
-These are conditions that should be remedied. [Clear communication](/reviews/) with your painter will go a long way in preventing these situations.
+See our related notes on [plaster and drywall repair](/plaster-drywall-repair/) to understand the scope of work when fixing aged or uneven walls.
+
+### Align Budget and Expectations
+
+Some customers want every flaw corrected. Others are fine with good-enough. Either approach is fine—what matters is that everyone agrees from the start.
+
+## The Trouble with Surface Imperfections
+
+Roller fuzz, dried paint flecks, and inconsistent texture all show through if not addressed first.
+
+### Sanding Without Overdoing It
+
+Old paint often leaves behind texture: bits of roller lint, small bumps, or dried flakes. These need to be sanded smooth before repainting.
+
+But too much sanding can flatten the roller stipple. A smooth patch in the middle of a subtly textured wall can be just as noticeable as the thing you meant to fix.
+
+### Focus on Consistency
+
+The goal isn’t a museum-quality finish—it’s a consistent appearance that looks clean and polished under finished lighting.
+
+## Application Matters
+
+Even the best prep and product can’t overcome poor technique—consistent application ensures even coverage and a professional look.
+
+### What Causes Roller Marks?
+
+Inconsistent roller pressure is the most common culprit. One pass that's heavier than the next can leave shadows or visible direction changes, especially under certain lighting.
+
+### One Coat or Two?
+
+Many high-quality paints cover beautifully in one coat for standard applications. For dramatic color changes or heavily repaired walls, two coats may still be best—but your painter will advise based on your specific conditions.
+
+## Evaluating the Finished Product
+
+Your painter should deliver a wall that looks clean, consistent, and complete—without over-examining every square inch.
+
+Most painting projects are viewed from normal positions, under everyday lighting. That’s how quality should be judged. You don’t need a flashlight or a magnifying glass to know when a wall looks right.
+
+> Industry standards call for paint surfaces to be judged under finished lighting conditions from a normal viewing distance—not up close and not under construction lighting.
+
+## When a Wall Has a Past
+
+Visible roller lines, drips, or touch-up patches are often signs of prior work—not the painter you just hired.
+
+Whether the last job was a rushed DIY weekend or a budget contractor with limited time, many of the flaws we see come from previous projects. Part of what we do is clean up what others left behind.
+
+### Common Recovery Work
+
+We often correct roller lines, overspray, uneven sheen, and visible touch-ups. These things take extra time—but they’re part of restoring a room to a clean, consistent look.
+
+### When It’s Worth Repainting
+
+If you’re not happy with how your walls look after previous work, that doesn’t mean the paint is bad—it just means the process wasn’t right. A proper repaint brings a clean slate.
+
+## The Value of Professional Standards
+
+Industry guidelines help ensure a consistent result—and help avoid misunderstandings at the end of a project.
+
+You don’t have to define what a “good” wall looks like on your own. National standards exist to help painters and homeowners work from the same playbook. These guidelines help clarify expectations without confusion or second-guessing.
+
+If you're not sure how to start a conversation about quality, check out our [top 4 questions for a productive painting estimate](/top-4-questions-painting-estimate/). Or take a look at [FAQs here](/faqs/), explore [interior](/interior-painter-kansas-city/) projects, or read what others say in our [customer reviews](/reviews/).
+
+## Book a Quick Estimate
+
+Every home has its quirks—but we're here to help you make the best of them. You can [book an estimate](/book-us/) at a time that works for you—most meetings take less than 30 minutes and give you the clarity you need without any pressure.
+
+![customer review](/images/reviews/r23-10-richards.png)

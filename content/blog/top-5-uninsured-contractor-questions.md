@@ -11,29 +11,96 @@ categories:
   - "hiring-painters"
 
 ---
+Insurance isn’t just paperwork—it’s a safeguard against the unexpected. When you hire someone uninsured, you're often the one holding the bag when things go wrong.
 
-![uninsured paint contractor](/images/sketchy.webp)
-What happens if you hire an uninsured contractor? A few pointed questions to your agent and you'll soon see who pays if you hire an uninsured contractor - you do. Almost always. A Farm Bureau Insurance agent offered some specific cases that are very helpful.
+![insurance scream](/assets/images/blog/scream-insurance.jpg)
 
-Q. What if your contractor's ladder falls on your convertible - who pays for what?
-A. Your auto policy will cover the damage, but you, of course, will pay the deductible. Your carrier will likely "subrogate" (i.e. try to collect from) your contractor and you will have to determine if it's worth trying to recover your deductible.
+## Why Insurance Coverage Matters for Contractors
 
-Q. What if a similar event occurs one year later. Will that event be handled differently?
-A. The event should be handled exactly the same.  And hopefully not the same contractor. (One might infer that at some point the carrier will tire of covering a homeowner that routinely hires uninsured contractors.)
+Most homeowners assume a contractor has liability coverage—until something goes wrong. Damage, injury, or an accident on your property could quickly lead to out-of-pocket costs you didn’t expect.
 
-Q. What if a contractors equipment causes injury to member of the homeowner's family - who pays?
-A. This is really a great question because your HO policy would not cover the medical expenses for the injured family member.  Your health insurance would have to be used. But the homeowner will pay the policy deductible.
+According to industry estimates, **up to 40% of painting contractors in the U.S. are uninsured**. That’s tens of thousands of painters operating without proper liability or workers comp coverage.
 
-Q. Will the contractor be sued?
-A. There is the potential for the contractor to be sued.
+## What If a Contractor Damages Your Property?
 
-Q. What if the contractor slips and breaks his leg on HO's property while performing his work. Will HO insurance pay for contractor's medical care?
-A. Potentially, would depend if the HO is negligent.  If not then the medical no fault limit would apply.  Most all HO policies have a medical no fault coverage although a lot of policies that I see only have $1000 coverage.  An example where this could be used is if you had some friends over and one of them fell and broke their wrist.  You don’t have to be at fault and your medical no fault coverage would pay, up to policy limits, for their medical bills.  If you only have $1000 coverage the policy would pay up to $1000 and if their medical bills were $10,000, their personal medical insurance would cover the rest and if they didn’t have any medical/health insurance they could sue you since it happened on your property and then your personal liability coverage would kick in if you were found to be liable.  That is an example of why I recommend having that coverage at $5,000 or $10,000, it is only a few dollars more per year and it would take care of a lot of accidents.
+You’ll likely file the claim—and you’ll pay the deductible.
 
-Q. At what point do HO insurance rates go up?
-A. A claim will have your rates go up unless it is weather related like hail.  And even if you switch companies the claims will follow you just like a speeding ticket on your driving record.  Because no insurance carrier wants someone to have a claim and switch companies.  Some companies have what I call gimmicks that say your rates won’t go up if you have a claim but I believe that is calculated into your premium which means your premium will be higher.  Pay it now or pay it after the claim.
+Let’s say a ladder falls on your car, damaging the hood. If the contractor isn’t insured, your auto policy covers the damage—but *you* pay the deductible. And if the same thing happens again? Same deductible, same hassle.
 
-Q. At what point does contractor face litigation for recovery of insurance carrier's costs?
-A. Pretty much any time an insurance company pays out money and someone other than the insured is at fault they can face subrogation.  There have been cases where a renter damaged a landlord’s property and the renter didn't have renters or liability insurance and had their paycheck garnished to cover the loss.
+Worse, the burden is on you to try recovering the cost from the contractor afterward, assuming they don’t disappear.
 
-A home owner can and probably should - depending on the work being done - ask to see a certificate of insurance from a contractor to make sure that the contractor is insured.
+## What If Someone Gets Hurt?
+
+Medical bills can fall to your health insurance or personal liability coverage—sometimes both.
+
+If the contractor's equipment injures a member of your household, your home insurance *doesn’t* cover the medical costs. Your health insurance will, but you’ll still be paying the deductible—and possibly more.
+
+That’s assuming everyone has insurance. If not, things can escalate quickly into legal territory.
+
+## What About the Contractor's Own Injuries?
+
+If they’re injured on your property, you might be on the hook unless they carry proper coverage.
+
+Homeowner policies often include “medical no-fault” clauses. But that coverage is usually capped at $1,000. If the contractor’s medical bills exceed that (and they usually do), they can sue *you* to recover damages.
+
+A slip on the stairs or a fall off a ladder could lead to a serious injury—and a serious claim against your personal liability coverage.
+
+## Can You Be Sued for Hiring an Uninsured Contractor?
+
+Yes, especially if negligence is involved or if someone is injured on your property.
+
+Hiring someone uninsured doesn’t automatically make you liable, but it certainly opens the door. If it’s found that you were negligent—or even just unaware of your contractor’s risk profile—you could be pulled into litigation.
+
+## Do Insurance Claims Affect Your Rates?
+
+Yes. Claims follow you like speeding tickets—even if you switch carriers.
+
+Even if the claim wasn’t technically your fault, your insurance premiums can increase. Claims are tracked across carriers, and like a ding on your driving record, they can impact your rates no matter who you’re insured with.
+
+## Why Don’t All Contractors Carry Insurance?
+
+It costs money and invites oversight—but skipping it puts you at risk, not them.
+
+For small or unlicensed contractors, skipping insurance is a quick way to cut costs. But it also shifts all liability to you. There’s no real upside for the homeowner—just risk.
+
+## How Can Homeowners Protect Themselves?
+
+Always request a certificate of insurance and understand your own policy limits.
+
+Don’t just ask if someone is insured—ask for documentation. A certificate of insurance, dated and current, should be readily available. If they hesitate, that’s your red flag.
+
+You should also review your own home policy. Know your liability limits, and consider increasing your no-fault medical coverage. It costs only a few extra dollars a year and can prevent major financial headaches.
+
+## Is a Verbal Assumption of Responsibility Enough?
+
+A contractor’s reassurance means little without documentation—especially when insurance companies get involved.
+
+Some uninsured contractors will say “I’ll take care of it” if anything goes wrong. But when a claim actually arises, those promises vanish quickly. If it’s not backed by a valid policy, you’re still on the hook.
+
+## Subrogation: When Your Insurer Comes Knocking
+
+Even if your insurer covers the loss, they may go after the contractor—or you—to recover costs.
+
+Subrogation means your insurance company pays out, then tries to recover damages from the at-fault party. If the contractor is uninsured, you could end up being part of the equation—even if the damage wasn’t your fault.
+
+## "I’ve Used Them Before" Isn’t a Safety Net
+
+Past success doesn't mean future protection—uninsured contractors are still a gamble.
+
+Just because someone did good work last time doesn’t mean this time will go the same. Even one accident on your property could lead to a claim, a lawsuit, or a dispute that’s hard to fix after the fact.
+
+## What Real Coverage Should Look Like
+
+A certificate of insurance, updated annually, is the bare minimum. Here's what else to check.
+
+You want to see two things: general liability and workers comp. If the contractor has employees, this protects *you* from being sued over jobsite injuries.
+
+You can also call the insurance provider listed to verify that the policy is active and includes sufficient coverage.
+
+## Book a Quick Estimate
+
+Hiring a painter should come with peace of mind. We carry full insurance and are happy to provide documentation upon request. You can [book an estimate](/book-us/) at a time that works for you—most meetings take under 30 minutes, and come with clarity, not pressure.
+
+For more smart homeowner tips, check out [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/), our breakdown of [why painters backroll](/why-painters-backroll/), or tips on [crystal clear contracts](/solid-agreements/). You’ll be glad you did.
+
+![customer review](/images/reviews/r19-8-katherinet.png)

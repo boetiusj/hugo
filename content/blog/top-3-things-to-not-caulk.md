@@ -11,8 +11,6 @@ categories:
   - "nitty-gritty"
 
 ---
-## Caulk Do's & Don'ts
-
 Caulk is a vital part of any exterior painting or maintenance job, but sealing every gap or seam can do more harm than good if you don’t know where to draw the line.
 
 ### Understanding Caulk’s Role
@@ -42,6 +40,8 @@ A small gap along the bottom edge of siding may not look perfect, but it serves 
 ### 2. Soffits
 
 Soffits bridge the gap between a home’s exterior wall and the roofline. While you might think caulking every joint prevents water intrusion, excessive sealing in this area can trap water and cause rot, mold, or mildew.
+
+![caulk stretches by design](/images/blog/caulk-stretch.png)
 
 #### Think Like a Raindrop
 

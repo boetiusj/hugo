@@ -11,9 +11,11 @@ categories:
   - "interior"
 
 ---
+Paint colors often behave like chameleons, shifting their appearance as the light changes throughout the day.
+
 ## Colors Change
 
-Paint colors often behave like chameleons, shifting their appearance as the light changes throughout the day. Homeowners are sometimes astonished at how a shade that looks pale green at noon can appear closer to yellow by evening or under warm incandescent bulbs.
+ Homeowners are sometimes astonished at how a shade that looks pale green at noon can appear closer to yellow by evening or under warm incandescent bulbs.
 
 [changeable under different lighting conditions](/colors-relaxation/)
 

@@ -22,6 +22,7 @@ categories = ["Exterior", "Interior", "color tips", "good to know"]
 
 disableKinds = ['RSS']
 # 'robotsTXT' removed
+enableRobotsTXT = false
 
 [[module.mounts]]
 source = 'assets'

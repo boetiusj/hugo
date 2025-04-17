@@ -1,1 +1,4 @@
 User-agent: *
+Disallow: /categories/
+Disallow: /blog/
+Sitemap: https://www.crestwoodpainting.com/sitemap.xml

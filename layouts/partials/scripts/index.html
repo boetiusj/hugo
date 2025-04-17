@@ -15,7 +15,7 @@ Essential Scripts
 
 <script src={{ absURL "/script.js" }} defer></script>
 
-{{ partialCached "pixel" /}}
+{{ partialCached "pixel" . }}
 
 {{- $variablesPath := "js/variables.js" }}
 {{- $variables := resources.Get $variablesPath | resources.ExecuteAsTemplate $variablesPath . }}

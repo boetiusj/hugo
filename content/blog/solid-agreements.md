@@ -14,7 +14,7 @@ categories:
 
 For anyone wondering how to have a great contractor experience, the foundation lies in having a clear and detailed painting agreement that outlines exactly what will be done and how it will be done.
 
-![clear communication](/images/keep-it-simple.jpg)
+![clear communication](/images/blog/clipboard.png)
 
 ### The Importance of Clarity
 

@@ -11,15 +11,15 @@ categories:
   - "exterior"
 
 ---
-
-![wood rot](/images/woodrot.webp)
-> Small design choices can make a big difference in how water moves—or doesn’t move—off your house.
+If the surface is sound and just has cosmetic damage, you may be able to prep, prime, and paint without replacing anything.
 
 ## Not Everything Is Wood Rot
 
 Peeling paint and cosmetic issues are often mistaken for rot—but the difference matters.
 
 In Kansas City, we hear it all the time: “I think we’ve got wood rot.” Sometimes that’s true—but often it’s not. Peeling paint, dry caulk, and surface cracking can make siding and trim look worse than they really are.
+
+![wood rot](/images/woodrot.webp)
 
 It’s important to know the difference. Because if it’s just weathered paint, the solution may be simpler than you think.
 

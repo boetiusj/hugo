@@ -25,7 +25,7 @@ Who makes this up? This year it's "Lt Blue" or "Dark Red". Next year, who knows?
     padding: 3px;
     text-align: center;
     color: rgb(247, 246, 240);
-    font-size: small;
+    font-size: medium;
     font-weight: normal;
     font-family: sans-serif;
     border: 2px solid #e8e8e8;

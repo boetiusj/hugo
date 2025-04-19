@@ -53,7 +53,7 @@ faqs:
 
 ## If You’re New to Painting
 
-Relax - we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; also check the Exterior FAQs down below, too.
+Relax - we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; also check the Exterior FAQs [down below](#---), too.
 
 > They did a fantastic job, were easy to work with, professional, and clearly care about the work they are doing.
 
@@ -157,11 +157,11 @@ After we’re finished, we make sure everything is cleaned up. This includes rem
 
 ## Book an Estimate
 
-We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this - let’s find what works best for your situation. Click here to [see our reviews](/reviews/), then [book an estimate time](/book-us/).
+We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this - let’s find what works best for your situation. You can [book an estimate time](/book-us/) here.
 
 ### What Else Should I Ask?
 
-We get good feedback on [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter") page. Still more questions? Call or email - we will answer.
+Learn how to [compare painting bids](/compare-paint-bids/), then see [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/). Still more questions? Call or email - we're ready to answer your questions.
 
 ### Final Thoughts
 
@@ -208,3 +208,5 @@ There won’t be a test, but this list might save some searching. Yes, it’s bo
 * Brackets – Structural or decorative angled supports under porches, eaves, or beams.
 
 [![customer review exterior painting](/images/reviews/r24-5-wineingerk.png)](/reviews/)
+
+###### ---

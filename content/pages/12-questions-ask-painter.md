@@ -87,6 +87,6 @@ It’s best to assume that any paint applied to your house before 1978 contains 
 
 ---
 
-#### \*PROPERLY PAINTED SURFACE
+#### *PROPERLY PAINTED SURFACE
 
-_A surface uniform in appearance, color, texture, hiding and sheen. It is also free of foreign material, lumps, skins, runs, sags, holidays, misses, or insufficient coverage. It is also a surface free of drips, spatters, spills or overspray caused by the Painting Contractor’s  workforce._ \[PCA, P1-04\]
+_A surface uniform in appearance, color, texture, hiding and sheen. It is also free of foreign material, lumps, skins, runs, sags, holidays, misses, or insufficient coverage. It is also a surface free of drips, spatters, spills or overspray caused by the Painting Contractor’s  workforce._ [PCA, P1-04]

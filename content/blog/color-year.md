@@ -13,7 +13,137 @@ categories:
 ---
 It can influence trends, but does it really matter? Consider whether it truly fits your personal style.
 
-![color-of-the-year](/images/blog/color-matrix1-sm.png)
+<style>
+  table {
+    width: 100%;
+    height: auto;
+    border-collapse: collapse;
+    border: 3px solid #5d5d5d;
+  }
+  th,
+  td {
+    padding: 3px;
+    text-align: center;
+    color: rgb(247, 246, 240);
+    font-size: small;
+    font-weight: normal;
+    font-family: sans-serif;
+    border: 2px solid #e8e8e8;
+  }
+  th {
+    background-color: #333;
+    color: white;
+  }
+  .color-cell {
+    color: white;
+    line-height: 1.2;
+  }
+  .color-cell.light {
+    color: rgb(70, 69, 69);
+  }
+  .year-cell {
+    width: 40px;
+    color: rgb(247, 246, 240);
+  }
+  .year-cell,
+  .manufacturer-cell {
+    background-color: #696969;
+    color: rgb(247, 246, 240);
+  }
+  .table-container {
+    max-width: 500px;
+    max-height: 500px;
+    overflow: auto;
+  }  
+</style>
+<div class="table-container">
+<table>
+  <tr>
+    <th class="manufacturer-cell"></th>
+    <th class="manufacturer-cell">Sh-Wms</th>
+    <th class="manufacturer-cell">Ben Moore</th>
+    <th class="manufacturer-cell">Behr</th>
+    <th class="manufacturer-cell">PPG</th>
+  </tr>
+  <tr>
+    <td class="year-cell">'20</td>
+    <td class="color-cell" style="background-color: #2c3956">
+      Naval<br />SW 6244
+    </td>
+    <td class="color-cell light" style="background-color: #f3e9e1">
+      First Light<br />2102-70
+    </td>
+    <td class="color-cell light" style="background-color: #d3e5c2">
+      Back to Nature<br />S340-4
+    </td>
+    <td class="color-cell" style="background-color: #365d73">
+      Chinese Porcelain<br />PPG1160-6
+    </td>
+  </tr>
+  <tr>
+    <td class="year-cell">'21</td>
+    <td class="color-cell" style="background-color: #575048">
+      Urbane Bronze<br />SW 7048
+    </td>
+    <td class="color-cell light" style="background-color: #708a8f">
+      Aegean Teal<br />2136-40
+    </td>
+    <td class="color-cell" style="background-color: #a97f64">
+      Canyon Dusk<br />S210-4
+    </td>
+    <td class="color-cell" style="background-color: #a68a73">
+      Transcend<br />PPG1079-4
+    </td>
+  </tr>
+  <tr>
+    <td class="year-cell">'22</td>
+    <td class="color-cell light" style="background-color: #d8d8d4">
+      Evergreen Fog<br />SW 9130
+    </td>
+    <td class="color-cell light" style="background-color: #d0cfc7">
+      October Mist<br />1495
+    </td>
+    <td class="color-cell light" style="background-color: #c9d9d3">
+      Breezeway<br />MQ3-21
+    </td>
+    <td class="color-cell light" style="background-color: #8a9a8e">
+      Olive Sprig<br />PPG1125-4
+    </td>
+  </tr>
+  <tr>
+    <td class="year-cell">'23</td>
+    <td class="color-cell light" style="background-color: #c7b2a2">
+      Redend Point<br />SW 9081
+    </td>
+    <td class="color-cell" style="background-color: #d64d59">
+      Raspberry Blush<br />2008-30
+    </td>
+    <td class="color-cell light" style="background-color: #f1ede6">
+      Blank Canvas<br />DC-003
+    </td>
+    <td class="color-cell" style="background-color: #5b7f7e">
+      Vining Ivy<br />PPG1148-6
+    </td>
+  </tr>
+  <tr>
+    <td class="year-cell">'24</td>
+    <td class="color-cell light" style="background-color: #a0b0c8">
+      Upward<br />SW 6239
+    </td>
+    <td class="color-cell" style="background-color: #00659f">
+      Blue Nova<br />825
+    </td>
+    <td class="color-cell" style="background-color: #46484b">
+      Cracked Pepper<br />PPU18-01
+    </td>
+    <td class="color-cell light" style="background-color: #cec6b4">
+      Limitless<br />PPG1091-3
+    </td>
+  </tr>
+</table>
+</div>
+
+
 
 ## The Marketing Effect
 

@@ -42,8 +42,12 @@
       "style",
       "sub",
       "svg",
+      "table",
+      "td",
       "textarea",
+      "th",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [
@@ -96,6 +100,7 @@
       "col-xl-5",
       "collapse",
       "collapsed",
+      "color-cell",
       "contact-form-wrap",
       "contact__form",
       "container",
@@ -140,6 +145,7 @@
       "latest-post",
       "lead",
       "lh-36",
+      "light",
       "list-inline",
       "list-inline-item",
       "list-unstyled",
@@ -220,6 +226,7 @@
       "svg-h-7",
       "svg-h-8",
       "svg-w-7",
+      "table-container",
       "tag-option",
       "tags",
       "testimonial",
@@ -242,7 +249,8 @@
       "text-white-50",
       "video",
       "w-100",
-      "widget"
+      "widget",
+      "year-cell"
     ],
     "ids": [
       "1-bottom-edge-of-siding",
@@ -406,7 +414,6 @@
       "define-the-work",
       "delicate-surfaces",
       "dense-plaster",
-      "design-and-economics",
       "design-details-can-encourage-rot",
       "designing-out-gaps-alternate-joint-types",
       "details-matter",
@@ -520,8 +527,6 @@
       "high-traffic-areas",
       "historic-homes-require-more",
       "history-of-popcorn-ceiling-texture",
-      "homes-built-after-1960",
-      "homes-built-before-1940",
       "house-movement-over-time",
       "house-painting-in-mission-hills",
       "house-washing-and-surface-cleaning",

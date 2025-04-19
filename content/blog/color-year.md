@@ -11,7 +11,7 @@ categories:
   - "color-tips"
 
 ---
-It can influence trends, but does it really matter? Consider whether it truly fits your personal style.
+Who makes this up? This year it's "Lt Blue" or "Dark Red". Next year, who knows? Nothing close to agreed-upon color trends.
 
 <style>
   table {

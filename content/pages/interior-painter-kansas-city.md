@@ -33,11 +33,11 @@ faqs:
 
 ## Interior Painting – What to Expect
 
-A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are helpful Interior FAQs down below and hundreds of ([customer reviews](/reviews/)), too. [Cabinet painting?](/cabinet-painting/) Yep, we do that.
+A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are helpful [Interior FAQs](#faqs) down below and hundreds of ([customer reviews](/reviews/)), too. [Cabinet painting?](/cabinet-painting/) Yep, we do that.
 
 ## Let’s Talk: Colors & Expectations
 
-Your estimate isn’t just about numbers—it’s a chance to fine-tune the details. We’ll discuss any needed repairs, [go over color](/color-help/) and sheen options, and set clear expectations for the project. We'll even steer you to [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter"). This conversation ensures everything is planned out before work begins, so the process is smooth and stress-free.
+Your estimate isn’t just about numbers—it’s a chance to fine-tune the details. We’ll discuss any needed repairs, [go over color](/color-help/) and sheen options, and set clear expectations for the project. We'll even help you to [compare paint bids](/compare-paint-bids/). This conversation ensures everything is planned out before work begins, so the process is smooth and stress-free.
 
 ![white living room](/images/interior/brick-fp-paint.jpg)
 

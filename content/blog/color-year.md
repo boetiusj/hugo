@@ -68,82 +68,80 @@ It can influence trends, but does it really matter? Consider whether it truly fi
   <tr>
     <td class="year-cell">'20</td>
     <td class="color-cell" style="background-color: #2c3956">
-      Naval<br />SW 6244
+      Naval<br/>SW 6244
     </td>
     <td class="color-cell light" style="background-color: #f3e9e1">
-      First Light<br />2102-70
+      First Light<br/>2102-70
     </td>
     <td class="color-cell light" style="background-color: #d3e5c2">
-      Back to Nature<br />S340-4
+      Back to Nature<br/>S340-4
     </td>
     <td class="color-cell" style="background-color: #365d73">
-      Chinese Porcelain<br />PPG1160-6
+      Chinese Porcelain<br/>PPG1160-6
     </td>
   </tr>
   <tr>
     <td class="year-cell">'21</td>
     <td class="color-cell" style="background-color: #575048">
-      Urbane Bronze<br />SW 7048
+      Urbane Bronze<br/>SW 7048
     </td>
     <td class="color-cell light" style="background-color: #708a8f">
-      Aegean Teal<br />2136-40
+      Aegean Teal<br/>2136-40
     </td>
     <td class="color-cell" style="background-color: #a97f64">
-      Canyon Dusk<br />S210-4
+      Canyon Dusk<br/>S210-4
     </td>
     <td class="color-cell" style="background-color: #a68a73">
-      Transcend<br />PPG1079-4
+      Transcend<br/>PPG1079-4
     </td>
   </tr>
   <tr>
     <td class="year-cell">'22</td>
     <td class="color-cell light" style="background-color: #d8d8d4">
-      Evergreen Fog<br />SW 9130
+      Evergreen Fog<br/>SW 9130
     </td>
     <td class="color-cell light" style="background-color: #d0cfc7">
-      October Mist<br />1495
+      October Mist<br/>1495
     </td>
     <td class="color-cell light" style="background-color: #c9d9d3">
-      Breezeway<br />MQ3-21
+      Breezeway<br/>MQ3-21
     </td>
     <td class="color-cell light" style="background-color: #8a9a8e">
-      Olive Sprig<br />PPG1125-4
+      Olive Sprig<br/>PPG1125-4
     </td>
   </tr>
   <tr>
     <td class="year-cell">'23</td>
     <td class="color-cell light" style="background-color: #c7b2a2">
-      Redend Point<br />SW 9081
+      Redend Point<br/>SW 9081
     </td>
     <td class="color-cell" style="background-color: #d64d59">
-      Raspberry Blush<br />2008-30
+      Raspberry Blush<br/>2008-30
     </td>
     <td class="color-cell light" style="background-color: #f1ede6">
-      Blank Canvas<br />DC-003
+      Blank Canvas<br/>DC-003
     </td>
     <td class="color-cell" style="background-color: #5b7f7e">
-      Vining Ivy<br />PPG1148-6
+      Vining Ivy<br/>PPG1148-6
     </td>
   </tr>
   <tr>
     <td class="year-cell">'24</td>
     <td class="color-cell light" style="background-color: #a0b0c8">
-      Upward<br />SW 6239
+      Upward<br/>SW 6239
     </td>
     <td class="color-cell" style="background-color: #00659f">
-      Blue Nova<br />825
+      Blue Nova<br/>825
     </td>
     <td class="color-cell" style="background-color: #46484b">
-      Cracked Pepper<br />PPU18-01
+      Cracked Pepper<br/>PPU18-01
     </td>
     <td class="color-cell light" style="background-color: #cec6b4">
-      Limitless<br />PPG1091-3
+      Limitless<br/>PPG1091-3
     </td>
   </tr>
 </table>
 </div>
-
-
 
 ## The Marketing Effect
 

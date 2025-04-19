@@ -6,13 +6,13 @@ keywords: "contract, agreement, clause, expectations, paint contractor"
 canonical: "https://crestwoodpainting.com/solid-agreements/"
 date: "2023-10-22" 
 index: true
-image: /images/keep-it-simple.jpg
+image: /images/blog/clipboard.png
 categories:
   - "good-to-know"
 ---
 ## Set Expectations
 
-For anyone wondering how to have a great contractor experience, the foundation lies in having a clear and detailed painting agreement that outlines exactly what will be done and how it will be done.
+3 Things: **Inclusions**, **Exclusions** and **Clarifications**. This foundation outlines exactly *what* will be done and *how* it will be done.
 
 ![clear communication](/images/blog/clipboard.png)
 

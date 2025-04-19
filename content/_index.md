@@ -39,6 +39,7 @@ cta:
   button:
     url: "/book-us"
     label: "Schedule an Estimate"
+index: true
 # about:
 #   headline: "Who we are"
 #   title: "Same. Local. Owners."

@@ -8,7 +8,7 @@ date: "2011-08-28"
 index: true
 ---
 
-![Apples to Apples comparison](/images/applesoranges.webp)
+![Apples to Apples comparison](/images/other/apple-n-orange.webp)
 
 ## Prep Work Is Critical
 

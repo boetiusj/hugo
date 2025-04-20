@@ -6,7 +6,7 @@ keywords: "painter questions kansas city crestwood"
 canonical: "https://crestwoodpainting.com/top-4-questions-painting-estimate/"
 date: "2013-02-11"
 index: true
-image: "/images/blog/calculator-tape-measure.webp"
+image: "/images/blog/calculator-tape.webp"
 categories:
   - "hiring-painters"
   - "good-to-know"
@@ -14,7 +14,7 @@ categories:
 ---
 Before price, there are four questions that tell you more about the contractor—and the job you’ll actually get.
 
-![Paint estimate Kansas City Crestwood Painting](/images/blog/calculator-tape-measure.webp)
+![Paint estimate Kansas City Crestwood Painting](/images/blog/calculator-tape.webp)
 
 ## Don’t Start With “What’s the Estimate?”
 
@@ -58,7 +58,8 @@ Sometimes the most important question is the one only you can answer.
 
 This is the gut check—the part of the process that isn’t about paperwork or credentials. Do you feel comfortable with the person in your home? Do they seem like someone who will do what they say?
 
-Ask yourself:  
+Ask yourself
+
 - Do I trust them to show up on time?  
 - Will they work full days?  
 - Can they complete the job safely?  

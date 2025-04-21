@@ -33,7 +33,7 @@ faqs:
 
 ## Interior Painting – What to Expect
 
-A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are specific and helpful [Interior FAQs](#section) down below and hundreds of ([customer reviews](/reviews/)), too. [Cabinet painting?](/cabinet-painting/) Yep, we do that.
+A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are specific and helpful [Interior FAQs](#---) down below and hundreds of ([customer reviews](/reviews/)), too. [Cabinet painting?](/cabinet-painting/) Yep, we do that.
 
 ## Let’s Talk: Colors & Expectations
 
@@ -193,4 +193,5 @@ We’ll help narrow objectives and priorities and go over best options - there a
 
 ![house painting review](/images/reviews/r23-4-karenp.png)
 
-###### Section
+###### ---
+

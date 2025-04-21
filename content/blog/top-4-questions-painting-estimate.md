@@ -12,11 +12,11 @@ categories:
   - "good-to-know"
 
 ---
-Before price, there are four questions that tell you more about the contractor—and the job you’ll actually get.
+There are four questions that tell you more about a potential contractor—and the job you’ll actually get.
 
 ![Paint estimate Kansas City Crestwood Painting](/images/blog/calculator-tape.webp)
 
-## Don’t Start With “What’s the Estimate?”
+## Don’t Start With “How Much?”
 
 Most homeowners start with: *“Can I get an estimate?”* That’s a fair question—but it’s not the most important one. Before you even talk about price, it helps to understand who you’re dealing with.
 

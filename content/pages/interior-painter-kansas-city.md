@@ -193,5 +193,4 @@ We’ll help narrow objectives and priorities and go over best options - there a
 
 ![house painting review](/images/reviews/r23-4-karenp.png)
 
-###### ---
-
+#### ---

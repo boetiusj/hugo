@@ -2,12 +2,7 @@
 User-agent: *
 Allow: /
 Disallow: *s=*
-# Disallow: /categories/
-# Disallow: /blog/
 Disallow: /*.pdf$
-Disallow: /assets/js/functions.js
-Disallow: /assets/js/index.js
-Disallow: /assets/js/variables.js
 
 # AI chatbots
 User-agent: GPTBot

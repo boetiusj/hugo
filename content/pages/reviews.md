@@ -12,6 +12,16 @@ index: true
 
 > I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed. *Melissa J*
 
+**Crew was detail oriented, organized and kind**
+4/25
+We loved working with Crestwood. Mike was timely and professional; his crew was detail oriented, organized, kind, and painted our house exactly how we wanted it!
+Amber G.
+
+**Definitely recommend this local Brookside/KC company!**
+3/25
+We had a great experience with Crestwood Painting! After having just purchased our new house, they were able to fit us into their schedule only a few days after getting an estimate to have the painting completed prior to our move-in date. Mike was great to work with and the painters were efficient while still doing great, quality work. We knew what we were getting from the estimate all the way through to completion, and that was important to us. Would definitely recommend this local Brookside/KC company!
+Ryan D.
+
 **Definitely recommend them!**
 1/25
 They were super nice, hard-working, and detail-oriented. Communication all along the way was great. I was really pleased with the experience and can't recommend them highly enough!

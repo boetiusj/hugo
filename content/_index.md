@@ -35,7 +35,7 @@ cta:
   description: "We're ready for your project."
   phone: "816-805-4515"
   show: true # turn to false to hide
-  image: "/images/cnlake.webp"
+  image: /images/cnlake.webp
   button:
     url: "/book-us"
     label: "Schedule an Estimate"

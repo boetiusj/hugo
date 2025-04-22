@@ -111,13 +111,14 @@ strings.TrimSuffix "/" $.Page.Permalink }}
         "item": "{{ $homelink }}"
       }{{ $position := 2 }}
       {{- range $index, $ancestor := .Ancestors }}
-      {
+      ,{
         "@type": "ListItem",
         "position": {{ $position }},
         "name": "{{ with $ancestor.Title }}{{ . | htmlEscape }}{{ else }}Untitled{{ end }}",
         "item": "{{ with $ancestor.Permalink }}{{ . | htmlEscape }}{{ else }}#{{ end }}"
-      },{{ $position = add $position 1 }}
+      }{{ $position = add $position 1 }}
       {{- end }}
+      {{ if gt $position 2 }},{{ end }}
       {
         "@type": "ListItem",
         "position": {{ $position }},

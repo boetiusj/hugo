@@ -2,7 +2,7 @@
 title: "Exterior Painting"
 url: "exterior-painting-kansas-city"
 description: "Free help choosing exterior paint colors.  Then, a clear proposal, prompt workers, on-time completion. Call us today for a No Drips, No Drama experience."
-keywords: "exterior house painting, paint colors, Kansas City, Crestwood Painting, Leawood, Mission Hills, Prairie Village,"
+keywords: "exterior house painting,colors, Crestwood Painting, Leawood, Mission Hills, Prairie Village"
 canonical: "https://crestwoodpainting.com/exterior-painting-kansas-city/"
 date: "2011-09-18"
 index: true

@@ -109,12 +109,20 @@ strings.TrimSuffix "/" $.Page.Permalink }}
         "position": 1,
         "name": "Home",
         "item": "{{ $homelink }}"
-      },
+      }{{ $position := 2 }}
+      {{- range $index, $ancestor := .Ancestors }}
       {
         "@type": "ListItem",
-        "position": 2,
-        "name": "{{ .Title }}",
-        "item": "{{ $permalink }}"
+        "position": {{ $position }},
+        "name": "{{ with $ancestor.Title }}{{ . | htmlEscape }}{{ else }}Untitled{{ end }}",
+        "item": "{{ with $ancestor.Permalink }}{{ . | htmlEscape }}{{ else }}#{{ end }}"
+      },{{ $position = add $position 1 }}
+      {{- end }}
+      {
+        "@type": "ListItem",
+        "position": {{ $position }},
+        "name": "{{ with .Title }}{{ . | htmlEscape }}{{ else }}Untitled{{ end }}",
+        "item": "{{ with $permalink }}{{ . | htmlEscape }}{{ else }}#{{ end }}"
       }
     ]
   }

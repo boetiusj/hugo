@@ -59,8 +59,16 @@ $config.logo }} {{- end }} {{ $image := "" }} {{- with .Params.image }} {{ if in
       "closes": "17:00"
     },
     "slogan": "No Drips, No Drama",
-    "memberof": "Painting Contractors Association",
-    "memberof": "Waldo Area Business Association",
+    "memberof": [
+    {
+      "@type": "Organization",
+      "name": "Painting Contractors Association"
+    },
+    {
+      "@type": "Organization",
+      "name": "Waldo Area Business Association"
+    }
+  ]
     "foundingDate": "2007",
     "naics": "238320"
   }

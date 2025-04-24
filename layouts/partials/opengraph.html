@@ -32,16 +32,11 @@ $config.logo }} {{- end }} {{ $image := "" }} {{- with .Params.image }} {{ if in
     "telephone": "+1 816-805-4515",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "236 W 73rd Terr",
+      "streetAddress": "236 W 73rd Terr", 
       "addressLocality": "Kansas City",
       "addressRegion": "MO",
       "postalCode": "64114",
       "addressCountry": "US"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 38.9954239727528,
-      "longitude": -94.59349162660115
     },
     "areaServed": {
       "@type": "GeoCircle",
@@ -52,12 +47,11 @@ $config.logo }} {{- end }} {{ $image := "" }} {{- with .Params.image }} {{ if in
       },
       "geoRadius": 32000
     },
-    "openingHoursSpecification": {
-      "@type": "OpeningHoursSpecification",
-      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-      "opens": "08:00",
-      "closes": "17:00"
-    },
+    "contactPoint": {
+  	  "@type": "ContactPoint",
+  	  "telephone": "+1-816-805-4515",
+  	  "email": "admin@crestwoodpainting.com"
+	},
     "slogan": "No Drips, No Drama",
     "memberof": {
       "@type": "Organization",

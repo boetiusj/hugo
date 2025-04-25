@@ -6,7 +6,7 @@ keywords: "paint backroll kansas city crestwood painting"
 canonical: "https://crestwoodpainting.com/why-painters-backroll"
 date: "2012-08-06"
 index: true
-image: "/images/spray.webp"
+image: "/images/backroll.webp"
 categories:
   - "painting-tips"
   - "nitty-gritty"
@@ -14,6 +14,8 @@ categories:
 
 ---
 Backrolling in the wrong situation can introduce more problems than it solves. Done poorly, the finish can end up blotchy and uneven.
+
+![painters backroll](/images/blog/backroll.webp)
 
 ## What Is Backrolling and Why Is It Used?
 

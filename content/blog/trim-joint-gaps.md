@@ -6,7 +6,7 @@ keywords: "painting interior trim prep crestwood "
 canonical: "https://crestwoodpainting.com/trim-joint-gaps/"
 date: "2013-01-21"
 index: true
-image: "/images/interior-trim.webp"
+image: "/images/blog/trad-trim.webp"
 categories:
   - "nitty-gritty"
   - "interior"
@@ -17,7 +17,7 @@ Something we see quite often on older [interior projects](/interior-painter-kans
 
 Traditional methods often used multiple pieces that accommodate expansion and contraction. This approach helps wood shift without creating large, visible gaps.
 
-![interior trim crestwood painting kansas city](/images/img-1139.webp)
+![interior trim crestwood painting kansas city](/images/blog/trad-trim.webp)
 
 ### Layers of Wood Components
 

@@ -6,14 +6,14 @@ keywords: "paint contractor, insurance, uninsured, Crestwood Painting, Kansas Ci
 canonical: "https://crestwoodpainting.com/top-5-uninsured-contractor-questions/"
 date: "2013-09-28"
 index: true
-image: "/images/blog/scream-insurance.jpg"
+image: "/images/blog/scream-new.webp"
 categories:
   - "hiring-painters"
 
 ---
 Insurance isn’t just paperwork—it’s a safeguard against the unexpected. When you hire someone uninsured, you're often the one holding the bag when things go wrong.
 
-![insurance scream](/images/blog/scream-insurance.jpg)
+![insurance scream](/images/blog/scream-new.webp)
 
 ## Why Insurance Coverage Matters for Contractors
 

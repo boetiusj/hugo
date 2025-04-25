@@ -8,7 +8,7 @@ logo = "/images/logo-crestwood.webp"
 # show = true
 # url = "/book-us/"
 # text = "Book an Estimate"
-# image = "/images/bgCanadaLake.webp"
+# image = "/"
 [comments]
 enable = false
 [[socials]]

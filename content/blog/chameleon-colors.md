@@ -6,7 +6,7 @@ keywords: "paint colors kansas city"
 canonical: "https://crestwoodpainting.com/chameleon-colors/"
 date: "2016-02-02"
 index: true
-image: "/images/color-chips.webp"
+image: "/images/interior/wild-lips.jpg"
 categories:
   - "interior"
 
@@ -17,7 +17,8 @@ Paint colors often behave like chameleons, shifting their appearance as the ligh
 
  Homeowners are sometimes astonished at how a shade that looks pale green at noon can appear closer to yellow by evening or under warm incandescent bulbs.
 
-[changeable under different lighting conditions](/colors-relaxation/)
+![weird walls](/images/interior/wild-kisses.jpg) Yes, someone painted lips in their Kansas City bedroom.
+
 
 ### The Appeal of Shifting Shades
 

@@ -6,7 +6,7 @@ keywords: "paint colors test"
 canonical: "https://crestwoodpainting.com/how-to-test-paint-colors/"
 date: "2025-04-20"
 index: true
-image: "/images/colors.webp"
+image: "/images/color-chips.webp"
 categories:
   - "color-tips"
 

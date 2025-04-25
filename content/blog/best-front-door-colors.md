@@ -1,15 +1,15 @@
 ---
-title: Best Front Door Colors
-url: best-front-door-colors
-description: Popular colors for front doors.
-keywords: front door, paint colors
-canonical: https://crestwoodpainting.com/best-front-door-colors/
-date: 2023-07-22
+title: "Best Front Door Colors"
+url: "best-front-door-colors"
+description: "Popular colors for front doors"
+keywords: "front door, paint colors"
+canonical: "https://crestwoodpainting.com/best-front-door-colors/"
+date: "2023-07-22"
 index: true
-image: /images/doors/fd-gloss.jpg
+image: "/images/doors/fd-gloss.jpg"
 categories:
-  - exterior
-  - feel-good
+  - "exterior"
+  - "feel-good"
 
 ---
 ## Front Doors: The Focal Point

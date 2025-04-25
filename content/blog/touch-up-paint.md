@@ -6,7 +6,7 @@ keywords: "touch-up paint"
 canonical: "https://crestwoodpainting.com/touch-up-paint/"
 date: "2014-07-30"
 index: true
-image: "/images/nail-polish.webp"
+image: "/images/blog/chipped-nail.jpg"
 categories:
   - "good-to-know"
 
@@ -17,7 +17,7 @@ If you’ve ever wondered why a fresh dab of paint doesn’t blend, you’re not
 
 Touch-ups appear simple but often lead to unexpected complications in sheen, color, and blending.
 
-![touchup paint](/images/nail-polish.webp)
+![touchup paint](/images/blog/chipped-nail.jpg)
 
 ### The Illusion of “Quick Fixes”
 

@@ -19,7 +19,7 @@ Insurance isn’t just paperwork—it’s a safeguard against the unexpected. Wh
 
 Most homeowners assume a contractor has liability coverage—until something goes wrong. Damage, injury, or an accident on your property could quickly lead to out-of-pocket costs you didn’t expect.
 
-According to industry estimates, **up to 40% of painting contractors in the U.S. are uninsured**. That’s tens of thousands of painters operating without proper liability or workers comp coverage.
+According to industry estimates, up to 40% of painting contractors in the U.S. are uninsured. That’s tens of thousands of painters operating without proper liability or workers comp coverage.
 
 ## What If a Contractor Damages Your Property?
 

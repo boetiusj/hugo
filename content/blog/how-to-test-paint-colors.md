@@ -4,7 +4,7 @@ url: "how-to-test-paint-colors"
 description: "Helpful info when thinking about exterior painting."
 keywords: "paint colors test"
 canonical: "https://crestwoodpainting.com/how-to-test-paint-colors/"
-date: "2013-03-19"
+date: "2025-04-20"
 index: true
 image: "/images/colors.webp"
 categories:

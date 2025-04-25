@@ -19,7 +19,7 @@ intro:
   values: # or benefits/qualities
     - title: Lasting Exteriors
       summary: "Durable protection for homes new, old and mid-century. Commercial buildings too."
-      svcimg: /images/stucco-ornate-entry500.jpg
+      svcimg: /images/stucco-entry500.webp
       link: /exterior-painting-kansas-city/
     - title: Comfy Interiors
       summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."
@@ -35,7 +35,7 @@ cta:
   description: "We're ready for your project."
   phone: "816-805-4515"
   show: true # turn to false to hide
-  image: /images/cnlake.webp
+  # image: 
   button:
     url: "/book-us"
     label: "Schedule an Estimate"

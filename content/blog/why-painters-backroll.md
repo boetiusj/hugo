@@ -6,7 +6,7 @@ keywords: "paint backroll kansas city crestwood painting"
 canonical: "https://crestwoodpainting.com/why-painters-backroll"
 date: "2012-08-06"
 index: true
-image: "/images/backroll.webp"
+image: "/images/blog/backroll.webp"
 categories:
   - "painting-tips"
   - "nitty-gritty"

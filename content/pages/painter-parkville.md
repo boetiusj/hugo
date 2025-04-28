@@ -8,7 +8,7 @@ date: "2014-01-03"
 index: true
 ---
 
-![parkville jogger](/images/city/parkville+jogger.jpg
+![parkville jogger](/images/city/parkville-jogger.jpg
 )
 ## Professional Painting in Parkville
 

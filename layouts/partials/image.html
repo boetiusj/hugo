@@ -4,7 +4,8 @@
 {{/* Get resource from assets folder */}}
 {{ $resource := resources.Get .src }}
 {{ if $resource }}
-  {{ if eq $resource.MediaType.SubType "svg" }}
+  {{/* Check if the file is already a WebP */}}
+  {{ if eq $resource.MediaType.SubType "webp" }}
     <img
       src="{{ $resource.Permalink }}"
       {{ with .class }} class="{{ . }}" {{ end }}

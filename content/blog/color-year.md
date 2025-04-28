@@ -11,7 +11,7 @@ categories:
   - "color-tips"
 
 ---
-Who makes this up? This year it's "Lt Blue" or "Dark Red". Next year, who knows? Nothing close to agreed-upon color trends.
+Experts can't agree on color trends. This year's "Sweet Lilac" will be next year's "Mellow Mud Pit".
 
 <style>
   table {

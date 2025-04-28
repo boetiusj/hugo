@@ -3,28 +3,31 @@
 
 {{/* Get resource from assets folder */}}
 {{ $resource := resources.Get .src }}
-{{ if not $resource }} {{ warnf "Image Optimization: the image '%s' has not been found." .src }} {{ end }}
+{{ if $resource }}
+  {{ if eq $resource.MediaType.SubType "svg" }}
+    <img
+      src="{{ $resource.Permalink }}"
+      {{ with .class }} class="{{ . }}" {{ end }}
+      alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
+    />
+  {{ else }}
+    {{/* Generate WebP version */}}
+    {{ $webp := $resource.Resize "1200x webp q75" }}
 
-{{ if eq $resource.MediaType.SubType "svg" }}
-  <img
-    src="{{ $resource.Permalink }}"
-    {{ with .class }} class="{{ . }}" {{ end }}
-    alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
-  />
+    {{/* Build srcset */}}
+    {{ $srcset := printf "%s 1200w" $webp.Permalink }}
+
+    <img
+      src="{{ $webp.Permalink }}"
+      srcset="{{ $srcset }}"
+      sizes="(min-width: 1200px) 1140px, (min-width: 992px) 960px, (min-width: 768px) 720px, (min-width: 576px) 540px"
+      {{ with .class }} class="{{ . }}" {{ end }}
+      {{ with .fetchPriority }} fetchPriority="{{ . }}" {{ end }}
+      {{ with .loading }} loading="{{ . }}" {{ end }}
+      alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
+    />
+  {{ end }}
 {{ else }}
-  {{/* Generate WebP version */}}
-  {{ $webp := $resource.Resize "1200x webp q75" }}
-
-  {{/* Build srcset */}}
-  {{ $srcset := printf "%s 1200w" $webp.Permalink }}
-
-  <img
-    src="{{ $webp.Permalink }}"
-    srcset="{{ $srcset }}"
-    sizes="(min-width: 1200px) 1140px, (min-width: 992px) 960px, (min-width: 768px) 720px, (min-width: 576px) 540px"
-    {{ with .class }} class="{{ . }}" {{ end }}
-    {{ with .fetchPriority }} fetchPriority="{{ . }}" {{ end }}
-    {{ with .loading }} loading="{{ . }}" {{ end }}
-    alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
-  />
+  {{ warnf "Image Optimization: the image '%s' has not been found." .src }}
+  <img src="{{ .src }}" alt="{{ .alt | default "Image not found" }}" class="{{ .class | default "img-fluid" }}" />
 {{ end }}

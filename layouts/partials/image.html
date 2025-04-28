@@ -29,5 +29,5 @@
   {{ end }}
 {{ else }}
   {{ warnf "Image Optimization: the image '%s' has not been found." .src }}
-  <img src="{{ .src }}" alt="{{ .alt | default "Image not found" }}" class="{{ .class | default "img-fluid" }}" />
+  <img src="/images/placeholder.webp" alt="Image not found" class="{{ .class | default "img-fluid" }}" />
 {{ end }}

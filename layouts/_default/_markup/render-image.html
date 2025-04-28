@@ -10,5 +10,5 @@
   {{ end }}
 {{ else }}
   {{ warnf "Image not found: %s" .Destination }}
-  <img src="{{ .Destination }}" alt="{{ .Text }}" class="img-fluid" />
+  <img src="/images/placeholder.webp" alt="Image not found" class="img-fluid" />
 {{ end }}

@@ -5,12 +5,17 @@
     {{ partial "image" (dict "src" $imageResource.RelPermalink "alt" .Text "class" "img-fluid" "fetchPriority" "high") }}
   {{ else }}
     {{ $webpImage := $imageResource.Resize "1200x webp q75" }}
-    {{ $firstImageDone := .Page.Scratch.Get "firstImageDone" }}
-    {{ if not $firstImageDone }}
-      {{ .Page.Scratch.Set "firstImageDone" true }}
-      {{ partial "image" (dict "src" $webpImage.RelPermalink "alt" .Text "class" "img-fluid" "fetchPriority" "high") }}
+    {{ if $webpImage }}
+      {{ $firstImageDone := .Page.Scratch.Get "firstImageDone" }}
+      {{ if not $firstImageDone }}
+        {{ .Page.Scratch.Set "firstImageDone" true }}
+        {{ partial "image" (dict "src" $webpImage.RelPermalink "alt" .Text "class" "img-fluid" "fetchPriority" "high") }}
+      {{ else }}
+        {{ partial "image" (dict "src" $webpImage.RelPermalink "alt" .Text "class" "img-fluid" "loading" "lazy") }}
+      {{ end }}
     {{ else }}
-      {{ partial "image" (dict "src" $webpImage.RelPermalink "alt" .Text "class" "img-fluid" "loading" "lazy") }}
+      {{ warnf "Failed to process image: %s" .Destination }}
+      <img src="/images/placeholder.webp" alt="Image not found" class="img-fluid" />
     {{ end }}
   {{ end }}
 {{ else }}

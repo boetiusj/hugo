@@ -13,22 +13,4 @@
     />
   {{ else }}
     {{/* Generate WebP version */}}
-    {{ $webp := $resource.Resize "1200x webp q75" }}
-
-    {{/* Build srcset */}}
-    {{ $srcset := printf "%s 1200w" $webp.Permalink }}
-
-    <img
-      src="{{ $webp.Permalink }}"
-      srcset="{{ $srcset }}"
-      sizes="(min-width: 1200px) 1140px, (min-width: 992px) 960px, (min-width: 768px) 720px, (min-width: 576px) 540px"
-      {{ with .class }} class="{{ . }}" {{ end }}
-      {{ with .fetchPriority }} fetchPriority="{{ . }}" {{ end }}
-      {{ with .loading }} loading="{{ . }}" {{ end }}
-      alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
-    />
-  {{ end }}
-{{ else }}
-  {{ warnf "Image Optimization: the image '%s' has not been found." .src }}
-  <img src="/images/placeholder.webp" alt="Image not found" class="{{ .class | default "img-fluid" }}" />
-{{ end }}
+    {{ $webp := $resource.Resize "1200x webp q75

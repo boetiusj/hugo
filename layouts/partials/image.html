@@ -17,11 +17,11 @@
   {{/* Configure the image widths to be generated: */}}
   {{ $breakpoints := (slice 1200 992 768 576) }}
 
-  {{/* Generate the images: */}}
+  {{/* Generate the images in WebP format with quality level 75: */}}
   {{ $images := slice }}
   {{ range $breakpoints }}
     {{ if (ge $resource.Width .) }}
-      {{ $opts := (printf "%dx webp" .) }}
+      {{ $opts := (printf "%dx webp q75" .) }}
       {{ $image := $resource.Resize $opts }}
       {{ $images = append $images (slice $image) }}
     {{ end }}

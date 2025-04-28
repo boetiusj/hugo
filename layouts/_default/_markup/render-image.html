@@ -1,7 +1,6 @@
-{{ $firstImageDone := .Page.Scratch.Get "firstImageDone" }}
-{{ if not $firstImageDone }}
-  {{ .Page.Scratch.Set "firstImageDone" true }}
-  {{ partial "image" (dict "src" .Destination "alt" .Text "class" "img-fluid" "fetchPriority" "high") }}
-{{ else }}
-  {{ partial "image" (dict "src" .Destination "alt" .Text "class" "img-fluid" "loading" "lazy") }}
-{{ end }}
+{{ $imageResource := resources.Get .Destination }}
+{{ if $imageResource }}
+  {{ $firstImageDone := .Page.Scratch.Get "firstImageDone" }}
+  {{ if not $firstImageDone }}
+    {{ .Page.Scratch.Set "firstImageDone" true }}
+    {{ partial "image" (dict "src" $imageResource.RelPermalink "alt" .Text "class" "img-fluid

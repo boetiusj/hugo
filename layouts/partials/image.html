@@ -1,16 +1,19 @@
 {{/* Check for required arguments */}}
 {{ if not .src }} {{ errorf "Image Optimization: the partial 'image' requires a 'src' argument." }} {{ end }}
 
+{{- $isFirst := cond (and (isset . "IsFirst") (not (eq (typeOf .IsFirst) "bool"))) false .IsFirst -}}
+
 {{/* Handle images from /static/ */}}
 {{ if strings.HasPrefix .src "/static/" }}
   <img
     src="{{ .src | relURL }}"
     {{ with .class }} class="{{ . }}" {{ end }}
-    {{ with .fetchPriority }} {{ if .IsFirst }} fetchPriority="high" {{ else }} fetchPriority="{{ . }}" {{ end }} {{ else }} fetchPriority="low" {{ end }}
+    fetchpriority="{{ .fetchPriority }}"
     {{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}
     alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
     height="800"
     width="1200"
+    {{ if $isFirst }}data-first="true"{{ end }}
   />
 {{ else }}
   {{/* Handle images from /assets/ */}}
@@ -22,11 +25,12 @@
       <img
         src="{{ $resource.Permalink }}"
         {{ with .class }} class="{{ . }}" {{ end }}
-        {{ with .fetchPriority }} {{ if .IsFirst }} fetchPriority="high" {{ else }} fetchPriority="{{ . }}" {{ end }} {{ else }} fetchPriority="low" {{ end }}
+        fetchpriority="{{ .fetchPriority }}"
         {{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}
         alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
         height="{{ $height }}"
         width="{{ $width }}"
+        {{ if $isFirst }}data-first="true"{{ end }}
       />
     {{ else }}
       {{/* Generate WebP version and srcset */}}
@@ -37,11 +41,12 @@
         srcset="{{ $srcset }}"
         sizes="(min-width: 1200px) 1140px, (min-width: 992px) 960px, (min-width: 768px) 720px, (min-width: 576px) 540px"
         {{ with .class }} class="{{ . }}" {{ end }}
-        {{ with .fetchPriority }} {{ if .IsFirst }} fetchPriority="high" {{ else }} fetchPriority="{{ . }}" {{ end }} {{ else }} fetchPriority="low" {{ end }}
+        fetchpriority="{{ .fetchPriority }}"
         {{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}
         alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
         height="{{ $height }}"
         width="{{ $width }}"
+        {{ if $isFirst }}data-first="true"{{ end }}
       />
     {{ end }}
   {{ else }}

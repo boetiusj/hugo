@@ -4,9 +4,14 @@
     <h1 class="pb-0">{{ .Title }}</h1>
     {{ partial "breadcrumbs/index" . }}
     {{ if .Params.image }}
-      {{ partial "image" (dict "src" .Params.image "alt" .Title "class" "img-fluid" "fetchPriority" "high" "loading" "lazy" "height" "auto" "width" "auto") }}
+      {{ $imageResource := resources.Get .Params.image }}
+      {{ if $imageResource }}
+        {{ partial "image" (dict "src" $imageResource.RelPermalink "alt" .Title "class" "img-fluid" "fetchPriority" "high" "loading" "lazy" "height" $imageResource.Height "width" $imageResource.Width) }}
+      {{ else }}
+        <img src="/images/placeholder.webp" alt="Image not found" class="img-fluid" height="800" width="1200" />
+      {{ end }}
     {{ else }}
-      <img src="/images/placeholder.webp" alt="Image not found" class="img-fluid" />
+      <img src="/images/placeholder.webp" alt="Image not found" class="img-fluid" height="800" width="1200" />
     {{ end }}
     {{ .Content }}
     {{ if .Params.faqs }}

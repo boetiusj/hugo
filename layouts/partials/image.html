@@ -9,13 +9,15 @@
     {{ with .fetchPriority }} fetchPriority="{{ . }}" {{ end }}
     {{ with .loading }} loading="{{ . }}" {{ end }}
     alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
-    height="{{ .height | default "auto" }}"
-    width="{{ .width | default "auto" }}"
+    height="800"
+    width="1200"
   />
 {{ else }}
   {{/* Handle images from /assets/ */}}
   {{ $resource := resources.Get .src }}
   {{ if $resource }}
+    {{ $width := $resource.Width }}
+    {{ $height := $resource.Height }}
     {{ if eq $resource.MediaType.SubType "webp" }}
       <img
         src="{{ $resource.Permalink }}"
@@ -23,8 +25,8 @@
         {{ with .fetchPriority }} fetchPriority="{{ . }}" {{ end }}
         {{ with .loading }} loading="{{ . }}" {{ end }}
         alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
-        height="{{ .height | default "auto" }}"
-        width="{{ .width | default "auto" }}"
+        height="{{ $height }}"
+        width="{{ $width }}"
       />
     {{ else }}
       {{/* Generate WebP version and srcset */}}
@@ -38,12 +40,12 @@
         {{ with .fetchPriority }} fetchPriority="{{ . }}" {{ end }}
         {{ with .loading }} loading="{{ . }}" {{ end }}
         alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
-        height="{{ .height | default "auto" }}"
-        width="{{ .width | default "auto" }}"
+        height="{{ $height }}"
+        width="{{ $width }}"
       />
     {{ end }}
   {{ else }}
     {{ warnf "Image not found: %s" .src }}
-    <img src="/images/placeholder.webp" alt="Image not found" class="{{ .class | default "img-fluid" }}" />
+    <img src="/images/placeholder.webp" alt="Image not found" class="{{ .class | default "img-fluid" }}" height="800" width="1200" />
   {{ end }}
 {{ end }}

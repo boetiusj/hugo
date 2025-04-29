@@ -1,7 +1,7 @@
 {{ $imageResource := resources.Get .Destination }}
 {{ if $imageResource }}
-  {{ partial "image" (dict "src" $imageResource.RelPermalink "alt" .Text "class" "img-fluid" "fetchPriority" "high" "loading" "lazy" "height" "auto" "width" "auto") }}
+  {{ partial "image" (dict "src" $imageResource.RelPermalink "alt" .Text "class" "img-fluid" "fetchPriority" "high" "loading" "lazy" "height" $imageResource.Height "width" $imageResource.Width) }}
 {{ else }}
   {{ warnf "Image not found: %s" .Destination }}
-  <img src="/images/placeholder.webp" alt="Image not found" class="img-fluid" />
+  <img src="/images/placeholder.webp" alt="Image not found" class="img-fluid" height="800" width="1200" />
 {{ end }}

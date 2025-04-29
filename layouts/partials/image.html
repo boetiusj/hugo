@@ -1,8 +1,6 @@
 {{/* Check for required arguments */}}
 {{ if not .src }} {{ errorf "Image Optimization: the partial 'image' requires a 'src' argument." }} {{ end }}
 
-{{- $isFirst := cond (and (isset . "IsFirst") (eq (printf "%t" .IsFirst) "true")) true false -}}
-
 {{/* Handle images from /static/ */}}
 {{ if strings.HasPrefix .src "/static/" }}
   <img
@@ -13,7 +11,6 @@
     alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
     height="800"
     width="1200"
-    {{ if $isFirst }}data-first="true"{{ end }}
   />
 {{ else }}
   {{/* Handle images from /assets/ */}}
@@ -30,7 +27,6 @@
         alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
         height="{{ $height }}"
         width="{{ $width }}"
-        {{ if $isFirst }}data-first="true"{{ end }}
       />
     {{ else }}
       {{/* Generate WebP version and srcset */}}
@@ -46,7 +42,6 @@
         alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
         height="{{ $height }}"
         width="{{ $width }}"
-        {{ if $isFirst }}data-first="true"{{ end }}
       />
     {{ end }}
   {{ else }}

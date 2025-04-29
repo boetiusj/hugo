@@ -3,6 +3,11 @@
 	<div class="container content">
     <h1 class="pb-0">{{ .Title }}</h1>
     {{ partial "breadcrumbs/index" . }}
+    {{ if .Params.image }}
+      {{ partial "image" (dict "src" .Params.image "alt" .Title "class" "img-fluid" "fetchPriority" "high" "loading" "lazy" "height" "auto" "width" "auto") }}
+    {{ else }}
+      <img src="/images/placeholder.webp" alt="Image not found" class="img-fluid" />
+    {{ end }}
     {{ .Content }}
     {{ if .Params.faqs }}
       {{ partial "faqs" . }}

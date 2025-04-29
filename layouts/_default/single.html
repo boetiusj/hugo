@@ -8,10 +8,8 @@
       {{ if $imageResource }}
         {{ partial "image" (dict "src" $imageResource.RelPermalink "alt" .Title "class" "img-fluid" "fetchPriority" "high" "loading" "lazy" "height" $imageResource.Height "width" $imageResource.Width) }}
       {{ else }}
-        <img src="/images/placeholder.webp" alt="Image not found" class="img-fluid" height="800" width="1200" />
+        {{ warnf "Image not found: %s" .Params.image }}
       {{ end }}
-    {{ else }}
-      <img src="/images/placeholder.webp" alt="Image not found" class="img-fluid" height="800" width="1200" />
     {{ end }}
     {{ .Content }}
     {{ if .Params.faqs }}

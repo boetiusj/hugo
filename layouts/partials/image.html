@@ -6,7 +6,7 @@
   <img
     src="{{ .src | relURL }}"
     {{ with .class }} class="{{ . }}" {{ end }}
-    {{ with .fetchPriority }} fetchPriority="{{ . }}" {{ else }} fetchPriority="low" {{ end }}
+    {{ with .fetchPriority }} {{ if .IsFirst }} fetchPriority="high" {{ else }} fetchPriority="{{ . }}" {{ end }} {{ else }} fetchPriority="low" {{ end }}
     {{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}
     alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
     height="800"
@@ -22,7 +22,7 @@
       <img
         src="{{ $resource.Permalink }}"
         {{ with .class }} class="{{ . }}" {{ end }}
-        {{ with .fetchPriority }} fetchPriority="{{ . }}" {{ else }} fetchPriority="low" {{ end }}
+        {{ with .fetchPriority }} {{ if .IsFirst }} fetchPriority="high" {{ else }} fetchPriority="{{ . }}" {{ end }} {{ else }} fetchPriority="low" {{ end }}
         {{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}
         alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
         height="{{ $height }}"
@@ -37,7 +37,7 @@
         srcset="{{ $srcset }}"
         sizes="(min-width: 1200px) 1140px, (min-width: 992px) 960px, (min-width: 768px) 720px, (min-width: 576px) 540px"
         {{ with .class }} class="{{ . }}" {{ end }}
-        {{ with .fetchPriority }} fetchPriority="{{ . }}" {{ else }} fetchPriority="low" {{ end }}
+        {{ with .fetchPriority }} {{ if .IsFirst }} fetchPriority="high" {{ else }} fetchPriority="{{ . }}" {{ end }} {{ else }} fetchPriority="low" {{ end }}
         {{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}
         alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
         height="{{ $height }}"

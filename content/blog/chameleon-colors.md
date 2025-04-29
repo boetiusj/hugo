@@ -19,7 +19,6 @@ Paint colors often behave like chameleons, shifting their appearance as the ligh
 
 ![weird walls](/images/interior/wild-kisses.jpg) Yes, someone painted lips in their Kansas City bedroom.
 
-
 ### The Appeal of Shifting Shades
 
 This quality can add a dynamic element to your home’s interior. Some designers intentionally choose paints with multiple undertones that morph throughout the day, creating visual interest. It’s a departure from the once-dominant trend of bold, saturated hues, favoring instead a gentler, more adaptable palette suited for many styles of [interior](/interior-painter-kansas-city/) spaces.

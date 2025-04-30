@@ -27,20 +27,7 @@
     {{ if eq $resource.MediaType.SubType "webp" }}
       <img
         src="{{ $resource.Permalink }}"
-        {{ with .class }} class="{{ . }}" {{ end }}
-        fetchpriority="{{ if $isFirstImage }}high{{ else }}auto{{ end }}"
-        {{ if $isFirstImage }}{{ else }}{{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}{{ end }}
-        alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
-        height="{{ $height }}"
-        width="{{ $width }}"
-      />
-    {{ else }}
-      {{/* Generate WebP version and srcset */}}
-      {{ $webp := $resource.Resize "1200x webp q75" }}
-      {{ $srcset := printf "%s 1140w, %s 960w, %s 720w, %s 540w" ($webp.Resize "1140x").Permalink ($webp.Resize "960x").Permalink ($webp.Resize "720x").Permalink ($webp.Resize "540x").Permalink }}
-      <img
-        src="{{ $webp.Permalink }}"
-        srcset="{{ $srcset }}"
+        srcset="{{ printf "%s 1140w, %s 960w, %s 720w, %s 540w" ($resource.Resize "1140x").Permalink ($resource.Resize "960x").Permalink ($resource.Resize "720x").Permalink ($resource.Resize "540x").Permalink }}"
         sizes="(min-width: 1200px) 1140px, (min-width: 992px) 960px, (min-width: 768px) 720px, (min-width: 576px) 540px"
         {{ with .class }} class="{{ . }}" {{ end }}
         fetchpriority="{{ if $isFirstImage }}high{{ else }}auto{{ end }}"
@@ -49,6 +36,9 @@
         height="{{ $height }}"
         width="{{ $width }}"
       />
+    {{ else }}
+      {{ warnf "Image not found: %s" .src }}
+      <img src="/images/placeholder.webp" alt="Image not found" class="{{ .class | default "img-fluid" }}" height="800" width="1200" />
     {{ end }}
   {{ else }}
     {{ warnf "Image not found: %s" .src }}

@@ -8,5 +8,7 @@
     "loading" "lazy" 
     "height" $imageResource.Height 
     "width" $imageResource.Width 
+    "srcset" (printf "%s 1140w, %s 960w, %s 720w, %s 540w" ($imageResource.Resize "1140x").Permalink ($imageResource.Resize "960x").Permalink ($imageResource.Resize "720x").Permalink ($imageResource.Resize "540x").Permalink)
+    "sizes" "(min-width: 1200px) 1140px, (min-width: 992px) 960px, (min-width: 768px) 720px, (min-width: 576px) 540px"
   ) }}
 {{ end }}

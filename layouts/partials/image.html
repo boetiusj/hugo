@@ -16,23 +16,30 @@
   {{/* Check if the image is too small for resizing */}}
   {{ if or (lt $width 500) (lt $height 500) }}
     <img
-      src="{{ $resource.Permalink }}"
+      src="{{ $resource.Permalink | safeURL }}"
       {{ with .class }} class="{{ . }}" {{ end }}
-      fetchpriority="{{ if $isFirstImage }}high{{ else }}auto{{ end }}
+      fetchpriority="{{ if $isFirstImage }}high{{ else }}auto{{ end }}"
       {{ if $isFirstImage }}{{ else }}{{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}{{ end }}
-      alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
+      alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) | html }}"
       height="{{ $height }}"
       width="{{ $width }}"
     />
   {{ else }}
+    {{/* Generate srcset only if resizing succeeds */}}
+    {{ $srcset := "" }}
+    {{ with $resource.Resize "1140x" }}{{ $srcset = printf "%s 1140w" .Permalink }}{{ end }}
+    {{ with $resource.Resize "960x" }}{{ $srcset = printf "%s, %s 960w" $srcset .Permalink }}{{ end }}
+    {{ with $resource.Resize "720x" }}{{ $srcset = printf "%s, %s 720w" $srcset .Permalink }}{{ end }}
+    {{ with $resource.Resize "540x" }}{{ $srcset = printf "%s, %s 540w" $srcset .Permalink }}{{ end }}
+
     <img
-      src="{{ $resource.Permalink }}"
-      srcset="{{ printf "%s 1140w, %s 960w, %s 720w, %s 540w" ($resource.Resize "1140x").Permalink ($resource.Resize "960x").Permalink ($resource.Resize "720x").Permalink ($resource.Resize "540x").Permalink }}"
+      src="{{ $resource.Permalink | safeURL }}"
+      {{ if $srcset }}srcset="{{ $srcset | safeURL }}"{{ end }}
       sizes="(min-width: 1200px) 1140px, (min-width: 992px) 960px, (min-width: 768px) 720px, (min-width: 576px) 540px"
       {{ with .class }} class="{{ . }}" {{ end }}
       fetchpriority="{{ if $isFirstImage }}high{{ else }}auto{{ end }}
       {{ if $isFirstImage }}{{ else }}{{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}{{ end }}
-      alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
+      alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) | html }}"
       height="{{ $height }}"
       width="{{ $width }}"
     />

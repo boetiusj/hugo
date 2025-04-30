@@ -2,9 +2,9 @@
 {{ if not .src }} {{ errorf "Image Optimization: the partial 'image' requires a 'src' argument." }} {{ end }}
 
 {{/* Determine if this is the first image */}}
-{{ $isFirstImage := not (isset .Site.Data "firstImageRendered") }}
+{{ $isFirstImage := not (.Scratch.Get "firstImageRendered") }}
 {{ if $isFirstImage }}
-  {{ .Site.Data = merge .Site.Data (dict "firstImageRendered" true) }}
+  {{ .Scratch.Set "firstImageRendered" true }}
 {{ end }}
 
 {{/* Handle images from /static/ */}}

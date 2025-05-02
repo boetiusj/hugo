@@ -187,6 +187,9 @@ position:absolute;
   img {
     margin-bottom: 0.2em;
     margin-right: 0.2em;
+    max-width: 100%; /* per Copilot */
+    height: auto; /* per Copilot */
+    display: block; /* per Copilot */
   }
 }
 .section404 {

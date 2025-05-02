@@ -1,41 +1,31 @@
 {{ define "main" }}
-{{ partial "blocks/page-title" . }}
-{{ $config := site.Params }}
-
 <section class="section blog-wrap bg-gray">
-    <div class="container">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
         <div class="row">
-            <div class="col-lg-8">
-                <div class="row">
-                    <div class="col-lg-12 mb-5">
-                        <div class="single-blog-item">
-                            <div class="blog-item-content bg-white p-5 content">
+          <div class="col-lg-12 mb-5">
+            <div class="single-blog-item">
+              <div class="blog-item-content bg-white p-5 content">
 
-                                {{/* Handle the first image in the blog post */}}
-                                {{ $firstImage := true }}
-                                {{ range .Resources.ByType "image" }}
-                                    {{ partial "render-image.html" (dict "Destination" .RelPermalink "firstImage" $firstImage) }}
-                                    {{ $firstImage = false }}
-                                {{ end }}
-
-                                {{ .Content }}
-                                <div class="tag-option mt-5 d-block d-md-flex justify-content-between align-items-center">
-                  {{ partial "blog/share.html" . }}
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                {{ partial "blog/pager.html" . }}
-
-                {{ if site.Params.comments.enable }}
-                    {{ partial "blog/comments.html" . }}
+                {{/* Track the first image */}}
+                {{ $firstImage := true }}
+                {{ range .Resources.ByType "image" }}
+                  {{ partial "render-image.html" (dict "Destination" .RelPermalink "loading" (cond $firstImage "eager" "lazy")) }}
+                  {{ $firstImage = false }}
                 {{ end }}
-                </div>
-            </div>
-      {{ partial "blog/sidebar.html" . }}
-        </div>
-    </div>
-</section>
 
+                {{ .Content }}
+                <div class="tag-option mt-5 d-block d-md-flex justify-content-between align-items-center">
+                  {{ partial "blog/share.html" . }}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ partial "blog/sidebar.html" . }}
+    </div>
+  </div>
+</section>
 {{ end }}

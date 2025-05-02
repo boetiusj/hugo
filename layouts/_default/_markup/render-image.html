@@ -11,12 +11,6 @@
     {{ $srcset = printf "%s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.Resize "300x").Permalink }}
   {{ end }}
 
-  {{/* Determine if this is the first image */}}
-  {{ $isFirstImage := not (.Scratch.Get "firstImageRendered") }}
-  {{ if $isFirstImage }}
-    {{ .Scratch.Set "firstImageRendered" true }}
-  {{ end }}
-
   <img
     src="{{ $webp.Permalink }}"
     {{ if $srcset }}srcset="{{ $srcset }}"{{ end }}
@@ -24,8 +18,8 @@
     alt="{{ .Title | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}"
     width="{{ $webp.Width }}"
     height="{{ $webp.Height }}"
-    fetchpriority="{{ if $isFirstImage }}high{{ else }}auto{{ end }}"
-    loading="{{ if $isFirstImage }}eager{{ else }}lazy{{ end }}"
+    fetchpriority="auto"
+    loading="lazy"
     decoding="async"
   />
 {{ else }}

@@ -18,7 +18,7 @@
     alt="{{ .Title | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}"
     width="{{ $webp.Width }}"
     height="{{ $webp.Height }}"
-    loading="{{ .loading | default "lazy" }}"
+    loading="{{ if (isset . "loading") }}{{ .loading }}{{ else }}lazy{{ end }}"
     decoding="async"
   />
 {{ else }}

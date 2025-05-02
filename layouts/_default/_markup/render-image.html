@@ -18,8 +18,8 @@
     alt="{{ .Title | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}"
     width="{{ $webp.Width }}"
     height="{{ $webp.Height }}"
-    fetchpriority="auto"
-    loading="lazy"
+    fetchpriority="{{ if .firstImage }}high{{ else }}auto{{ end }}"
+    loading="{{ if .firstImage }}eager{{ else }}lazy{{ end }}"
     decoding="async"
   />
 {{ else }}

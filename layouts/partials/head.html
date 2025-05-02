@@ -43,3 +43,8 @@
 <link rel="mask-icon" href='{{ absURL (printf "%ssafari-pinned-tab.svg" $iconsPath) }}'  color="#004750">
 <link rel="shortcut icon" href='{{ absURL (printf "%sfavicon.ico" $iconsPath) }}'>
 <meta name="msapplication-config" content='{{ absURL (printf "%sbrowserconfig.xml" $iconsPath) }}'>
+
+{{ with .Resources.ByType "image" }}
+  {{ $firstImage := first . }}
+  <link rel="preload" as="image" href="{{ $firstImage.RelPermalink }}" />
+{{ end }}

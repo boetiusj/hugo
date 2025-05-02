@@ -1,14 +1,34 @@
 {{ $imageResource := resources.Get .Destination }}
 {{ if $imageResource }}
-  {{ partial "image" (dict 
-    "src" $imageResource.RelPermalink 
-    "alt" .Text 
-    "class" "img-fluid" 
-    "fetchPriority" "high" 
-    "loading" "lazy" 
-    "height" $imageResource.Height 
-    "width" $imageResource.Width 
-    "srcset" (printf "%s 1140w, %s 960w, %s 720w, %s 540w" ($imageResource.Resize "1140x").Permalink ($imageResource.Resize "960x").Permalink ($imageResource.Resize "720x").Permalink ($imageResource.Resize "540x").Permalink)
-    "sizes" "(min-width: 1200px) 1140px, (min-width: 992px) 960px, (min-width: 768px) 720px, (min-width: 576px) 540px"
-  ) }}
+  {{/* Check if the image is smaller than 510px */}}
+  {{ if ge $imageResource.Width 510 }}
+    {{/* Generate WebP versions and responsive sizes */}}
+    {{ $webp := $imageResource.Resize "1200x webp q75" }}
+    {{ $srcset := printf "%s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.Resize "300x").Permalink }}
+  {{ else }}
+    {{/* Use the original image if it's smaller than 510px */}}
+    {{ $webp := $imageResource }}
+    {{ $srcset := "" }}
+  {{ end }}
+
+  {{/* Determine if this is the first image */}}
+  {{ $isFirstImage := not (.Scratch.Get "firstImageRendered") }}
+  {{ if $isFirstImage }}
+    {{ .Scratch.Set "firstImageRendered" true }}
+  {{ end }}
+
+  <img
+    src="{{ $webp.Permalink }}"
+    {{ if $srcset }}srcset="{{ $srcset }}"{{ end }}
+    sizes="(min-width: 1200px) 960px, (min-width: 992px) 768px, (min-width: 768px) 540px, (min-width: 576px) 300px"
+    alt="{{ .Title | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}"
+    width="{{ $webp.Width }}"
+    height="{{ $webp.Height }}"
+    fetchpriority="{{ if $isFirstImage }}high{{ else }}auto{{ end }}"
+    loading="{{ if $isFirstImage }}eager{{ else }}lazy{{ end }}"
+    decoding="async"
+  />
+{{ else }}
+  {{ warnf "Image not found: %s" .Destination }}
+  <img src="/images/placeholder.webp" alt="Image not found" width="800" height="600" />
 {{ end }}

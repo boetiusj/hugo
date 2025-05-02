@@ -1,14 +1,14 @@
 {{ $imageResource := resources.Get .Destination }}
 {{ if $imageResource }}
-  {{/* Check if the image is smaller than 510px */}}
+  {{/* Initialize variables */}}
+  {{ $webp := $imageResource }}
+  {{ $srcset := "" }}
+
+  {{/* Check if the image is larger than or equal to 510px */}}
   {{ if ge $imageResource.Width 510 }}
     {{/* Generate WebP versions and responsive sizes */}}
-    {{ $webp := $imageResource.Resize "1200x webp q75" }}
-    {{ $srcset := printf "%s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.Resize "300x").Permalink }}
-  {{ else }}
-    {{/* Use the original image if it's smaller than 510px */}}
-    {{ $webp := $imageResource }}
-    {{ $srcset := "" }}
+    {{ $webp = $imageResource.Resize "1200x webp q75" }}
+    {{ $srcset = printf "%s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.Resize "300x").Permalink }}
   {{ end }}
 
   {{/* Determine if this is the first image */}}

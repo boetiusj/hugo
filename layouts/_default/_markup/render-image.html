@@ -18,8 +18,8 @@
     alt="{{ .Title | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}"
     width="{{ $webp.Width }}"
     height="{{ $webp.Height }}"
-    style="max-width: 100%; height: auto; aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }};"
-    loading="{{ if (isset . "loading") }}{{ .loading }}{{ else }}lazy{{ end }}"
+    class="responsive-image"
+    loading="{{ .loading | default "lazy" }}"
     decoding="async"
   />
 {{ else }}

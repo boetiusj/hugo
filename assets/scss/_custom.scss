@@ -210,10 +210,18 @@ position:absolute;
     display: block; /* per Copilot */
   }
 }
+
+
 .section404 {
   padding-top: 0%;
 }
 .input [type="radio"] #auto {
   accent-color: auto;
+}
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: attr(width) / attr(height); /* Dynamically calculate aspect ratio */
+  object-fit: cover; /* Optional: Ensures the image covers its container */
 }
 

@@ -1,5 +1,8 @@
-<section class="page-title bg-1">
-  <div class="container">
+<section class="page-title bg-1 position-relative">
+  <div class="background-image-wrapper">
+    {{ partial "render-image.html" (dict "Destination" site.Params.blogPageTitleBkgnd "loading" "eager") }}
+  </div>
+  <div class="container position-relative">
     <div class="row">
       <div class="col-md-12">
         <div class="block text-center">

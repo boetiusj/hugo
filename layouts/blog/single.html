@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{ partial "blocks/page-title" . }}
+{{ $config := site.Params }}
 <section class="section blog-wrap bg-gray">
   <div class="container">
     <div class="row">
@@ -8,11 +10,8 @@
             <div class="single-blog-item">
               <div class="blog-item-content bg-white p-5 content">
 
-                {{/* Track the first image */}}
-                {{ $firstImage := true }}
                 {{ range .Resources.ByType "image" }}
                   {{ partial "render-image.html" (dict "Destination" .RelPermalink "loading" (cond $firstImage "eager" "lazy")) }}
-                  {{ $firstImage = false }}
                 {{ end }}
 
                 {{ .Content }}

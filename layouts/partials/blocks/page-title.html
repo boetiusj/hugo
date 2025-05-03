@@ -4,7 +4,7 @@
       <div class="col-md-12">
         <div class="block text-center">
           <!-- Render the page title background image using render-image.html -->
-          {{ partial "partials/render-image.html" (dict "Destination" site.Params.blogPageTitleBkgnd "loading" "eager") }}
+          {{ partial "template-image.html" (dict "Destination" site.Params.blogPageTitleBkgnd "loading" "eager") }}
           <h1 class="text-capitalize mb-4 text-lg">{{ .Title }}</h1>
           {{ partial "breadcrumbs/blog" . }}
         </div>

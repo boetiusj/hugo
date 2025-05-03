@@ -11,7 +11,7 @@
               <div class="blog-item-content bg-white p-5 content">
 
                 {{ range .Resources.ByType "image" }}
-                  {{ partial "render-image.html" (dict "Destination" .RelPermalink "loading" "lazy") }}
+                  {{ partial "template-image.html" (dict "Destination" .RelPermalink "loading" "lazy") }}
                 {{ end }}
 
                 {{ .Content }}

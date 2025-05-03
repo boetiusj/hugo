@@ -1,17 +1,10 @@
-<section class="page-title bg-1 position-relative">
-  <div class="background-image-wrapper">
-   <!-- {{ partial "render-image.html" (dict "Destination" site.Params.blogPageTitleBkgnd "loading" "eager") }} -->
-     {{ if partialExists "render-image.html" }}
-  {{ partial "render-image.html" (dict "Destination" site.Params.blogPageTitleBkgnd "loading" "eager") }}
-{{ else }}
-  <p>Error: render-image.html partial not found</p>
-{{ end }}
-  </div>
-  <div class="container position-relative">
+<section class="page-title bg-1">
+  <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="block text-center">
-          {{ with .Params.name }}<span class="text-white">{{ . }}</span>{{ end }}
+          <!-- Render the page title background image using render-image.html -->
+          {{ partial "render-image.html" (dict "Destination" site.Params.blogPageTitleBkgnd "loading" "eager") }}
           <h1 class="text-capitalize mb-4 text-lg">{{ .Title }}</h1>
           {{ partial "breadcrumbs/blog" . }}
         </div>

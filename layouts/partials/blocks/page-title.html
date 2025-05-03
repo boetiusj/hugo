@@ -1,6 +1,11 @@
 <section class="page-title bg-1 position-relative">
   <div class="background-image-wrapper">
-    {{ partial "render-image.html" (dict "Destination" site.Params.blogPageTitleBkgnd "loading" "eager") }}
+   <!-- {{ partial "render-image.html" (dict "Destination" site.Params.blogPageTitleBkgnd "loading" "eager") }} -->
+     {{ if partialExists "render-image.html" }}
+  {{ partial "render-image.html" (dict "Destination" site.Params.blogPageTitleBkgnd "loading" "eager") }}
+{{ else }}
+  <p>Error: render-image.html partial not found</p>
+{{ end }}
   </div>
   <div class="container position-relative">
     <div class="row">

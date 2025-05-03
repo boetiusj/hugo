@@ -3,14 +3,8 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block text-center">
-          <img 
-            src="{{ site.Params.blogPageTitleBkgnd | relURL }}" 
-            alt="{{ .Title }}" 
-            class="img-fluid page-title-image" 
-            width="1200" 
-            height="800" 
-            fetchPriority="high"
-          />
+          <!-- Render the page title background image using render-image.html -->
+          {{ partial "render-image.html" (dict "Destination" site.Params.blogPageTitleBkgnd "loading" "eager") }}
           <h1 class="text-capitalize mb-4">{{ .Title }}</h1>
           {{ partial "breadcrumbs/index" . }}
         </div>

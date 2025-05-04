@@ -1,10 +1,9 @@
-<section class="page-title bg-1">
-  <div class="container">
+<section class="page-title bg-1 position-relative">
+  <img src="{{ site.Params.blogPageTitleBkgnd | relURL }}" alt="Background Image" class="page-title-bg">
+  <div class="container position-relative">
     <div class="row">
       <div class="col-md-12">
         <div class="block text-center">
-          <!-- Render the page title background image using render-image.html -->
-          {{ partial "template-image.html" (dict "Destination" site.Params.blogPageTitleBkgnd "loading" "eager") }}
           <h1 class="text-capitalize mb-4 text-lg">{{ .Title }}</h1>
           {{ partial "breadcrumbs/blog" . }}
         </div>

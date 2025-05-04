@@ -8,16 +8,18 @@
   {{ if ge $imageResource.Width 510 }}
     {{/* Generate WebP versions and responsive sizes */}}
     {{ $webp = $imageResource.Resize "1200x webp q75" }}
-    {{ $srcset = printf "%s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.Resize "300x").Permalink }}
+    {{ $srcset = printf "%s 1200w, %s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "1200x").Permalink ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.Resize "300x").Permalink }}
   {{ end }}
 
   <img
     src="{{ $webp.Permalink }}"
     {{ if $srcset }}srcset="{{ $srcset }}"{{ end }}
-    sizes="(min-width: 1200px) 960px, (min-width: 992px) 768px, (min-width: 768px) 540px, (min-width: 576px) 300px"
+    sizes="(min-width: 1200px) 1200px, (min-width: 992px) 960px, (min-width: 768px) 768px, (min-width: 576px) 540px, 300px"
     alt="{{ .Title | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}"
     width="{{ $webp.Width }}"
     height="{{ $webp.Height }}"
+    class="responsive-image"
+    loading="eager"
     decoding="async"
   />
 {{ else }}

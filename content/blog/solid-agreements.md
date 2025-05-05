@@ -6,7 +6,7 @@ keywords: "contract, agreement, clause, expectations, paint contractor"
 canonical: "https://crestwoodpainting.com/solid-agreements/"
 date: "2023-10-22" 
 index: true
-image: /images/blog/clipboard.png
+image: /images/blog/clipboard.webp
 categories:
   - "good-to-know"
 ---
@@ -14,7 +14,7 @@ categories:
 
 3 Things: **Inclusions**, **Exclusions** and **Clarifications**. This foundation outlines exactly *what* will be done and *how* it will be done.
 
-![clear communication](/images/blog/clipboard.png)
+![clear communication](/images/blog/clipboard.webp)
 
 ### The Importance of Clarity
 

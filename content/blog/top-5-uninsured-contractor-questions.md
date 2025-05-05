@@ -13,7 +13,7 @@ categories:
 ---
 Insurance isn’t just paperwork—it’s a safeguard against the unexpected. When you hire someone uninsured, you're often the one holding the bag when things go wrong.
 
-![insurance scream](/assets/images/blog/scream.webp)
+![insurance scream](/images/blog/measure.webp)
 
 ## Why Insurance Coverage Matters for Contractors
 

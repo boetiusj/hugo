@@ -82,12 +82,12 @@
   font-size: 1.0em;
 }
 
-.page-title {
+/* .page-title {
   background-color: rgb(70, 86, 149);
   background-size: 88px 88px;
   background-repeat: repeat;
   background-image: url(/images/svg/dots.svg);
-  }
+  } */
 
 .video {
   overflow: hidden;
@@ -212,11 +212,26 @@ position:absolute;
   aspect-ratio: attr(width) / attr(height); /* Dynamically calculate aspect ratio */
   object-fit: cover; /* Optional: Ensures the image covers its container */
 }
-.page-title {
-  position: relative;
+ .page-title {
+  /* position: relative; */
   overflow: hidden;
+  background-color: rgb(70, 86, 149);
+  background-size: 88px 88px;
+  background-repeat: repeat;
+  background-image: url(/images/svg/dots.svg);
+  padding: 60px 0;
+  @extend .overly;
+  .block {
+    h1 {
+      color: $light;
+    }
+    p {
+      color: $light;
+    }
+  }
+}
 
-  .page-title-bg {
+/*  .page-title-bg {
     position: absolute;
     top: 0;
     left: 0;
@@ -224,5 +239,3 @@ position:absolute;
     height: 100%;
     object-fit: cover;
     z-index: -1; /* Place behind content */
-  }
-}

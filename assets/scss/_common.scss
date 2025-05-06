@@ -272,19 +272,6 @@ a:focus {
   line-height: 50px;
 }
 
-.page-title {
-  padding: 60px 0; /* changed from 100px */
-  @extend .overly;
-  .block {
-    h1 {
-      color: $light;
-    }
-    p {
-      color: $light;
-    }
-  }
-}
-
 .page-wrapper {
   padding: 70px 0;
 }

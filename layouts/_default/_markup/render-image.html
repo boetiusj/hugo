@@ -6,9 +6,6 @@
   {{ $loading := "lazy" }} <!-- Default to lazy loading -->
 
   {{/* Check if the image is part of a figure shortcode */}}
-  {{ if eq .Parent.Name "figure" }}
-    {{ $loading = "eager" }} <!-- Set loading to eager for figure images -->
-  {{ end }}
 
   {{/* Check if the image is an SVG */}}
   {{ if eq $imageResource.MediaType.SubType "svg" }}

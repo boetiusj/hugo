@@ -35,8 +35,8 @@
         {{ $webp = $imageResource.Resize "1200x webp q75" }}
         {{ $srcset = printf "%s 1200w, %s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "1200x").Permalink ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.Resize "300x").Permalink }}
       {{ else }}
-        {{/* Convert non-WebP images to WebP format */}}
-        {{ $webp = $imageResource.Resize "webp q75" }}
+        {{/* Convert non-WebP images to WebP format with original dimensions */}}
+        {{ $webp = $imageResource.Resize (printf "%dx webp q75" $imageResource.Width) }}
       {{ end }}
     {{ else }}
       {{ warnf "Image dimensions are invalid for resizing: %s" .Destination }}

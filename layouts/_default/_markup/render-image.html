@@ -30,19 +30,12 @@
   {{ else }}
     {{/* Check if the image has valid dimensions */}}
     {{ if and (gt $imageResource.Width 0) (gt $imageResource.Height 0) }}
-{{/* Check if the image is larger than or equal to 510px */}}
-{{/* Check if the image is larger than or equal to 510px */}}
-      {{ if ge $imageResource.5{{/* Generate WebP versions and responsive sizes */}}
-10th 5{{/* Generate WebP versions and responsive sizes */}}
-10 }}
-{{/* Generate WebP versions and responsive sizes */}}
+      {{ if ge $imageResource.Width 510 }}
+        {{/* Generate WebP versions and responsive sizes */}}
         {{ $webp = $imageResource.Resize "1200x webp q75" }}
-        {{ $srcset = printf "%s 1200w, %s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "1200x").Permalink ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.{{/* Convert non-WebP images to WebP format */}}
-Resize "300x"){{/* Convert non-WebP images to WebP format */}}
-.Permalink }}
-{{/* Convert non-WebP images to WebP format */}}
+        {{ $srcset = printf "%s 1200w, %s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "1200x").Permalink ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.Resize "300x").Permalink }}
       {{ else }}
-{{/* Convert non-WebP images to WebP format */}}
+        {{/* Convert non-WebP images to WebP format */}}
         {{ $webp = $imageResource.Resize "webp q75" }}
       {{ end }}
     {{ else }}

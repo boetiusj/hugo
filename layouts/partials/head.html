@@ -1,10 +1,10 @@
 <!-- ** Basic Page Needs ** -->
 <meta charset="utf-8">
-<title>{{ with .Title }}{{ . }} {{ end  }}</title>
+<title>{{ with .Title }}{{ . }} {{ end }}</title>
 <meta name="description" content="{{ .Description }}">
 
 {{- if not .Params.Index -}}
-  <meta name = "robots" content = "noindex">
+  <meta name="robots" content="noindex">
 {{- end -}}
 
 <!-- ** Mobile Specific Metas ** -->
@@ -19,7 +19,10 @@
 <link rel="preload" href="/fonts/5aU19_a8oxmIfMJaERKSjQpf.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 
 <!-- Stylesheets -->
-<link rel="stylesheet" href="/styles.min.css">
+{{ $bootstrap := resources.Get "bootstrap/bootstrap.min.css" }}
+{{ $custom := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify }}
+{{ $styles := slice $bootstrap $custom | resources.Concat "styles.min.css" | fingerprint }}
+<link rel="stylesheet" href="{{ $styles.Permalink }}">
 
 <!-- Favicon --> 
 {{- $iconsPath := "favicons/" }}
@@ -28,6 +31,6 @@
 <link rel="icon" type="image/png" sizes="32x32" href='{{ absURL (printf "%sfavicon-32x32.png" $iconsPath) }}'>
 <link rel="icon" type="image/png" sizes="16x16" href='{{ absURL (printf "%sfavicon-16x16.png" $iconsPath) }}'>
 <link rel="manifest" href='{{ absURL (printf "%ssite.webmanifest" $iconsPath) }}'>
-<link rel="mask-icon" href='{{ absURL (printf "%ssafari-pinned-tab.svg" $iconsPath) }}'  color="#004750">
+<link rel="mask-icon" href='{{ absURL (printf "%ssafari-pinned-tab.svg" $iconsPath) }}' color="#004750">
 <link rel="shortcut icon" href='{{ absURL (printf "%sfavicon.ico" $iconsPath) }}'>
 <meta name="msapplication-config" content='{{ absURL (printf "%sbrowserconfig.xml" $iconsPath) }}'>

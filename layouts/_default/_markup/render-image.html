@@ -4,24 +4,40 @@
   {{ $webp := $imageResource }}
   {{ $srcset := "" }}
 
-  {{/* Check if the image is larger than or equal to 510px */}}
-  {{ if ge $imageResource.Width 510 }}
-    {{/* Generate WebP versions and responsive sizes */}}
-    {{ $webp = $imageResource.Resize "1200x webp q75" }}
-    {{ $srcset = printf "%s 1200w, %s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "1200x").Permalink ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.Resize "300x").Permalink }}
-  {{ end }}
+  {{/* Check if the image is an SVG */}}
+  {{ if eq $imageResource.MediaType.SubType "svg" }}
+    <img
+      src="{{ $imageResource.Permalink }}"
+      alt="{{ .Title | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}"
+      width="{{ $imageResource.Width }}"
+      height="{{ $imageResource.Height }}"
+      class="responsive-image"
+      loading="lazy"
+      decoding="async"
+    />
+  {{ else }}
+    {{/* Check if the image is larger than or equal to 510px */}}
+    {{ if ge $imageResource.Width 510 }}
+      {{/* Generate WebP versions and responsive sizes */}}
+      {{ $webp = $imageResource.Resize "1200x webp q75" }}
+      {{ $srcset = printf "%s 1200w, %s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "1200x").Permalink ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.Resize "300x").Permalink }}
+    {{ else }}
+      {{/* Convert non-WebP images to WebP format */}}
+      {{ $webp = $imageResource.Resize "webp q75" }}
+    {{ end }}
 
-  <img
-    src="{{ $webp.Permalink }}"
-    {{ if $srcset }}srcset="{{ $srcset }}"{{ end }}
-    sizes="(min-width: 1200px) 1200px, (min-width: 992px) 960px, (min-width: 768px) 768px, (min-width: 576px) 540px, 300px"
-    alt="{{ .Title | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}"
-    width="{{ $webp.Width }}"
-    height="{{ $webp.Height }}"
-    class="responsive-image"
-    loading="eager"
-    decoding="async"
-  />
+    <img
+      src="{{ $webp.Permalink }}"
+      {{ if $srcset }}srcset="{{ $srcset }}"{{ end }}
+      sizes="(min-width: 1200px) 1200px, (min-width: 992px) 960px, (min-width: 768px) 768px, (min-width: 576px) 540px, 300px"
+      alt="{{ .Title | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}"
+      width="{{ $webp.Width }}"
+      height="{{ $webp.Height }}"
+      class="responsive-image"
+      loading="lazy"
+      decoding="async"
+    />
+  {{ end }}
 {{ else }}
   {{ warnf "Image not found: %s" .Destination }}
   <img src="/images/placeholder.webp" alt="Image not found" width="800" height="600" />

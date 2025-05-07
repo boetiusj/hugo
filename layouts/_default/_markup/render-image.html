@@ -5,8 +5,6 @@
   {{ $srcset := "" }}
   {{ $loading := "lazy" }} <!-- Default to lazy loading -->
 
-  {{/* Check if the image is part of a figure shortcode */}}
-
   {{/* Check if the image is an SVG */}}
   {{ if eq $imageResource.MediaType.SubType "svg" }}
     <img
@@ -30,32 +28,38 @@
       decoding="async"
     />
   {{ else }}
-    {{/* Check if the image dimensions are valid */}}
+    {{/* Check if the image has valid dimensions */}}
     {{ if and (gt $imageResource.Width 0) (gt $imageResource.Height 0) }}
-      {{/* Check if the image is larger than or equal to 510px */}}
-      {{ if ge $imageResource.Width 510 }}
-        {{/* Generate WebP versions and responsive sizes */}}
+{{/* Check if the image is larger than or equal to 510px */}}
+{{/* Check if the image is larger than or equal to 510px */}}
+      {{ if ge $imageResource.5{{/* Generate WebP versions and responsive sizes */}}
+10th 5{{/* Generate WebP versions and responsive sizes */}}
+10 }}
+{{/* Generate WebP versions and responsive sizes */}}
         {{ $webp = $imageResource.Resize "1200x webp q75" }}
-        {{ $srcset = printf "%s 1200w, %s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "1200x").Permalink ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.Resize "300x").Permalink }}
+        {{ $srcset = printf "%s 1200w, %s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "1200x").Permalink ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.{{/* Convert non-WebP images to WebP format */}}
+Resize "300x"){{/* Convert non-WebP images to WebP format */}}
+.Permalink }}
+{{/* Convert non-WebP images to WebP format */}}
       {{ else }}
-        {{/* Convert non-WebP images to WebP format */}}
+{{/* Convert non-WebP images to WebP format */}}
         {{ $webp = $imageResource.Resize "webp q75" }}
       {{ end }}
-
-      <img
-        src="{{ $webp.Permalink }}"
-        {{ if $srcset }}srcset="{{ $srcset }}"{{ end }}
-        sizes="(min-width: 1200px) 1200px, (min-width: 992px) 960px, (min-width: 768px) 768px, (min-width: 576px) 540px, 300px"
-        alt="{{ .Title | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}"
-        width="{{ $webp.Width }}"
-        height="{{ $webp.Height }}"
-        class="responsive-image"
-        loading="{{ $loading }}"
-        decoding="async"
-      />
     {{ else }}
       {{ warnf "Image dimensions are invalid for resizing: %s" .Destination }}
     {{ end }}
+
+    <img
+      src="{{ $webp.Permalink }}"
+      {{ if $srcset }}srcset="{{ $srcset }}"{{ end }}
+      sizes="(min-width: 1200px) 1200px, (min-width: 992px) 960px, (min-width: 768px) 768px, (min-width: 576px) 540px, 300px"
+      alt="{{ .Title | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}"
+      width="{{ $webp.Width }}"
+      height="{{ $webp.Height }}"
+      class="responsive-image"
+      loading="{{ $loading }}"
+      decoding="async"
+    />
   {{ end }}
 {{ else }}
   {{ warnf "Image not found: %s" .Destination }}

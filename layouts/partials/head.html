@@ -17,20 +17,14 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" href="/fonts/5aU19_a8oxmIfMJaERKSjQpf.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="stylesheet" href="/styles.min.css">
 
-<!-- bootstrap.min css -->
-{{ $bootstrap := resources.Get "bootstrap/bootstrap.min.css" }}
 
-<!-- Main Stylesheet -->
-{{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
-{{- $main := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "scss/main.scss" . | css.Sass $options }}
-
-{{ $styles := resources.Concat "styles.css" (slice $bootstrap $main) | postCSS | minify | fingerprint "sha512" }}
 
 <link rel="stylesheet" media="print" href="{{ $styles.Permalink }}" onload="this.media='all';" integrity="{{ $styles.Data.Integrity }}">
 <noscript><link rel="stylesheet" href="{{ $styles.Permalink }}"></noscript>
 
-
+<style>{{ $styles.Content | safeCSS }}</style>
 
 <!-- Favicon --> 
 {{- $iconsPath := "favicons/" }}

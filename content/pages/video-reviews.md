@@ -7,7 +7,6 @@ canonical: "https://crestwoodpainting.com/video-reviews/"
 date: "2017-12-02"
 index: true
 ---
-
 ## Videos - Customer Reviews
 
 Also see [online reviews here](/reviews/).

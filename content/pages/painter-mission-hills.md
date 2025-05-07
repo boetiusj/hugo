@@ -7,8 +7,11 @@ canonical: "https://crestwoodpainting.com/painter-mission-hills/"
 date: "2025-03-21"
 index: true
 ---
-
-![mission hills painting](/images/city/mhks.jpg)
+{{< figure
+  src="/images/city/mhks.jpg"
+  alt="mission hills painting"
+  loading="eager"
+>}}
 
 ## House Painting in Mission Hills
 

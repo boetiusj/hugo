@@ -9,10 +9,7 @@ index: true
 googleMap: true
 
 ---
-
-## Paint Map of Kansas City
-
-### We've Painted in Your Neighborhood
+## We've Painted in Your Neighborhood
 
 <div class="map-responsive">
 ### <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1bQKO00HkHa5JZfalLi7V62sn5JU" width="400" height="300"></iframe>

@@ -7,7 +7,6 @@ canonical: "https://crestwoodpainting.com/warranty/"
 date: "2011-09-18"
 index: true
 ---
-
 ## Warranty Information
 
 Crestwood Painting of Kansas City warrants labor and material for a period of two years. If paint failure appears, we will supply labor and materials to correct the condition without cost. This warranty is in lieu of all other warranties, expressed or implied. Our responsibility is limited to correcting the condition as indicated above.

@@ -8,8 +8,11 @@ date: "2017-01-16"
 index: true
 
 ---
-
-![office painting kansas city](/images/office/blue-mfg.jpg)
+{{< figure
+  src="/images/office/blue-mfg.jpg"
+  alt="office painting kansas city"
+  loading="eager"
+>}}
 
 ## The Benefits of Office Painting
 

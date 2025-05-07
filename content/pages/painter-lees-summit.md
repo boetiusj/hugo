@@ -7,8 +7,11 @@ canonical: "https://crestwoodpainting.com/painter-lees-summit/"
 date: "2014-01-04"
 index: true
 ---
-
-![paint contractor lee's summit crestwood](/images/city/ls-poppys.jpg)
+{{< figure
+  src="/images/city/ls-poppys.jpg"
+  alt="paint contractor lee's summit"
+  loading="eager"
+>}}
 
 ## Professional Painting in Lee’s Summit
 

@@ -7,9 +7,12 @@ canonical: "https://crestwoodpainting.com/painter-parkville"
 date: "2014-01-03"
 index: true
 ---
+{{< figure
+  src="/images/city/parkville-jogger.jpg"
+  alt="parkville jogger"
+  loading="eager"
+>}}
 
-![parkville jogger](/images/city/parkville-jogger.jpg
-)
 ## Professional Painting in Parkville
 
 Crestwood Painting delivers lasting results for Parkville homes. Whether it’s interior walls, exterior surfaces, or cabinets, our team gets it done right. No drips, no drama—just a hassle-free experience and a beautiful finish.

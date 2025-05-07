@@ -7,8 +7,11 @@ canonical: "https://crestwoodpainting.com/painter-liberty/"
 date: "2025-03-21"
 index: true
 ---
-
-![liberty,mo downtown](/images/city/liberty.jpg)
+{{< figure
+  src="/images/city/liberty.jpg"
+  alt="liberty,mo downtown"
+  loading="eager"
+>}}
 
 ## Professional Painting in Liberty
 

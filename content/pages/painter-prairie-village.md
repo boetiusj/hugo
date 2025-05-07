@@ -8,8 +8,11 @@ date: "2014-01-03"
 index: true
 
 ---
-
-![Paint contractor Prairie Village](/images/city/pvks.jpg)
+{{< figure
+  src="/images/city/pvks.jpg"
+  alt="Paint contractor Prairie Village"
+  loading="eager"
+>}}
 
 ## Pro Painting in Prairie Village
 

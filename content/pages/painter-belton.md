@@ -7,8 +7,11 @@ canonical: "https://crestwoodpainting.com/painter-belton/"
 date: "2025-03-21"
 index: true
 ---
-
-![belton painting company](/images/city/belton.jpg)
+{{< figure
+  src="/images/city/belton.jpg"
+  alt="belton painting company"
+  loading="eager"
+>}}
 
 ## Professional Painting in Belton
 

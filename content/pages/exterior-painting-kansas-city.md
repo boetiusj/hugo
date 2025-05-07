@@ -48,8 +48,11 @@ faqs:
       In suburban homes, satin all around is a safe bet. Older, traditional homes often mix two different sheens for contrast. Higher sheens clean up easier but can also highlight imperfections more than lower sheen finishes.
 
 ---
-
-![exterior paint gray house](/images/exterior/x-blue.webp)
+{{< figure
+  src="/images/exterior/x-blue.webp"
+  alt="exterior paint gray house"
+  loading="eager"
+>}}
 
 ## If You’re New to Painting
 

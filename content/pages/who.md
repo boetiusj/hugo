@@ -7,8 +7,11 @@ canonical: "https://crestwoodpainting.com/who/"
 date: "2011-09-27"
 index: true
 ---
-
-![Crestwood neighborhood sign](/images/crestwood-neighborhood.jpg)
+{{< figure
+  src="/images/crestwood-neighborhood.jpg"
+  alt="Crestwood neighborhood sign"
+  loading="eager"
+>}}
 
 ## No Drips, No Drama – since 2007
 

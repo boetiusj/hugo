@@ -32,6 +32,7 @@ faqs:
   src="/images/interior/entry-stairs.webp"
   alt="living room paint"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Interior Painting – What to Expect

@@ -11,6 +11,7 @@ index: true
   src="/images/city/parkville-jogger.jpg"
   alt="parkville jogger"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Professional Painting in Parkville

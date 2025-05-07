@@ -11,6 +11,7 @@ index: true
   src="/images/applesoranges.webp"
   alt="checkbox"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Ask These Questions _Before_ You Choose a Painter

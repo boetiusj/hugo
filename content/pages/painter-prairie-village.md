@@ -12,6 +12,7 @@ index: true
   src="/images/city/pvks.jpg"
   alt="Paint contractor Prairie Village"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Pro Painting in Prairie Village

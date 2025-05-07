@@ -12,6 +12,7 @@ index: true
   src="/images/exterior/ranch-white.jpg"
   alt="ranch white house"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Choosing Exterior Colors

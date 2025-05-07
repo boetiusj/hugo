@@ -12,6 +12,7 @@ index: true
   src="/images/office/blue-mfg.jpg"
   alt="office painting kansas city"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## The Benefits of Office Painting

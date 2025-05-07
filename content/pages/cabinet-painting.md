@@ -11,6 +11,7 @@ index: true
   src="/images/cabinets/c-glass-splash.jpg"
   alt="kitchen cabinet painting"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Why Paint Cabinets

@@ -11,6 +11,7 @@ index: true
   src="/images/Office-2-e1514756940438.jpg"
   alt="office painting commercial kansas city"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## The Situation - Dated

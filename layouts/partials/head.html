@@ -21,7 +21,7 @@
 
 <!-- Stylesheets -->
 {{ $bootstrap := resources.Get "bootstrap/bootstrap.min.css" }}
-{{ $custom := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify }}
+{{ $custom := resources.Get "scss/main.scss" | resources.PostCSS | resources.Minify }}
 {{ $styles := slice $bootstrap $custom | resources.Concat "styles.min.css" | fingerprint }}
 <link rel="stylesheet" href="{{ $styles.Permalink }}">
 

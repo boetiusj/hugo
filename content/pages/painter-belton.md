@@ -11,6 +11,7 @@ index: true
   src="/images/city/belton.jpg"
   alt="belton painting company"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Professional Painting in Belton

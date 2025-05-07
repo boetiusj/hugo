@@ -11,6 +11,7 @@ index: true
   src="/images/city/ls-poppys.jpg"
   alt="paint contractor lee's summit"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Professional Painting in Lee’s Summit

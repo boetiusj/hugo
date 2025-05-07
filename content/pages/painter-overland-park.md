@@ -11,6 +11,7 @@ index: true
   src="/images/city/opks.jpg"
   alt="Overland Park KS"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Professional Painting in Overland Park

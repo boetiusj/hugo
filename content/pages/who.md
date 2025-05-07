@@ -11,6 +11,7 @@ index: true
   src="/images/crestwood-neighborhood.jpg"
   alt="Crestwood neighborhood sign"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## No Drips, No Drama – since 2007

@@ -11,6 +11,7 @@ index: true
   src="/images/interior/plaster-holes-ceil-wall.jpg"
   alt="plaster drywall repair"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Plaster & Drywall Repair

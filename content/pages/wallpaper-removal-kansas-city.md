@@ -10,7 +10,7 @@ index: true
 {{< figure
   src="/images/interior/wallpaper-layers.jpg"
   alt="wallpaper removal"
-  loading="eager"
+  loading="eager"width="1200" height="900"
 >}}
 
 ## Wallpaper is Not Easy

@@ -12,6 +12,7 @@ index: true
   src="/images/city/westwood.png"
   alt="Paint contractor Westwood"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Professional Painting in Westwood

@@ -11,6 +11,7 @@ index: true
   src="/images/city/leawood-museum.jpg"
   alt="painter leawood"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Professional Painting in Leawood

@@ -11,6 +11,7 @@ index: true
   src="/images/city/liberty.jpg"
   alt="liberty,mo downtown"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Professional Painting in Liberty

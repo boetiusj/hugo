@@ -11,6 +11,7 @@ index: true
   src="/images/city/mhks.jpg"
   alt="mission hills painting"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## House Painting in Mission Hills

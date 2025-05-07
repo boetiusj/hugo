@@ -11,6 +11,7 @@ index: true
   src="/images/popcorn-ceiling-300x200.jpg"
   alt="popcorn ceiling texture removal cost"
   loading="eager"
+  width="1200" height="900"
 >}}
 
 ## Popcorn Ceilings Make an Impression

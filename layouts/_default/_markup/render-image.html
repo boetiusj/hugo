@@ -3,6 +3,12 @@
   {{/* Initialize variables */}}
   {{ $webp := $imageResource }}
   {{ $srcset := "" }}
+  {{ $loading := "lazy" }} <!-- Default to lazy loading -->
+
+  {{/* Check if the image is part of a figure shortcode */}}
+  {{ if eq .Parent.Name "figure" }}
+    {{ $loading = "eager" }} <!-- Set loading to eager for figure images -->
+  {{ end }}
 
   {{/* Check if the image is an SVG */}}
   {{ if eq $imageResource.MediaType.SubType "svg" }}
@@ -12,7 +18,18 @@
       width="{{ $imageResource.Width }}"
       height="{{ $imageResource.Height }}"
       class="responsive-image"
-      loading="lazy"
+      loading="{{ $loading }}"
+      decoding="async"
+    />
+  {{ else if eq $imageResource.MediaType.SubType "webp" }}
+    {{/* Use existing WebP file without modification */}}
+    <img
+      src="{{ $imageResource.Permalink }}"
+      alt="{{ .Title | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}"
+      width="{{ $imageResource.Width }}"
+      height="{{ $imageResource.Height }}"
+      class="responsive-image"
+      loading="{{ $loading }}"
       decoding="async"
     />
   {{ else }}
@@ -34,7 +51,7 @@
       width="{{ $webp.Width }}"
       height="{{ $webp.Height }}"
       class="responsive-image"
-      loading="lazy"
+      loading="{{ $loading }}"
       decoding="async"
     />
   {{ end }}

@@ -8,7 +8,7 @@ date: "2011-09-21"
 index: true
 ---
 {{< figure
-  src="//images/cabinets/c-glass-splash.jpg"
+  src="/images/cabinets/c-glass-splash.jpg"
   alt="kitchen cabinet painting"
   loading="eager"
 >}}

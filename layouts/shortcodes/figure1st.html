@@ -1,0 +1,8 @@
+{{ $image := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $width := .Get "width" }}
+{{ $height := .Get "height" }}
+
+<div class="figure1st">
+  {{ partial "_markup/render-image.html" (dict "Destination" $image "Alt" $alt "Loading" "eager" "Width" $width "Height" $height) }}
+</div>

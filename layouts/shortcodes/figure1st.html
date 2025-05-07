@@ -4,5 +4,13 @@
 {{ $height := .Get "height" }}
 
 <div class="figure1st">
-  {{ partial "_markup/render-image.html" (dict "Destination" $image "Alt" $alt "Loading" "eager" "Width" $width "Height" $height) }}
+  <img
+    src="{{ $image }}"
+    alt="{{ $alt }}"
+    width="{{ $width }}"
+    height="{{ $height }}"
+    loading="eager"
+    decoding="async"
+    class="responsive-image"
+  />
 </div>

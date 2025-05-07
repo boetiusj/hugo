@@ -7,11 +7,8 @@ canonical: "https://crestwoodpainting.com/plaster-drywall-repair/"
 date: "2011-09-21"
 index: true
 ---
-{{< figure
+{{< figure1st
   src="/images/interior/plaster-holes-ceil-wall.jpg"
-  alt="plaster drywall repair"
-  loading="eager"
-  width="1200" height="900"
 >}}
 
 ## Plaster & Drywall Repair

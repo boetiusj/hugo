@@ -7,10 +7,8 @@ canonical: "https://crestwoodpainting.com/wallpaper-removal-kansas-city/"
 date: "2011-09-18"
 index: true
 ---
-{{< figure
+{{< figure1st
   src="/images/interior/wallpaper-layers.jpg"
-  alt="wallpaper removal"
-  loading="eager"width="1200" height="900"
 >}}
 
 ## Wallpaper is Not Easy

@@ -7,11 +7,8 @@ canonical: "https://crestwoodpainting.com/painter-leawood/"
 date: "2014-01-04"
 index: true
 ---
-{{< figure
+{{< figure1st
   src="/images/city/leawood-museum.jpg"
-  alt="painter leawood"
-  loading="eager"
-  width="1200" height="900"
 >}}
 
 ## Professional Painting in Leawood

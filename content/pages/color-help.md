@@ -8,11 +8,8 @@ date: "2011-05-05"
 coverImage: "/images/arts-crafts-house.jpg"
 index: true
 ---
-{{< figure
+{{< figure1st
   src="/images/exterior/ranch-white.jpg"
-  alt="ranch white house"
-  loading="eager"
-  width="1200" height="900"
 >}}
 
 ## Choosing Exterior Colors

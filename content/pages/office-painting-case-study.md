@@ -7,11 +7,8 @@ canonical: "https://crestwoodpainting.com/office-painting-case-study/"
 date: "2017-06-02"
 index: true
 ---
-{{< figure
+{{< figure1st
   src="/images/Office-2-e1514756940438.jpg"
-  alt="office painting commercial kansas city"
-  loading="eager"
-  width="1200" height="900"
 >}}
 
 ## The Situation - Dated

@@ -7,11 +7,7 @@ canonical: "https://crestwoodpainting.com/cabinet-painting/"
 date: "2011-09-21"
 index: true
 ---
-{{< figure1st
-  src="/images/cabinets/c-glass-splash.jpg"
-  alt="kitchen cabinet painting"
-  width="1200" height="900"
-  >}}
+{{< figure1st src="/images/cabinets/c-glass-splash.jpg" >}}
 
 ## Why Paint Cabinets
 

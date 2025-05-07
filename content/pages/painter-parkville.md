@@ -7,11 +7,8 @@ canonical: "https://crestwoodpainting.com/painter-parkville"
 date: "2014-01-03"
 index: true
 ---
-{{< figure
+{{< figure1st
   src="/images/city/parkville-jogger.jpg"
-  alt="parkville jogger"
-  loading="eager"
-  width="1200" height="900"
 >}}
 
 ## Professional Painting in Parkville

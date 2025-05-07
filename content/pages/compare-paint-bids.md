@@ -7,11 +7,8 @@ canonical: "/compare-paint-bids/"
 date: "2011-08-28"
 index: true
 ---
-{{< figure
+{{< figure1st
   src="/images/other/apple-n-orange.webp"
-  alt="Apples to Apples comparison"
-  loading="eager"
-  width="1200" height="900"
 >}}
 
 ## Compare Apples to Apples

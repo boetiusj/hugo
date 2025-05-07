@@ -7,12 +7,7 @@ canonical: "https://crestwoodpainting.com/12-questions-ask-painter/"
 date: "2018-08-28"
 index: true
 ---
-{{< figure
-  src="/images/applesoranges.webp"
-  alt="checkbox"
-  loading="eager"
-  width="1200" height="900"
->}}
+{{< figure1st src="/images/other/apple-n-orange.webp" >}}
 
 ## Ask These Questions _Before_ You Choose a Painter
 

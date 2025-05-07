@@ -7,12 +7,9 @@ canonical: "/commercial-painting-exterior/"
 date: "2017-07-08"
 index: true
 ---
-{{< figure
+{{< figure1st
   src="/images/MN-front-e1485211429554.jpg"
-  alt="Commercial exterior painting kansas city"
-  loading="eager"
-  width="1200" height="900"
->}}
+  >}}
 
 This brand new senior health center in Olathe, KS was painted safely and ahead of schedule. A clear plan was key.
 

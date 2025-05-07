@@ -28,11 +28,8 @@ faqs:
     answer: |
       A little caution goes a long way! While paint dries quickly, it takes about two to three weeks to fully cure—meaning it reaches maximum hardness and durability. During this time, it’s best to avoid scrubbing, bumping, or placing heavy objects against freshly painted surfaces. If you need to clean a spot, a gentle wipe with a damp cloth will do the trick. After curing, your walls and trim will be fully ready for everyday life.
 ---
-{{< figure
+{{< figure1st
   src="/images/interior/entry-stairs.webp"
-  alt="living room paint"
-  loading="eager"
-  width="1200" height="900"
 >}}
 
 ## Interior Painting – What to Expect

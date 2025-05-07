@@ -8,11 +8,8 @@ date: "2025-03-25"
 index: true
 
 ---
-{{< figure
+{{< figure1st
   src="/images/city/lochl.jpeg"
-  alt="loch lloyd painting"
-  loading="eager"
-  width="1200" height="900"
 >}}
 
 ## Professional Painting in Loch Lloyd

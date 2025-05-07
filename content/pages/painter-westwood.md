@@ -8,11 +8,8 @@ date: "2025-03-21"
 index: true
 
 ---
-{{< figure
+{{< figure1st
   src="/images/city/westwood.png"
-  alt="Paint contractor Westwood"
-  loading="eager"
-  width="1200" height="900"
 >}}
 
 ## Professional Painting in Westwood

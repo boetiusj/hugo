@@ -7,11 +7,8 @@ canonical: "https://crestwoodpainting.com/popcorn-ceiling-removal/"
 date: "2011-09-18"
 index: true
 ---
-{{< figure
+{{< figure1st
   src="/images/popcorn-ceiling-300x200.jpg"
-  alt="popcorn ceiling texture removal cost"
-  loading="eager"
-  width="1200" height="900"
 >}}
 
 ## Popcorn Ceilings Make an Impression

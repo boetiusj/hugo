@@ -7,11 +7,9 @@ canonical: "https://crestwoodpainting.com/daunting-colors/"
 date: "2011-08-28"
 index: true
 ---
-{{< figure
+{{< figure1st
   src="/images/other/color-chip-wall.jpg"
   alt="Paint Color Kansas City"
-  loading="eager"
-  width="1200" height="900"
 >}}
 
 It's easy to choose between red and blue - it's very tough to choose just the right blue for your home.

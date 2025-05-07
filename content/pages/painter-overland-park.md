@@ -7,11 +7,8 @@ canonical: "https://crestwoodpainting.com/painter-overland-park"
 date: "2014-01-04"
 index: true
 ---
-{{< figure
+{{< figure1st
   src="/images/city/opks.jpg"
-  alt="Overland Park KS"
-  loading="eager"
-  width="1200" height="900"
 >}}
 
 ## Professional Painting in Overland Park

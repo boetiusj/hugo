@@ -1,16 +1,5 @@
 {{ $image := .Get "src" }}
-{{ $alt := .Get "alt" | default "" }}
-{{ $width := .Get "width" }}
-{{ $height := .Get "height" }}
 
 <div class="figure1st">
-  <img
-    src="{{ $image }}"
-    alt="{{ $alt }}"
-    width="{{ $width }}"
-    height="{{ $height }}"
-    loading="eager"
-    decoding="async"
-    class="responsive-image"
-  />
+  {{ partial "template-image.html" (dict "Destination" $image) }}
 </div>

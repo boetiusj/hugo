@@ -1,7 +1,7 @@
 <!-- ** Basic Page Needs ** -->
 <meta charset="utf-8">
-<title>{{ with .Title }}{{ . }} {{ end }}</title>
-<meta name="description" content="{{ .Description }}">
+<title>{{ with .Title }}{{ . }}{{ else }}Default Site Title{{ end }}</title>
+<meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
 {{- if not .Params.Index -}}
   <meta name="robots" content="noindex">

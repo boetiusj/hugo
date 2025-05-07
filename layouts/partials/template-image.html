@@ -1,0 +1,29 @@
+{{ $imageResource := resources.Get .Destination }}
+{{ if $imageResource }}
+  {{/* Convert to WebP and generate responsive sizes */}}
+  {{ $webp := $imageResource }}
+  {{ $srcset := "" }}
+
+  {{ if ne $imageResource.MediaType.SubType "webp" }}
+    {{/* Convert non-WebP images to WebP format */}}
+    {{ $webp = $imageResource.Resize "1200x webp q75" }}
+  {{ end }}
+
+  {{/* Generate srcset for responsive images */}}
+  {{ $srcset = printf "%s 1200w, %s 960w, %s 768w, %s 540w, %s 300w" ($webp.Resize "1200x").Permalink ($webp.Resize "960x").Permalink ($webp.Resize "768x").Permalink ($webp.Resize "540x").Permalink ($webp.Resize "300x").Permalink }}
+
+  <img
+    src="{{ $webp.Permalink }}"
+    srcset="{{ $srcset }}"
+    sizes="(min-width: 1200px) 1200px, (min-width: 992px) 960px, (min-width: 768px) 768px, (min-width: 576px) 540px, 300px"
+    alt="first page image"
+    width="1200"
+    height="900"
+    class="responsive-image"
+    loading="eager"
+    decoding="async"
+  />
+{{ else }}
+  {{ warnf "Image not found: %s" .Destination }}
+  <img src="/images/placeholder.webp" alt="Image not found" width="1200" height="900" />
+{{ end }}

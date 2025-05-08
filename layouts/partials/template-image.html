@@ -16,14 +16,14 @@
     src="{{ $webp.Permalink }}"
     srcset="{{ $srcset }}"
     sizes="(min-width: 1200px) 1200px, (min-width: 992px) 960px, (min-width: 768px) 768px, (min-width: 576px) 540px, 300px"
-    alt="first page image"
-    width="1200"
-    height="900"
+    alt="{{ .Alt | default "Image" }}"
+    width="{{ .Width | default "1200" }}"
+    height="{{ .Height | default "900" }}"
     class="responsive-image"
-    loading="eager"
+    loading="{{ .Loading | default "lazy" }}"
     decoding="async"
   />
 {{ else }}
   {{ warnf "Image not found: %s" .Destination }}
-  <img src="/images/placeholder.webp" alt="Image not found" width="1200" height="900" />
+  <img src="/images/placeholder.webp" alt="Image not found" width="{{ .Width | default "1200" }}" height="{{ .Height | default "900" }}" />
 {{ end }}

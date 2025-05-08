@@ -14,7 +14,7 @@
           <li>
             {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
             <a href="{{ .Permalink }}">
-              {{ partial "render-image.html" (dict "Destination" $image "Alt" "404 blog image" "Loading" "lazy" "Width" "100" "Height" "100") }}
+              {{ partial "template-image.html" (dict "Destination" $image "Alt" "404 blog image" "Loading" "lazy" "Width" "100" "Height" "100") }}
               <br>{{ .Title }}
             </a>
           </li>

@@ -1,4 +1,4 @@
-{{ $imageResource := resources.Get .Destination }}
+{{ $imageResource := resources.Get (or .Destination .Params.image) }}
 {{ if $imageResource }}
   {{/* Convert to WebP and generate responsive sizes */}}
   {{ $webp := $imageResource }}

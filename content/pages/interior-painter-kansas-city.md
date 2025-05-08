@@ -1,7 +1,7 @@
 ---
 title: "Interior Painters"
 url: "interior-painter-kansas-city"
-description: "Interior painting - organized jobs, tidy painters, happy customers"
+description: "Organized jobs, tidy painters, happy customers."
 keywords: "painting cost, price interior painting, bedroom, living room"
 canonical: "https://crestwoodpainting.com/interior-painter-kansas-city/"
 date: "2011-09-18"
@@ -10,12 +10,12 @@ faqs:
   - question: "How Much Does Interior Painting Cost?"
     id: "costx"
     answer: |
-      A small bedroom can be painted for less than $1000; a whole house interior can run over $100k - really.  Many factors so, when we’re asked, well - it depends.
+      A small Kansas City bedroom can be painted for less than $1000; a whole house interior can run over $100k - really.  Many factors so, when we’re asked, well - it depends.
   - question: "How Long Does an Interior Painting Estimate Take?"
     id: "est-int"
     answer: |
       It's quick and easy to [book an estimate time](https://crestwoodpainting.com/book-us/) or, call our friendly phone service (816-805-4515). You’ll get a confirmation email right away and then a reminder 24 hours before. Most estimates take 30 minutes or less. Our goal is to leave you feeling informed and comfortable with the process ahead.
-  - question: "How Long Does Interior Painting Take?"
+  - question: "How Long Does Interior Painting in Lee's Summit Take?"
     id: "int-time"
     answer: |
       A Living Room (walls, ceiling and trim) can usually be completed in two days. Or longer, with plaster repair and extensive trim prep.

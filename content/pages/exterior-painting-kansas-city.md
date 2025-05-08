@@ -1,8 +1,8 @@
 ---
 title: "Exterior Painting"
 url: "exterior-painting-kansas-city"
-description: "Free help choosing exterior paint colors.  Then, a clear proposal, prompt workers, on-time completion. Call us today for a No Drips, No Drama experience."
-keywords: "exterior house painting,colors, Crestwood Painting, Leawood, Mission Hills, Prairie Village"
+description: "Tidy jobs, on-time completion, color help. Book us today - No Drips, No Drama"
+keywords: "Brookside, Lee's Summit, Leawood, Mission Hills, Prairie Village"
 canonical: "https://crestwoodpainting.com/exterior-painting-kansas-city/"
 date: "2011-09-18"
 index: true
@@ -17,10 +17,10 @@ faqs:
       - Stone foundation? Nope. Unless it's already painted. 
       
       We keep things straightforward so you know exactly what’s covered.    
-  - question: "How Long Does Exterior Paint Last?"
+  - question: "How Long Does Exterior Paint Last in Kansas City?"
     id: "ex-last"
     answer: |
-      Let’s talk real-world results. In year 14, two of our very first customers called to repaint. Fourteen years? That’s a solid run. And guess what? There are still homes we painted in 2007 that are looking sharp today. It’s not magic—just good prep, great products, and a process designed to stand the test of time.
+      Let’s talk real-world results. In year 14, two of our very first customers called to repaint. Fourteen years is a solid data point - good homeowner value. It’s attention to detail, great products and a process designed to stand the test of time.
   - question: "How Much Does Exterior Painting Cost?"
     id: "ex-cost" 
     answer: |
@@ -38,7 +38,7 @@ faqs:
       
       Moral of the story? If the weather’s cooperating, we’re painting.
 
-  - question: "What’s the Best Exterior Sheen?"
+  - question: "What’s the Best Exterior Sheen for Kansas City?"
     id: "ex-sheen"
     answer: |
       Sheen is mostly about looks rather than durability. Here’s the usual breakdown. - Body of the house? Flat or satin — this is a coin toss. 

@@ -4,14 +4,15 @@
     <h1 class="pb-0">{{ .Title }}</h1>
     {{ partial "breadcrumbs/index" . }}
     {{ if .Params.image }}
-      {{ $imageResource := resources.Get .Params.image }}
-      {{ if $imageResource }}
-        {{ partial "image" (dict "src" $imageResource.RelPermalink "alt" .Title "class" "img-fluid" "fetchPriority" "high" "loading" "lazy" "height" $imageResource.Height "width" $imageResource.Width) }}
-      {{ else }}
-        {{ warnf "Image not found: %s" .Params.image }}
-      {{ end }}
+      <div class="featured-image">
+        {{ partial "render-image.html" (dict "Destination" .Params.image "Alt" .Title "Loading" "eager") }}
+      </div>
     {{ end }}
-    {{ .Content }}
+
+    <main>
+      {{ .Content }}
+    </main>
+
     {{ if .Params.faqs }}
       {{ partial "faqs" . }}
     {{ end }}

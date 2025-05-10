@@ -23,7 +23,8 @@
 
 <!-- Stylesheets -->
 {{ $bootstrap := resources.Get "bootstrap/bootstrap.min.css" }}
-{{ $custom := resources.Get "scss/main.scss" | resources.ToCSS | postCSS (dict "config" "./postcss.config.js") | resources.Minify }}
+{{ $custom := resources.Get "scss/main.scss" | resources.ToCSS (dict "enableSourceMap" false) }}
+{{ warnf "Processed SCSS: %s" $custom.RelPermalink }}
 {{ $styles := slice $bootstrap $custom | resources.Concat "styles.min.css" | fingerprint }}
 <link rel="stylesheet" href="{{ $styles.Permalink }}">
 

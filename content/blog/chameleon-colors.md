@@ -7,8 +7,10 @@ canonical: "https://crestwoodpainting.com/chameleon-colors/"
 date: "2016-02-02"
 index: true
 image: "/images/interior/wild-lips.jpg"
+ogimage: 
 categories:
   - "interior"
+  - "colors"
 
 ---
 Paint colors often behave like chameleons, shifting their appearance as the light changes throughout the day.

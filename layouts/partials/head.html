@@ -1,17 +1,19 @@
-<!-- ** Basic Page Needs ** -->
 <meta charset="utf-8">
-<title>{{ with .Title }}{{ . }}{{ else }}Default Site Title{{ end }}</title>
-<meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
-
-{{- if not .Params.Index -}}
-  <meta name="robots" content="noindex">
-{{- end -}}
 
 <!-- ** Mobile Specific Metas ** -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#465695">
 <meta name="mobile-web-app-capable" content="yes">
 
+<!-- ** Title and Description ** -->
+<title>{{ with .Title }}{{ . }}{{ else }}Default Site Title{{ end }}</title>
+<meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
+
+<!-- Robots -->
+{{- if not .Params.Index -}}
+  <meta name="robots" content="noindex">
+{{- end -}}
+<!-- Open Graph -->
 {{ partial "opengraph.html" . }}
 
 <!-- Fonts -->
@@ -30,4 +32,3 @@
 <link rel="icon" type="image/png" href="{{ absURL (printf "%sfavicon-32x32.png" $iconsPath) }}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ absURL (printf "%sapple-touch-icon.png" $iconsPath) }}">
 <link rel="manifest" href="{{ absURL (printf "%ssite.webmanifest" $iconsPath) }}">
-<meta name="theme-color" content="#004750">

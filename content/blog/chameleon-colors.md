@@ -11,8 +11,6 @@ categories:
   - "interior"
 
 ---
-![test](/images/interior/wild-lips.jpg)
-
 Paint colors often behave like chameleons, shifting their appearance as the light changes throughout the day.
 
 ## Colors Change

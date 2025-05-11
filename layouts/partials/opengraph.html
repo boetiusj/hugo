@@ -1,12 +1,22 @@
-<!-- seo -->
+<!-- site schema -->
 {{ $homelink := absURL "" }} {{- $config := site.Params }} {{- $permalink :=
-.Permalink }} {{ $st := site.Title }} {{- $summary := "" }} {{- with .Summary }}
+.Permalink }} {{ $st := site.Title }} 
+{{- $summary := "" }} {{- with .Summary }}
 {{- $summary = . }} {{- else }} {{- $summary = $config.description }} {{- end }}
-{{- $summary = truncate 160 "" $summary }} {{- $logo := absURL (printf
+{{- $summary = truncate 160 "" $summary }} 
+{{- $logo := absURL (printf
 "images/%s" $config.logo) }} {{- if in $config.logo "https://" }} {{- $logo =
-$config.logo }} {{- end }} {{ $image := "" }} {{- with .Params.image }} {{ if in
-. "https://" }} {{- $image = . }} {{ else }} {{- $image = absURL (printf
-"images/%s" .) }} {{ end }} {{- else }} {{- $image = $logo }} {{- end }}
+$config.logo }} {{- end }} 
+{{ $image := "" }} 
+{{- with .Params.image }} 
+  {{- if in . "https://" }} 
+    {{- $image = . }} 
+  {{- else }} 
+    {{- $image = absURL (printf "images/%s" .) }} 
+  {{- end }} 
+{{- else }}
+  {{- $image = absURL "images/schema-ogimage.jpg" }}
+{{- end }}
 
 <link
   rel="canonical"

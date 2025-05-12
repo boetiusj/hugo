@@ -131,6 +131,7 @@
       "form-group",
       "form-group-2",
       "gallery",
+      "h-auto",
       "h6",
       "img-fluid",
       "intro",
@@ -231,6 +232,7 @@
       "text-white",
       "text-white-50",
       "video",
+      "w-full",
       "widget",
       "year-cell"
     ],

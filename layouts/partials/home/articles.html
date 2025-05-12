@@ -17,7 +17,7 @@
 				<!--<img loading="lazy" src={{ default "/images/blog/hand-sprayer.jpg" .Params.image }} alt="img home blog" class="img-fluid rounded excerpt_preview"></a> -->
 					<a href="{{ .RelPermalink }}">
             {{ $img := default "/images/blog/lead-safe-certified-155.webp" .Params.image }}
-            {{ partial "image" (dict "src" $img "class" "img-fluid rounded excerpt_preview" "loading" "lazy") }}
+            {{ partial "template-image.html" (dict "Destination" $image "class" "img-fluid w-100 rounded excerpt_preview") }}
           </a>
 					<div class="card-body mt-2">
 						<!-- <div class="blog-item-meta">

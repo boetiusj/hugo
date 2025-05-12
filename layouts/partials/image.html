@@ -1,5 +1,7 @@
 {{/* Check for required arguments */}}
-{{ if not .src }} {{ errorf "Image Optimization: the partial 'image' requires a 'src' argument." }} {{ end }}
+{{ if not .src }}
+  {{ errorf "Image Optimization: the partial 'image' requires a 'src' argument." }}
+{{ end }}
 
 {{/* Determine if this is the first image */}}
 {{ $isFirstImage := not (.Scratch.Get "firstImageRendered") }}
@@ -7,51 +9,38 @@
   {{ .Scratch.Set "firstImageRendered" true }}
 {{ end }}
 
-{{/* Handle images from /static/ */}}
-{{ if strings.HasPrefix .src "/static/" }}
+{{/* Load the image as a resource */}}
+{{ $resource := resources.Get .src }}
+{{ if not $resource }}
+  {{ errorf "Image not found: %s" .src }}
+{{ end }}
+
+{{ $width := $resource.Width }}
+{{ $height := $resource.Height }}
+
+{{ if eq $resource.MediaType.SubType "webp" }}
   <img
-    src="{{ .src | relURL }}"
+    src="{{ $resource.Permalink }}"
     {{ with .class }} class="{{ . }}" {{ end }}
     fetchpriority="{{ if $isFirstImage }}high{{ else }}auto{{ end }}"
     {{ if $isFirstImage }}{{ else }}{{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}{{ end }}
     alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
-    height="800"
-    width="1200"
+    height="{{ $height }}"
+    width="{{ $width }}"
   />
 {{ else }}
-  {{/* Handle images from /assets/ */}}
-  {{ $resource := resources.Get .src }}
-  {{ if $resource }}
-    {{ $width := $resource.Width }}
-    {{ $height := $resource.Height }}
-    {{ if eq $resource.MediaType.SubType "webp" }}
-      <img
-        src="{{ $resource.Permalink }}"
-        {{ with .class }} class="{{ . }}" {{ end }}
-        fetchpriority="{{ if $isFirstImage }}high{{ else }}auto{{ end }}"
-        {{ if $isFirstImage }}{{ else }}{{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}{{ end }}
-        alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
-        height="{{ $height }}"
-        width="{{ $width }}"
-      />
-    {{ else }}
-      {{/* Generate WebP version and srcset */}}
-      {{ $webp := $resource.Resize "1200x webp q75" }}
-      {{ $srcset := printf "%s 1140w, %s 960w, %s 720w, %s 540w" ($webp.Resize "1140x").Permalink ($webp.Resize "960x").Permalink ($webp.Resize "720x").Permalink ($webp.Resize "540x").Permalink }}
-      <img
-        src="{{ $webp.Permalink }}"
-        srcset="{{ $srcset }}"
-        sizes="(min-width: 1200px) 1140px, (min-width: 992px) 960px, (min-width: 768px) 720px, (min-width: 576px) 540px"
-        {{ with .class }} class="{{ . }}" {{ end }}
-        fetchpriority="{{ if $isFirstImage }}high{{ else }}auto{{ end }}"
-        {{ if $isFirstImage }}{{ else }}{{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}{{ end }}
-        alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
-        height="{{ $height }}"
-        width="{{ $width }}"
-      />
-    {{ end }}
-  {{ else }}
-    {{ warnf "Image not found: %s" .src }}
-    <img src="/images/placeholder.webp" alt="Image not found" class="{{ .class | default "img-fluid" }}" height="800" width="1200" />
-  {{ end }}
+  {{/* Generate WebP version and responsive srcset */}}
+  {{ $webp := $resource.Resize "1200x webp q75" }}
+  {{ $srcset := printf "%s 1140w, %s 960w, %s 720w, %s 540w" ($webp.Resize "1140x").Permalink ($webp.Resize "960x").Permalink ($webp.Resize "720x").Permalink ($webp.Resize "540x").Permalink }}
+  <img
+    src="{{ $webp.Permalink }}"
+    srcset="{{ $srcset }}"
+    sizes="(min-width: 1200px) 1140px, (min-width: 992px) 960px, (min-width: 768px) 720px, (min-width: 576px) 540px"
+    {{ with .class }} class="{{ . }}" {{ end }}
+    fetchpriority="{{ if $isFirstImage }}high{{ else }}auto{{ end }}"
+    {{ if $isFirstImage }}{{ else }}{{ with .loading }} loading="{{ . }}" {{ else }} loading="lazy" {{ end }}{{ end }}
+    alt="{{ .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .src) }}"
+    height="{{ $height }}"
+    width="{{ $width }}"
+  />
 {{ end }}

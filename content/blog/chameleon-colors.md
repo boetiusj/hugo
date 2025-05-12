@@ -11,7 +11,7 @@ ogimage: "/images/schema-ogimage.jpg"
 categories:
   - "interior"
   - "colors"
-
+# /home/mike/hugo/static/images/schema-ogimage.jpg
 ---
 Paint colors often behave like chameleons, shifting their appearance as the light changes throughout the day.
 

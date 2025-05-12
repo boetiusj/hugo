@@ -4,7 +4,7 @@
 {{ end }}
 
 {{ $eager := eq .eager true }}
-{{ $alt := .alt | default (replaceRE "^.*/([^/]+)\.[^.]+$" "$1" $image) }}
+{{ $alt := .alt | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" $image) }}
 
 {{ $resource := resources.Get $image }}
 {{ if not $resource }}

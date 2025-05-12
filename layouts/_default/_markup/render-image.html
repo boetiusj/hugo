@@ -12,11 +12,12 @@
 {{ if ge $original.Width 500 }}
   {{ $webp := $original.Resize "1200x webp q75" }}
   {{ $avif := $original.Resize "1200x avif q50" }}
-  {{ $srcset := printf "%s 1280w, %s 960w, %s 640w, %s 320w" 
-    ($webp.Resize "1280x").Permalink 
-    ($webp.Resize "960x").Permalink 
-    ($webp.Resize "640x").Permalink 
-    ($webp.Resize "320x").Permalink }}
+  {{ $srcset := delimit (slice
+    (printf "%s 1280w" ($webp.Resize "1280x").Permalink)
+    (printf "%s 960w"  ($webp.Resize "960x").Permalink)
+    (printf "%s 640w"  ($webp.Resize "640x").Permalink)
+    (printf "%s 320w"  ($webp.Resize "320x").Permalink)
+  ) ", " }}
 
   <picture>
     <source srcset="{{ $avif.Permalink }}" type="image/avif">

@@ -6,7 +6,7 @@
     {{ if .Params.image }}
       {{ $imageResource := resources.Get .Params.image }}
       {{ if $imageResource }}
-        {{ partial "image" (dict "src" $imageResource.RelPermalink "alt" .Title "class" "img-fluid" "eager" true  "loading" "lazy" "height" $imageResource.Height "width" $imageResource.Width) }}
+        {{ partial "template-image.html" (dict "Destination" $imageResource.RelPermalink "alt" .Title "class" "img-fluid" "eager" true) }}
       {{ else }}
         {{ warnf "Image not found: %s" .Params.image }}
       {{ end }}

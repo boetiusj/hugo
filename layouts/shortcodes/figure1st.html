@@ -2,5 +2,10 @@
 {{ $alt := .Get "alt" | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" $image) }}
 
 <figure class="figure1st">
-  {{ partial "template-image.html" (dict "Destination" $image "alt" $alt "eager" true) }}
+  {{ partial "template-image.html" (dict
+    "Destination" $image
+    "alt" $alt
+    "eager" true
+    "class" "w-full h-auto"
+  ) }}
 </figure>

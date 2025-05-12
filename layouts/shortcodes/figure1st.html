@@ -1,5 +1,6 @@
 {{ $image := .Get "src" }}
+{{ $alt := .Get "alt" | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" $image) }}
 
-<div class="figure1st">
-  {{ partial "template-image.html" (dict "Destination" $image) }}
-</div>
+<figure class="figure1st">
+  {{ partial "template-image.html" (dict "Destination" $image "alt" $alt "eager" true) }}
+</figure>

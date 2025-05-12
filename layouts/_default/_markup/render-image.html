@@ -7,7 +7,7 @@
   {{ errorf "Image not found: %s" .Destination }}
 {{ end }}
 
-{{ $alt := .Text | default (replaceRE "^.*/([^/]+)\.[^.]+$" "$1" .Destination) }}
+{{ $alt := .Text | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}
 
 {{ if ge $original.Width 500 }}
   {{ $webp := $original.Resize "1200x webp q75" }}

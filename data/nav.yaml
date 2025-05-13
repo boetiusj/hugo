@@ -11,7 +11,7 @@
       url: "/12-questions-ask-painter/"
     - name: "FAQs"
       url: "/faqs/"
-- name: "Services"
+- name: "Painting Services"
   url: "#"
   submenu:
     - name: "Interiors"

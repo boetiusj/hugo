@@ -6,12 +6,11 @@
   {{ range $index,$_ := (first $max (partialCached "func/getPosts" .)) }}
     {{ if and (ne .Title $title) (lt $tally $max) }}
     <div class="media border-bottom py-3">
-      {{- $image := default "/images/lead-safe-certified-155.webp" .Params.image }}
       <!-- NEW -->
 {{- $img := default "/images/lead-safe-certified-155.webp" .Params.image }}
 <a href="{{ .Permalink }}">
   {{ partial "template-image.html" (dict
-      "Destination" $img     /* accepts bundle or assets paths */
+      "Destination" $img
       "class"      "mr-4"
       "eager"      false) }}
 </a>

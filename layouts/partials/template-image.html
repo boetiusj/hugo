@@ -8,6 +8,11 @@
 {{ $image := $src }}
 
 {{ $eager := eq .eager true }}
+{{ $thumb := .thumb | default false }}
+…
+{{ if $thumb }}
+  {{ $resource = $resource.Fill "160x120 smart" }}
+{{ end }}
 {{ $baseAlt := replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" $image }}
 {{ $alt := .alt | default $baseAlt }}
 

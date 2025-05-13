@@ -1,19 +1,24 @@
 <div class="sidebar-widget latest-post card border-0 p-4 mb-3">
   <h5>Latest Posts</h5>
-  {{- $max := default 3 site.Params.latestPosts }}
+
+  {{- $max   := default 3 site.Params.latestPosts }}
   {{- $tally := 0 }}
-  {{ $title := .Title }}
+  {{  $title := .Title }}
+
   {{ range $index,$_ := (first $max (partialCached "func/getPosts" .)) }}
     {{ if and (ne .Title $title) (lt $tally $max) }}
     <div class="media border-bottom py-3">
-      <!-- NEW -->
-{{- $img := default "/images/lead-safe-certified-155.webp" .Params.image }}
-<a href="{{ .Permalink }}">
-  {{ partial "template-image.html" (dict
-      "Destination" $img
-      "class"      "mr-4"
-      "eager"      false) }}
-</a>
+      {{- $img := default "/images/lead-safe-certified-155.webp" .Params.image }}
+
+      <!-- thumbnail rendered through the shared Image Pipeline -->
+      <a href="{{ .Permalink }}">
+        {{ partial "template-image.html" (dict
+            "Destination" $img
+            "class"       "mr-4"
+            "eager"       false
+            "thumb"       true) }}
+      </a>
+
       <div class="media-body">
         <h6 class="my-2"><a href="{{ .Permalink }}">{{ safeHTML .Title }}</a></h6>
         <span class="text-sm text-muted">{{ dateFormat "02 Jan, 2006" .Date }}</span>

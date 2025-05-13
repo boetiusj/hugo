@@ -6,7 +6,7 @@ keywords: "contract, agreement, clause, expectations, paint contractor"
 canonical: "https://crestwoodpainting.com/solid-agreements/"
 date: "2023-10-22" 
 index: true
-image: /images/blog/clipboard.webp
+image: images/blog/clipboard.webp
 categories:
   - "good-to-know"
 ---

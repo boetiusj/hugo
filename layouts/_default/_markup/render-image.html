@@ -23,6 +23,7 @@
     <source srcset="{{ $avif.Permalink }}" type="image/avif">
     <source srcset="{{ $webp.Permalink }}" type="image/webp">
     <img
+      class="responsive-image"
       src="{{ $webp.Permalink }}"
       srcset="{{ $srcset }}"
       sizes="(min-width: 1400px) 1280px, (min-width: 1024px) 960px, (min-width: 768px) 640px, 100vw"
@@ -35,6 +36,7 @@
   </picture>
 {{ else }}
   <img
+    class="responsive-image"
     src="{{ $original.Permalink }}"
     alt="{{ $alt }}"
     loading="lazy"

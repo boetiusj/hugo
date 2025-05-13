@@ -212,10 +212,8 @@ position:absolute;
   display: block;
 }
 .responsive-image {
-  /* max-width: 100%; */
-  height: auto;
-  aspect-ratio: attr(width) / attr(height); /* Dynamically calculate aspect ratio */
-  /* object-fit: cover;  Optional: Ensures the image covers its container */
+  max-width: 100%;
+  height: auto !important;
 }
  .page-title {
   /* position: relative; */

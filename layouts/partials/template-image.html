@@ -8,7 +8,8 @@
 {{ $image := $src }}
 
 {{ $eager := eq .eager true }}
-{{ $alt := .alt | default (replaceRE "^.*/([^/]+)\.[^.]+$" "$1" $image) }}
+{{ $baseAlt := replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" $image }}
+{{ $alt := .alt | default $baseAlt }}
 
 {{ $resource := resources.Get $image }}
 {{ if not $resource }}

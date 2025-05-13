@@ -1,0 +1,58 @@
+{{ $src := .Destination }}
+{{ if not $src }}
+  {{ $src = .src }}
+{{ end }}
+{{ if not $src }}
+  {{ errorf "Image Optimization: the partial requires either 'src' or 'Destination'. Got: %#v" . }}
+{{ end }}
+{{ $image := $src }}
+
+{{ $eager := eq .eager true }}
+{{ $alt := .alt | default (replaceRE "^.*/([^/]+)\.[^.]+$" "$1" $image) }}
+
+{{ $resource := resources.Get $image }}
+{{ if not $resource }}
+  {{ errorf "Image not found: %s" $image }}
+{{ end }}
+
+{{ $width := $resource.Width | int }}
+{{ $height := $resource.Height | int }}
+
+{{ if ge $width 500 }}
+  {{ $webp := $resource.Resize "1200x webp q75" }}
+  {{ $avif := $resource.Resize "1200x avif q50" }}
+  {{ $srcset := delimit (slice
+    (printf "%s 1280w" ($webp.Resize "1280x").Permalink)
+    (printf "%s 960w"  ($webp.Resize "960x").Permalink)
+    (printf "%s 640w"  ($webp.Resize "640x").Permalink)
+    (printf "%s 320w"  ($webp.Resize "320x").Permalink)
+  ) ", " }}
+
+  <picture>
+    <source srcset="{{ $avif.Permalink }}" type="image/avif">
+    <source srcset="{{ $webp.Permalink }}" type="image/webp">
+    <img
+      src="{{ $webp.Permalink }}"
+      srcset="{{ $srcset }}"
+      sizes="(min-width: 1400px) 1280px, (min-width: 1024px) 960px, (min-width: 768px) 640px, 100vw"
+      {{ with .class }}class="{{ . }}"{{ end }}
+      fetchpriority="{{ if $eager }}high{{ else }}auto{{ end }}"
+      {{ if eq $eager false }}loading="lazy"{{ end }}
+      alt="{{ $alt }}"
+      width="{{ $webp.Width }}"
+      height="{{ $webp.Height }}"
+      style="aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }}"
+    />
+  </picture>
+{{ else }}
+  <img
+    src="{{ $resource.Permalink }}"
+    alt="{{ $alt }}"
+    {{ with .class }}class="{{ . }}"{{ end }}
+    fetchpriority="{{ if $eager }}high{{ else }}auto{{ end }}"
+    {{ if eq $eager false }}loading="lazy"{{ end }}
+    width="{{ $width }}"
+    height="{{ $height }}"
+    style="aspect-ratio: {{ $width }}/{{ $height }}"
+  />
+{{ end }}

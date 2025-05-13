@@ -6,7 +6,7 @@ keywords: "front door, paint colors"
 canonical: "https://crestwoodpainting.com/best-front-door-colors/"
 date: "2023-07-22"
 index: true
-image: "images/doors/fd-gloss.jpg"
+image: "/images/doors/fd-gloss.jpg"
 categories:
   - "exterior"
   - "feel-good"

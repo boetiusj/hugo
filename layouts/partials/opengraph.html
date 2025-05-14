@@ -20,19 +20,28 @@ $config.logo }} {{- end }}
 
 <link rel="canonical" href="{{ default $permalink (absURL .Params.canonical) }}" />
 
-{{ $og := "" }}
-{{ with .Params.images }}
-  {{ $og = absURL (strings.TrimPrefix "/" (index . 0)) }}
+{{ $title := .Title }}
+{{ $desc  := .Description | default .Summary | default site.Params.description }}
+{{ $url   := .Permalink }}
+
+{{ $img := "" }}
+{{ if .Params.image }}
+  {{ $img = absURL (strings.TrimPrefix "/" .Params.image) }}
 {{ else }}
-  {{ if .Params.image }}
-    {{ $og = absURL (strings.TrimPrefix "/" .Params.image) }}
-  {{ else }}
-    {{ $og = absURL "/images/schema-ogimage.jpg" }}
-  {{ end }}
+  {{ $img = absURL "/images/schema-ogimage.jpg" }}
 {{ end }}
 
-<meta property="og:image"  content="{{ $og }}">
-<meta name="twitter:image" content="{{ $og }}">
+<meta property="og:type"        content="{{ if eq .Section "blog" }}article{{ else }}website{{ end }}">
+<meta property="og:title"       content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url"         content="{{ $url }}">
+<meta property="og:image"       content="{{ $img }}">
+<meta property="og:site_name"   content="{{ site.Title }}">
+
+<meta name="twitter:card"       content="summary_large_image">
+<meta name="twitter:title"      content="{{ $title }}">
+<meta name="twitter:description"content="{{ $desc }}">
+<meta name="twitter:image"      content="{{ $img }}">
 
 {{ if .IsHome }}
 

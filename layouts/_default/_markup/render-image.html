@@ -8,14 +8,7 @@
 {{ end }}
 
 {{ $alt := .Text | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}
-{{/* ───────────────────────────────────────────────────────────
-     ► First‑image wrapper logic  (blog posts only)
-   ─────────────────────────────────────────────────────────── */}}
-{{ $count := add (or (.Page.Scratch.Get "imgCount") 0) 1 }}
-{{ .Page.Scratch.Set "imgCount" $count }}
-{{ $wrap := and (eq .Page.Section "blog") (eq $count 1) }}
-{{ if $wrap }}<figure class="figure1st">{{ end }}
-{{/* ─────────────────────────────────────────────────────────── */}}
+
 {{ if ge $original.Width 500 }}
   {{ $webp := $original.Resize "1200x webp q75" }}
   {{ $avif := $original.Resize "1200x avif q50" }}
@@ -52,7 +45,3 @@
     style="aspect-ratio: {{ $original.Width }}/{{ $original.Height }}"
   />
 {{ end }}
-{{/* ───────────────────────────────────────────────────────────
-     ► Close wrapper if it was opened
-   ─────────────────────────────────────────────────────────── */}}
-{{ if $wrap }}</figure>{{ end }}

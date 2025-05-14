@@ -19,7 +19,7 @@ Paint colors often behave like chameleons, shifting their appearance as the ligh
 
  Homeowners are sometimes astonished at how a shade that looks pale green at noon can appear closer to yellow by evening or under warm incandescent bulbs.
 
-![weird walls](/images/interior/wild-kisses.jpg) Yes, someone painted lips in their Kansas City bedroom.
+{{< figure-blog src="/images/interior/wild-kisses-cr.jpg" alt="weird walls" >}}
 
 ### The Appeal of Shifting Shades
 

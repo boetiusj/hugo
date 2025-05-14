@@ -211,6 +211,24 @@ position:absolute;
   height: auto;
   display: block;
 }
+.figure-blog {
+  margin: 1.5rem 0;        /* breathing room above & below */
+  line-height: 0;          /* removes little gap under the img */
+}  
+  picture,
+  img {
+    display: block;        /* no inline-gap artifacts */
+    width: 100%;           /* fill the parent column */
+    height: auto;          /* preserve aspect ratio */
+    border-radius: 0.5rem; /* optional – soft corners */
+  }
+  figcaption {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: #6c757d;        /* Bootstrap-ish muted text */
+    text-align: center;
+  }
+
 .responsive-image {
   max-width: 100%;
   height: auto !important;

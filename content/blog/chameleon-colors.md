@@ -13,13 +13,13 @@ categories:
   - "colors"
 # /home/mike/hugo/static/images/schema-ogimage.jpg
 ---
+{{< figure-blog src="/images/interior/wild-kisses-cr.jpg" alt="weird walls" >}}
+
 Paint colors often behave like chameleons, shifting their appearance as the light changes throughout the day.
 
 ## Colors Change
 
  Homeowners are sometimes astonished at how a shade that looks pale green at noon can appear closer to yellow by evening or under warm incandescent bulbs.
-
-{{< figure-blog src="/images/interior/wild-kisses-cr.jpg" alt="weird walls" >}}
 
 ### The Appeal of Shifting Shades
 

@@ -1,7 +1,7 @@
 {{/* -------------------------------------------------------------
      Template:  template-image.html
 -------------------------------------------------------------- */}}
-
+{{- $eager := or (eq .eager true) (eq .eager "true") -}}
 {{/* 1. Source ------------------------------------------------- */}}
 {{- $src := or .Destination .src -}}
 {{- if not $src }}
@@ -52,12 +52,12 @@
       srcset="{{ $srcset }}"
       sizes="(min-width: 1400px) 1280px, (min-width: 1024px) 960px, (min-width: 768px) 640px, 100vw"
       {{ with .class }}class="{{ . }}"{{ end }}
-      fetchpriority="{{ if $eager }}high{{ else }}auto{{ end }}"
-      {{ if not $eager }}loading="lazy"{{ end }}
       alt="{{ $alt }}"
       width="{{ $webp.Width }}"
       height="{{ $webp.Height }}"
       style="aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }}"
+      fetchpriority="{{ if $eager }}high{{ else }}auto{{ end }}"
+      {{- if not $eager }} loading="lazy"{{- end }}
     />
   </picture>
 {{- else }}
@@ -65,10 +65,10 @@
     src="{{ $resource.Permalink }}"
     alt="{{ $alt }}"
     {{ with .class }}class="{{ . }}"{{ end }}
-    fetchpriority="{{ if $eager }}high{{ else }}auto{{ end }}"
-    {{ if not $eager }}loading="lazy"{{ end }}
     width="{{ $width }}"
     height="{{ $height }}"
     style="aspect-ratio: {{ $width }}/{{ $height }}"
+    fetchpriority="{{ if $eager }}high{{ else }}auto{{ end }}"
+      {{- if not $eager }} loading="lazy"{{- end }}
   />
 {{- end }}

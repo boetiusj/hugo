@@ -32,3 +32,25 @@
 <link rel="icon" type="image/png" href="{{ absURL (printf "%sfavicon-32x32.png" $iconsPath) }}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ absURL (printf "%sapple-touch-icon.png" $iconsPath) }}">
 <link rel="manifest" href="{{ absURL (printf "%ssite.webmanifest" $iconsPath) }}">
+<!------------------------------------------------------------
+     HERO IMAGE PRELOAD
+     Priority:
+       1.  hero_bg:  explicit hero background (string)
+       2.  images:   first entry of images array
+       3.  image:    legacy single image
+   ------------------------------------------------------------>
+{{- $hero := "" -}}
+{{- with .Params.hero_bg }}
+  {{- $hero = absURL (strings.TrimPrefix "/" .) -}}
+{{- else if .Params.images }}
+  {{- $hero = absURL (strings.TrimPrefix "/" (index .Params.images 0)) -}}
+{{- else if .Params.image }}
+  {{- $hero = absURL (strings.TrimPrefix "/" .Params.image) -}}
+{{- end }}
+
+{{- if $hero }}
+  <link rel="preload" as="image"
+        href="{{ $hero }}"
+        imagesrcset="{{ $hero }}"
+        fetchpriority="high">
+{{- end }}

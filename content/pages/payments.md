@@ -6,7 +6,7 @@ keywords: "payment, credit card, online payments, Crestwood Painting"
 canonical: "https://crestwoodpainting.com/payments/"
 date: "2011-05-05"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 ---
 
 ## PayPal or Venmo - easy and secure

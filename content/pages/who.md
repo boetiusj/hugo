@@ -6,7 +6,7 @@ keywords: "no drips no drama, story, who we are, about"
 canonical: "https://crestwoodpainting.com/who/"
 date: "2011-09-27"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 ---
 {{< figure1st
   src="/images/crestwood-neighborhood.jpg"

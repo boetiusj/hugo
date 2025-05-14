@@ -6,7 +6,7 @@ keywords: "project map crestwood painting"
 canonical: "https://crestwoodpainting.com/map/"
 date: "2018-09-27"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 googleMap: true
 
 ---

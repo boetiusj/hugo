@@ -6,7 +6,7 @@ keywords: "customer reviews, testimonials, feedback, painter reviews"
 canonical: "https://crestwoodpainting.com/reviews/"
 date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 
 ---
 ## Customer Reviews and Feedback

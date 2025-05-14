@@ -22,6 +22,18 @@ $config.logo }} {{- end }}
   rel="canonical"
   href="{{ default $permalink (absURL .Params.canonical) }}"
 />
+{{/* ---- BEGIN: manual OG/Twitter image (nil‑safe) ---- */}}
+{{- $og := "" -}}
+{{- with .Params.images }}
+  {{- $first := index . 0 -}}
+  {{- $og = absURL (strings.TrimPrefix "/" $first) -}}
+{{- else }}
+  {{- $og = absURL "/images/schema-ogimage.jpg" -}}
+{{- end }}
+
+<meta property="og:image"  content="{{ $og }}">
+<meta name="twitter:image" content="{{ $og }}">
+{{/* ---- END: manual OG/Twitter image ---- */}}
 {{- template "_internal/opengraph.html" . -}} {{ if .IsHome }}
 <script type="application/ld+json">
   {

@@ -6,7 +6,7 @@ keywords: "interior office painting kansas city crestwood"
 canonical: "https://crestwoodpainting.com/painter-lees-summit/"
 date: "2014-01-04"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 ---
 {{< figure1st
   src="/images/city/ls-poppys.jpg"

@@ -6,7 +6,7 @@ keywords: "painting warranty kansas city"
 canonical: "https://crestwoodpainting.com/warranty/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 ---
 ## Warranty Information
 

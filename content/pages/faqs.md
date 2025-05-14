@@ -6,7 +6,7 @@ keywords: "painting faqs"
 canonical: "https://crestwoodpainting.com/faqs"
 date: "2011-08-29"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 faqs: 
   - question: Oil or Latex?
     id: oil

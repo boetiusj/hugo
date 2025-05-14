@@ -6,7 +6,7 @@ keywords: "-"
 canonical: "https://crestwoodpainting.com/painter-parkville"
 date: "2014-01-03"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 ---
 {{< figure1st
   src="/images/city/parkville-jogger.jpg"

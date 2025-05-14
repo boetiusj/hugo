@@ -6,7 +6,7 @@ keywords: "ceiling texture removal, popcorn ceiling, paint contractor"
 canonical: "https://crestwoodpainting.com/popcorn-ceiling-removal/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 ---
 {{< figure1st
   src="/images/popcorn-ceiling-300x200.jpg"

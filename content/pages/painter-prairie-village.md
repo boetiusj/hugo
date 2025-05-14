@@ -6,7 +6,7 @@ keywords: "prairie village ks painting crestwood"
 canonical: "https://crestwoodpainting.com/painter-prairie-village/"
 date: "2014-01-03"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 
 ---
 {{< figure1st

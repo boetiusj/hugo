@@ -6,7 +6,7 @@ keywords: "painter liberty"
 canonical: "https://crestwoodpainting.com/painter-liberty/"
 date: "2025-03-21"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 ---
 {{< figure1st
   src="/images/city/liberty.jpg"

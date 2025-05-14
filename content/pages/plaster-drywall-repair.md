@@ -6,7 +6,7 @@ keywords: "plaster repair, drywall repair, Kansas City, Crestwood Painting"
 canonical: "https://crestwoodpainting.com/plaster-drywall-repair/"
 date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 ---
 {{< figure1st
   src="/images/interior/plaster-holes-ceil-wall.jpg"

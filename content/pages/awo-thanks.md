@@ -6,7 +6,7 @@ keywords: "painting work order kansas city crestwood painting"
 canonical: "https://crestwoodpainting.com"
 date: "2016-05-11"
 images: "/images/schema-ogimage.jpg"
-index:false
+index: false
 ---
 
 ## Thanks very much - we'll get right to work

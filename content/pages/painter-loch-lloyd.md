@@ -6,7 +6,7 @@ keywords: "painter westwood ks"
 canonical: "https://crestwoodpainting.com/painter-loch-lloyd/"
 date: "2025-03-25"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 
 ---
 {{< figure1st

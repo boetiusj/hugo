@@ -6,7 +6,7 @@ keywords: "paint colors, kansas city, Crestwood Painting, color professional"
 canonical: "https://crestwoodpainting.com/daunting-colors/"
 date: "2011-08-28"
 images: "/images/schema-ogimage.jpg"
-index:true
+index: true
 ---
 {{< figure1st
   src="/images/other/color-chip-wall.jpg"

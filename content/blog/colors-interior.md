@@ -6,6 +6,7 @@ keywords: "paint colors interior"
 canonical: "https://crestwoodpainting.com/colors-interior/"
 date: "2013-02-27"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/interior/green-walls.jpg"
 categories:
   - "color-tips"

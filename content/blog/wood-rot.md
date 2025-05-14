@@ -6,6 +6,7 @@ keywords: "painting prep wood rot kansas city"
 canonical: "https://crestwoodpainting.com/wood-rot/"
 date: "2012-08-20"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/woodrot.webp"
 categories:
   - "exterior"

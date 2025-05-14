@@ -5,6 +5,7 @@ description: "Schedule an estimate online: choose YOUR best time. You'll get a q
 keywords: "schedule online painting estimate, painting appointment, estimate schedule appointment"
 canonical: "https://crestwoodpainting.com/book-us/"
 date: "2014-07-26"
+images: "/images/schema-ogimage.jpg"
 index: true
 nofooter: true
 ---

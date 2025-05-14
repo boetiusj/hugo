@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/chameleon-colors/"
 date: "2016-02-02"
 index: true
 image: "/images/interior/wild-lips.jpg"
-ogimage: "/images/schema-ogimage.jpg"
+images: "/images/schema-ogimage.jpg"
 categories:
   - "interior"
   - "colors"

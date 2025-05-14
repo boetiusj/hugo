@@ -6,6 +6,7 @@ keywords: "paint storage tips"
 canonical: "https://crestwoodpainting.com/proper-paint-storage/"
 date: "2014-06-02"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/leftover-paint.webp"
 categories:
   - "good-to-know"

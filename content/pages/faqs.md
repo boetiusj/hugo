@@ -5,7 +5,8 @@ description: "painting, faq, customer, Kansas City, questions"
 keywords: "painting faqs"
 canonical: "https://crestwoodpainting.com/faqs"
 date: "2011-08-29"
-index: true
+images: "/images/schema-ogimage.jpg"
+index:true
 faqs: 
   - question: Oil or Latex?
     id: oil

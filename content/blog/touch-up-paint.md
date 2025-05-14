@@ -6,6 +6,7 @@ keywords: "touch-up paint"
 canonical: "https://crestwoodpainting.com/touch-up-paint/"
 date: "2014-07-30"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/blog/chipped-nail.jpg"
 categories:
   - "good-to-know"

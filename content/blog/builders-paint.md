@@ -6,6 +6,7 @@ keywords: "paint builders quality"
 canonical: "https://crestwoodpainting.com/builders-paint/"
 date: "2021-04-06"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/interior/burnish.webp"
 categories:
   - "nitty-gritty"

@@ -6,6 +6,7 @@ keywords: "color house painting"
 canonical: "https://crestwoodpainting.com/color-year/"
 date: "2014-01-17"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/blog/color-year-sm.webp"
 categories:
   - "color-tips"

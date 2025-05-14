@@ -5,7 +5,8 @@ description: "Overland Park's reliable painter."
 keywords: "painter overland park KS"
 canonical: "https://crestwoodpainting.com/painter-overland-park"
 date: "2014-01-04"
-index: true
+images: "/images/schema-ogimage.jpg"
+index:true
 ---
 {{< figure1st
   src="/images/city/opks.jpg"

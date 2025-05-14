@@ -5,7 +5,8 @@ description: "Neighborhoods in metro Kansas City where Crestwood Painting has wo
 keywords: "project map crestwood painting"
 canonical: "https://crestwoodpainting.com/map/"
 date: "2018-09-27"
-index: true
+images: "/images/schema-ogimage.jpg"
+index:true
 googleMap: true
 
 ---

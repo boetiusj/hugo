@@ -6,6 +6,7 @@ keywords: "-"
 canonical: "https://crestwoodpainting.com/vinyl-window-trim-color"
 date: "2013-11-21"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/white-wall-tire.webp"
 categories:
   - "painting-tips"

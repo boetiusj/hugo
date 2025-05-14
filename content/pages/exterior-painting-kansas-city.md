@@ -5,7 +5,8 @@ description: "Tidy jobs, on-time completion, color help. Book us today - No Drip
 keywords: "Brookside, Lee's Summit, Leawood, Mission Hills, Prairie Village"
 canonical: "https://crestwoodpainting.com/exterior-painting-kansas-city/"
 date: "2011-09-18"
-index: true
+images: "/images/schema-ogimage.jpg"
+index:true
 faqs: 
   - question: "What is Included in Exterior House Painting?"
     id: "ex-incl"

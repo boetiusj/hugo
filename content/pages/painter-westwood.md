@@ -5,7 +5,8 @@ description: "Crestwood Painting in Westwood - homes and offices!"
 keywords: "painter westwood ks"
 canonical: "https://crestwoodpainting.com/painter-westwood/"
 date: "2025-03-21"
-index: true
+images: "/images/schema-ogimage.jpg"
+index:true
 
 ---
 {{< figure1st

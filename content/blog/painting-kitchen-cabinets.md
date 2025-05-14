@@ -6,6 +6,7 @@ keywords: "paint kitchen cabinets kansas city crestwood"
 canonical: "https://crestwoodpainting.com/painting-kitchen-cabinets/"
 date: "2013-02-18"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/finished-kitchen.webp"
 categories:
   - "interior"

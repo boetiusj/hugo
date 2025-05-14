@@ -6,6 +6,7 @@ keywords: "painting caulk best practices"
 canonical: "https://crestwoodpainting.com/top-3-things-to-not-caulk/"
 date: "2014-07-15"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/caulk-here.webp"
 categories:
   - "nitty-gritty"

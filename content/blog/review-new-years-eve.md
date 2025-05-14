@@ -6,6 +6,7 @@ keywords: "house painting review"
 canonical: "https://crestwoodpainting.com/review-new-years-eve/"
 date: "2012-12-31"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/other/yard-sign.jpg"
 categories:
   - "feel-good"

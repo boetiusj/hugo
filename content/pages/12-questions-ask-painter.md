@@ -5,7 +5,9 @@ description: "Solid questions to ask a painter - so you BOTH know what to expect
 keywords: "Painter questions"
 canonical: "https://crestwoodpainting.com/12-questions-ask-painter/"
 date: "2018-08-28"
-index: true
+images: "/images/schema-ogimage.jpg"
+images: "/images/schema-ogimage.jpg"
+index:true
 ---
 {{< figure1st src="/images/other/apple-n-orange.webp" >}}
 

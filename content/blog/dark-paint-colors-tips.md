@@ -6,6 +6,7 @@ keywords: "paint color tips crestwood painting"
 canonical: "https://crestwoodpainting.com/dark-paint-colors-tips/"
 date: "2014-01-24"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/duration.jpg"
 categories:
   - "color-tips"

@@ -5,7 +5,8 @@ description: "Crestwood Painting in Belton, MO - homes and offices!"
 keywords: "painter belton mo"
 canonical: "https://crestwoodpainting.com/painter-belton/"
 date: "2025-03-21"
-index: true
+images: "/images/schema-ogimage.jpg"
+index:true
 ---
 {{< figure1st
   src="/images/city/belton.jpg"

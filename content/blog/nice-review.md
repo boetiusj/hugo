@@ -6,6 +6,7 @@ keywords: "painter review, kansas city, crestwood painting"
 canonical: "https://crestwoodpainting.com/nice-review/"
 date: "2013-07-01"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/reviews/r23-4-karenp.png"
 categories:
   - "feel-good"

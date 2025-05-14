@@ -5,7 +5,8 @@ description: We care about your privacy. Here's how.
 keywords: privacy policy, Crestwood Painting
 canonical: https://crestwoodpainting.com/privacy-policy/
 date: 2012-09-07
-index: true
+images: "/images/schema-ogimage.jpg"
+index:true
 ---
 ## Our Privacy Policy
 

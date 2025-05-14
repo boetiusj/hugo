@@ -6,6 +6,7 @@ keywords: "paint contractor, insurance, uninsured, Crestwood Painting, Kansas Ci
 canonical: "https://crestwoodpainting.com/top-5-uninsured-contractor-questions/"
 date: "2013-09-28"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/blog/scream-new.webp"
 categories:
   - "hiring-painters"

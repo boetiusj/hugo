@@ -6,6 +6,7 @@ keywords: "cost"
 canonical: "https://crestwoodpainting.com/exterior-painting-cost"
 date: "2013-03-04"
 index: true
+images: "/images/schema-ogimage.jpg"
 image: "/images/exterior/ranch-white.jpg"
 categories:
   - "good-to-know"

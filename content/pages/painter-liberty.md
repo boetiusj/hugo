@@ -5,7 +5,8 @@ description: "Crestwood Painting in Liberty - homes and offices!"
 keywords: "painter liberty"
 canonical: "https://crestwoodpainting.com/painter-liberty/"
 date: "2025-03-21"
-index: true
+images: "/images/schema-ogimage.jpg"
+index:true
 ---
 {{< figure1st
   src="/images/city/liberty.jpg"

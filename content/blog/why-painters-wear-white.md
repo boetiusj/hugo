@@ -6,6 +6,7 @@ keywords: painters wear white
 canonical: https://crestwoodpainting.com/why-painters-wear-white/
 date: 2013-01-07
 index: true
+images: "/images/schema-ogimage.jpg"
 image: /images/painters-whites.webp
 categories:
   - good-to-know

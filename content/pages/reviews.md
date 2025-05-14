@@ -5,7 +5,8 @@ description: "Melissa J. said: I have dealt with A LOT of contractors and I have
 keywords: "customer reviews, testimonials, feedback, painter reviews"
 canonical: "https://crestwoodpainting.com/reviews/"
 date: "2011-09-21"
-index: true
+images: "/images/schema-ogimage.jpg"
+index:true
 
 ---
 ## Customer Reviews and Feedback

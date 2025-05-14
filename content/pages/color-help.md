@@ -5,7 +5,8 @@ description: "Choose the right colors for your home - with confidence. The right
 keywords: "house paint, colors, living room color, exterior colors, kansas city, crestwood painting"
 canonical: "/color-help/"
 date: "2011-05-05"
-coverImage: "/images/arts-crafts-house.jpg"
+images: "/images/schema-ogimage.jpg"
+
 index: true
 ---
 {{< figure1st

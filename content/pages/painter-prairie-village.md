@@ -5,7 +5,8 @@ description: "Crestwood Painting in Prairie Village - exteriors, interiors, offi
 keywords: "prairie village ks painting crestwood"
 canonical: "https://crestwoodpainting.com/painter-prairie-village/"
 date: "2014-01-03"
-index: true
+images: "/images/schema-ogimage.jpg"
+index:true
 
 ---
 {{< figure1st

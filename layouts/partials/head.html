@@ -43,14 +43,13 @@
 {{- with .Params.hero_bg }}
   {{- $hero = absURL (strings.TrimPrefix "/" .) -}}
 {{- else if .Params.images }}
-  {{- $hero = absURL (strings.TrimPrefix "/" (index .Params.images 0)) -}}
+  {{- $hero = absURL (strings.TrimPrefix "/" (index . 0)) -}}
 {{- else if .Params.image }}
   {{- $hero = absURL (strings.TrimPrefix "/" .Params.image) -}}
-{{- end }}
+{{- end -}}
 
-{{- if $hero }}
+{{- if $hero -}}
   <link rel="preload" as="image"
         href="{{ $hero }}"
-        imagesrcset="{{ $hero }}"
         fetchpriority="high">
-{{- end }}
+{{- end -}}

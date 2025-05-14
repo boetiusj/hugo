@@ -24,21 +24,19 @@ $config.logo }} {{- end }}
 />
 {{/* ---- BEGIN: manual OG/Twitter image (nil‑safe) ---- */}}
 {{- $og := "" -}}
-{{- with .Params.images }}                          {{/* preferred array */}}
+{{- with .Params.images -}}
   {{- $og = absURL (strings.TrimPrefix "/" (index . 0)) -}}
-{{- else if .Params.image }}                        {{/* legacy single */}}
+{{- else if .Params.image -}}
   {{- $og = absURL (strings.TrimPrefix "/" .Params.image) -}}
-{{- else }}                                         {{/* site fallback */}}
+{{- else -}}
   {{- $og = absURL "/images/schema-ogimage.jpg" -}}
-{{- end }}
+{{- end -}}
 
 <meta property="og:image"  content="{{ $og }}">
 <meta name="twitter:image" content="{{ $og }}">
 {{/* ---- END: manual OG/Twitter image ---- */}}
 
-{{/*  Disabled to avoid “range can’t iterate over string” error
-{{- template "_internal/opengraph.html" . -}}
-*/}}
+{{/*  {{- template "_internal/opengraph.html" . -}}  */}}
 
 {{ if .IsHome }}
 

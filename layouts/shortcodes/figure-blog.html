@@ -1,0 +1,8 @@
+<figure class="figure-blog">
+  {{ partial "template-image.html" (dict
+      "Destination" (.Get "src")      /* required */
+      "alt"        (.Get "alt")       /* optional */
+      "class"      (.Get "class")     /* pass "mr-4", etc., if you like */
+      "eager"      true               /* ← removes loading="lazy" and sets fetchpriority=high */
+  ) }}
+</figure>

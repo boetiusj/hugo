@@ -1,25 +1,47 @@
-<!-- no title include -->
-<!-- Slider Start -->
+{{/* ✂︎———  HOMEPAGE HERO  ———✂︎ */}}
+
 {{ $hero := .Params.hero }}
-{{ $bg := default "/images/january.webp" $hero.image }}
-<section class="slider position-relative">
-  {{ partial "template-image.html" (dict "Destination" $bg "class" "position-absolute inset-0 object-fit-cover") }}
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-9 col-md-10">
-				<div class="block">
-					<span class="d-block mb-3 text-white text-capitalize">{{ $hero.headline }}</span>
-					<h1 class="animated fadeInUp mb-5">{{ safeHTML $hero.title }}</h1>
-			{{ with $hero.button }}
-					<a href="{{ .url }}"  class="btn btn-main btn-round-full btn-outline" aria-label="">
-            {{ .label }}
-            {{ $imageAngleRight := resources.Get "images/svg/angle-right-solid.svg" }}
-            <span class="btn-icon flex aling-items-center ml-2 svg-h-8 mr-2"> {{ $imageAngleRight.Content | safeHTML }} </span>
-          </a>
-					{{ end }}
-				</div>
-			</div>
-		</div>
-	</div>
+{{ $hi   := absURL (default "/images/january.webp" $hero.image) }}        {{/* hi-res */}}
+{{ $lo   := "" }}
+{{ with .Params.hero_blur }}{{ $lo = absURL (strings.TrimPrefix "/" .) }}{{ end }}  {{/* 20 KB blur-up or leave blank */}}
+
+<section class="hero-banner position-relative"
+         style='background-image:url("{{ $lo | default "#d9d9d9" }}")'>
+
+  <div class="overlay position-absolute inset-0 bg-dark opacity-35"></div>
+
+  <div class="container position-relative">
+    <div class="row">
+      <div class="col-lg-9 col-md-10">
+        <div class="block">
+          <span class="d-block mb-3 text-white text-capitalize">{{ $hero.headline }}</span>
+          <h1 class="animated fadeInUp mb-5">{{ safeHTML $hero.title }}</h1>
+
+          {{ with $hero.button }}
+            <a href="{{ .url }}" class="btn btn-main btn-round-full btn-outline" aria-label="">
+              {{ .label }}
+              {{ $angle := resources.Get "images/svg/angle-right-solid.svg" }}
+              <span class="btn-icon flex align-items-center ml-2 svg-h-8 mr-2">
+                {{ $angle.Content | safeHTML }}
+              </span>
+            </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
-<!-- Section Intro Start -->
+
+{{/* register hi-res hero for preload */}}
+{{ .Page.Scratch.Set "heroSrc" $hi }}
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const hero = document.querySelector('.hero-banner');
+    const hi   = new Image();
+    hi.src = '{{ $hi }}';
+    hi.onload = () => { hero.style.backgroundImage = `url('${hi.src}')`; };
+  });
+</script>
+
+{{/* ✂︎———  END HOMEPAGE HERO  ———✂︎ */}}

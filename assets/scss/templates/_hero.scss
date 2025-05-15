@@ -1,18 +1,39 @@
-/* hero banner background + layout */
+/* ============================================================
+   Home–page hero  (overrides utilities so it always wins)
+   ============================================================ */
 .hero-banner{
-  min-height: 70vh;                /* adjust to taste */
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  align-items: center;             /* vertical centering */
-  position: relative;
+  position: relative !important;
+  min-height: 90vh;
+  display:flex;align-items:center;
+  background-size:cover;background-position:center;
 }
 
-.hero-banner .overlay{
-  background: rgba(0,0,0,.35);     /* darken for text legibility */
+.hero-banner::after{
+  content:"";
+  position:absolute;inset:0;
+  background: rgba(0,0,0,.15);   /* tweak opacity here */
+  pointer-events:none;
+  z-index:0;
 }
 
-/* optional tweak for the animated headline */
+/* breathing room for the headline + button */
+.hero-banner .block{
+  padding: 12rem 0;               /* top + bottom space */
+  position:relative;
+  z-index:1;
+}
+
+/* bright white text + slight shadow for legibility */
+.hero-banner span,
 .hero-banner h1{
-  line-height: 1.1;
+  color: #fff !important;        /* force white over any utilities */
+  text-shadow: 0 1px 2px rgba(0,0,0,.35);
+}
+
+/* optional: scale headline on wider screens */
+@media (min-width: 992px){
+  .hero-banner h1{ font-size: 4rem; line-height: 1.1; }
+}
+@media (min-width: 1400px){
+  .hero-banner h1{ font-size: 4.5rem; }
 }

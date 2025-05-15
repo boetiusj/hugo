@@ -1,3 +1,7 @@
+// MK changed from .5 //
+.slider::before {
+  opacity: 0.05;
+}
 .slider{
   background: var(--bg) no-repeat;
   background-size: cover;

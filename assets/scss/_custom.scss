@@ -176,10 +176,7 @@ position:absolute;
     }
   }
 }
-// MK changed from .5 //
-.slider::before {
-  opacity: 0.05;
-}
+
 .list404 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);

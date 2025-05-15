@@ -1,0 +1,18 @@
+/* hero banner background + layout */
+.hero-banner{
+  min-height: 70vh;                /* adjust to taste */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;             /* vertical centering */
+  position: relative;
+}
+
+.hero-banner .overlay{
+  background: rgba(0,0,0,.35);     /* darken for text legibility */
+}
+
+/* optional tweak for the animated headline */
+.hero-banner h1{
+  line-height: 1.1;
+}

@@ -1,55 +1,35 @@
 <meta charset="utf-8">
 
-<!-- ** Mobile Specific Metas ** -->
+{{/* ---------- Mobile Specific Metas ---------- */}}
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#465695">
 <meta name="mobile-web-app-capable" content="yes">
 
-<!-- ** Title and Description ** -->
+{{/* ---------- Title and Description ---------- */}}
 <title>{{ with .Title }}{{ . }}{{ else }}Default Site Title{{ end }}</title>
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
-<!-- Robots -->
+{{/* ---------- Robots ---------- */}}
 {{- if not .Params.Index -}}
   <meta name="robots" content="noindex">
 {{- end -}}
-<!-- Open Graph -->
+{{/* ---------- OpenGraph ---------- */}}
 {{ partial "opengraph.html" . }}
 
-<!-- Fonts -->
+{{/* ---------- Fonts ---------- */}}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" href="/fonts/5aU19_a8oxmIfMJaERKSjQpf.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 
-<!-- Stylesheets -->
+{{/* ---------- Stylesheets ---------- */}}
 {{ $bootstrap := resources.Get "bootstrap/bootstrap.min.css" }}
 {{ $custom := resources.Get "scss/main.scss" | css.Sass | resources.Minify }}
 {{ $styles := slice $bootstrap $custom | resources.Concat "styles.min.css" | fingerprint }}
 <link rel="stylesheet" href="{{ $styles.Permalink }}">
 
-<!-- Favicon -->
+{{/* ---------- Favicon ---------- */}}
 {{- $iconsPath := "favicons/" }}
 <link rel="icon" type="image/png" href="{{ absURL (printf "%sfavicon-32x32.png" $iconsPath) }}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ absURL (printf "%sapple-touch-icon.png" $iconsPath) }}">
 <link rel="manifest" href="{{ absURL (printf "%ssite.webmanifest" $iconsPath) }}">
-<!------------------------------------------------------------
-     HERO IMAGE PRELOAD
-     Priority:
-       1.  hero_bg:  explicit hero background (string)
-       2.  images:   first entry of images array
-       3.  image:    legacy single image
-   ------------------------------------------------------------>
-{{- $hero := "" -}}
-{{- with .Params.hero_bg }}
-  {{- $hero = absURL (strings.TrimPrefix "/" .) -}}
-{{- else if .Params.images }}
-  {{- $hero = absURL (strings.TrimPrefix "/" (index . 0)) -}}
-{{- else if .Params.image }}
-  {{- $hero = absURL (strings.TrimPrefix "/" .Params.image) -}}
-{{- end -}}
-
-{{- if $hero -}}
-  <link rel="preload" as="image"
-        href="{{ $hero }}"
-        fetchpriority="high">
-{{- end -}}
+{{ partial "partials/hero-preload.html" . }}

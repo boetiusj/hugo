@@ -1,0 +1,11 @@
+/* _base.scss  or your main file  */
+$system-stack: -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+               "Helvetica Neue", Arial, sans-serif;
+
+body{   font-family:$system-stack; font-weight:400; }
+h1,h2,h3,h4,h5,h6,
+.btn, .navbar-brand{
+        font-family:$system-stack; font-weight:700;
+}
+em, i{ font-style:italic; }   /* native italic variant */

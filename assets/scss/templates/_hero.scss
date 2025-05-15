@@ -1,39 +1,57 @@
 /* ============================================================
-   Home–page hero  (overrides utilities so it always wins)
+   Home-page hero  (overrides utilities so it always wins)
    ============================================================ */
+
+/* 1.  Banner frame */
 .hero-banner{
   position: relative !important;
-  min-height: 90vh;
-  display:flex;align-items:center;
-  background-size:cover;background-position:center;
+  min-height: 90vh;                 /* tall visual hero */
+  display:flex; align-items:center; /* vertical centering */
+  overflow:hidden;                  /* clip layers */
+  background:#d9d9d9;               /* fallback colour if no blur */
 }
 
+/* 2.  Blur & hires layers  ---------------------------------- */
+.hero-blur,
+.hero-hires{
+  position:absolute; inset:0;
+  background-size:cover;
+  background-position:center;
+}
+
+.hero-hires{
+  opacity:0;
+  animation:fadeHero .6s .1s forwards;   /* fade once decoded */
+}
+
+@keyframes fadeHero{ to{ opacity:1; } }
+
+/* 3.  Optional dark overlay (adjust opacity here) ----------- */
 .hero-banner::after{
   content:"";
-  position:absolute;inset:0;
-  background: rgba(0,0,0,.15);   /* tweak opacity here */
+  position:absolute; inset:0;
+  background:rgba(0,0,0,.15);  /* .15 = light tint; raise to .35 for darker */
   pointer-events:none;
-  z-index:0;
+  z-index:0;                   /* sits below text block */
 }
 
-/* breathing room for the headline + button */
+/* 4.  Text block and breathing room ------------------------- */
 .hero-banner .block{
-  padding: 12rem 0;               /* top + bottom space */
+  padding:12rem 0;             /* generous top/bottom space */
   position:relative;
-  z-index:1;
+  z-index:1;                   /* above overlay + layers */
 }
 
-/* bright white text + slight shadow for legibility */
+/* 5.  Typography tweaks ------------------------------------- */
 .hero-banner span,
 .hero-banner h1{
-  color: #fff !important;        /* force white over any utilities */
-  text-shadow: 0 1px 2px rgba(0,0,0,.35);
+  color:#fff !important;
+  text-shadow:0 1px 2px rgba(0,0,0,.35);
 }
 
-/* optional: scale headline on wider screens */
-@media (min-width: 992px){
-  .hero-banner h1{ font-size: 4rem; line-height: 1.1; }
+@media (min-width:992px){
+  .hero-banner h1{ font-size:4rem; line-height:1.1; }
 }
-@media (min-width: 1400px){
-  .hero-banner h1{ font-size: 4.5rem; }
+@media (min-width:1400px){
+  .hero-banner h1{ font-size:4.5rem; }
 }

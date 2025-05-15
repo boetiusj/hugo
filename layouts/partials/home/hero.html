@@ -16,7 +16,7 @@
       <div class="col-lg-9 col-md-10">
         <div class="block">
           <span class="d-block mb-3 text-white text-capitalize">{{ $hero.headline }}</span>
-          <h1 class="animated fadeInUp mb-5">{{ safeHTML $hero.title }}</h1>
+          <h1>{{ safeHTML $hero.title }}</h1>
 
           {{ with $hero.button }}
             <a href="{{ .url }}" class="btn btn-main btn-round-full btn-outline" aria-label="">

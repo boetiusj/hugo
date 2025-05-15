@@ -30,17 +30,22 @@
 .hero-banner::after{
   content:"";
   position:absolute; inset:0;
-  background:rgba(0,0,0,.15);  /* .15 = light tint; raise to .35 for darker */
+  background:rgba(0,0,0,.05);  /* .15 = light tint; raise to .35 for darker */
   pointer-events:none;
   z-index:0;                   /* sits below text block */
 }
 
 /* 4.  Text block and breathing room ------------------------- */
 .hero-banner .block{
-  padding:12rem 0;             /* generous top/bottom space */
+  padding:12rem 0 8rem 0;             /* generous top/bottom space */
   position:relative;
   z-index:1;                   /* above overlay + layers */
 }
+
+/* hero.scss */
+.hero-banner .container .block{      // adds one level
+  padding: 17rem 0 12rem 0;
+}  
 
 /* 5.  Typography tweaks ------------------------------------- */
 .hero-banner span,
@@ -50,7 +55,7 @@
 }
 
 @media (min-width:992px){
-  .hero-banner h1{ font-size:4rem; line-height:1.1; }
+  .hero-banner h1{ font-size:5rem; line-height:1.1; }
 }
 @media (min-width:1400px){
   .hero-banner h1{ font-size:4.5rem; }

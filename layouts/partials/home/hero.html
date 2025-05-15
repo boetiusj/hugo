@@ -1,14 +1,15 @@
-{{/* ✂︎———  HOMEPAGE HERO  ———✂︎ */}}
-
+{{/* ---------- HOMEPAGE HERO (CSS fade, no JS) ---------- */}}
 {{ $hero := .Params.hero }}
-{{ $hi   := absURL (default "/images/january.webp" $hero.image) }}        {{/* hi-res */}}
-{{ $lo   := "" }}
-{{ with .Params.hero_blur }}{{ $lo = absURL (strings.TrimPrefix "/" .) }}{{ end }}  {{/* 20 KB blur-up or leave blank */}}
+{{ $hi   := absURL $hero.image }}
+{{ $lo   := absURL (default "#d9d9d9" $hero.blur) }}
 
-<section class="hero-banner position-relative"
-         style='background-image:url("{{ $lo | default "#d9d9d9" }}")'>
+<section class="hero-banner">
 
-  <div class="overlay position-absolute inset-0"></div>
+  <!-- blur-up layer -->
+  <div class="hero-blur"  style='background-image:url("{{ $lo }}")'></div>
+
+  <!-- hi-res layer (fades in once decoded) -->
+  <div class="hero-hires" style='background-image:url("{{ $hi }}")'></div>
 
   <div class="container position-relative">
     <div class="row">
@@ -33,15 +34,6 @@
 </section>
 
 {{/* register hi-res hero for preload */}}
-{{ .Page.Scratch.Set "heroSrc" $hi }}
-
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const hero = document.querySelector('.hero-banner');
-    const hi   = new Image();
-    hi.src = '{{ $hi }}';
-    hi.onload = () => { hero.style.backgroundImage = `url('${hi.src}')`; };
-  });
-</script>
-
-{{/* ✂︎———  END HOMEPAGE HERO  ———✂︎ */}}
+{{ .Page.Scratch.Set "heroSrc" $hero.image }}
+{{ partial "hero-preload.html" . }}
+{{/* ---------- END HOMEPAGE HERO ---------- */}}

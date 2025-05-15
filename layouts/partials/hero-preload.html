@@ -1,6 +1,9 @@
+{{- /* decide which hero URL to preload */ -}}
 {{- $hero := "" -}}
 
-{{- if .Params.hero_bg -}}
+{{- if .Page.Scratch.Get "heroSrc" -}}
+  {{- $hero = absURL (strings.TrimPrefix "/" (.Page.Scratch.Get "heroSrc")) -}}
+{{- else if .Params.hero_bg -}}
   {{- $hero = absURL (strings.TrimPrefix "/" .Params.hero_bg) -}}
 {{- else if .Params.images -}}
   {{- $hero = absURL (strings.TrimPrefix "/" (index .Params.images 0)) -}}
@@ -9,5 +12,5 @@
 {{- end -}}
 
 {{- if $hero -}}
-<link rel="preload" as="image" href="{{ $hero }}" fetchpriority="high">
+  <link rel="preload" as="image" href="{{ $hero }}" fetchpriority="high">
 {{- end -}}

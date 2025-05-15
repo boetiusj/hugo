@@ -8,7 +8,7 @@ hero_bg: "/images/hero/home.webp"    # 1920 × 1080 WebP (≈ 200 KB)
 hero:
   headline: No Drips, No Drama
   title: Painting Kansas City Homes & Offices
-  image: "/images/january.webp"
+  image: "/images/january.webp"        # hi-res (1920 × 1080 WebP)
   button:
     url: "/book-us/"
     label: Schedule an Estimate

@@ -9,7 +9,7 @@ images: "/images/schema-ogimage.jpg"
 index: true
 ---
 {{< figure1st
-  src="/images/exterior/ranch-white.jpg"
+  src="exterior/ranch-white.jpg"
 >}}
 
 ## Choosing Exterior Colors

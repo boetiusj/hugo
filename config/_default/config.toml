@@ -25,8 +25,6 @@ disableKinds = ['RSS']
 enableRobotsTXT = false
 
 [[module.mounts]]
-source = 'assets'
-target = 'assets'
-[[module.mounts]]
-source = 'static'
-target = 'assets'
+  source = 'assets'
+  target = 'assets'
+

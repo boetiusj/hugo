@@ -1,6 +1,22 @@
 {{/* -------------------------------------------------------------
      Template:  template-image.html
 -------------------------------------------------------------- */}}
++{{/* -------------------------------------------------------------
++   GUARD: If .Destination isn’t an actual image resource, render
++   a simple <img> and stop here.
++-------------------------------------------------------------- */}}
+{{- $res := resources.Get .Destination -}}
+{{- if not (and $res (eq $res.MediaType.Type "image")) -}}
+  <!-- template-image fallback for non-image: {{ .Destination }} -->
+  <img
+    src="{{ .Destination }}"
+    {{ with .class }}class="{{ . }}"{{ end }}
+    alt="{{ .alt }}"
+    {{ if .eager }}fetchpriority="high"{{ else }}fetchpriority="auto" loading="lazy"{{ end }}
+  />
+  {{- return -}}
+{{- end -}}
+
 {{- $eager := or (eq .eager true) (eq .eager "true") -}}
 {{/* 1. Source ------------------------------------------------- */}}
 {{- $src := or .Destination .src -}}

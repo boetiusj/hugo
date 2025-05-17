@@ -50,7 +50,7 @@ faqs:
 
 ---
 {{< figure1st
-  src="/images/exterior/x-blue.webp"
+  src="exterior/x-blue.jpg"
   alt="exterior paint gray house"
 >}}
 

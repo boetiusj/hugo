@@ -1,10 +1,28 @@
-{{ $title := split site.Title " " }}
-{{ $logo := site.Params.logo }}
-{{ $logoResource := resources.Get $logo }}
-<a class="navbar-brand" href={{ absURL "/" }}>
-  {{ if and $logo (gt (len $logo) 4) }}
-  <img src="{{ $logoResource.Permalink }}" class="nav_logo" alt="Crestwood Painting logo" width="{{ $logoResource.Width }}" height="{{ $logoResource.Height }}">
+{{/* nav/logo.html */}}
+{{ $raw := .Site.Params.logo }}  
+{{/* Normalize into assets/images/... */}}
+{{ $clean := strings.TrimPrefix $raw "/" }}
+{{ $path  := printf "images/%s" $clean }}
+{{ $res   := resources.Get $path }}
+
+<a href="{{ "/" | relURL }}" class="navbar-brand">
+  {{ if $res }}
+    {{/* Serve the pipelined logo */}}
+    <img
+      src="{{ $res.Permalink }}"
+      alt="{{ .Site.Title }}"
+      class="navbar-logo"
+      loading="eager"
+      fetchpriority="high"
+    />
   {{ else }}
-    {{ index $title 0 }} <span>{{ index $title 1 }}</span>
+    {{/* Fallback to static serving */}}
+    <img
+      src="{{ absURL $raw }}"
+      alt="{{ .Site.Title }}"
+      class="navbar-logo"
+      loading="eager"
+      fetchpriority="high"
+    />
   {{ end }}
 </a>

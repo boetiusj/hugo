@@ -9,7 +9,7 @@ images: "/images/schema-ogimage.jpg"
 index: true
 ---
 {{< figure1st
-  src="/images/other/color-chip-wall.jpg"
+  src="other/color-chip-wall.jpg"
   alt="Paint Color Kansas City"
 >}}
 

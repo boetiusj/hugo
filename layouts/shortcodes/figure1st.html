@@ -1,13 +1,43 @@
+{{- /* figure1st: only invoke image pipeline on real image resources */ -}}
+
+{{- /* 1) grab & normalize src */ -}}
+{{- $raw   := .Get "src" | default (.Get 0) | default .Page.Params.image -}}
+{{- if not $raw -}}
+  {{ warnf "figure1st missing src in %s" .Page.File.Path -}}
+  <figure class="figure1st missing">⚠️ Missing image source</figure>
+  {{- return -}}
+{{- end -}}
+{{- $clean := strings.TrimPrefix $raw "/" -}}
+{{- $src   := cond (strings.HasPrefix $clean "images/") $clean (printf "images/%s" $clean) -}}
+
+{{- /* 2) register the first one for preload */ -}}
+{{- if not (.Page.Scratch.Get "heroSrc") -}}
+  {{- .Page.Scratch.Set "heroSrc" $src -}}
+{{- end -}}
+
+{{- /* 3) try to load via Hugo Pipes */ -}}
+{{- $res := resources.Get $src -}}
+
 <figure class="figure1st">
-  {{/* register the first figure1st image on this page for preload */}}
-  {{ if not (.Page.Scratch.Get "heroSrc") }}
-    {{ .Page.Scratch.Set "heroSrc" (.Get "src") }}
-  {{ end }}
-
-  {{ partial "template-image.html" (dict
-      "Destination" (.Get "src")
-      "alt"        (.Get "alt")
-      "eager"      true
-      "class"      "responsive-image") }}
+  {{- if and $res (eq $res.MediaType.Type "image") }}
+    {{- /* 4) only now call your template-image partial */ -}}
+    {{ partial "template-image.html" (dict
+        "Destination" $src
+        "alt"         (.Get "alt")
+        "eager"       true
+        "class"       "responsive-image"
+    ) }}
+  {{- else }}
+    {{ warnf "figure1st: not an image resource: %q in %s" $src .Page.File.Path }}
+    <!-- figure1st fallback; check that assets/images/{{ $src }} exists -->
+    <img
+      src="{{ $raw }}"
+      alt="{{ .Get "alt" }}"
+      class="responsive-image"
+      loading="eager"
+      fetchpriority="high"
+      width="600" height="400"
+      style="aspect-ratio:600/400"
+    />
+  {{- end }}
 </figure>
-

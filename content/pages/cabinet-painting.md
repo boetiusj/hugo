@@ -8,7 +8,7 @@ date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
 index: true
 ---
-{{< figure1st src="/images/cabinets/c-glass-splash.jpg" >}}
+{{< figure1st src="cabinets/c-glass-splash.jpg" >}}
 
 ## Why Paint Cabinets
 

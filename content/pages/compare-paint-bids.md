@@ -9,7 +9,7 @@ images: "/images/schema-ogimage.jpg"
 index: true
 ---
 {{< figure1st
-  src="/images/other/apple-n-orange.webp"
+  src="other/apple-n-orange.webp"
 >}}
 
 ## Compare Apples to Apples

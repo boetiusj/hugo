@@ -15,45 +15,26 @@
       {{ range $intro.values }}
       <div class="col-lg-4 col-md-4 col-12">
         <div class="intro-item mb-5 mb-lg-0">
-          <!-- added service image to replace icon -->
-          {{- $rawSvc := .svcimg | default "" -}}
-          {{- $cleanSvc := strings.TrimPrefix $rawSvc "/" -}}
-          {{- $path := printf "images/%s" (strings.TrimPrefix $cleanSvc "images/") -}}
-          {{- $svcRes := resources.Get $path -}}
-          +    {{- /* Only pipeline if it’s truly an image */ -}}
-    {{- if and $svcRes (eq $svcRes.MediaType.Type "image") }}
-      {{- /* normalize & try assets/images first */ -}}
-{{- $rawSvc := .svcimg | default "" | strings.TrimPrefix "/" -}}
-{{- $assetPath := printf "images/%s" $rawSvc -}}
-{{- $svcRes := resources.Get $assetPath -}}
+          +          <!-- added service image to replace icon -->
+          {{- $raw := .svcimg | default "" | trim "/" -}}
+          {{- $asset := printf "images/%s" $raw -}}
+          {{- $res := resources.Get $asset -}}
 
-{{- if and $svcRes (eq $svcRes.MediaType.Type "image") -}}
-  {{/* pipeline from assets */}}
-  {{ partial "template-image.html" (dict
-      "Destination" $assetPath
-      "class"       "service-item img-fluid content-fit-cover ratio-16x9"
-  ) }}
-{{- else -}}
-  {{ warnf "home/intro: falling back to static /images/%s" $rawSvc }}
-  {{/* static /images/ fallback */}}
-  <img
-    src="/images/{{ $rawSvc }}"
-    alt="{{ .title }}"
-    class="service-item img-fluid content-fit-cover ratio-16x9"
-    loading="lazy"
-  />
-{{- end -}}
-
-    {{- else }}
-            {{ warnf "home/intro: missing service image %q" $rawSvc }}
-            <!-- fallback static image -->
+          {{- if and $res (eq $res.MediaType.Type "image") -}}
+            {{/* pipeline from assets/images/... */}}
+            {{ partial "template-image.html" (dict
+                "Destination" $asset
+                "class"       "service-item img-fluid content-fit-cover ratio-16x9"
+            ) }}
+          {{- else -}}
+            {{ warnf "home/intro: falling back to static /images/%s" $raw }}
             <img
-              src="{{ $rawSvc }}"
+              src="/images/{{ $raw }}"
               alt="{{ .title }}"
               class="service-item img-fluid content-fit-cover ratio-16x9"
               loading="lazy"
-            >
-          {{- end }}
+            />
+          {{- end -}}
 
           <h3><a href="{{ .link }}" class="mt-4 mb-3">{{ .title }}</a></h3>
           <p>{{ .summary }}</p>

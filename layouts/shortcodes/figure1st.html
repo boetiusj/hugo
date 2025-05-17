@@ -10,9 +10,14 @@
 {{- /* 1. raw input, never nil */ -}}
 {{- $raw := .Get "src" | default .Page.Params.image | default "" -}}
 
-{{- /* 2. strip any leading/trailing slashes */ -}}
-{{- $trim := trim $raw "/" -}}
+{{- /* 2. strip slashes, then remove “images/” */ -}}
+{{- $trim := trim $raw "/" | strings.TrimPrefix "images/" -}}
 
+{{- /* 2a. if someone passed only “images” or left it blank, bail */ -}}
+{{- if or (eq $trim "") (eq $trim "images") -}}
+  {{ warnf "figure1st: no valid src in %s" .Page.File.Path }}
+  {{- return -}}
+{{- end -}}
 {{- /* 3. remove accidental "images/" prefix */ -}}
 {{- $trim = strings.TrimPrefix $trim "images/" -}}
 

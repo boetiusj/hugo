@@ -1,12 +1,12 @@
 {{- /* figure1st: only invoke image pipeline on real image resources */ -}}
 
-{{- /* 1) grab & normalize src */ -}}
-{{- $raw   := .Get "src" | default (.Get 0) | default .Page.Params.image -}}
+{{/* GUARD: if no src= and no page.Params.image, nothing to do */}}
+{{- $raw := .Get "src" | default (.Page.Params.image) -}}
 {{- if not $raw -}}
-  {{ warnf "figure1st missing src in %s" .Page.File.Path -}}
-  <figure class="figure1st missing">⚠️ Missing image source</figure>
+  {{ warnf "figure1st: no image defined in %s" .Page.File.Path }}
   {{- return -}}
 {{- end -}}
+
 {{- $clean := strings.TrimPrefix $raw "/" -}}
 {{- $src   := cond (strings.HasPrefix $clean "images/") $clean (printf "images/%s" $clean) -}}
 

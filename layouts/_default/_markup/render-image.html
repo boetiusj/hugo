@@ -1,3 +1,11 @@
+{{/* GUARD markdown‐inserted images too */}}
+{{- $r := resources.Get .Destination -}}
+{{- if not (and $r (eq $r.MediaType.Type "image")) -}}
+  <img src="{{ .Destination }}"
+       alt="{{ .Text }}"
+       loading="lazy">
+  {{- return -}}
+{`{- end -}}
 {{ $original := .Page.Resources.GetMatch (printf "**%s" .Destination) }}
 {{ if not $original }}
   {{ $original = resources.Get .Destination }}

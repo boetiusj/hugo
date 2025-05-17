@@ -1,17 +1,16 @@
 {{/* -------------------------------------------------------------
      Template:  template-image.html
 -------------------------------------------------------------- */}}
-+{{/* -------------------------------------------------------------
-+   GUARD: If .Destination isn’t an actual image resource, render
-+   a simple <img> and stop here.
-+-------------------------------------------------------------- */}}
+{{/* -------------------------------------------------------------
+   GUARD: if .Destination isn’t an actual image, emit a simple <img>
+   and return early so none of the pipeline below runs.
+-------------------------------------------------------------- */}}
 {{- $res := resources.Get .Destination -}}
 {{- if not (and $res (eq $res.MediaType.Type "image")) -}}
-  <!-- template-image fallback for non-image: {{ .Destination }} -->
   <img
     src="{{ .Destination }}"
     {{ with .class }}class="{{ . }}"{{ end }}
-    alt="{{ .alt }}"
+    alt="{{ default "" .alt }}"
     {{ if .eager }}fetchpriority="high"{{ else }}fetchpriority="auto" loading="lazy"{{ end }}
   />
   {{- return -}}

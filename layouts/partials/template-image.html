@@ -1,18 +1,19 @@
-{{/* -------------------------------------------------------------
-     Template:  template-image.html
+{{/* -------------------------------------------------------------     
+    Template:  template-image.html
 -------------------------------------------------------------- */}}
+
 {{/* -------------------------------------------------------------
-   GUARD: if .Destination isn’t an actual image, emit a simple <img>
-   and return early so none of the pipeline below runs.
+   GUARD: only pipeline real image files under assets/images.
 -------------------------------------------------------------- */}}
-{{- $res := resources.Get .Destination -}}
+{{- $rawDest := .Destination | default .src -}}
+{{- $dest := strings.TrimPrefix $rawDest "/" -}}
+{{- $res := resources.Get (printf "images/%s" $dest) -}}
 {{- if not (and $res (eq $res.MediaType.Type "image")) -}}
-  <img
-    src="{{ .Destination }}"
-    {{ with .class }}class="{{ . }}"{{ end }}
-    alt="{{ default "" .alt }}"
-    {{ if .eager }}fetchpriority="high"{{ else }}fetchpriority="auto" loading="lazy"{{ end }}
-  />
+  <!-- fallback for non-asset or directory: {{ $rawDest }} -->
+  <img src="{{ $rawDest }}"
+       alt="{{ default "" .alt }}"
+       loading="{{ if not .eager }}lazy{{ end }}"
+       fetchpriority="{{ if .eager }}high{{ else }}auto{{ end }}">
   {{- return -}}
 {{- end -}}
 

@@ -1,55 +1,69 @@
-{{/* GUARD markdown‐inserted images too */}}
+{{/* -------------------------------------------------------------
+     render-image.html
+     Markdown‐injected images: pipeline if real, fallback otherwise
+   ------------------------------------------------------------- */}}
+
+{{- /* 1. Try to load it as a Hugo resource */ -}}
 {{- $r := resources.Get .Destination -}}
-{{- if not (and $r (eq $r.MediaType.Type "image")) -}}
-  <img src="{{ .Destination }}"
-       alt="{{ .Text }}"
-       loading="lazy">
-  {{- return -}}
-{`{- end -}}
-{{ $original := .Page.Resources.GetMatch (printf "**%s" .Destination) }}
-{{ if not $original }}
-  {{ $original = resources.Get .Destination }}
-{{ end }}
 
-{{ if not $original }}
-  {{ errorf "Image not found: %s" .Destination }}
-{{ end }}
+{{- /* 2. If it’s an image resource, run your existing pipeline */ -}}
+{{- if and $r (eq $r.MediaType.Type "image") }}
 
-{{ $alt := .Text | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}
+  {{- /* locate in bundle or assets */ -}}
+  {{- $original := .Page.Resources.GetMatch (printf "**%s" .Destination) -}}
+  {{- if not $original }}
+    {{- $original = resources.Get .Destination -}}
+  {{- end }}
+  {{- if not $original }}
+    {{- errorf "Image not found: %s" .Destination -}}
+  {{- end }}
 
-{{ if ge $original.Width 500 }}
-  {{ $webp := $original.Resize "1200x webp q75" }}
-  {{ $avif := $original.Resize "1200x avif q50" }}
-  {{ $srcset := delimit (slice
-    (printf "%s 1280w" ($webp.Resize "1280x").Permalink)
-    (printf "%s 960w"  ($webp.Resize "960x").Permalink)
-    (printf "%s 640w"  ($webp.Resize "640x").Permalink)
-    (printf "%s 320w"  ($webp.Resize "320x").Permalink)
-  ) ", " }}
+  {{- $alt := .Text | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) -}}
 
-  <picture>
-    <source srcset="{{ $avif.Permalink }}" type="image/avif">
-    <source srcset="{{ $webp.Permalink }}" type="image/webp">
+  {{- if ge $original.Width 500 }}
+    {{- $webp  := $original.Resize "1200x webp q75" -}}
+    {{- $avif  := $original.Resize "1200x avif q50" -}}
+    {{- $srcset := delimit (slice
+        (printf "%s 1280w" ($webp.Resize "1280x").Permalink)
+        (printf "%s 960w"  ($webp.Resize "960x").Permalink)
+        (printf "%s 640w"  ($webp.Resize "640x").Permalink)
+        (printf "%s 320w"  ($webp.Resize "320x").Permalink)
+      ) ", " -}}
+
+    <picture>
+      <source srcset="{{ $avif.Permalink }}" type="image/avif">
+      <source srcset="{{ $webp.Permalink }}" type="image/webp">
+      <img
+        loading="lazy"
+        {{ with .class }}class="{{ . }}"{{ end }}
+        src="{{ $webp.Permalink }}"
+        srcset="{{ $srcset }}"
+        sizes="(min-width: 1400px) 1280px, (min-width: 1024px) 960px, (min-width: 768px) 640px, 100vw"
+        alt="{{ $alt }}"
+        width="{{ $webp.Width }}"
+        height="{{ $webp.Height }}"
+        style="aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }}"
+      />
+    </picture>
+  {{- else }}
     <img
-      class="responsive-image"
-      src="{{ $webp.Permalink }}"
-      srcset="{{ $srcset }}"
-      sizes="(min-width: 1400px) 1280px, (min-width: 1024px) 960px, (min-width: 768px) 640px, 100vw"
-      alt="{{ $alt }}"
       loading="lazy"
-      width="{{ $webp.Width }}"
-      height="{{ $webp.Height }}"
-      style="aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }}"
+      {{ with .class }}class="{{ . }}"{{ end }}
+      src="{{ $original.Permalink }}"
+      alt="{{ $alt }}"
+      width="{{ $original.Width }}"
+      height="{{ $original.Height }}"
+      style="aspect-ratio: {{ $original.Width }}/{{ $original.Height }}"
     />
-  </picture>
-{{ else }}
+  {{- end }}
+
+{{- /* 3. Non‐image fallback */ -}}
+{{- else }}
+
   <img
-    class="responsive-image"
-    src="{{ $original.Permalink }}"
-    alt="{{ $alt }}"
+    src="{{ .Destination }}"
+    alt="{{ .Text }}"
     loading="lazy"
-    width="{{ $original.Width }}"
-    height="{{ $original.Height }}"
-    style="aspect-ratio: {{ $original.Width }}/{{ $original.Height }}"
   />
-{{ end }}
+
+{{- end }}

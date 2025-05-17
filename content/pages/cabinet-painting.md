@@ -5,7 +5,7 @@ description: "Painting cabinets - the easiest way to a clean and modern kitchen.
 keywords: "Kitchen cabinet painting, bathroom vanity painting, wall paneling painting"
 canonical: "https://crestwoodpainting.com/cabinet-painting/"
 date: "2011-09-21"
-index: "cabinets/c-glass-splash.jpg"
+image: "cabinets/c-glass-splash.jpg"
 images: "/images/schema-ogimage.jpg"
 index: true
 ---

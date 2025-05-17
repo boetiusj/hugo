@@ -5,6 +5,7 @@ description: "Organized jobs, tidy painters, happy customers."
 keywords: "painting cost, price interior painting, bedroom, living room"
 canonical: "https://crestwoodpainting.com/interior-painter-kansas-city/"
 date: "2011-09-18"
+image: "interior/entry-stairs.webp"
 images: "/images/schema-ogimage.jpg"
 index: true
 faqs: 
@@ -30,7 +31,7 @@ faqs:
       A little caution goes a long way! While paint dries quickly, it takes about two to three weeks to fully cure—meaning it reaches maximum hardness and durability. During this time, it’s best to avoid scrubbing, bumping, or placing heavy objects against freshly painted surfaces. If you need to clean a spot, a gentle wipe with a damp cloth will do the trick. After curing, your walls and trim will be fully ready for everyday life.
 ---
 {{< figure1st
-  src="/images/interior/entry-stairs.webp"
+  src="interior/entry-stairs.webp"
 >}}
 
 ## Interior Painting – What to Expect

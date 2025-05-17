@@ -5,12 +5,12 @@ description: "Painting a commercial building should be easy, quiet and fast. Cal
 keywords: "commercial exterior painting, Kansas City, office"
 canonical: "/commercial-painting-exterior/"
 date: "2017-07-08"
-image: "/images/MN-front-e1485211429554.jpg"
+image: "MN-front-e1485211429554.jpg"
 images: "/images/schema-ogimage.jpg"
 index: true
 ---
 {{< figure1st
-  src="/images/MN-front-e1485211429554.jpg"
+  src="images/MN-front-e1485211429554.jpg"
   >}}
 
 This brand new senior health center in Olathe, KS was painted safely and ahead of schedule. A clear plan was key.

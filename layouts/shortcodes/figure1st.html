@@ -1,43 +1,48 @@
-{{- /* figure1st: only invoke image pipeline on real image resources */ -}}
+{{/* -----------------------------------------------
+   Shortcode: figure1st
+   1) Grab src= or page.Params.image, default to ""
+   2) Trim all “/” so "/foo/" → "foo", "///" → ""
+   3) Strip any accidental leading "images/"
+   4) If empty, bail out early
+   5) Otherwise try assets/images/...; if missing, fall back to /images/...
+----------------------------------------------- */}}
 
-{{/* GUARD: if no src= and no page.Params.image, nothing to do */}}
-{{- $raw := .Get "src" | default (.Page.Params.image) -}}
-{{- if not $raw -}}
-  {{ warnf "figure1st: no image defined in %s" .Page.File.Path }}
+{{- /* 1. raw input, never nil */ -}}
+{{- $raw := .Get "src" | default .Page.Params.image | default "" -}}
+
+{{- /* 2. strip any leading/trailing slashes */ -}}
+{{- $trim := trim $raw "/" -}}
+
+{{- /* 3. remove accidental "images/" prefix */ -}}
+{{- $trim = strings.TrimPrefix $trim "images/" -}}
+
+{{- /* 4. nothing to do? exit */ -}}
+{{- if eq $trim "" -}}
+  {{ warnf "figure1st: no src defined in %s" .Page.File.Path }}
   {{- return -}}
 {{- end -}}
 
-{{- $clean := strings.TrimPrefix $raw "/" -}}
-{{- $src   := cond (strings.HasPrefix $clean "images/") $clean (printf "images/%s" $clean) -}}
+{{- /* 5. try to pipeline from assets/images */ -}}
+{{- $asset := printf "images/%s" $trim -}}
+{{- $res   := resources.Get $asset -}}
 
-{{- /* 2) register the first one for preload */ -}}
-{{- if not (.Page.Scratch.Get "heroSrc") -}}
-  {{- .Page.Scratch.Set "heroSrc" $src -}}
-{{- end -}}
-
-{{- /* 3) try to load via Hugo Pipes */ -}}
-{{- $res := resources.Get $src -}}
-
-<figure class="figure1st">
-  {{- if and $res (eq $res.MediaType.Type "image") }}
-    {{- /* 4) only now call your template-image partial */ -}}
+{{- if and $res (eq $res.MediaType.Type "image") -}}
+  <figure class="figure1st">
     {{ partial "template-image.html" (dict
-        "Destination" $src
+        "Destination" $asset
         "alt"         (.Get "alt")
         "eager"       true
         "class"       "responsive-image"
     ) }}
-  {{- else }}
-    {{ warnf "figure1st: not an image resource: %q in %s" $src .Page.File.Path }}
-    <!-- figure1st fallback; check that assets/images/{{ $src }} exists -->
+  </figure>
+{{- else -}}
+  {{ warnf "figure1st: falling back to static /images/%s" $trim }}
+  <figure class="figure1st">
     <img
-      src="{{ $raw }}"
-      alt="{{ .Get "alt" }}"
+      src="/images/{{ $trim }}"
+      alt="{{ default "" (.Get "alt") }}"
       class="responsive-image"
-      loading="eager"
-      fetchpriority="high"
-      width="600" height="400"
-      style="aspect-ratio:600/400"
+      loading="lazy"
     />
-  {{- end }}
-</figure>
+  </figure>
+{{- end -}}

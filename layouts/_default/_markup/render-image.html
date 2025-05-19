@@ -1,3 +1,8 @@
-{{/* override markdown image rendering via unified image partial */}}
-{{/* this will convert any inline Markdown ![]() into our responsive, optimized <picture> output */}}
-{{ partial "image" (dict "src" .Destination "alt" .Text) }}
+{{/* layouts/_default/_markup/render-image.html */}}
+{{/*
+  Override Goldmark’s default image renderer.
+  Any inline Markdown ![]() becomes our responsive <picture> via the “markdown-image” partial.
+*/}}
+{{- $src := .Destination -}}
+{{- $alt := default .Text "" -}}
+{{ partial "markdown-image" (dict "src" $src "alt" $alt) }}

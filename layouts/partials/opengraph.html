@@ -1,4 +1,3 @@
-<!-- site schema -->
 {{ $homelink := absURL "" }} {{- $config := site.Params }} {{- $permalink :=
 .Permalink }} {{ $st := site.Title }} 
 {{- $summary := "" }} {{- with .Summary }}
@@ -44,7 +43,6 @@ $config.logo }} {{- end }}
 <meta name="twitter:image"      content="{{ $img }}">
 
 {{ if .IsHome }}
-
 
 <script type="application/ld+json">
   {

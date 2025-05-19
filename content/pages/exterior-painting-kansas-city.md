@@ -5,7 +5,6 @@ description: "Tidy jobs, on-time completion, color help. Book us today - No Drip
 keywords: "Brookside, Lee's Summit, Leawood, Mission Hills, Prairie Village"
 canonical: "https://crestwoodpainting.com/exterior-painting-kansas-city/"
 date: "2011-09-18"
-image: "/images/exterior/x-blue.jpg"
 images: "/images/schema-ogimage.jpg"
 index: true
 faqs: 
@@ -51,7 +50,7 @@ faqs:
 
 ---
 {{< figure1st
-  src="exterior/x-blue.jpg"
+  src="/images/exterior/x-blue.webp"
   alt="exterior paint gray house"
 >}}
 

@@ -1,22 +1,6 @@
-{{/* -------------------------------------------------------------     
-    Template:  template-image.html
--------------------------------------------------------------- */}}
-
 {{/* -------------------------------------------------------------
-   GUARD: only pipeline real image files under assets/images.
+     Template:  template-image.html
 -------------------------------------------------------------- */}}
-{{- $rawDest := .Destination | default .src -}}
-{{- $dest := strings.TrimPrefix $rawDest "/" -}}
-{{- $res := resources.Get (printf "images/%s" $dest) -}}
-{{- if not (and $res (eq $res.MediaType.Type "image")) -}}
-  <!-- fallback for non-asset or directory: {{ $rawDest }} -->
-  <img src="{{ $rawDest }}"
-       alt="{{ default "" .alt }}"
-       loading="{{ if not .eager }}lazy{{ end }}"
-       fetchpriority="{{ if .eager }}high{{ else }}auto{{ end }}">
-  {{- return -}}
-{{- end -}}
-
 {{- $eager := or (eq .eager true) (eq .eager "true") -}}
 {{/* 1. Source ------------------------------------------------- */}}
 {{- $src := or .Destination .src -}}

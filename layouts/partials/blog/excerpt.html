@@ -4,7 +4,7 @@
     {{ partial "template-image.html" (dict "Destination" $image "class" "img-fluid w-100 rounded excerpt_preview") }}
 
     <div class="blog-item-content bg-white p-4">
-
+      {{ partial "blog/excerpt-meta" . }}
       <h3 class="mt-3 mb-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
       <p class="mb-4">{{ truncate 100 .Summary }}</p>
       

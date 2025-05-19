@@ -86,7 +86,7 @@
   background-color: rgb(70, 86, 149);
   background-size: 88px 88px;
   background-repeat: repeat;
-  background-image: url(/svg/dots.svg);
+  background-image: url(/images/svg/dots.svg);
   } */
 
 .video {
@@ -236,7 +236,7 @@ position:absolute;
   background-color: rgb(70, 86, 149);
   background-size: 88px 88px;
   background-repeat: repeat;
-  background-image: url(/svg/dots.svg);
+  background-image: url(/images/svg/dots.svg);
   padding: 60px 0;
   @extend .overly;
   .block {
@@ -248,12 +248,6 @@ position:absolute;
     }
   }
 }
-.intro-item .content-fit-cover {
-  aspect-ratio: 1200/674;  /* exact ratio of the source */
-  object-fit: cover;
-}
-.ratio-16x9 { aspect-ratio: 1200/674 !important; }
-.content-fit-cover { width:100%; height:auto; object-fit:cover; }
 
 /*  .page-title-bg {
     position: absolute;

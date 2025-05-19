@@ -5,12 +5,11 @@ description: "What to look for and questions to ask when you're comparing at pai
 keywords: "painting estimate, compare painting prices, kansas city, crestwood painting"
 canonical: "/compare-paint-bids/"
 date: "2011-08-28"
-image: "other/apple-n-orange.webp"
 images: "/images/schema-ogimage.jpg"
 index: true
 ---
 {{< figure1st
-  src="other/apple-n-orange.webp"
+  src="/images/other/apple-n-orange.webp"
 >}}
 
 ## Compare Apples to Apples

@@ -1,53 +1,13 @@
-{{/* -----------------------------------------------
-   Shortcode: figure1st
-   1) Grab src= or page.Params.image, default to ""
-   2) Trim all “/” so "/foo/" → "foo", "///" → ""
-   3) Strip any accidental leading "images/"
-   4) If empty, bail out early
-   5) Otherwise try assets/images/...; if missing, fall back to /images/...
------------------------------------------------ */}}
+<figure class="figure1st">
+  {{/* register the first figure1st image on this page for preload */}}
+  {{ if not (.Page.Scratch.Get "heroSrc") }}
+    {{ .Page.Scratch.Set "heroSrc" (.Get "src") }}
+  {{ end }}
 
-{{- /* 1. raw input, never nil */ -}}
-{{- $raw := .Get "src" | default .Page.Params.image | default "" -}}
+  {{ partial "template-image.html" (dict
+      "Destination" (.Get "src")
+      "alt"        (.Get "alt")
+      "eager"      true
+      "class"      "responsive-image") }}
+</figure>
 
-{{- /* 2. strip slashes, then remove “images/” */ -}}
-{{- $trim := trim $raw "/" | strings.TrimPrefix "images/" -}}
-
-{{- /* 2a. if someone passed only “images” or left it blank, bail */ -}}
-{{- if or (eq $trim "") (eq $trim "images") -}}
-  {{ warnf "figure1st: no valid src in %s" .Page.File.Path }}
-  {{- return -}}
-{{- end -}}
-{{- /* 3. remove accidental "images/" prefix */ -}}
-{{- $trim = strings.TrimPrefix $trim "images/" -}}
-
-{{- /* 4. nothing to do? exit */ -}}
-{{- if eq $trim "" -}}
-  {{ warnf "figure1st: no src defined in %s" .Page.File.Path }}
-  {{- return -}}
-{{- end -}}
-
-{{- /* 5. try to pipeline from assets/images */ -}}
-{{- $asset := printf "images/%s" $trim -}}
-{{- $res   := resources.Get $asset -}}
-
-{{- if and $res (eq $res.MediaType.Type "image") -}}
-  <figure class="figure1st">
-    {{ partial "template-image.html" (dict
-        "Destination" $asset
-        "alt"         (.Get "alt")
-        "eager"       true
-        "class"       "responsive-image"
-    ) }}
-  </figure>
-{{- else -}}
-  {{ warnf "figure1st: falling back to static /images/%s" $trim }}
-  <figure class="figure1st">
-    <img
-      src="/images/{{ $trim }}"
-      alt="{{ default "" (.Get "alt") }}"
-      class="responsive-image"
-      loading="lazy"
-    />
-  </figure>
-{{- end -}}

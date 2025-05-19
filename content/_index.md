@@ -20,14 +20,14 @@ intro:
   values: # or benefits/qualities
     - title: Lasting Exteriors
       summary: "Durable protection for homes new, old and mid-century. Commercial buildings too."
-      svcimg: admin/stucco-entry500.webp
+      svcimg: /images/stucco-entry500.webp
       link: /exterior-painting-kansas-city/
     - title: Comfy Interiors
       summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."
-      svcimg: admin/dr-orange-500.webp
+      svcimg: /images/dr-orange-500.webp
       link: /interior-painter-kansas-city/
     - title: Busy Offices
-      svcimg: admin/blue-mfg-500.webp
+      svcimg: /images/blue-mfg-500.webp
       summary: "Quiet and careful, one room at a time - on your schedule."
       link: /office-painting-experts/
 cta:

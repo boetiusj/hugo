@@ -5,12 +5,11 @@ description: "Choose the right colors for your home - with confidence. The right
 keywords: "house paint, colors, living room color, exterior colors, kansas city, crestwood painting"
 canonical: "/color-help/"
 date: "2011-05-05"
-image: "exterior/ranch-white.jpg"
 images: "/images/schema-ogimage.jpg"
 index: true
 ---
 {{< figure1st
-  src="exterior/ranch-white.jpg"
+  src="/images/exterior/ranch-white.jpg"
 >}}
 
 ## Choosing Exterior Colors

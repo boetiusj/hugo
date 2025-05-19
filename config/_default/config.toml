@@ -5,7 +5,6 @@ timeout = "100s"
 enableEmoji = true
 googleAnalytics = "G-Y229K0TNJR"
 # old G (before '24) analytics: UA-1372967-1
-ignoreLogs = ['warning-partial-superfluous-prefix']
 [build]
   writeStats = true
 

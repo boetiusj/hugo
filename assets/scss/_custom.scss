@@ -177,24 +177,47 @@ position:absolute;
   }
 }
 
+/* 404 images: 2-up on mobile, up to 4-up on desktop, no list-markers, tighter wrap */
 .list404 {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
   list-style: none;
-  padding-left: 0%;
-  padding-right: 0%;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.5rem; /* smaller gap */
 
-  @media screen and (max-width: 667px) {
-    grid-template-columns: repeat(1, 1fr);
+  /* mobile: 2 columns */
+  @media (max-width: 576px) {
+    grid-template-columns: repeat(2, 1fr);
   }
 
-  img {
-    margin-bottom: 0.2em;
-    margin-right: 0.2em;
-    max-width: 100%; /* per Copilot 5-2-25 */
-    height: auto; /* per Copilot */
-    display: block; /* per Copilot */
+  /* tablet: 3 columns */
+  @media (min-width: 577px) and (max-width: 991px) {
+    grid-template-columns: repeat(3, 1fr);
   }
+
+  /* desktop: 4 columns */
+  @media (min-width: 992px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.list404 li {
+  text-align: center;
+}
+
+.list404 a {
+  display: block;
+  white-space: normal;      /* allow wrapping */
+  word-wrap: break-word;    /* break long words */
+  line-height: 1.2;         /* tighter line spacing */
+  margin: 0;                /* remove extra space */
+}
+
+.list404-img {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 0.25rem;   /* less space under image */
+  object-fit: cover;
 }
 
 .section404 {

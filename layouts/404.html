@@ -12,11 +12,17 @@
           {{ $pages = where $pages "Params.index" true }}
           {{ range $pages }}
           <li>
-            {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
-            <a href="{{ .Permalink }}">
-              {{ partial "template-image.html" (dict "Destination" $image "Alt" "404 blog image" "Loading" "lazy" "Width" "100" "Height" "100") }}
-              <br>{{ .Title }}
-            </a>
+              {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
+              <a href="{{ .Permalink }}">
+                {{ partial "template-image.html" (dict
+                  "Destination" $image
+                  "alt"         "404 preview of {{ .Title }}"
+                  "eager"       true
+                  "thumb"       true
+                  "class"       "list404-img"
+                ) }}
+                <br>{{ .Title }}
+              </a>
           </li>
           {{ end }}
         </ul>

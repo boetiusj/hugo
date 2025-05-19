@@ -12,8 +12,8 @@
 
       <!-- thumbnail rendered through the shared Image Pipeline -->
       <a href="{{ .Permalink }}">
-        {{ partial "template-image.html" (dict
-            "Destination" $img
+        {{ partial "image.html" (dict
+            "src" $img
             "class"       "mr-4"
             "eager"       false
             "thumb"       true) }}

@@ -1,47 +1,8 @@
-{{ $original := .Page.Resources.GetMatch (printf "**%s" .Destination) }}
-{{ if not $original }}
-  {{ $original = resources.Get .Destination }}
-{{ end }}
-
-{{ if not $original }}
-  {{ errorf "Image not found: %s" .Destination }}
-{{ end }}
-
-{{ $alt := .Text | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}
-
-{{ if ge $original.Width 500 }}
-  {{ $webp := $original.Resize "1200x webp q75" }}
-  {{ $avif := $original.Resize "1200x avif q50" }}
-  {{ $srcset := delimit (slice
-    (printf "%s 1280w" ($webp.Resize "1280x").Permalink)
-    (printf "%s 960w"  ($webp.Resize "960x").Permalink)
-    (printf "%s 640w"  ($webp.Resize "640x").Permalink)
-    (printf "%s 320w"  ($webp.Resize "320x").Permalink)
-  ) ", " }}
-
-  <picture>
-    <source srcset="{{ $avif.Permalink }}" type="image/avif">
-    <source srcset="{{ $webp.Permalink }}" type="image/webp">
-    <img
-      class="responsive-image"
-      src="{{ $webp.Permalink }}"
-      srcset="{{ $srcset }}"
-      sizes="(min-width: 1400px) 1280px, (min-width: 1024px) 960px, (min-width: 768px) 640px, 100vw"
-      alt="{{ $alt }}"
-      loading="lazy"
-      width="{{ $webp.Width }}"
-      height="{{ $webp.Height }}"
-      style="aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }}"
-    />
-  </picture>
-{{ else }}
-  <img
-    class="responsive-image"
-    src="{{ $original.Permalink }}"
-    alt="{{ $alt }}"
-    loading="lazy"
-    width="{{ $original.Width }}"
-    height="{{ $original.Height }}"
-    style="aspect-ratio: {{ $original.Width }}/{{ $original.Height }}"
-  />
-{{ end }}
+{{/* layouts/_default/_markup/render-image.html */}}
+{{- /* .Destination is the raw image path from Markdown */ -}}
+{{- partial "image.html" (dict
+    "src"   (trimPrefix "/" .Destination)
+    "alt"   .Text
+    "class" "responsive-image"
+    "eager" false
+) -}}

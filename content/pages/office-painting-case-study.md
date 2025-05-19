@@ -5,7 +5,7 @@ description: "This commercial office building was updated from drab 70's to tech
 keywords: "commercial painting, office painting"
 canonical: "https://crestwoodpainting.com/office-painting-case-study/"
 date: "2017-06-02"
-image: "images/office/office-sunny.jpg"
+image: "/images/office/office-sunny.jpg"
 images: "/images/schema-ogimage.jpg"
 index: true
 ---

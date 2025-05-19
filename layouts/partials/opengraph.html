@@ -132,30 +132,39 @@ strings.TrimSuffix "/" $.Page.Permalink }}
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
+      {{/* Home */}}
       {
         "@type": "ListItem",
         "position": 1,
-        "name": "Home",
-        "item": "{{ $homelink }}"
+        "item": {
+          "@id": "{{ $homelink }}",
+          "name": "Home"
+        }
       }{{ $position := 2 }}
       {{- range $index, $ancestor := .Ancestors }}
       ,{
         "@type": "ListItem",
         "position": {{ $position }},
-        "name": "{{ with $ancestor.Title }}{{ . | htmlEscape }}{{ else }}Untitled{{ end }}",
-        "item": "{{ with $ancestor.Permalink }}{{ . | htmlEscape }}{{ else }}#{{ end }}"
+        "item": {
+          "@id": "{{ $ancestor.Permalink }}",
+          "name": "{{ $ancestor.Title | htmlEscape }}"
+        }
       }{{ $position = add $position 1 }}
       {{- end }}
       {{ if gt $position 2 }},{{ end }}
+      {{/* Current page */}}
       {
         "@type": "ListItem",
         "position": {{ $position }},
-        "name": "{{ with .Title }}{{ . | htmlEscape }}{{ else }}Untitled{{ end }}",
-        "item": "{{ with $permalink }}{{ . | htmlEscape }}{{ else }}#{{ end }}"
+        "item": {
+          "@id": "{{ $permalink }}",
+          "name": "{{ .Title | htmlEscape }}"
+        }
       }
     ]
   }
 </script>
+
 {{ end }} {{ with .Params.faqs }} {{ $faqs_len := sub (len .) 1 }}
 <script type="application/ld+json">
   {

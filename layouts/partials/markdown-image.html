@@ -1,0 +1,7 @@
+{{/* layouts/partials/markdown-image.html */}}
+{{/*
+  Render any inline Markdown image (`![]()`) through our optimized template-image pipeline.
+*/}}
+{{- $src := .src -}}
+{{- $alt := .alt | default "" -}}
+{{ partial "template-image.html" (dict "Destination" $src "alt" $alt) }}

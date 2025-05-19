@@ -4,8 +4,8 @@
     {{ .Page.Scratch.Set "heroSrc" (.Get "src") }}
   {{ end }}
 
-  {{ partial "template-image.html" (dict
-      "Destination" (.Get "src")
+  {{ partial "image.html" (dict
+      "scr" (.Get "src")
       "alt"        (.Get "alt")
       "eager"      true
       "class"      "responsive-image") }}

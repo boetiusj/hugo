@@ -5,7 +5,7 @@ description: "Organized jobs, tidy painters, happy customers."
 keywords: "painting cost, price interior painting, bedroom, living room"
 canonical: "https://crestwoodpainting.com/interior-painter-kansas-city/"
 date: "2011-09-18"
-image: "interior/balusters.jpg"
+image: "/interior/balusters.jpg"
 images: "/images/schema-ogimage.jpg"
 index: true
 faqs: 

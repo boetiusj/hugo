@@ -82,13 +82,6 @@
   font-size: 1.0em;
 }
 
-/* .page-title {
-  background-color: rgb(70, 86, 149);
-  background-size: 88px 88px;
-  background-repeat: repeat;
-  background-image: url(/images/svg/dots.svg);
-  } */
-
 .video {
   overflow: hidden;
   padding-bottom: 56.25%;
@@ -223,9 +216,11 @@ position:absolute;
 .section404 {
   padding-top: 0%;
 }
+
 .input [type="radio"] #auto {
   accent-color: auto;
 }
+
 .figure1st img {
   width: 100%;
   height: auto;
@@ -234,7 +229,8 @@ position:absolute;
 .figure-blog {
   margin: 1.5rem 0;        /* breathing room above & below */
   line-height: 0;          /* removes little gap under the img */
-}  
+}
+
   picture,
   img {
     display: block;        /* no inline-gap artifacts */
@@ -242,6 +238,7 @@ position:absolute;
     height: auto;          /* preserve aspect ratio */
     border-radius: 0.5rem; /* optional – soft corners */
   }
+
   figcaption {
     margin-top: 0.5rem;
     font-size: 0.9rem;
@@ -253,6 +250,13 @@ position:absolute;
   max-width: 100%;
   height: auto !important;
 }
+
+img.img-fluid.w-100 {
+  width: auto !important;
+  max-width: 100%;
+  height: auto !important;
+}
+
  .page-title {
   /* position: relative; */
   overflow: hidden;
@@ -271,12 +275,3 @@ position:absolute;
     }
   }
 }
-
-/*  .page-title-bg {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    z-index: -1; /* Place behind content */

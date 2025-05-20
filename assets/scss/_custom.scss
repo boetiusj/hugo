@@ -260,7 +260,7 @@ position:absolute;
   background-size: 88px 88px;
   background-repeat: repeat;
   background-image: url(/images/svg/dots.svg);
-  padding: 60px 0;
+  padding: 35px 0 20px; /* was 60px 0 */
   @extend .overly;
   .block {
     h1 {

@@ -186,6 +186,3 @@ strings.TrimSuffix "/" $.Page.Permalink }}
   }
 </script>
 {{ end }} {{/* _internal/twitter_cards.html call removed – images slice issue */}}
- {{- if eq (getenv
-"HUGO_ENV") "production" }} {{- partial "scripts/google_analytics.html" . }}
-{{- end }}

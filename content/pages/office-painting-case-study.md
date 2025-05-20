@@ -44,7 +44,7 @@ The GC turned over the work space right on schedule and two weeks later we were 
 
 ## The Materials
 
-![painting break room kansas city](/images/Breakroom-300x300.jpg)
+![painting break room kansas city](/images/office/breakroom.jpg)
 
 ### Office Walls
 

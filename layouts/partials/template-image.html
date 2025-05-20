@@ -55,7 +55,7 @@
       alt="{{ $alt }}"
       width="{{ $webp.Width }}"
       height="{{ $webp.Height }}"
-      style="aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }}"
+      style="aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }}; width: auto; max-width: 100%; height: auto;"
       fetchpriority="{{ if $eager }}high{{ else }}auto{{ end }}"
       {{- if not $eager }} loading="lazy"{{- end }}
     />
@@ -67,7 +67,7 @@
     {{ with .class }}class="{{ . }}"{{ end }}
     width="{{ $width }}"
     height="{{ $height }}"
-    style="aspect-ratio: {{ $width }}/{{ $height }}"
+    style="aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }}; width: auto; max-width: 100%; height: auto;"
     fetchpriority="{{ if $eager }}high{{ else }}auto{{ end }}"
       {{- if not $eager }} loading="lazy"{{- end }}
   />

@@ -31,7 +31,7 @@
       loading="lazy"
       width="{{ $webp.Width }}"
       height="{{ $webp.Height }}"
-      style="aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }}"
+      style="aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }}; width: auto; max-width: 100%; height: auto;"
     />
   </picture>
 {{ else }}
@@ -42,6 +42,6 @@
     loading="lazy"
     width="{{ $original.Width }}"
     height="{{ $original.Height }}"
-    style="aspect-ratio: {{ $original.Width }}/{{ $original.Height }}"
+    style="aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }}; width: auto; max-width: 100%; height: auto;"
   />
 {{ end }}

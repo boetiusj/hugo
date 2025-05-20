@@ -1,18 +1,35 @@
 {{ define "main" }}
-{{ partial "blocks/page-title" . }}
-{{- $config := site.Params }}
-{{- $enableSidebar := default false $config.blogPageSidebarOn }}
-{{ $title := lower .Title }}
-<section class="section blog-wrap">
-	<div class="container">
-		<div class="row">
-      <div class="tags">
-        {{ range .Data.Terms.ByCount }}
-          {{ partial "blog/tag" (dict "ctx" . "key" $title ) }}
+  {{ partial "blocks/page-title" . }}
+
+  {{- $config       := site.Params }}
+  {{- $enableSidebar := default false $config.blogPageSidebarOn }}
+  {{- $title        := lower .Title }}
+
+  <section class="section blog-wrap">
+    <div class="container">
+      <div class="row">
+        <div class="tags">
+          {{ range .Data.Terms.ByCount }}
+            {{ partial "blog/tag" (dict "ctx" . "key" $title ) }}
+          {{ end }}
+        </div>
+      </div>
+
+      {{/* --- POSTS LISTING STARTS HERE --- */}}
+      <div class="row posts-list">
+        {{ if gt (len .Pages) 0 }}
+          {{ range .Pages }}
+            <article class="post-preview col-12 mb-4">
+              <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+              <p>{{ .Summary }}</p>
+            </article>
+          {{ end }}
+        {{ else }}
+          <p>No posts found in “{{ .Title }}.”</p>
         {{ end }}
       </div>
-		</div>
-	</div>
-</section>
+      {{/* --- POSTS LISTING ENDS HERE --- */}}
 
+    </div>
+  </section>
 {{ end }}

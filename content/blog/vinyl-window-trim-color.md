@@ -16,7 +16,7 @@ categories:
 ---
 Vinyl windows often come in a stark “hospital white.” Choosing "matchy-matchy" trim paint can overpower the rest of the exterior.
 
-![Vinyl-Window-paint](/images/vinyl-window-paint.webp)
+![Vinyl-Window-paint](/images/exterior/vinyl-ugly.jpg)
 
 ## Why Are Vinyl Windows So White?
 

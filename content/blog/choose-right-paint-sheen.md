@@ -7,7 +7,7 @@ canonical: "https://crestwoodpainting.com/choose-paint-sheen/"
 date: "2013-01-28"
 index: true
 images: "/images/schema-ogimage.jpg"
-image: "/images/sheen-stripes.webp"
+image: "/images/interior/sheen-stripes.webp"
 categories:
   - "good-to-know"
   - "color-tips"

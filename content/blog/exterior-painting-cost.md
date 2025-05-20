@@ -71,7 +71,7 @@ Loose or peeling paint must be removed. Any bare wood needs to be primed, and al
 
 Each additional paint color adds complexity, especially on homes with detailed trim.
 
-![paint house exterior kansas city crestwood painting](/images/ranch-house.webp)
+![paint house exterior kansas city crestwood painting](/images/exterior/sm-ranch.jpg)
 
 ### Architectural Styles Influence Color Needs
 

@@ -29,7 +29,7 @@ Traditional-style homes often benefit from muted, classic tones like soft greens
 
 Modern homes frequently use bolder contrasts and sharper color lines. Whites, blacks, and deep grays paired with contrasting trims create a clean and striking visual effect.
 
-![home harsh color contrast crestwood painting kansas city](/images/StewartBefore_opt.jpg)
+![home harsh color contrast crestwood painting kansas city](/images/exterior/ext-before.jpg)
 
 ## How Landscaping Influences Your Exterior Color Choices
 

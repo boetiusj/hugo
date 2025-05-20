@@ -50,7 +50,7 @@ Older joint styles used angled and overlapping parts to hide movement. By acknow
 
 A coping cut follows the profile of an adjoining piece, so even if boards warp, the joint remains snug. It’s especially handy in crown molding where corners might not meet at perfect angles.
 
-![paint prep kansas city crestwood painting miter joint gap](/images/interior-trim-2.webp)
+![paint prep kansas city crestwood painting miter joint gap](/images/interior/trim-gap.webp)
 
 ### Multi-Piece Molding
 

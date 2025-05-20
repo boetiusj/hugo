@@ -35,7 +35,7 @@ Interior trim endures frequent contact, making satin or semi-gloss a practical c
 
 Flat finishes, also known as matte, create a non-reflective surface that absorbs light, making them especially appealing if you’re looking for the best paint sheen for bedrooms or formal living areas. They cover minor imperfections better than glossier paints and lend a serene, unified appearance to walls and ceilings. Many newer flat paints are also more stain-resistant, making them easier to maintain than older formulations.
 
-![paint sheens](/images/paint-sheens.webp)
+![paint sheens](/images/interior/sheens.webp)
 
 ### Eggshell and Satin: The Middle Ground
 

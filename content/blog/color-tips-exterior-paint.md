@@ -77,7 +77,7 @@ For more ideas, explore our guide on the [best front door colors](/best-front-do
 
 Small-scale paint tests help ensure your final choice looks perfect in all conditions.
 
-![exterior paint colors kansas city](/images/stewartafter-opt-650208941d847.webp)
+![exterior paint colors kansas city](/images/exterior/ext-after.webp)
 
 ### Observing at Different Times
 

@@ -1,3 +1,4 @@
+{{/* layouts/partials/breadcrumbs/blog.html */}}
 <ul class="list-inline"
     itemscope itemtype="https://schema.org/BreadcrumbList">
 
@@ -5,14 +6,14 @@
   <li class="breadcrumbs"
       itemprop="itemListElement"
       itemscope itemtype="https://schema.org/ListItem">
-        <a href="{{ absURL "/" }}"
-           class="text-white"
-           itemprop="item"
-           itemscope
-           itemtype="https://schema.org/WebPage"
-           itemid="{{ absURL "/" }}">
-          <span itemprop="name">Home</span>
-        </a>
+    <a href="{{ absURL "/" }}"
+       class="text-white"
+       itemprop="item"
+       itemscope
+       itemtype="https://schema.org/WebPage"
+       itemid="{{ absURL "/" }}">
+      <span itemprop="name">Home</span>
+    </a>
     <meta itemprop="position" content="1" />
   </li>
 

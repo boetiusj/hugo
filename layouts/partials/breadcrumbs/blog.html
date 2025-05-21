@@ -1,5 +1,29 @@
-<ul class="list-inline">
-  <li class="breadcrumbs"><a href={{ absURL "/" }} class="text-white">Home</a></li>
+<ul class="list-inline"
+    itemscope itemtype="https://schema.org/BreadcrumbList">
+
+  {{/* Home */}}
+  <li class="breadcrumbs"
+      itemprop="itemListElement"
+      itemscope
+      itemtype="https://schema.org/ListItem">
+    <a href="{{ absURL "/" }}"
+       class="text-white"
+       itemprop="item"
+       itemscope
+       itemtype="https://schema.org/WebPage">
+      <span itemprop="name">Home</span>
+    </a>
+    <meta itemprop="position" content="1" />
+  </li>
+
   <li class="breadcrumbs"><span class="text-white">/</span></li>
-  <li class="breadcrumbs text-white-50">{{ default .Title .Params.name }}</li>
+
+  {{/* Current page */}}
+  <li class="breadcrumbs text-white-50"
+      itemprop="itemListElement"
+      itemscope
+      itemtype="https://schema.org/ListItem">
+    <span itemprop="name">{{ default .Title .Params.name }}</span>
+    <meta itemprop="position" content="2" />
+  </li>
 </ul>

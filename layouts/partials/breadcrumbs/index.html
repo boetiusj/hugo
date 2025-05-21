@@ -1,8 +1,29 @@
-<ul class="breadcrumbs pl-0 pb-2" itemscope itemtype="https://schema.org/BreadcrumbList">
-  <li class="breadcrumbs" itemprop="itemListElement" itemscope
-  itemtype="https://schema.org/ListItem">
-    <a href={{ absURL "/" }} class="text-black" itemprop="item" href={{ absURL "/" }}>Home</a>
+<ul class="breadcrumbs pl-0 pb-2"
+    itemscope itemtype="https://schema.org/BreadcrumbList">
+
+  {{/* Home */}}
+  <li class="breadcrumbs"
+      itemprop="itemListElement"
+      itemscope
+      itemtype="https://schema.org/ListItem">
+    <a href="{{ absURL "/" }}"
+       class="text-black"
+       itemprop="item"
+       itemscope
+       itemtype="https://schema.org/WebPage">
+      <span itemprop="name">Home</span>
+    </a>
+    <meta itemprop="position" content="1" />
   </li>
+
   <li class="breadcrumbs"><span class="text-black">/</span></li>
-  <li class="breadcrumbs text-black-breadcrumbs">{{ default .Title .Params.name }}</li>
+
+  {{/* Current page */}}
+  <li class="breadcrumbs text-black-breadcrumbs"
+      itemprop="itemListElement"
+      itemscope
+      itemtype="https://schema.org/ListItem">
+    <span itemprop="name">{{ default .Title .Params.name }}</span>
+    <meta itemprop="position" content="2" />
+  </li>
 </ul>

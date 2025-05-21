@@ -37,12 +37,21 @@
 {{- if ge $width 500 }}
   {{- $webp  := $resource.Resize "1200x webp q75" -}}
   {{- $avif  := $resource.Resize "1200x avif q50" -}}
-  {{- $srcset := delimit (slice
-      (printf "%s 1280w" ($resource.Resize "1280x webp q75").Permalink)
-      (printf "%s 960w"  ($resource.Resize "960x webp q75").Permalink)
-      (printf "%s 640w"  ($resource.Resize "640x webp q75").Permalink)
-      (printf "%s 320w"  ($resource.Resize "320x webp q75").Permalink)
-    ) ", " -}}
+  {{- /* Build srcset entries only up to the image’s natural width */ -}}
++  {{- $entries := slice -}}
++  {{- if ge $width 1280 -}}
++    {{- $entries = $entries | append (printf "%s 1280w" ($resource.Resize "1280x webp q75").Permalink) -}}
++  {{- end -}}
++  {{- if ge $width 960 -}}
++    {{- $entries = $entries | append (printf "%s 960w"  ($resource.Resize "960x webp q75").Permalink) -}}
++  {{- end -}}
++  {{- if ge $width 640 -}}
++    {{- $entries = $entries | append (printf "%s 640w"  ($resource.Resize "640x webp q75").Permalink) -}}
++  {{- end -}}
++  {{- if ge $width 320 -}}
++    {{- $entries = $entries | append (printf "%s 320w"  ($resource.Resize "320x webp q75").Permalink) -}}
++  {{- end -}}
++  {{- $srcset := delimit $entries ", " -}}
 
   <picture>
     <source srcset="{{ $avif.Permalink }}" type="image/avif">

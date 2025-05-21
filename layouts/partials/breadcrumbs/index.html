@@ -1,38 +1,11 @@
-{{/* layouts/partials/breadcrumbs/index.html */}}
-<ul class="breadcrumbs pl-0 pb-2"
-    itemscope
-    itemtype="https://schema.org/BreadcrumbList">
-
-  {{/* Home */}}
-  <li class="breadcrumbs"
-      itemprop="itemListElement"
-      itemscope
-      itemtype="https://schema.org/ListItem">
-    <a href="{{ absURL "/" }}"
-       class="text-black"
-       itemprop="item"
-       itemscope
-       itemtype="https://schema.org/WebPage"
-       itemid="{{ absURL "/" }}">
-      <span itemprop="name">Home</span>
-    </a>
-    <meta itemprop="position" content="1" />
+<ul class="breadcrumbs pl-0 pb-2">
+  <li class="breadcrumbs">
+    <a href="{{ absURL "/" }}" class="text-black">Home</a>
   </li>
-
-  <li class="breadcrumbs"><span class="text-black">/</span></li>
-
-  {{/* Current page */}}
-  <li class="breadcrumbs text-black-breadcrumbs"
-      itemprop="itemListElement"
-      itemscope
-      itemtype="https://schema.org/ListItem">
-    <span itemprop="item"
-          itemscope
-          itemtype="https://schema.org/WebPage"
-          itemid="{{ .Permalink }}">
-      <span itemprop="name">{{ default .Title .Params.name }}</span>
-    </span>
-    <meta itemprop="position" content="2" />
+  <li class="breadcrumbs">
+    <span class="text-black">/</span>
   </li>
-
+  <li class="breadcrumbs text-black-breadcrumbs">
+    {{ default .Title .Params.name }}
+  </li>
 </ul>

@@ -275,3 +275,10 @@ img.img-fluid.w-100 {
     }
   }
 }
+
+picture,
+img {
+  width: auto !important;     /* let the browser use intrinsic width */
+  max-width: 100%;            /* still allow them to shrink to container */
+  height: auto !important;    /* preserve aspect ratio */
+}

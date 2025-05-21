@@ -10,8 +10,8 @@
 {{ $alt := .Text | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}
 
 {{ if ge $original.Width 500 }}
-  {{ $webp := $original.Resize "1200x webp q75" }}
-  {{ $avif := $original.Resize "1200x avif q50" }}
+  {{ $webp := $original.Fit (printf "1200x%d webp q75" $original.Height) }}
+  {{ $avif := $original.Fit (printf "1200x%d avif q50" $original.Height) }}
   {{- /* only offer variants up to the 1200px fallback width */ -}}
   {{- $entries := slice -}}
   {{- if ge $webp.Width 960 -}}

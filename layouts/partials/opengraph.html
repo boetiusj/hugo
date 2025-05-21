@@ -92,7 +92,7 @@ $config.logo }} {{- end }}
     "naics": "238320"
   }
 </script>
-{{ else }} {{/* _internal/schema.html call removed – caused images slice error */}}
+{{ else if eq .Section "blog" }} {{/* only emit BlogPosting JSON-LD on blog posts */}}
  {{- $date := .Date.Format
 "2006-02-01" -}}
 <meta property="article:published_time" content="{{ htmlUnescape $date }}" />

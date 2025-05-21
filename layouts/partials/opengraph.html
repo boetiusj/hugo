@@ -127,43 +127,32 @@ $config.logo }} {{- end }}
 </script>
 {{- $.Scratch.Add "path" "/" -}} {{- $lang := site.Language.Lang }} {{- $link :=
 strings.TrimSuffix "/" $.Page.Permalink }}
+{{- /* build a flat slice of crumb data */ -}}
+{{- $crumbs := slice (dict "name" "Home" "url" (absURL "/")) -}}
+{{- range .Ancestors -}}
+  {{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
+{{- end -}}
+{{- /* finally, the current page */ -}}
+{{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
+
 <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {{/* Home */}}
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{- range $i, $c := $crumbs -}}
+      {{- if $i }},{{ end -}}
       {
         "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@id": "{{ $homelink }}",
-          "name": "Home"
-        }
-      }{{ $position := 2 }}
-      {{- range $index, $ancestor := .Ancestors }}
-      ,{
-        "@type": "ListItem",
-        "position": {{ $position }},
-        "item": {
-          "@id": "{{ $ancestor.Permalink }}",
-          "name": "{{ $ancestor.Title | htmlEscape }}"
-        }
-      }{{ $position = add $position 1 }}
-      {{- end }}
-
-      {{/* Current page */}}
-      ,{
-        "@type": "ListItem",
-        "position": {{ $position }},
-        "item": {
-          "@id": "{{ $permalink }}",
-          "name": "{{ .Title | htmlEscape }}"
-        }
+        "position": {{ add $i 1 }},
+        "name": "{{ $c.name | htmlEscape }}",
+        "item": "{{ $c.url }}"
       }
-    ]
-  }
+    {{- end }}
+  ]
+}
 </script>
+
 
 {{ end }} {{ with .Params.faqs }} {{ $faqs_len := sub (len .) 1 }}
 <script type="application/ld+json">

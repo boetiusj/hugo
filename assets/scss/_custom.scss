@@ -282,3 +282,16 @@ img {
   max-width: 100%;            /* still allow them to shrink to container */
   height: auto !important;    /* preserve aspect ratio */
 }
+
+/* Force all excerpt & article titles to exactly 2 lines */
+.blog-item-content h3,
+.latest-blog .card-body h3 {
+  line-height: 1.2;                         /* match your font’s line-height */
+  min-height: calc(1.2em * 2);              /* always at least two lines */
+  max-height: calc(1.2em * 2);              /* never more than two lines */
+  overflow: hidden;                         /* hide extra text */
+
+  display: -webkit-box;                     /* for Chrome/Safari clamping */
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;                    /* clamp to two lines */
+}

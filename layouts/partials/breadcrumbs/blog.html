@@ -5,14 +5,14 @@
   <li class="breadcrumbs"
       itemprop="itemListElement"
       itemscope itemtype="https://schema.org/ListItem">
-    <a href="{{ absURL "/" }}"
-       class="text-white"
-       itemprop="item"
-       itemscope
-       itemtype="https://schema.org/WebPage">
-      <span itemprop="name">Home</span>
-      <meta itemprop="id" content="{{ absURL "/" }}" />
-    </a>
+        <a href="{{ absURL "/" }}"
+           class="text-white"
+           itemprop="item"
+           itemscope
+           itemtype="https://schema.org/WebPage"
+           itemid="{{ absURL "/" }}">
+          <span itemprop="name">Home</span>
+        </a>
     <meta itemprop="position" content="1" />
   </li>
 
@@ -24,9 +24,9 @@
       itemscope itemtype="https://schema.org/ListItem">
     <span itemprop="item"
           itemscope
-          itemtype="https://schema.org/WebPage">
+          itemtype="https://schema.org/WebPage"
+          itemid="{{ .Permalink }}">
       <span itemprop="name">{{ default .Title .Params.name }}</span>
-      <meta itemprop="id" content="{{ .Permalink }}" />
     </span>
     <meta itemprop="position" content="2" />
   </li>

@@ -295,3 +295,8 @@ img {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;                    /* clamp to two lines */
 }
+/* to fix Lighthouse Uses deprecated APIs - H1UserAgentFontSizeInSection */
+:where(h1) {
+  margin-block: 0.67em;
+  font-size: 2em;
+}

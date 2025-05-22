@@ -93,72 +93,63 @@ $config.logo }} {{- end }}
   }
 </script>
 {{ else if eq .Section "blog" }} {{/* only emit BlogPosting JSON-LD on blog posts */}}
- {{- $date := .Date.Format
-"2006-02-01" -}}
-<meta property="article:published_time" content="{{ htmlUnescape $date }}" />
-<script type="application/ld+json">
+  {{- $date := .Date.Format "2006-02-01" -}}
+  <meta property="article:published_time" content="{{ htmlUnescape $date }}" />
+
+  <script type="application/ld+json">
   {
     "@context": "http://schema.org",
-    "@type": {{ if eq .Section "blog" }}"BlogPosting"{{ else }}"WebPage"{{ end }},
-    "mainEntityOfPage":"{{ $permalink }}",
-    "name": "{{ $st }}",
-    "headline": "{{ .Title  }}",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": "{{ $permalink }}",
+    "headline": "{{ .Title }}",
     "description": "{{ $summary }}",
     "url": "{{ $permalink }}",
     "datePublished": "{{ $date }}",
     "dateModified": "{{ $date }}",
-    "image":{
-      "@type":"ImageObject",
+    "image": {
+      "@type": "ImageObject",
       "url": "{{ $image }}"
-    }{{ if eq .Section "blog" }},
+    },
     "author": {
       "@type": "Person",
       "name": "{{ .Params.author }}"
     },
     "publisher": {
       "@type": "Organization",
+      "name": "{{ $st }}",
       "logo": {
-        "@type":"ImageObject",
+        "@type": "ImageObject",
         "url": "{{ $logo }}"
-      },
-      "name": "{{ $st }}"
-    }{{ end }}
+      }
+    }
   }
-</script>
+  </script>
 {{- $.Scratch.Add "path" "/" -}} {{- $lang := site.Language.Lang }} {{- $link :=
 strings.TrimSuffix "/" $.Page.Permalink }}
-{{- /* build a flat slice of crumb data */ -}}
-{{- $crumbs := slice (dict "name" "Home" "url" (absURL "/")) -}}
-{{- range .Ancestors -}}
-  {{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
-{{- end -}}
-{{- /* finally, the current page */ -}}
-{{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
-
-{{- /* Build a flat breadcrumb slice */ -}}
-{{- $crumbs := slice (dict "name" "Home" "url" (absURL "/")) -}}
-{{- range .Ancestors -}}
-  {{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
-{{- end -}}
-{{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {{- range $i, $c := $crumbs -}}
-      {{- if $i }},{{ end -}}
-      {
-        "@type": "ListItem",
-        "position": {{ add $i 1 }},
-        "name": "{{ $c.name | htmlEscape }}",
-        "item": "{{ $c.url }}"
-      }
-    {{- end }}
-  ]
-}
-</script>
++{{- /* Build a single, flattened BreadcrumbList JSON-LD */ -}}
++{{- $crumbs := slice (dict "name" "Home" "url" (absURL "/")) -}}
++{{- range .Ancestors -}}
++  {{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
++{{- end -}}
++{{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
++
++<script type="application/ld+json">
++{
++  "@context": "https://schema.org",
++  "@type": "BreadcrumbList",
++  "itemListElement": [
++    {{- range $i, $c := $crumbs -}}
++      {{- if $i }},{{ end -}}
++      {
++        "@type": "ListItem",
++        "position": {{ add $i 1 }},
++        "name": "{{ $c.name | htmlEscape }}",
++        "item": "{{ $c.url }}"
++      }
++    {{- end }}
++  ]
++}
++</script>
 
 
 

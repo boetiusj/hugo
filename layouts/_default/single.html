@@ -21,9 +21,9 @@
 
     {{ .Content }}
 
-    {{ with .Params.faqs }}
-      {{ partial "faqs.html" . }}
-    {{ end }}
+   {{ if .Params.faqs }}
+  {{ partial "faqs.html" . }}
+{{ end }}
   </div>
 </section>
 {{ end }}

@@ -1,10 +1,9 @@
-{{/* layouts/_default/single.html */}}
 {{ define "main" }}
 <section class="section pt-4 mt-2">
   <div class="container content">
     <h1 class="pb-0">{{ .Title }}</h1>
 
-        {{/* Plain-HTML breadcrumbs with no microdata */}}
+    {{/* Plain-HTML breadcrumbs with no microdata */}}
     <ul class="breadcrumbs pl-0 pb-2">
       <li class="breadcrumbs">
         <a href="{{ absURL "/" }}" class="text-black">Home</a>
@@ -15,9 +14,8 @@
       </li>
     </ul>
 
-    {{/* Optional page image */}}
-    {{ if .Params.image }}
-      {{ $img := resources.Get .Params.image }}
+    {{ with .Params.image }}
+      {{ $img := resources.Get . }}
       {{ if $img }}
         {{ partial "template-image.html" (dict
           "Destination" $img.RelPermalink
@@ -26,7 +24,7 @@
           "eager"       true
         ) }}
       {{ else }}
-        {{ warnf "Image not found: %s" .Params.image }}
+        {{ warnf "Image not found: %s" . }}
       {{ end }}
     {{ end }}
 

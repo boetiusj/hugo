@@ -1,10 +1,10 @@
-{{/* layouts/index.html */}}
+{{/* layouts/partials/breadcrumbs/index.html */}}
 <ul class="breadcrumbs pl-0 pb-2">
   <li class="breadcrumbs">
     <a href="{{ absURL "/" }}" class="text-black">Home</a>
   </li>
   <li class="breadcrumbs"><span class="text-black">/</span></li>
   <li class="breadcrumbs text-black-breadcrumbs">
-    {{ default .Title .Params.name }}
+    {{ .Title }}
   </li>
 </ul>

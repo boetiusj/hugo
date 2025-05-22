@@ -3,10 +3,13 @@
 <section class="section pt-4 mt-2">
   <div class="container content">
     <h1 class="pb-0">{{ .Title }}</h1>
-    {{ partial "breadcrumbs/index.html" . }}
 
-    {{ with .Params.image }}
-      {{ $img := resources.Get . }}
+    {{/* Plain HTML breadcrumbs, no microdata */}}
+    {{ partial "breadcrumbs/index" . }}
+
+    {{/* Optional page image */}}
+    {{ if .Params.image }}
+      {{ $img := resources.Get .Params.image }}
       {{ if $img }}
         {{ partial "template-image.html" (dict
           "Destination" $img.RelPermalink
@@ -15,15 +18,12 @@
           "eager"       true
         ) }}
       {{ else }}
-        {{ warnf "Image not found: %s" . }}
+        {{ warnf "Image not found: %s" .Params.image }}
       {{ end }}
     {{ end }}
 
     {{ .Content }}
 
-   {{ if .Params.faqs }}
-  {{ partial "faqs.html" . }}
-{{ end }}
   </div>
 </section>
 {{ end }}

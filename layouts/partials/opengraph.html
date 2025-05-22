@@ -135,6 +135,13 @@ strings.TrimSuffix "/" $.Page.Permalink }}
 {{- /* finally, the current page */ -}}
 {{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
 
+{{- /* Build a flat breadcrumb slice */ -}}
+{{- $crumbs := slice (dict "name" "Home" "url" (absURL "/")) -}}
+{{- range .Ancestors -}}
+  {{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
+{{- end -}}
+{{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -152,6 +159,7 @@ strings.TrimSuffix "/" $.Page.Permalink }}
   ]
 }
 </script>
+
 
 
 {{ end }} {{ with .Params.faqs }} {{ $faqs_len := sub (len .) 1 }}

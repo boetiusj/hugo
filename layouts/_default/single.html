@@ -4,8 +4,16 @@
   <div class="container content">
     <h1 class="pb-0">{{ .Title }}</h1>
 
-    {{/* Plain HTML breadcrumbs, no microdata */}}
-    {{ partial "breadcrumbs/index" . }}
+        {{/* Plain-HTML breadcrumbs with no microdata */}}
+    <ul class="breadcrumbs pl-0 pb-2">
+      <li class="breadcrumbs">
+        <a href="{{ absURL "/" }}" class="text-black">Home</a>
+      </li>
+      <li class="breadcrumbs"><span class="text-black">/</span></li>
+      <li class="breadcrumbs text-black-breadcrumbs">
+        {{ .Title }}
+      </li>
+    </ul>
 
     {{/* Optional page image */}}
     {{ if .Params.image }}

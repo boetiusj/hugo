@@ -126,30 +126,30 @@ $config.logo }} {{- end }}
   </script>
 {{- $.Scratch.Add "path" "/" -}} {{- $lang := site.Language.Lang }} {{- $link :=
 strings.TrimSuffix "/" $.Page.Permalink }}
-+{{- /* Build a single, flattened BreadcrumbList JSON-LD */ -}}
-+{{- $crumbs := slice (dict "name" "Home" "url" (absURL "/")) -}}
-+{{- range .Ancestors -}}
-+  {{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
-+{{- end -}}
-+{{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
-+
-+<script type="application/ld+json">
-+{
-+  "@context": "https://schema.org",
-+  "@type": "BreadcrumbList",
-+  "itemListElement": [
-+    {{- range $i, $c := $crumbs -}}
-+      {{- if $i }},{{ end -}}
-+      {
-+        "@type": "ListItem",
-+        "position": {{ add $i 1 }},
-+        "name": "{{ $c.name | htmlEscape }}",
-+        "item": "{{ $c.url }}"
-+      }
-+    {{- end }}
-+  ]
-+}
-+</script>
+{{- /* Build a single, flattened BreadcrumbList JSON-LD */ -}}
+{{- $crumbs := slice (dict "name" "Home" "url" (absURL "/")) -}}
+{{- range .Ancestors -}}
+  {{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
+{{- end -}}
+{{- $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) -}}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{- range $i, $c := $crumbs -}}
+      {{- if $i }},{{ end -}}
+      {
+        "@type": "ListItem",
+        "position": {{ add $i 1 }},
+        "name": "{{ $c.name | htmlEscape }}",
+        "item": "{{ $c.url }}"
+      }
+    {{- end }}
+  ]
+}
+</script>
 
 
 

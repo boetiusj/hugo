@@ -1,19 +1,28 @@
+{{/* layouts/_default/single.html */}}
 {{ define "main" }}
 <section class="section pt-4 mt-2">
-	<div class="container content">
+  <div class="container content">
     <h1 class="pb-0">{{ .Title }}</h1>
-    {{ partial "breadcrumbs/index" . }}
-    {{ if .Params.image }}
-      {{ $imageResource := resources.Get .Params.image }}
-      {{ if $imageResource }}
-        {{ partial "template-image.html" (dict "Destination" $imageResource.RelPermalink "alt" .Title "class" "img-fluid" "eager" true) }}
+    {{ partial "breadcrumbs/index.html" . }}
+
+    {{ with .Params.image }}
+      {{ $img := resources.Get . }}
+      {{ if $img }}
+        {{ partial "template-image.html" (dict
+          "Destination" $img.RelPermalink
+          "alt"         $.Title
+          "class"       "img-fluid"
+          "eager"       true
+        ) }}
       {{ else }}
-        {{ warnf "Image not found: %s" .Params.image }}
+        {{ warnf "Image not found: %s" . }}
       {{ end }}
     {{ end }}
+
     {{ .Content }}
-    {{ if .Params.faqs }}
-      {{ partial "faqs" . }}
+
+    {{ with .Params.faqs }}
+      {{ partial "faqs.html" . }}
     {{ end }}
   </div>
 </section>

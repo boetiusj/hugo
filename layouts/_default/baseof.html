@@ -6,6 +6,7 @@
   </head>
 <body>
   {{ partial "gtm_body.html" . }}
+  <!-- BREADCRUMBS OVERRIDE baseof IS ACTIVE -->
   {{ partial "nav/index" . }}
   {{ block "main" . }}{{ end }}
   {{ partial "scripts/index" . }}

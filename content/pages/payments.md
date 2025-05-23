@@ -7,6 +7,7 @@ canonical: "https://crestwoodpainting.com/payments/"
 date: "2011-05-05"
 images: "/images/schema-ogimage.jpg"
 index: true
+
 ---
 
 ## PayPal or Venmo - easy and secure
@@ -19,18 +20,19 @@ index: true
 
   <!-- Venmo column -->
   <div class="col-12 col-md-6 text-center">
-    <a href="https://venmo.com/?txn=pay&audience=private&recipients=@crestwood&note=Painting%20services/" 
+    <a href="https://venmo.com/?txn=pay&audience=private&recipients=@crestwood&note=Painting%20services/"
        target="_blank" rel="noopener">
-      <img 
-        src="/images/Venmo.webp" 
-        alt="Venmo payments" 
-        class="img-fluid" 
+      <img
+        src="/images/other/venmo.webp"
+        alt="Venmo payments"
+        class="img-fluid"
         style="max-width:200px;"
       >
     </a>
   </div>
 </div>
 
+<br/>
 <br/>
 
 ---

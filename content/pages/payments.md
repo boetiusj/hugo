@@ -23,7 +23,7 @@ index: true
     <a href="https://venmo.com/?txn=pay&audience=private&recipients=@crestwood&note=Painting%20services/"
        target="_blank" rel="noopener">
       <img
-        src="/images/other/venmo.webp"
+        src="other/venmo.webp"
         alt="Venmo payments"
         class="img-fluid"
         style="max-width:200px;"

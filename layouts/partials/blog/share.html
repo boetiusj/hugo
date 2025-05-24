@@ -1,41 +1,36 @@
+{{/* layouts/partials/blog/share.html */}}
 <ul class="list-inline">
   <li class="list-inline-item">Share:</li>
-    <li class="list-inline-item">
-    <a
-      href="https://www.instagram.com/crestwoodpainting/"
-      role="img"
-      alt="instagram icon"
-      aria-label="instagram-icon"
-    >
-      {{ $imageInstagram := resources.Get "images/svg/insta-crp.svg" }}
-      <span class="svg-h-13 mr-2">
-        {{ $imageInstagram.Content | safeHTML }}
+
+  {{/* Instagram */}}
+  <li class="list-inline-item">
+    <a href="https://www.instagram.com/crestwoodpainting/"
+       aria-label="Share on Instagram">
+      {{ $svg := resources.Get "images/svg/insta-crp.svg" }}
+      <span class="svg-h-13 mr-2" aria-hidden="true">
+        {{ $svg.Content | safeHTML }}
       </span>
     </a>
   </li>
+
+  {{/* Facebook */}}
   <li class="list-inline-item">
-    <a
-      href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
-      role="img"
-      alt="facebook icon"
-      aria-label="facebook-icon"
-    >
-      {{ $imageFacebook := resources.Get "images/svg/fb-crp.svg" }}
-      <span class="svg-h-13 mr-2">
-        {{ $imageFacebook.Content | safeHTML }}
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
+       aria-label="Share on Facebook">
+      {{ $svg := resources.Get "images/svg/fb-crp.svg" }}
+      <span class="svg-h-13 mr-2" aria-hidden="true">
+        {{ $svg.Content | safeHTML }}
       </span>
     </a>
   </li>
+
+  {{/* X/Twitter */}}
   <li class="list-inline-item">
-    <a
-      href="https://x.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}"
-      role="img"
-      alt="X icon"
-      aria-label="x-icon"
-    >
-      {{ $imageTwitter := resources.Get "images/svg/xtwitter-crp.svg" }}
-      <span class="svg-h-13 mr-2">
-        {{ $imageTwitter.Content | safeHTML }}
+    <a href="https://x.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}"
+       aria-label="Share on X">
+      {{ $svg := resources.Get "images/svg/xtwitter-crp.svg" }}
+      <span class="svg-h-13 mr-2" aria-hidden="true">
+        {{ $svg.Content | safeHTML }}
       </span>
     </a>
   </li>

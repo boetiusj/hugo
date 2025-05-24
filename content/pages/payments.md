@@ -21,12 +21,11 @@ index: true
   <!-- Venmo column -->
   <div class="col-12 col-md-6 text-center">
     <a href="https://venmo.com/?txn=pay&audience=private&recipients=@crestwood&note=Painting%20services/"
-       target="_blank" rel="noopener">
+       class="btn-venmo target="_blank" rel="noopener">
       <img
-        src="other/venmo.webp"
+        src="/images/venmo.webp"
         alt="Venmo payments"
-        class="img-fluid"
-        style="max-width:200px;"
+        class="venmo-logo"
       >
     </a>
   </div>

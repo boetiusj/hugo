@@ -300,3 +300,37 @@ img {
   margin-block: 0.67em;
   font-size: 2em;
 }
+
+/* Venmo button */
+.btn-venmo {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;     /* small padding around the badge */
+  border: 2px solid #009EE0;   /* Venmo brand blue */
+  border-radius: 0.25rem;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.btn-venmo:hover {
+  background-color: #009EE0;   /* fill with blue on hover */
+  border-color: #007bb5;       /* slightly darker for contrast */
+}
+
+.btn-venmo:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0,158,224,0.4);
+}
+
+.venmo-logo {
+  width: 100px;    /* shrink the badge to 100px wide */
+  height: auto;
+  display: block;
+}
+
+/* ====================================
+   Override global reset for Venmo badge
+   ==================================== */
+a.btn-venmo img.venmo-logo {
+  width: 180px !important;       /* force 100px wide */
+  max-width: none !important;    /* cancel any max-width */
+  height: auto !important;       /* keep aspect ratio */
+}

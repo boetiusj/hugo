@@ -2,11 +2,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  /*  border: 2px solid #88888; */
   color: #b40909;
   background-color: transparent;
   padding: 0.4rem .7rem;
-  border-radius: 50px; 
   transition: background-color 0.3s, color 0.3s, border-color 0.3s;
 
   &:hover {
@@ -19,6 +17,7 @@
 .book-cal-btn .calendar-icon {
   fill: $primary-color; /* Use primary color for the calendar icon */
   margin-right: 0.5rem;
+  border-radius: .15em; 
 }
 
 .book-cal-text {

@@ -44,6 +44,16 @@
   }
 }
 
+/* ────────────── Footer Logos ────────────── */
+.footer-image {
+  display: block;           /* ensure no inline whitespace */
+  /* width: 100%;              /* fill its column slot */
+  /* max-width: 80px;           cap every logo at 80 px wide */
+  max-height: 80px;
+  /* height: auto;             /* preserve aspect ratio */
+  object-fit: contain;      /* center & crop if needed */
+  margin: 0 auto;           /* center horizontally */
+}
 
 // scroll-to-top
 .scroll-to-top {

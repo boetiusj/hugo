@@ -1,10 +1,8 @@
-{{ $config := site.Params }}
-{{ $menu := site.Menus }}
 {{/* layouts/partials/footer.html */}}
 <footer class="footer section">
+  <!-- Social proof logos section -->
   <div class="container">
     <div class="row justify-content-center">
-      {{/* Social proof logos: 4 across on mobile, 6 across on desktop */}}
       {{ $logos := slice
         "logo-bm.webp"
         "logo-pca.webp"
@@ -17,119 +15,120 @@
         "sp-blogger-local.webp"
       }}
       {{ range $logos }}
-      {{ $path := printf "images/social-proof/%s" . }}
-      {{ $res  := resources.Get $path }}
-      <div class="col-3 col-lg-2 mb-4 d-flex justify-content-center">
-        {{ if $res }}
-          <img
-            src="{{ $res.Permalink }}"
-            alt="{{ replace (replace . ".webp" "") ".png" "" | title }}"
-            class="footer-image"
-            loading="lazy"
-          />
-        {{ else }}
-          {{ warnf "Footer image not found: %s" $path }}
-        {{ end }}
-      </div>
+        {{ $path := printf "images/social-proof/%s" . }}
+        {{ $res  := resources.Get $path }}
+        <div class="col-3 col-lg-2 mb-4 d-flex justify-content-center">
+          {{ if $res }}
+            <img
+              src="{{ $res.Permalink }}"
+              alt="{{ replace (replace . ".webp" "") ".png" "" | title }}"
+              class="footer-image{{ if or (eq . "logo-bm.webp") (eq . "logo-pca.webp") (eq . "logo-sw-wh.webp") }} footer-image--wide{{ end }}"
+              loading="lazy"
+            />
+          {{ else }}
+            {{ warnf "Footer image not found: %s" $path }}
+          {{ end }}
+        </div>
       {{ end }}
     </div>
+  </div>
 
-    <hr>
-    <div class="row">
-     <div class="col-lg-3 col-md-6 col-sm-6">
-        <div class="widget mx-auto">
-          <h3 class="text-capitalize mb-4">Cities</h3>
-          <div class="row">
-            <div class="col-6">
-          <ul class="list-unstyled footer-menu"> <!-- removed  lh-35 -->
-            <li><a href="/painter-lees-summit">Lee's Summit</a></li>
-            <li><a href="/painter-prairie-village">Prairie Village</a></li>
-            <li><a href="/painter-leawood">Leawood</a></li>
-            <li><a href="/painter-overland-park">Overland Park</a></li>
-            <li><a href="/painter-liberty">Liberty</a></li>
-          </ul>
+  <!-- Main links section full-width background -->
+  <div class="footer-middle bg-light py-5">
+    <div class="container">
+      <div class="row justify-content-between">
+        <div class="col-lg-3 col-md-6 col-sm-6">
+          <div class="widget">
+            <h3 class="text-capitalize mb-4">Cities</h3>
+            <div class="row">
+              <div class="col-6">
+                <ul class="list-unstyled footer-menu">
+                  <li><a href="/painter-lees-summit">Lee's Summit</a></li>
+                  <li><a href="/painter-prairie-village">Prairie Village</a></li>
+                  <li><a href="/painter-leawood">Leawood</a></li>
+                  <li><a href="/painter-overland-park">Overland Park</a></li>
+                  <li><a href="/painter-liberty">Liberty</a></li>
+                </ul>
+              </div>
+              <div class="col-6">
+                <ul class="list-unstyled footer-menu">
+                  <li><a href="/painter-belton">Belton</a></li>
+                  <li><a href="/painter-mission-hills">Mission Hills</a></li>
+                  <li><a href="/painter-parkville">Parkville</a></li>
+                  <li><a href="/painter-westwood">Westwood</a></li>
+                  <li><a href="/painter-loch-lloyd">Loch Lloyd</a></li>
+                </ul>
+              </div>
             </div>
-            <div class="col-6">
-          <ul class="list-unstyled footer-menu">  
-            <li><a href="/painter-belton">Belton</a></li>
-            <li><a href="/painter-mission-hills">Mission Hills</a></li>
-            <li><a href="/painter-parkville">Parkville</a></li>
-            <li><a href="/painter-westwood">Westwood</a></li>
-            <li><a href="/painter-loch-lloyd">Loch Lloyd</a></li>
-          </ul>
-            </div>
-        </div>
-      </div>
-    </div>       
-
-     <div class="col-lg-3 col-md-6 col-sm-6 mx-auto">
-        <div class="widget">
-          <h3 class="text-capitalize mb-4">Book Us</h3>
-          <ul><li>Easy - not salesy</li>
-            <li>30 min. or less</li>
-            <li>Clear communication</li>
-            <li>Professional & friendly</li>
-          </ul>
-          <a href="/book-us" class="btn btn-main btn-round-full">Schedule an Estimate{{ $imageAngleRight := resources.Get "images/svg/angle-right-solid.svg" }}
-            <span class="btn-icon flex aling-items-center ml-2 svg-h-8 mr-2"> {{ $imageAngleRight.Content | safeHTML }} </span></a>
-        </div>
-      </div>
-
-     <div class="col-lg-3 col-md-6 col-sm-6">
-        <div class="widget">
-          <h3 class="text-capitalize mb-4">Links</h3>
-
-          <ul class="list-unstyled footer-menu"> <!-- removed  lh-35 -->
-            {{ range $menu.company }}
-            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-    </div>
-
-    <div class="footer-btm pt-4">
-      <div class="container">
-      <div class="row d-flex justify-content-between">
-        
-        
-        <div class="col-lg-3 col-sm-6 col-sm-6 text-left">
-        <div class="widget">
-          <h4>Contact Us</h4>
-          <p><a href="mailto:{{ $config.email }}">Email Crestwood</a>
-          <br>
-          <a href="tel:{{ $config.phone }}">Or Call {{ $config.phone }}</span></a>
-          <br>Waldo / Brookside / KCMO</p>
-        </div>
-        </div>
-        
-        <div class="col-lg-3 col-md-6 col-sm-6 text-left">
-          <ul class="list-inline footer-socials d-flex justify-content">
-            {{ range $config.socials }}
-            <li class="list-inline-item">
-              <a href="{{ .profile }}" aria-label="{{ .platform }}" alt='social icon'>
-                {{ $image := resources.Get (printf "images/svg/%s.svg" .icon) }}
-                <span class="svg-h-13 mr-2" aria-label="social-icon" role='img'> {{ $image.Content | safeHTML }} </span>
-              </a>
-            </li>
-            {{ end }}
-          </ul>
-        </div>
-<div class="col-lg-3 col-md-6 col-sm-6 text-left">
-          <div class="copyright">
-            {{ markdownify (replace $config.copyright "{year}" now.Year) }}
-            <br>No Drips, No Drama&#8482;
           </div>
         </div>
 
+        <div class="col-lg-3 col-md-6 col-sm-6">
+          <div class="widget">
+            <h3 class="text-capitalize mb-4">Book Us</h3>
+            <ul>
+              <li>Easy - not salesy</li>
+              <li>30 min. or less</li>
+              <li>Clear communication</li>
+              <li>Professional & friendly</li>
+            </ul>
+            <a href="/book-us" class="btn btn-main btn-round-full">
+              Schedule an Estimate
+              {{ $angle := resources.Get "images/svg/angle-right-solid.svg" }}
+              <span class="btn-icon ml-2 svg-h-8 mr-2">{{ $angle.Content | safeHTML }}</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 col-sm-6">
+          <div class="widget">
+            <h3 class="text-capitalize mb-4">Links</h3>
+            <ul class="list-unstyled footer-menu">
+              {{ range site.Menus.company }}
+                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom copyright & socials -->
+  <div class="footer-btm pt-4">
+    <div class="container">
+      <div class="row d-flex justify-content-between">
+        <div class="col-lg-3 col-sm-6 text-left">
+          <div class="widget">
+            <h4>Contact Us</h4>
+            <p>
+              <a href="mailto:{{ site.Params.email }}">Email Crestwood</a><br>
+              <a href="tel:{{ site.Params.phone }}">Or Call {{ site.Params.phone }}</a><br>
+              Waldo / Brookside / KCMO
+            </p>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 col-sm-6 text-left">
+          <ul class="list-inline footer-socials d-flex">
+            {{ range site.Params.socials }}
+              <li class="list-inline-item">
+                <a href="{{ .profile }}" aria-label="{{ .platform }}">
+                  {{ $icon := resources.Get (printf "images/svg/%s.svg" .icon) }}
+                  <span class="svg-h-13 mr-2" aria-hidden="true">{{ $icon.Content | safeHTML }}</span>
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+
+        <div class="col-lg-3 col-md-6 col-sm-6 text-left">
+          <div class="copyright">
+            {{ markdownify (replace site.Params.copyright "{year}" now.Year) }}<br>
+            No Drips, No Drama™
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </footer>
-
-<!--Scroll to top, see footer scss display
-<div id="scroll-to-top" class="scroll-to-top d-flex align-items-center justify-content-center">
-  {{ $imageAngleUp := resources.Get "images/svg/angle-up-solid.svg" }}
-  <span class="icon svg-h-10  d-flex align-items-center justify-content-center"> {{ $imageAngleUp.Content | safeHTML }} </span>
-</div>
--->

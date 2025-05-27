@@ -55,6 +55,13 @@
   object-fit: contain;      /* center & crop if needed */
   margin: 0 auto;           /* center horizontally */
 }
+/* ────────────────────────────────────────────────────────────
+   Footer logos: "wide" variant to allow up to 160px
+   ──────────────────────────────────────────────────────────── */
+.footer-image--wide {
+  max-width: 180px !important;  /* allow up to 180px instead of the default 80px */
+  width: auto !important;       /* let it size naturally up to that max */
+}
 
 // scroll-to-top
 .scroll-to-top {

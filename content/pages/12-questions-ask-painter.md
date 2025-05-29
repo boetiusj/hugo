@@ -5,7 +5,7 @@ description: "Solid questions to ask a painter - so you BOTH know what to expect
 keywords: "Painter questions"
 canonical: "/12-questions-ask-painter/"
 date: "2018-08-28"
-images: "/images/schema-ogimage.jpg"
+image: "/images/schema-ogimage.jpg"
 images: "/images/schema-ogimage.jpg"
 index: true
 ---

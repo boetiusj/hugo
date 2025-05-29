@@ -9,6 +9,11 @@
 <title>{{ with .Title }}{{ . }}{{ else }}Default Site Title{{ end }}</title>
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
+{{/* ---------- Canonical ---------- */}}
+{{- /* Prefer a front-matter “canonical:” or Hugo’s built-in .Canonical (aliases), else use the page’s own .Permalink */ -}}
+{{- $canon := .Params.canonical | default .Canonical | default .Permalink -}}
+<link rel="canonical" href="{{ $canon }}">
+
 {{/* ---------- Robots ---------- */}}
 {{- /* assume index=true unless someone explicitly opts out */ -}}
 {{- $shouldIndex := .Params.index | default true -}}

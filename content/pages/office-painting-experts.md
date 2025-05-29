@@ -3,7 +3,7 @@ title: "Office Painting Experts"
 url: "office-painting-experts"
 description: "Painting offices - easy, quiet and fast."
 keywords: "office painting commercial maintenance kansas city"
-canonical: "https://crestwoodpainting.com/office-painting-experts/"
+canonical: "/office-painting-experts/"
 date: "2017-01-16"
 images: "/images/schema-ogimage.jpg"
 index: true

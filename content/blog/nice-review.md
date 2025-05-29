@@ -3,7 +3,7 @@ title: "Nice Painting Review!"
 url: "nice-review"
 description: "Another nice review from a happy customer "
 keywords: "painter review, kansas city, crestwood painting"
-canonical: "https://crestwoodpainting.com/nice-review/"
+canonical: "/nice-review/"
 date: "2013-07-01"
 index: true
 images: "/images/schema-ogimage.jpg"

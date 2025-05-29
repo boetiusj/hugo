@@ -3,7 +3,7 @@ title: "Painter in Lee's Summit"
 url: "painter-lees-summit"
 description: "Crestwood Painting in Lee's Summit - interior specialists"
 keywords: "interior office painting kansas city crestwood"
-canonical: "https://crestwoodpainting.com/painter-lees-summit/"
+canonical: "/painter-lees-summit/"
 date: "2014-01-04"
 images: "/images/schema-ogimage.jpg"
 index: true

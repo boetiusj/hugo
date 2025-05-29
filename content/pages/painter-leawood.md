@@ -3,7 +3,7 @@ title: "Painter in Leawood"
 url: "painter-leawood"
 description: "Crestwood Painting in Leawood, KS - homes and offices!"
 keywords: "painter leawood ks"
-canonical: "https://crestwoodpainting.com/painter-leawood/"
+canonical: "/painter-leawood/"
 date: "2014-01-04"
 images: "/images/schema-ogimage.jpg"
 index: true

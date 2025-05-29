@@ -3,7 +3,7 @@ title: "RRP Thank You"
 url: "rrp-thank-you"
 description: "EPA's Renovate Right brochure was sent, received and acknowledged."
 keywords: "lead paint certification"
-canonical: "https://crestwoodpainting.com/rrp-thank-you/"
+canonical: "/rrp-thank-you/"
 date: "2015-06-07"
 index: false
 ---

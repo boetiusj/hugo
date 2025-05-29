@@ -3,7 +3,7 @@ title: "Painting Cedar Shake Shingles"
 url: "painting-shake-shingles"
 description: "Cedar shakes require special TLC - here's a good overview."
 keywords: "painting shake shingles kansas city crestwood"
-canonical: "https://crestwoodpainting.com/painting-shake-shingles/"
+canonical: "/painting-shake-shingles/"
 date: "2014-04-02"
 index: true
 images: "/images/schema-ogimage.jpg"

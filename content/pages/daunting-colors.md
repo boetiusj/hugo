@@ -3,7 +3,7 @@ title: "Daunting Colors"
 url: "daunting-colors"
 description: "Design professionals help make choosing paint colors a great experience. Either in-person or virtual, a free design consultation makes house colors easy."
 keywords: "paint colors, kansas city, Crestwood Painting, color professional"
-canonical: "https://crestwoodpainting.com/daunting-colors/"
+canonical: "/daunting-colors/"
 date: "2011-08-28"
 images: "/images/schema-ogimage.jpg"
 index: true

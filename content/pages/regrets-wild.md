@@ -3,7 +3,7 @@ title: "Regrets-wild"
 url: "regrets"
 description: "This Zip code is outside our service area."
 keywords: "-"
-canonical: "https://crestwoodpainting.com"
+canonical: ""
 date: "2019-02-13"
 index: false
 nofooter: true

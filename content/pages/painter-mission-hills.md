@@ -3,7 +3,7 @@ title: "Painter in Mission Hills"
 url: "painter-mission-hills"
 description: "Crestwood Painting in Mission Hills, KS - homes and offices!"
 keywords: "painter mission hills ks"
-canonical: "https://crestwoodpainting.com/painter-mission-hills/"
+canonical: "/painter-mission-hills/"
 date: "2025-03-21"
 images: "/images/schema-ogimage.jpg"
 index: true

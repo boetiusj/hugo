@@ -3,7 +3,7 @@ title: "Warranty"
 url: "warranty"
 description: "Warranty information - how Crestwood Painting customers are protected."
 keywords: "painting warranty kansas city"
-canonical: "https://crestwoodpainting.com/warranty/"
+canonical: "/warranty/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
 index: true

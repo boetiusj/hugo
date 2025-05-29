@@ -3,7 +3,7 @@ title: "New Year's Eve Review"
 url: "review-new-years-eve"
 description: "Kind words from a lady that didn't hire us."
 keywords: "house painting review"
-canonical: "https://crestwoodpainting.com/review-new-years-eve/"
+canonical: "/review-new-years-eve/"
 date: "2012-12-31"
 index: true
 images: "/images/schema-ogimage.jpg"

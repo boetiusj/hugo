@@ -3,7 +3,7 @@ title: "Best Bedroom Colors"
 url: "best-bedroom-colors"
 description: "Some of the factors in choosing paint colors for a bedroom."
 keywords: "paint bedroom color crestwood painting"
-canonical: "https://crestwoodpainting.com/best-bedroom-colors/"
+canonical: "/best-bedroom-colors/"
 date: "2013-04-30"
 index: true
 images: "/images/schema-ogimage.jpg"

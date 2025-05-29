@@ -3,7 +3,7 @@ title: "Proper Paint Storage - 3 Steps"
 url: "proper-paint-storage"
 description: "Tips on how to best make paint storage painless - when to keep paint, how to get rid of old paint and how to store paint so you can actually use it in the future."
 keywords: "paint storage tips"
-canonical: "https://crestwoodpainting.com/proper-paint-storage/"
+canonical: "/proper-paint-storage/"
 date: "2014-06-02"
 index: true
 images: "/images/schema-ogimage.jpg"

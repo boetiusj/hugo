@@ -3,7 +3,7 @@ title: "Painter in Loch Lloyd"
 url: "painter-loch-lloyd"
 description: "Crestwood Painting in Loch Lloyd - homes and offices!"
 keywords: "painter westwood ks"
-canonical: "https://crestwoodpainting.com/painter-loch-lloyd/"
+canonical: "/painter-loch-lloyd/"
 date: "2025-03-25"
 images: "/images/schema-ogimage.jpg"
 index: true

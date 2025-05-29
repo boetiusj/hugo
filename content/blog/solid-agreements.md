@@ -3,7 +3,7 @@ title: "Solid Agreements"
 url: "solid-agreements"
 description: "Get a clear painting agreement."
 keywords: "contract, agreement, clause, expectations, paint contractor"
-canonical: "https://crestwoodpainting.com/solid-agreements/"
+canonical: "/solid-agreements/"
 date: "2023-10-22" 
 index: true
 feature: "2"

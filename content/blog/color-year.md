@@ -3,7 +3,7 @@ title: "Color of the Year"
 url: "color-year"
 description: "Year after year, experts cannot agree on a color trend."
 keywords: "color house painting"
-canonical: "https://crestwoodpainting.com/color-year/"
+canonical: "/color-year/"
 date: "2014-01-17"
 index: true
 images: "/images/schema-ogimage.jpg"

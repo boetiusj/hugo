@@ -3,7 +3,7 @@ title: "Call Center - Regrets"
 url: "call-center-regrets"
 description: "-"
 keywords: "-"
-canonical: "https://crestwoodpainting.com"
+canonical: ""
 date: "2019-03-17"
 images: "/images/schema-ogimage.jpg"
 index: false

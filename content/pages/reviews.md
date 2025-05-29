@@ -3,7 +3,7 @@ title: "Crestwood Reviews"
 url: "reviews"
 description: "Melissa J. said: I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed."
 keywords: "customer reviews, testimonials, feedback, painter reviews"
-canonical: "https://crestwoodpainting.com/reviews/"
+canonical: "/reviews/"
 date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
 index: true

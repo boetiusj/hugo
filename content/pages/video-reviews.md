@@ -3,7 +3,7 @@ title: "Video Reviews"
 url: "video-reviews"
 description: "Customer video reviews given for Crestwood Painting."
 keywords: "review painting kansas city Crestwood Painting office interior"
-canonical: "https://crestwoodpainting.com/video-reviews/"
+canonical: "/video-reviews/"
 date: "2017-12-02"
 images: "/images/schema-ogimage.jpg"
 index: true

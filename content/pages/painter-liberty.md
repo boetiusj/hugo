@@ -3,7 +3,7 @@ title: "Painter in Liberty"
 url: "painter-liberty"
 description: "Crestwood Painting in Liberty - homes and offices!"
 keywords: "painter liberty"
-canonical: "https://crestwoodpainting.com/painter-liberty/"
+canonical: "/painter-liberty/"
 date: "2025-03-21"
 images: "/images/schema-ogimage.jpg"
 index: true

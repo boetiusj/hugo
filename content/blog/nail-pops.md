@@ -3,7 +3,7 @@ title: "Nail Pops: What To Know"
 url: "nail-pops"
 description: "Nail pops happen - learn how and why, and what to do."
 keywords: "drywall nail pops repair painting crestwood"
-canonical: "https://crestwoodpainting.com/nail-pops/"
+canonical: "/nail-pops/"
 date: "2014-06-20"
 index: true
 images: "/images/schema-ogimage.jpg"

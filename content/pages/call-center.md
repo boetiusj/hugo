@@ -3,7 +3,7 @@ title: "Call Center"
 url: "call-center"
 description: "Answering service for Crestwood Painting in Kansas City"
 keywords: "-"
-canonical: "https://crestwoodpainting.com/call-center/"
+canonical: "/call-center/"
 date: "2019-03-07"
 index: false
 nofooter: true

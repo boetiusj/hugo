@@ -3,7 +3,7 @@ title: "Plaster and Drywall Repair"
 url: "plaster-drywall-repair"
 description: "Plaster and drywall - tidy repairs done with No Drips, No Drama. Book an Estimate today."
 keywords: "plaster repair, drywall repair, Kansas City, Crestwood Painting"
-canonical: "https://crestwoodpainting.com/plaster-drywall-repair/"
+canonical: "/plaster-drywall-repair/"
 date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
 index: true

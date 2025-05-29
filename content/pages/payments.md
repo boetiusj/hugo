@@ -3,7 +3,7 @@ title: "Payments"
 url: "payments"
 description: "Online payments through Paypal and Venmo - secure, no PayPal account required. It's fast and easy."
 keywords: "payment, credit card, online payments, Crestwood Painting"
-canonical: "https://crestwoodpainting.com/payments/"
+canonical: "/payments/"
 date: "2011-05-05"
 images: "/images/schema-ogimage.jpg"
 index: true

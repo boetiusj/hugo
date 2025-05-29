@@ -3,7 +3,7 @@ title: "Choose the Right Paint Sheen"
 url: "choose-paint-sheen"
 description: "Some of the factors involved in choosing paint sheens."
 keywords: "Paint sheen color crestwood painting"
-canonical: "https://crestwoodpainting.com/choose-paint-sheen/"
+canonical: "/choose-paint-sheen/"
 date: "2013-01-28"
 index: true
 images: "/images/schema-ogimage.jpg"

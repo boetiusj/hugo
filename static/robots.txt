@@ -1,7 +1,6 @@
 # Robots.txt file for managing crawler access
 User-agent: *
 Allow: /
-Disallow: *s=*
 Disallow: /*.pdf$
 
 # AI chatbots

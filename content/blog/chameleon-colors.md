@@ -10,9 +10,10 @@ image: "/images/interior/wild-lips.jpg"
 images: "/images/schema-ogimage.jpg"
 categories:
   - "interior"
-  - "colors"
-# /home/mike/hugo/static/images/schema-ogimage.jpg
+  - "color-tips"
+
 ---
+
 {{< figure-blog src="/images/interior/wild-kisses-cr.jpg" alt="weird walls" >}}
 
 Paint colors often behave like chameleons, shifting their appearance as the light changes throughout the day.

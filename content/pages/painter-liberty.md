@@ -1,7 +1,7 @@
 ---
 title: "Painter in Liberty"
 url: "painter-liberty"
-description: "Crestwood Painting in Liberty - homes and offices!"
+description: "Painting in Liberty, MO - homes and offices"
 keywords: "painter liberty"
 canonical: "/painter-liberty/"
 date: "2025-03-21"
@@ -10,6 +10,7 @@ index: true
 ---
 {{< figure1st
   src="/images/city/liberty.jpg"
+  alt="liberty missouri image"
 >}}
 
 ## Professional Painting in Liberty

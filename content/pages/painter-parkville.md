@@ -2,7 +2,7 @@
 title: "Painter in Parkville"
 url: "painter-parkville"
 description: "Crestwood Painting in Parkville, MO - the Project Map will show you where!"
-keywords: "-"
+keywords: "house painter"
 canonical: "/painter-parkville/"
 date: "2014-01-03"
 images: "/images/schema-ogimage.jpg"

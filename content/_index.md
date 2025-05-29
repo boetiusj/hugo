@@ -1,5 +1,5 @@
 ---
-title: "No Drips, No Drama | Book free estimates online or 816-805-4515"
+title: "No Drips, No Drama | Book estimates online or 816-805-4515"
 description: "Prompt and tidy pros with organized jobsites and timely finishes. Book us for a No Drips, No Drama experience"
 keywords: "Crestwood Painting, painter near me, Painting Contractors, house painting, Kansas City Painting Contractor, Office Painting, Home Painters, Painting Company, Mission Hills, Lee's Summit, Prairie Village, Leawood, House Painter, Exterior House Painting, Plaster repair, Interior Painting"
 canonical: "https://crestwoodpainting.com"

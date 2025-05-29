@@ -10,7 +10,9 @@
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
 {{/* ---------- Robots ---------- */}}
-{{- if not .Params.Index -}}
+{{- /* assume index=true unless someone explicitly opts out */ -}}
+{{- $shouldIndex := .Params.index | default true -}}
+{{- if not $shouldIndex -}}
   <meta name="robots" content="noindex">
 {{- end -}}
 {{/* ---------- OpenGraph ---------- */}}

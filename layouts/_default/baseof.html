@@ -6,10 +6,32 @@
   </head>
 <body>
   {{ partial "gtm_body.html" . }}
-  <!-- BREADCRUMBS OVERRIDE baseof IS ACTIVE -->
   {{ partial "nav/index" . }}
+  
   {{ block "main" . }}{{ end }}
   {{ partial "scripts/index" . }}
+<script>
+document.addEventListener('DOMContentLoaded', function(){
+  // Grab all toggles under the mobile collapse container
+  var toggles = document.querySelectorAll('#navbarToggle .dropdown-toggle');
+  toggles.forEach(function(toggle){
+    toggle.addEventListener('click', function(e){
+      // The <li class="dropdown"> for this toggle
+      var me = e.target.closest('.dropdown');
+      // Find any other open dropdowns
+      document.querySelectorAll('#navbarToggle .dropdown.show')
+        .forEach(function(open){
+          if (open !== me) {
+            open.classList.remove('show');
+            var menu = open.querySelector('.dropdown-menu');
+            if (menu) menu.classList.remove('show');
+          }
+        });
+      // Let Bootstrap then toggle 'me' normally
+    });
+  });
+});
+</script>
   {{ if not .Params.nofooter }}
     {{ partial "footer" . }}
   {{ end }}  

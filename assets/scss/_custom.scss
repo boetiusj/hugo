@@ -73,6 +73,22 @@
   font-size: 1.0em;
 }
 
+@media (min-width: 992px) {
+  /* On desktop, show dropdowns on hover */
+  .navbar-nav .dropdown:hover > .dropdown-menu {
+    display: block !important;
+    visibility: visible;
+    opacity: 1;
+  }
+}
+
+/* On desktop (≥992px), restore normal dropdown positioning */
+@media (min-width: 992px) {
+  #navbarToggle .dropdown.position-static {
+    position: relative !important;
+  }
+}
+
 .video {
   overflow: hidden;
   padding-bottom: 56.25%;

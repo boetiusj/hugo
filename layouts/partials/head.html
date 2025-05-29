@@ -10,10 +10,11 @@
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
 {{/* ---------- Canonical ---------- */}}
-{{- /* Prefer front-matter “canonical:”, else use the page’s own permalink */ -}}
-{{- $canon := .Params.canonical | default .Permalink -}}
-<link rel="canonical" href="{{ $canon }}">
-
+{{- $raw := .Params.canonical | default .Permalink -}}
+<link
+  rel="canonical"
+  href="{{ $raw | absURL }}"
+>
 
 {{/* ---------- Robots ---------- */}}
 {{- /* assume index=true unless someone explicitly opts out */ -}}

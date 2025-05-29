@@ -23,7 +23,7 @@
         alt="{{ $.Title }}"
         class="img-fluid mb-3"
         loading="lazy"
-        
+
         width="{{ $thumb.Width }}"
         height="{{ $thumb.Height }}"
         style="width:auto; max-width:100%; height:auto;"
@@ -39,7 +39,10 @@
 
     <!-- 4) Button -->
     <div class="mt-auto">
-      <a href="{{ .Permalink }}" class="btn btn-small btn-main btn-round-full" aria-label="Learn more about {{ .Title }}">
+      <a href="{{ .Permalink }}" 
+        class="btn btn-small btn-main btn-round-full" 
+        aria-label="Learn more about {{ .Title }}"
+        >
         Learn More
       </a>
     </div>

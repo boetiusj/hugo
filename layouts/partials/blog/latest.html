@@ -16,6 +16,7 @@
         >
         {{ partial "template-image.html" (dict
             "Destination" $img
+            "alt"         (printf "Thumbnail for %s" .Title)
             "class"       "mr-4"
             "eager"       false
             "thumb"       true) }}

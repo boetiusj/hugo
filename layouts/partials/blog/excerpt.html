@@ -23,7 +23,6 @@
         alt="{{ $.Title }}"
         class="img-fluid mb-3"
         loading="lazy"
-
         width="{{ $thumb.Width }}"
         height="{{ $thumb.Height }}"
         style="width:auto; max-width:100%; height:auto;"
@@ -44,6 +43,7 @@
         aria-label="Learn more about {{ .Title }}"
         >
         Learn More
+        <span class="sr-only"> about {{ .Title }}</span>
       </a>
     </div>
 

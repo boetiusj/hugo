@@ -2,8 +2,10 @@
 
 {{/* ---------- Mobile Specific Metas ---------- */}}
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#465695">
+<meta name="theme-color" content="#232B4A">
+{{/* ---------- PWA Meta Tags ---------- */}}
 <meta name="mobile-web-app-capable" content="yes">
+
 
 {{/* ---------- Title and Description ---------- */}}
 <title>{{ with .Title }}{{ . }}{{ else }}Default Site Title{{ end }}</title>
@@ -36,9 +38,24 @@
 {{ $styles := slice $bootstrap $custom | resources.Concat "styles.min.css" | fingerprint }}
 <link rel="stylesheet" href="{{ $styles.Permalink }}">
 
-{{/* ---------- Favicon ---------- */}}
-{{- $iconsPath := "favicons/" }}
-<link rel="icon" type="image/png" href="{{ absURL (printf "%sfavicon-32x32.png" $iconsPath) }}">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ absURL (printf "%sapple-touch-icon.png" $iconsPath) }}">
-<link rel="manifest" href="{{ absURL (printf "%ssite.webmanifest" $iconsPath) }}">
+{{/* ---------- Favicon & PWA Icons ---------- */}}
+{{- $iconsPath := "favicons/" -}}
 
+<link rel="icon" type="image/png" sizes="32x32"
+      href="{{ absURL (printf "%sfavicon-32x32.png" $iconsPath) }}">
+<link rel="icon" type="image/png" sizes="16x16"
+      href="{{ absURL (printf "%sfavicon-16x16.png" $iconsPath) }}">
+<link rel="apple-touch-icon" sizes="180x180"
+      href="{{ absURL (printf "%sapple-touch-icon.png" $iconsPath) }}">
+<link rel="manifest"
+      href="{{ absURL (printf "%ssite.webmanifest" $iconsPath) }}">
+
+<!-- Safari pinned tab -->
+<link rel="mask-icon"
+      href="{{ absURL (printf "%ssafari-pinned.svg" $iconsPath) }}"
+      color="#465695">
+
+<!-- Windows tile -->
+<meta name="msapplication-TileColor" content="#465695">
+<meta name="msapplication-TileImage"
+      content="{{ absURL (printf "%smstile-144x144.png" $iconsPath) }}">

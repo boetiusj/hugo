@@ -1,46 +1,44 @@
 <meta charset="utf-8">
 
-{{/* ---------- Mobile Specific Metas ---------- */}}
+<!-- Mobile Specific Metas -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#232B4A">
-{{/* ---------- PWA Meta Tags ---------- */}}
+<!-- PWA Meta Tags -->
 <meta name="mobile-web-app-capable" content="yes">
 
-
-{{/* ---------- Title and Description ---------- */}}
+<!-- Title and Description -->
 <title>{{ with .Title }}{{ . }}{{ else }}Default Site Title{{ end }}</title>
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
-{{/* ---------- Canonical ---------- */}}
+<!-- Canonical -->
 {{- $raw := .Params.canonical | default .Permalink -}}
 <link
   rel="canonical"
-  href="{{ $raw | absURL }}"
->
+  href="{{ $raw | absURL }}">
 
-{{/* ---------- Robots ---------- */}}
+<!-- Robots -->
 {{- /* assume index=true unless someone explicitly opts out */ -}}
 {{- $shouldIndex := .Params.index | default true -}}
 {{- if not $shouldIndex -}}
   <meta name="robots" content="noindex">
 {{- end -}}
-{{/* ---------- OpenGraph ---------- */}}
+
+<!-- Opengraph -->
 {{ partial "opengraph.html" . }}
 
-{{/* ---------- Fonts ---------- */}}
+<!-- Fonts (currently using System Fonts) -->
 <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" href="/fonts/5aU19_a8oxmIfMJaERKSjQpf.woff2" as="font" type="font/woff2" crossorigin="anonymous"> -->
 
-{{/* ---------- Stylesheets ---------- */}}
+<!-- Stylesheets -->
 {{ $bootstrap := resources.Get "bootstrap/bootstrap.min.css" }}
 {{ $custom := resources.Get "scss/main.scss" | css.Sass | resources.Minify }}
 {{ $styles := slice $bootstrap $custom | resources.Concat "styles.min.css" | fingerprint }}
 <link rel="stylesheet" href="{{ $styles.Permalink }}">
 
-{{/* ---------- Favicon & PWA Icons ---------- */}}
+<!-- Favicon & PWA Icons -->
 {{- $iconsPath := "favicons/" -}}
-
 <link rel="icon" type="image/png" sizes="32x32"
       href="{{ absURL (printf "%sfavicon-32x32.png" $iconsPath) }}">
 <link rel="icon" type="image/png" sizes="16x16"
@@ -53,9 +51,9 @@
 <!-- Safari pinned tab -->
 <link rel="mask-icon"
       href="{{ absURL (printf "%ssafari-pinned.svg" $iconsPath) }}"
-      color="#465695">
+      color="#232B4A">
 
 <!-- Windows tile -->
-<meta name="msapplication-TileColor" content="#465695">
+<meta name="msapplication-TileColor" content="#232B4A">
 <meta name="msapplication-TileImage"
       content="{{ absURL (printf "%smstile-144x144.png" $iconsPath) }}">

@@ -14,7 +14,6 @@ User-agent: Applebot-Extended
 User-agent: Diffbot
 User-agent: CCBot
 User-agent: LinkedInBot
-User-agent: Bytespider
 Disallow: /
 
 # Scrapers

@@ -11,15 +11,24 @@
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
 <!-- Canonical -->
-{{- /* 1) If this is a paginated list (page number > 1), point to page 1 */ -}}
-{{- if and (isset . "Paginator") (gt .Paginator.PageNumber 1) -}}
-  <link rel="canonical" href="{{ (.Paginator.First.URL | absURL) }}">
-  
-{{- /* 2) Else if this is any taxonomy page (e.g., /categories/…) */ -}}
-{{- else if or (eq .Kind "taxonomy") (eq .Kind "taxonomyTerm") -}}
-  <link rel="canonical" href="{{ .Permalink | absURL }}">
-  
-{{- /* 3) Everything else: respect custom or fallback canonical */ -}}
+{{- /* 1) List/taxonomy pages (which support .Paginator) */ -}}
+{{- if or (eq .Kind "home")
+     (eq .Kind "section")
+     (eq .Kind "taxonomy")
+     (eq .Kind "taxonomyTerm") -}}
+
+  {{- with .Paginator -}}
+    {{- if gt .PageNumber 1 -}}
+      <link rel="canonical" href="{{ .First.URL | absURL }}">
+    {{- else -}}
+      <link rel="canonical" href="{{ $.Permalink | absURL }}">
+    {{- end }}
+  {{- else -}}
+    {{- /* In case a taxonomyTerm has no paginator, fall back */ -}}
+    <link rel="canonical" href="{{ .Permalink | absURL }}">
+  {{- end }}
+
+{{- /* 2) Everything else (single pages, etc.) */ -}}
 {{- else -}}
   {{- $raw := .Params.canonical | default .Permalink -}}
   <link rel="canonical" href="{{ $raw | absURL }}">

@@ -17,7 +17,9 @@ $config.logo }} {{- end }}
   {{- $image = absURL "/images/schema-ogimage.jpg" }}
 {{- end }}
 
-<link rel="canonical" href="{{ default $permalink (absURL .Params.canonical) }}" />
+{{/* Inside layouts/partials/opengraph.html */}}
+{{/* - <link rel="canonical" href="{{ default $permalink (absURL .Params.canonical) }}" /> */}}
+{{/* Removed because head.html already handles canonical logic */}}
 
 {{ $title := .Title }}
 {{ $desc  := .Description | default .Summary | default site.Params.description }}

@@ -15,7 +15,7 @@ googleAnalytics = "G-Y229K0TNJR"
         enableDefault = true       
 
 [taxonomies]
-categories = ["exterior", "interior", "color-tips", "good-to-know", "nitty-gritty", "feel-good", "hiring-painters", "painting-tips"]
+categories = ["exterior", "interior", "color-tips", "good-to-know", "nitty-gritty", "good-news", "hiring-painters", "painting-tips"]
 # tag = "tags"
 # tags = ["Products", "Tips", "Color", "Best Practices"]
 

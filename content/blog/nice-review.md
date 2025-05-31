@@ -9,7 +9,7 @@ index: true
 images: "/images/schema-ogimage.jpg"
 image: "/images/reviews/r23-4-karenp.png"
 categories:
-  - "feel-good"
+  - "good-news"
 
 ---
 > Everyone I encountered was very friendly and easy to work with. I admit that I was a particularly difficult customer, for a variety of reasons, but Crestwood took all the flak I and my realtor could throw at them in stride.

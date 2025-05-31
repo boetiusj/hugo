@@ -11,11 +11,10 @@
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
 <!-- Canonical -->
-{{- if eq .Kind "taxonomyTerm" -}}
-  {{/* For category/tag landing pages, always use .Permalink */}}
+{{- if or (eq .Kind "taxonomy") (eq .Kind "taxonomyTerm") -}}
+  {{/* For any category/tag landing page, force the permalink (with trailing slash) */}}
   <link rel="canonical" href="{{ .Permalink | absURL }}">
 {{- else -}}
-  {{/* Everything else still respects a custom params.canonical or falls back to .Permalink */}}
   {{- $raw := .Params.canonical | default .Permalink -}}
   <link rel="canonical" href="{{ $raw | absURL }}">
 {{- end }}

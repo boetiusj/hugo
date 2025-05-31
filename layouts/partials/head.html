@@ -11,9 +11,15 @@
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
 <!-- Canonical -->
-{{- if or (eq .Kind "taxonomy") (eq .Kind "taxonomyTerm") -}}
-  {{/* For any category/tag landing page, force the permalink (with trailing slash) */}}
+{{- /* 1) If this is a paginated list (page number > 1), point to page 1 */ -}}
+{{- if and (isset . "Paginator") (gt .Paginator.PageNumber 1) -}}
+  <link rel="canonical" href="{{ (.Paginator.First.URL | absURL) }}">
+  
+{{- /* 2) Else if this is any taxonomy page (e.g., /categories/…) */ -}}
+{{- else if or (eq .Kind "taxonomy") (eq .Kind "taxonomyTerm") -}}
   <link rel="canonical" href="{{ .Permalink | absURL }}">
+  
+{{- /* 3) Everything else: respect custom or fallback canonical */ -}}
 {{- else -}}
   {{- $raw := .Params.canonical | default .Permalink -}}
   <link rel="canonical" href="{{ $raw | absURL }}">

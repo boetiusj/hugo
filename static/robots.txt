@@ -3,26 +3,4 @@ User-agent: *
 Allow: /
 Disallow: /*.pdf$
 
-# AI chatbots
-User-agent: Claude-Web
-User-agent: ClaudeBot
-User-agent: anthropic-ai
-User-agent: cohere-ai
-User-agent: Bytespider
-User-agent: PerplexityBot
-User-agent: Applebot-Extended
-User-agent: Diffbot
-User-agent: CCBot
-User-agent: LinkedInBot
-Disallow: /
-
-# Scrapers
-User-agent: Scrapy
-User-agent: magpie-crawler
-User-agent: CCBot
-User-agent: omgili
-User-agent: omgilibot
-User-agent: Node/simplecrawler
-Disallow: /
-
 Sitemap: https://www.crestwoodpainting.com/sitemap.xml

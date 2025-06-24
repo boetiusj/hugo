@@ -7,6 +7,17 @@ canonical: "/painter-overland-park/"
 date: "2014-01-04"
 images: "/images/schema-ogimage.jpg"
 index: true
+service:
+  serviceType: "House Painting"
+  areaServed: "Overland Park, KS"
+  price: "Quoted"
+  hasOfferCatalog:
+    - name: "Interior Painting"
+      url: "https://crestwoodpainting.com/interior-painter-kansas-city/"
+    - name: "Exterior Painting"
+      url: "https://crestwoodpainting.com/exterior-painter-kansas-city/"
+    - name: "Cabinet Painting"
+      url: "https://crestwoodpainting.com/cabinet-painter-kansas-city/"
 ---
 {{< figure1st
   src="/images/city/opks.jpg"

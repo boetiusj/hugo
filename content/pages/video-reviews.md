@@ -7,6 +7,7 @@ canonical: "/video-reviews/"
 date: "2017-12-02"
 images: "/images/schema-ogimage.jpg"
 index: true
+schema_type: "WebPage"
 ---
 ## Videos - Customer Reviews
 

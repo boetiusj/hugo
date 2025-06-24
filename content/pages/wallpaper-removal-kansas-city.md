@@ -7,6 +7,10 @@ canonical: "/wallpaper-removal-kansas-city/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
 index: true
+service:
+  serviceType: "Wallpaper Revoval"
+  areaServed: "Kansas City Metro"
+  price: "Quoted"
 ---
 {{< figure1st
   src="/images/interior/wallpaper-layers.jpg"

@@ -7,7 +7,17 @@ canonical: "/painter-loch-lloyd/"
 date: "2025-03-25"
 images: "/images/schema-ogimage.jpg"
 index: true
-
+service:
+  serviceType: "House Painting"
+  areaServed: "Loch Lloyd, MO"
+  price: "Quoted"
+  hasOfferCatalog:
+    - name: "Interior Painting"
+      url: "https://crestwoodpainting.com/interior-painter-kansas-city/"
+    - name: "Exterior Painting"
+      url: "https://crestwoodpainting.com/exterior-painter-kansas-city/"
+    - name: "Cabinet Painting"
+      url: "https://crestwoodpainting.com/cabinet-painter-kansas-city/"
 ---
 {{< figure1st
   src="/images/city/lochl.jpeg"

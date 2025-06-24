@@ -7,6 +7,7 @@ canonical: "/warranty/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
 index: true
+schema_type: "WebPage"
 ---
 ## Warranty Information
 

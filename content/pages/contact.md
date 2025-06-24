@@ -7,6 +7,7 @@ canonical: "/contact/"
 date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
 index: true
+schema_type: "ContactPage"
 ---
 
 Crestwood Painting is Prompt & Tidy - so is our communication.

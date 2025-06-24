@@ -7,6 +7,7 @@ canonical: "/who/"
 date: "2011-09-27"
 images: "/images/schema-ogimage.jpg"
 index: true
+schema_type: "WebPage"
 ---
 {{< figure1st
   src="/images/crestwood-neighborhood.jpg"

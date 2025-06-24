@@ -7,6 +7,7 @@ canonical: "/estimate-thanks/"
 date: "2012-08-27"
 images: "/images/schema-ogimage.jpg"
 index: false
+schema_type: "CheckoutPage"
 ---
 
 ![painting estimate request](/images/Thank-You-2-e1514038961814.jpg)

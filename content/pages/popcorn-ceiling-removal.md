@@ -7,6 +7,7 @@ canonical: "/popcorn-ceiling-removal/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
 index: true
+schema_type: "WebPage"
 ---
 {{< figure1st
   src="/images/popcorn-ceiling-300x200.jpg"

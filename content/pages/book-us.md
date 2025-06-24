@@ -7,6 +7,7 @@ canonical: "/book-us/"
 date: "2014-07-26"
 images: "/images/schema-ogimage.jpg"
 index: true
+schema_type: "ContactPage"
 nofooter: true
 ---
 

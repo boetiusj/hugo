@@ -7,6 +7,7 @@ canonical: "/office-painting-case-study/"
 date: "2017-06-02"
 images: "/images/schema-ogimage.jpg"
 index: true
+schema_type: "Article"
 ---
 {{< figure1st
   src="/images/Office-2-e1514756940438.jpg"

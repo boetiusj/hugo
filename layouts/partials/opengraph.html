@@ -135,14 +135,13 @@
     }
   }
   </script>
-
-  {{/* ─────────────────────────────────────────────────────────────── */}}
-{{/* Classify Service pages per page frontmatter as schema article */}}
-{{ partial "service-ld.html" . }}
-{{/* ─────────────────────────────────────────────────────────────── */}}
-
-  {{ partial "service-ld.html" . }}
 {{ end }}
+
+{{/* Emit Service JSON-LD on pages that define .Params.service */}}
+  {{ partial "service-ld.html" . }}
+
+{{/* NEW: optional page-level schema driven by front-matter */}}
+{{ partial "page-ld.html" . }}  
 
 {{/* ─────────────────────────────────────────────────────────────── */}}
 {{/* Insert one universal breadcrumb JSON-LD on every page */}}

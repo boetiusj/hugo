@@ -7,6 +7,7 @@ canonical: "/color-help/"
 date: "2011-05-05"
 images: "/images/schema-ogimage.jpg"
 index: true
+schema_type: "Article"
 ---
 {{< figure1st
   src="/images/exterior/ranch-white.jpg"

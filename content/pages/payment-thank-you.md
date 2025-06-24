@@ -7,6 +7,7 @@ canonical: "/payment-thank-you/(opens%20in%20a%20new%20tab)"
 date: "2018-11-12"
 images: "/images/schema-ogimage.jpg"
 index: false
+schema_type: "CheckoutPage"
 ---
 We (all) really do appreciate your business!![Online payments crestwood painting kansas city](/images/Thank-You-2-e1514038961814.jpg)
 

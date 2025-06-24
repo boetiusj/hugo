@@ -1,8 +1,8 @@
-{{/* Service JSON-LD – called only when page has .Params.service */}}
+{{/* Emit Service JSON-LD when a page has .Params.service */}}
 {{- with .Params.service }}
   {{- $img := "" }}
   {{- with $.Params.image }}
-    {{- $img = cond (in . "http") . (absURL (printf "images/%s" .)) }}
+    {{- $img = cond (in . "http") . (absURL .) }}
   {{- end }}
   <script type="application/ld+json">
   {
@@ -15,7 +15,7 @@
     "areaServed": "{{ .areaServed | default "Kansas City Metro" }}",
     "offers": {
       "@type": "Offer",
-      "price": "{{ .price | default "0" }}",
+      "price": "{{ .price | default "Quoted" }}",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock",
       "url": "{{ $.Permalink }}"

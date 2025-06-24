@@ -7,6 +7,10 @@ canonical: "/commercial-painting-exterior/"
 date: "2017-07-08"
 images: "/images/schema-ogimage.jpg"
 index: true
+service:
+  serviceType: "Commercial Painting"
+  areaServed: "Kansas City Metro"
+  price: "Quoted"
 ---
 {{< figure1st
   src="/images/MN-front-e1485211429554.jpg"

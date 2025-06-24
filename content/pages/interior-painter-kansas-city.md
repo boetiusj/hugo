@@ -7,6 +7,10 @@ canonical: "/interior-painter-kansas-city/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
 index: true
+service:
+  serviceType: "Interior House Painting"
+  areaServed: "Kansas City Metro"
+  price: "Quoted"
 faqs: 
   - question: "How Much Does Interior Painting Cost?"
     id: "costx"

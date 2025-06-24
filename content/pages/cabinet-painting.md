@@ -7,6 +7,10 @@ canonical: "/cabinet-painting/"
 date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
 index: true
+service:
+  serviceType: "Cabinet Painting"
+  areaServed: "Kansas City Metro"
+  price: "Quoted"
 ---
 {{< figure1st src="/images/cabinets/c-glass-splash.jpg" >}}
 

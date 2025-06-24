@@ -7,6 +7,10 @@ canonical: "/exterior-painting-kansas-city/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
 index: true
+service:
+  serviceType: "Exterior House Painting"
+  areaServed: "Kansas City Metro"
+  price: "Quoted"
 faqs: 
   - question: "What is Included in Exterior House Painting?"
     id: "ex-incl"

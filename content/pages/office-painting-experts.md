@@ -7,7 +7,10 @@ canonical: "/office-painting-experts/"
 date: "2017-01-16"
 images: "/images/schema-ogimage.jpg"
 index: true
-
+service:
+  serviceType: "Office Painting"
+  areaServed: "Kansas City Metro"
+  price: "Quoted"
 ---
 {{< figure1st
   src="/images/office/blue-mfg.jpg"

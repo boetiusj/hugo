@@ -135,6 +135,13 @@
     }
   }
   </script>
+
+  {{/* ─────────────────────────────────────────────────────────────── */}}
+{{/* Classify Service pages per page frontmatter as schema article */}}
+{{ partial "service-ld.html" . }}
+{{/* ─────────────────────────────────────────────────────────────── */}}
+  {{ else if eq .Section "services" }}
+  {{ partial "service-ld.html" . }}
 {{ end }}
 
 {{/* ─────────────────────────────────────────────────────────────── */}}

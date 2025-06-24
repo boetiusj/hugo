@@ -1,0 +1,26 @@
+{{/* Service JSON-LD – called only when page has .Params.service */}}
+{{- with .Params.service }}
+  {{- $img := "" }}
+  {{- with $.Params.image }}
+    {{- $img = cond (in . "http") . (absURL (printf "images/%s" .)) }}
+  {{- end }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "{{ $.Title }}",
+    "serviceType": "{{ .serviceType }}",
+    "description": "{{ $.Description | default $.Summary }}",
+    "provider": { "@id": "https://crestwoodpainting.com/#site" },
+    "areaServed": "{{ .areaServed | default "Kansas City Metro" }}",
+    "offers": {
+      "@type": "Offer",
+      "price": "{{ .price | default "0" }}",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "url": "{{ $.Permalink }}"
+    }{{ if $img }},
+    "image": "{{ $img }}"{{ end }}
+  }
+  </script>
+{{- end }}

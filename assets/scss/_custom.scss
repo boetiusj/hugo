@@ -403,9 +403,9 @@ a.btn-venmo img.venmo-logo {
 .gr-link{
   flex-basis:100%;       /* forces new line under score+stars */
   margin:.15rem 0 0 0;
-  font-weight:700;
-  color:#C62828;
-  text-decoration:underline;
+  font-weight:400;
+  /* color:#C62828; */
+  text-decoration:none;
 }
 .gr-link:hover{ color:#B71C1C; }
 
@@ -421,7 +421,7 @@ a.btn-venmo img.venmo-logo {
     justify-content:center;   /* center the contents */
     flex-wrap:nowrap;         /* keep score + stars + link on one line */
     gap:.3rem;
-    margin-bottom:.25rem;     /* a little space before the logo */
+    margin-bottom:.75rem;     /* a little space before the logo */
   }
   .gr-score{ font-size:1.05rem; }
   .gr-stars{ gap:.1rem; }

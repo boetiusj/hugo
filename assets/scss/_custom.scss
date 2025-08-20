@@ -367,3 +367,11 @@ a.btn-venmo img.venmo-logo {
   white-space: nowrap;
   border: 0;
 }
+
+/* ====================================
+   Reviews badge
+   ==================================== */
+.google-reviews-badge { font-size: 0.95rem; line-height: 1; }
+.google-reviews-badge .gr-star { /* Google-ish amber */ color: #F4B400; }
+.google-reviews-badge .gr-count { opacity: .85; font-size: .9em; }
+@media (max-width: 991.98px){ .google-reviews-badge { margin-bottom: .25rem; } }

@@ -1,0 +1,16 @@
+{{/* Minimal, fast, SAB-safe badge. No review text. */}}
+{{ $gr := site.Data.googleReviews }}
+<div class="google-reviews-badge d-flex align-items-center mr-3">
+  {{ with $gr }}
+    <a class="gr-link d-inline-flex align-items-center"
+       href="https://www.google.com/maps/search/?api=1&query=place_id:{{ .place_id }}"
+       target="_blank" rel="noopener"
+       aria-label="See our Google reviews">
+      <span class="gr-score font-weight-bold">{{ printf "%.1f" .rating }}</span>
+      <span class="gr-star ml-1" aria-hidden="true">★</span>
+      <span class="gr-count ml-1">({{ .reviews }})</span>
+    </a>
+  {{ else }}
+    <span class="gr-fallback">★★★★★ (150+)</span>
+  {{ end }}
+</div>

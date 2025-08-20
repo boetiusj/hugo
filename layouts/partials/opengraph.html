@@ -53,54 +53,86 @@
 {{ if .IsHome }}
   <script type="application/ld+json">
   {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Crestwood Painting",
-    "description": "Painting homes and offices in Kansas City - inside and out",
-    "image": "https://crestwoodpainting.com/images/logo-crestwood.webp",
-    "logo": {
-      "@type": "ImageObject",
-      "@id": "https://crestwoodpainting.com/#logo",
-      "inLanguage": "en-US",
-      "url": "https://crestwoodpainting.com/images/logo-crestwood.webp",
-      "caption": "Crestwood Painting"
-    },
-    "@id": "https://crestwoodpainting.com/#site",
-    "url": "https://crestwoodpainting.com/",
-    "telephone": "+1 816-805-4515",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "236 W 73rd Terr",
-      "addressLocality": "Kansas City",
-      "addressRegion": "MO",
-      "postalCode": "64114",
-      "addressCountry": "US"
-    },
-    "areaServed": {
-      "@type": "GeoCircle",
-      "geoMidpoint": {
-        "@type": "GeoCoordinates",
-        "latitude": 38.9954239727528,
-        "longitude": -94.59349162660115
-      },
-      "geoRadius": 32000
-    },
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "telephone": "+1-816-805-4515",
-      "email": "admin@crestwoodpainting.com"
-    },
-    "slogan": "No Drips, No Drama",
-    "memberOf": {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
       "@type": "Organization",
-      "name": [
-        "Painting Contractors Association",
-        "Waldo Area Business Association"
-      ]
+      "@id": "https://crestwoodpainting.com/#org",
+      "name": "Crestwood Painting",
+      "url": "https://crestwoodpainting.com/",
+      "description": "Trusted Kansas City painters since 2007. Interior, exterior, offices, light commercial, and plaster/drywall repair.",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://crestwoodpainting.com/#logo",
+        "url": "https://crestwoodpainting.com/images/logo-crestwood.webp",
+        "inLanguage": "en-US",
+        "caption": "Crestwood Painting"
+      },
+      "image": "https://crestwoodpainting.com/images/logo-crestwood.webp",
+      "telephone": "+1-816-805-4515",
+      "foundingDate": "2007",
+      "slogan": "No Drips, No Drama",
+      "memberOf": {
+        "@type": "OrganizationRole",
+        "roleName": "Member",
+        "startDate": "2007",
+        "memberOf": {
+          "@type": "Organization",
+          "name": "Painting Contractors Association",
+          "sameAs": "https://www.pcapainted.org/"
+        }
+      },
+      "member": {
+        "@type": "Organization",
+        "name": "Waldo Area Business Association"
+      },
+      "sameAs": [
+        "https://www.facebook.com/crestwoodpainting",
+        "https://www.instagram.com/crestwoodpainting",
+        "https://www.linkedin.com/company/crestwood-painting"
+      ],
+      "naics": "238320"
     },
-    "foundingDate": "2007",
-    "naics": "238320"
-  }
+    {
+      "@type": "HousePainter",
+      "@id": "https://crestwoodpainting.com/#local",
+      "name": "Crestwood Painting",
+      "url": "https://crestwoodpainting.com/",
+      "brand": { "@id": "https://crestwoodpainting.com/#org" },
+      "telephone": "+1-816-805-4515",
+      "priceRange": "$$",
+      "areaServed": [
+        { "@type": "Place", "name": "Kansas City, MO" },
+        { "@type": "Place", "name": "Parkville, MO" },
+        { "@type": "Place", "name": "Liberty, MO" },
+        { "@type": "Place", "name": "Leawood, KS" },
+        { "@type": "Place", "name": "Overland Park, KS" },
+        { "@type": "Place", "name": "Prairie Village, KS" },
+        { "@type": "Place", "name": "Lee's Summit, MO" }
+        { "@type": "Place", "name": "Belton, MO" },
+        { "@type": "Place", "name": "Westwood, KS" },
+        { "@type": "Place", "name": "Mission Hills, KS" },
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Painting Services",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Interior Painting" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Exterior Painting" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Office Painting" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Commercial Painting" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Cabinet Painting & Refinishing" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Plaster & Drywall Repair" } }
+        ]
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://crestwoodpainting.com/"
+      }
+    }
+  ]
+}
+
   </script>
 
 {{ else if eq .Section "blog" }}

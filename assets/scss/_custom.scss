@@ -368,10 +368,67 @@ a.btn-venmo img.venmo-logo {
   border: 0;
 }
 
-/* ====================================
-   Reviews badge
-   ==================================== */
-.google-reviews-badge { font-size: 0.95rem; line-height: 1; }
-.google-reviews-badge .gr-star { /* Google-ish amber */ color: #F4B400; }
-.google-reviews-badge .gr-count { opacity: .85; font-size: .9em; }
-@media (max-width: 991.98px){ .google-reviews-badge { margin-bottom: .25rem; } }
+/* ===== Google Reviews badge (light header) ===== */
+/* ===== Google Reviews badge: flex + wrap (no gap between score & stars) ===== */
+.gr-badge{
+  display:flex;
+  align-items:center;
+  gap:.35rem;            /* tight spacing between score and stars */
+  flex-wrap:wrap;        /* lets the link drop to its own line */
+  line-height:1;
+  color:#37474f;         /* dark on white */
+}
+.gr-score{
+  font-size:1.15rem;
+  font-weight:700;
+  color:#37474f;
+}
+
+/* Stars (keep alignment fixes) */
+.gr-stars{ display:inline-flex; align-items:center; gap:.15rem; line-height:1; }
+.gr-star{ width:18px; height:18px; position:relative; display:inline-block; vertical-align:middle; }
+.gr-star svg{ width:100%; height:100%; display:block; }
+
+/* Colors */
+.gr-star.full svg path,
+.gr-star.half .full path{ fill:#F4B400; }
+.gr-star.empty svg path,
+.gr-star.half .empty path{ fill:#E0E0E0; }
+
+/* Half-star overlay */
+.gr-star.half .full{ position:absolute; inset:0; clip-path:inset(0 50% 0 0); }
+.gr-star.half .empty{ position:absolute; inset:0; }
+
+/* Link takes a full new line, flush left */
+.gr-link{
+  flex-basis:100%;       /* forces new line under score+stars */
+  margin:.15rem 0 0 0;
+  font-weight:700;
+  color:#C62828;
+  text-decoration:underline;
+}
+.gr-link:hover{ color:#B71C1C; }
+
+/* Responsive sizing */
+@media (max-width:768px){
+  .gr-star{ width:16px; height:16px; }
+}
+/* ===== Mobile layout: badge centered above logo, single line ===== */
+@media (max-width: 768px){
+  .gr-badge{
+    width:100%;
+    order:-1;                 /* forces it to the top if the header uses flex */
+    justify-content:center;   /* center the contents */
+    flex-wrap:nowrap;         /* keep score + stars + link on one line */
+    gap:.3rem;
+    margin-bottom:.25rem;     /* a little space before the logo */
+  }
+  .gr-score{ font-size:1.05rem; }
+  .gr-stars{ gap:.1rem; }
+  .gr-star{ width:15px; height:15px; }   /* slightly smaller to ensure one-line fit */
+  .gr-link{
+    flex-basis:auto;          /* undo the desktop line break */
+    margin-left:.35rem;
+    white-space:nowrap;       /* prevent wrapping the link */
+  }
+}

@@ -1,16 +1,49 @@
-{{/* Minimal, fast, SAB-safe badge. No review text. */}}
+{{/* Google Reviews badge — numeric + 5 stars (half support) + linked "(N Ratings & Reviews)" */}}
 {{ $gr := site.Data.googleReviews }}
-<div class="google-reviews-badge d-flex align-items-center mr-3">
-  {{ with $gr }}
-    <a class="gr-link d-inline-flex align-items-center"
-   href="https://www.google.com/maps/search/?api=1&query={{ urlquery site.Title }}&query_place_id={{ site.Data.googleReviews.place_id }}"
-   target="_blank" rel="noopener"
-   aria-label="See our Google reviews">
-      <span class="gr-score font-weight-bold">{{ printf "%.1f" .rating }}</span>
-      <span class="gr-star ml-1" aria-hidden="true">★</span>
-      <span class="gr-count ml-1">({{ .reviews }})</span>
+{{ if $gr }}
+  {{ $rating := float $gr.rating }}
+  {{ $full := int (math.Floor $rating) }}
+  {{ $frac := sub $rating $full }}
+  {{ $half := cond (and (ge $frac 0.25) (lt $frac 0.75)) 1 0 }}
+  {{ $full = add $full (cond (ge $frac 0.75) 1 0) }}   {{/* round up near .75 */}}
+  {{ $empty := sub 5 (add $full $half) }}
+
+  <div class="gr-badge" aria-label="Google rating {{ printf "%.1f" $rating }} based on {{ $gr.reviews }} reviews">
+    <span class="gr-score">{{ printf "%.1f" $rating }}</span>
+
+    <span class="gr-stars" aria-hidden="true">
+      {{/* FULL stars */}}
+      {{ range seq $full }}
+        <span class="gr-star full">
+          <svg viewBox="0 0 24 24" focusable="false" aria-hidden="true">
+            <path d="M12 .587l3.668 7.431 8.2 1.192-5.934 5.787 1.4 8.168L12 18.896 4.666 23.165l1.4-8.168L.132 9.21l8.2-1.192z"/>
+          </svg>
+        </span>
+      {{ end }}
+
+      {{/* HALF star */}}
+      {{ if eq $half 1 }}
+        <span class="gr-star half">
+          <svg class="empty" viewBox="0 0 24 24" focusable="false"><path d="M12 .587l3.668 7.431 8.2 1.192-5.934 5.787 1.4 8.168L12 18.896 4.666 23.165l1.4-8.168L.132 9.21l8.2-1.192z"/></svg>
+          <svg class="full"  viewBox="0 0 24 24" focusable="false"><path d="M12 .587l3.668 7.431 8.2 1.192-5.934 5.787 1.4 8.168L12 18.896 4.666 23.165l1.4-8.168L.132 9.21l8.2-1.192z"/></svg>
+        </span>
+      {{ end }}
+
+      {{/* EMPTY stars */}}
+      {{ range seq $empty }}
+        <span class="gr-star empty">
+          <svg viewBox="0 0 24 24" focusable="false" aria-hidden="true">
+            <path d="M12 .587l3.668 7.431 8.2 1.192-5.934 5.787 1.4 8.168L12 18.896 4.666 23.165l1.4-8.168L.132 9.21l8.2-1.192z"/>
+          </svg>
+        </span>
+      {{ end }}
+    </span>
+
+    <a class="gr-link"
+    href="https://www.google.com/maps/search/?api=1&query={{ urlquery site.Title }}&query_place_id={{ site.Data.googleReviews.place_id }}"
+       target="_blank" rel="noopener">
+      ({{ $gr.reviews }} Ratings &amp; Reviews)
     </a>
-  {{ else }}
-    <span class="gr-fallback">★★★★★ (150+)</span>
-  {{ end }}
-</div>
+  </div>
+{{ end }}
+

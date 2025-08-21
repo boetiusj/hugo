@@ -23,11 +23,7 @@
   }
 }
 
-
 @include tablet{
-  .navbar-toggler{
-    // color: $light;
-  }
   .bg-about{
     display: none;
   }

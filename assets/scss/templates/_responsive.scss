@@ -78,6 +78,86 @@
       margin-bottom: 30px;
       padding-bottom: 0px; 
   }
+
+  /* ───────────────────────────────────────────────────────────── */
+/* Mobile header: [reviews] / [logo + hamburger] / [Book Us]    */
+/* Put this in _responsive.scss                                  */
+/* ───────────────────────────────────────────────────────────── */
+@include mobile {
+  /* Make the nav wrap into rows */
+  nav[role="navigation"]{
+    display:flex;
+    flex-wrap:wrap;
+    align-items:center;
+    gap:.5rem;
+  }
+
+  /* Row 1: reviews badge spans full width (no style change) */
+  .gr-badge{
+    order:1;
+    width:100%;
+    justify-content:center;      /* or flex-start if you prefer left */
+    margin-bottom:.5rem;
+  }
+
+  /* Row 2: logo centered + hamburger right */
+  img.nav_logo{
+    order:2;
+    flex:1 1 0;       /* lets logo shrink so burger fits same row */
+    min-width:0;
+    display:block;
+    height:clamp(24px, 6vw, 36px);
+    width:auto;
+  }
+  .navbar-toggler[aria-label="toggle-nav"]{
+    order:2;
+    margin-left:auto; /* pushes to the right edge */
+    position:static;
+    width:44px; height:44px;
+    flex:0 0 auto;
+  }
+
+  /* Row 3: Book Us (anchor is the flex item) */
+  a.nav-cta{
+    order:3;
+    width:100%;       /* its own row, full width */
+    display:block;
+  }
+  a.nav-cta .book-cal-btn{
+    width:100%;
+    height:30px;
+    border:1px solid $primary-color;
+    background:#fff;
+    color:$primary-color;
+    border-radius:6px;
+    display:flex; align-items:center; justify-content:center; gap:.5rem;
+    padding:0 .75rem;
+  }
+  a.nav-cta .calendar-icon{ width:22px; height:22px; margin-right:.5rem; }
+  a.nav-cta .book-cal-text{ font-weight:500; line-height:1; }
+
+  /* both row-2 flex items get a bottom margin so the row gains space */
+  .nav_logo,
+  .navbar-toggler[aria-label="toggle-nav"] {
+    margin-bottom: .4rem;   /* adjust .25–.6rem to taste */
+  }
+}
+
+  /* Fallback if you don’t have the .nav-cta wrapper:
+     (safe duplicate of the key bits so it still works) */
+  .book-cal-btn{
+    order:3;
+    width:100%;
+    height:48px;
+    border:2px solid $primary-color;
+    background:#fff;
+    color:$primary-color;
+    border-radius:6px;
+    gap:.5rem;
+    padding:0 .75rem;
+  }
+  .book-cal-btn .calendar-icon{ width:22px; height:22px; margin-right:.5rem; }
+  .book-cal-text{ font-weight:700; line-height:1; }
 }
 
 

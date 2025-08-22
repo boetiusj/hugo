@@ -1,40 +1,72 @@
 name: Refresh Google Reviews
 
 on:
-  schedule:
-    - cron: "17 5 * * *"         # daily 05:17 UTC
-  workflow_dispatch:              # allow manual run
+  schedule: [{ cron: "17 5 * * *" }]   # daily 05:17 UTC
+  workflow_dispatch:
 
 permissions:
-  contents: write                 # needed to push the updated JSON
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
     env:
+      # EDIT THIS if your Hugo site lives in a subfolder (e.g., "site")
+      SITE_DIR: "."
       PLACE_ID: ${{ secrets.GOOGLE_PLACE_ID }}
       API_KEY:  ${{ secrets.GOOGLE_API_KEY }}
-      NETLIFY_BUILD_HOOK_URL: ${{ secrets.NETLIFY_BUILD_HOOK_URL }} # optional
+      NETLIFY_BUILD_HOOK_URL: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Ensure jq is available
+      - name: Tools
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch rating + count
+      - name: Check secrets present (safe)
         run: |
-          curl -s "https://maps.googleapis.com/maps/api/place/details/json?place_id=${PLACE_ID}&fields=rating,user_ratings_total&key=${API_KEY}" \
-          | jq -r --arg pid "$PLACE_ID" '
-              { rating:(.result.rating//0)|tonumber,
-                reviews:(.result.user_ratings_total//0)|tonumber,
-                place_id:$pid }' > data/googleReviews.json
+          test -n "$GOOGLE_PLACE_ID" && echo "PLACE_ID set" || echo "::error ::GOOGLE_PLACE_ID missing"
+          test -n "$GOOGLE_API_KEY"  && echo "API_KEY set"   || echo "::error ::GOOGLE_API_KEY missing"
+          if [ -n "$NETLIFY_BUILD_HOOK_URL" ]; then echo "Build hook set"; else echo "Build hook not set"; fi
+
+      - name: Fetch rating + count (Places API v1)
+        run: |
+          set -e
+          mkdir -p "$SITE_DIR/data"
+          RESP=$(curl -s \
+            -H "X-Goog-Api-Key: ${API_KEY}" \
+            -H "X-Goog-FieldMask: rating,userRatingCount" \
+            "https://places.googleapis.com/v1/places/${PLACE_ID}")
+
+          echo "Raw status snippet:"
+          echo "$RESP" | jq '{rating, userRatingCount, error: .error, name}'
+
+          # If there's an error block or both numbers are missing, fail the job
+          ERR=$(echo "$RESP" | jq -r '.error.message // empty')
+          if [ -n "$ERR" ]; then
+            echo "::error ::Places API error: $ERR"
+            exit 1
+          fi
+
+          RATING=$(echo "$RESP" | jq -r '.rating // empty')
+          COUNT=$(echo "$RESP" | jq -r '.userRatingCount // empty')
+          if [ -z "$RATING" ] || [ -z "$COUNT" ]; then
+            echo "::error ::Missing rating/userRatingCount in response."
+            exit 1
+          fi
+
+          jq -n --arg pid "$PLACE_ID" --argjson r "$RATING" --argjson c "$COUNT" \
+            '{ rating: $r, reviews: $c, place_id: $pid }' \
+            > "$SITE_DIR/data/googleReviews.json"
+
+          echo "Wrote:"
+          cat "$SITE_DIR/data/googleReviews.json"
 
       - name: Commit & push only if changed
         run: |
           git config user.name  "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add data/googleReviews.json
+          git add "$SITE_DIR/data/googleReviews.json"
           git diff --cached --quiet || git commit -m "chore: refresh Google review badge"
           git push
 

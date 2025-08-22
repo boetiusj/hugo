@@ -1,0 +1,63 @@
+{{/* Image JSON-LD without touching your figure shortcode */}}
+{{- $p := . -}}
+{{- $pageID := printf "%s#webpage" $p.Permalink -}}
+{{- $license := "https://crestwoodpainting.com/licensing/" -}}
+
+{{/* Gather images for schema: prefer .Params.schema_images; else fallback to .Params.image (unless it's the generic OG image) */}}
+{{- $items := $p.Params.schema_images -}}
+{{- if (not $items) }}
+  {{- $img := $p.Params.image -}}
+  {{- if and $img (not (in $img "schema-ogimage.jpg")) }}
+    {{- $items = (slice (dict "src" $img "representative" true)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $items }}
+  {{- $graph := slice -}}
+  {{- $heroID := "" -}}
+
+  {{- range $i, $it := $items }}
+    {{- $src := $it.src | default $it -}}        {{/* support src as string or object */}}
+    {{- $cap := $it.caption | default "" -}}
+    {{- $rep := cond (isset $it "representative") ($it.representative) false -}}
+
+    {{/* Locate image resource (bundle first, then /assets or /static) */}}
+    {{- $res := $p.Resources.GetMatch $src -}}
+    {{- if not $res }}{{ $res = resources.Get (strings.TrimPrefix "/" $src) }}{{- end -}}
+    {{- if not $res }}{{ warnf "image-ld: not found %s on %s" $src $p.RelPermalink }}{{- continue -}}{{- end -}}
+
+    {{- $w := $res.Width | int -}}
+    {{- $h := $res.Height | int -}}
+    {{- $url := $res.Permalink -}}
+    {{- $id := printf "%s#img%d" $url $i -}}
+
+    {{- $fmt := cond (strings.HasSuffix $url ".webp") "image/webp" (cond (or (strings.HasSuffix $url ".jpg") (strings.HasSuffix $url ".jpeg")) "image/jpeg" (cond (strings.HasSuffix $url ".png") "image/png" "") ) -}}
+
+    {{- $imgNode := dict
+        "@type" "ImageObject"
+        "@id"   $id
+        "url"   $url
+        "contentUrl" $url
+        "encodingFormat" $fmt
+        "width" $w
+        "height" $h
+        "license" $license
+    -}}
+    {{- if $cap }}{{ $imgNode = merge $imgNode (dict "caption" $cap) }}{{- end -}}
+    {{- if $rep }}
+      {{- $imgNode = merge $imgNode (dict "representativeOfPage" true) -}}
+      {{- $heroID = $id -}}
+    {{- else }}
+      {{- $imgNode = merge $imgNode (dict "isPartOf" (dict "@id" $pageID)) -}}
+    {{- end }}
+
+    {{- $graph = $graph | append $imgNode -}}
+  {{- end }}
+
+  {{/* WebPage node with primaryImageOfPage when we have a hero */}}
+  {{- $web := dict "@type" "WebPage" "@id" $pageID "url" $p.Permalink -}}
+  {{- if $heroID }}{{ $web = merge $web (dict "primaryImageOfPage" (dict "@id" $heroID)) }}{{- end }}
+  {{- $graph = (slice $web) | append $graph -}}
+
+  <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify }}</script>
+{{- end }}

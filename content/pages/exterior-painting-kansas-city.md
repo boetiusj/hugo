@@ -6,6 +6,14 @@ keywords: "Brookside, Lee's Summit, Leawood, Mission Hills, Prairie Village"
 canonical: "/exterior-painting-kansas-city/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
+schema_images:
+  - src: "/images/exterior/x-blue.webp"
+    caption: "Exterior repaint, Kansas City, MO"
+    representative: true
+  - src: "/images/exterior/x-greenranch.webp"
+    caption: "Tidy ranch painted"
+  - src: "/images/exterior/stately-great-paint.webp"
+    caption: "Stately stucco home"   
 index: true
 service:
   serviceType: "Exterior House Painting"

@@ -8,6 +8,10 @@ date: "2016-02-02"
 index: true
 image: "/images/interior/wild-lips.jpg"
 images: "/images/schema-ogimage.jpg"
+schema_images:
+  - src: "/images/interior/wild-kisses-cr.jpg" 
+    caption: "Painted walls in Kansas City"
+    representative: true
 categories:
   - "interior"
   - "color-tips"

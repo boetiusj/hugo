@@ -189,7 +189,8 @@
   {{ partial "service-ld.html" . }}
 
 {{/* NEW: optional page-level schema driven by front-matter */}}
-{{ partial "page-ld.html" . }}  
+{{ partial "page-ld.html" . }}
+{{ partial "image-ld.html" . }}   {{/* NEW: emits hero + gallery ImageObject(s) */}}
 
 {{/* ─────────────────────────────────────────────────────────────── */}}
 {{/* Insert one universal breadcrumb JSON-LD on every page */}}

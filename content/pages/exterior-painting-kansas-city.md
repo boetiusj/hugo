@@ -35,7 +35,7 @@ knowledge:
     - "Masonry/stone unless already painted"
     - "Full carpentry replacement outside scope"
   service_areas: ["Neighborhoods: Brookside, Hyde Park, Valentine","Kansas City MO","Leawood KS","Overland Park KS","Prairie Village KS","Liberty MO"]
-  cta_text: "Book an Estimate"
+  # cta_text: "Book an Estimate"
   # cta_url: "/book/"
   phone: "816-805-4515"
   # image: "/images/exterior/panel-thumb.webp"

@@ -14,11 +14,11 @@
 - name: "Painting Services"
   url: "#"
   submenu:
-    - name: "Interior Painting"
+    - name: "Interior Painters"
       url: "/interior-painter-kansas-city/"
     - name: "Exterior Painting"
       url: "/exterior-painting-kansas-city/"
-    - name: "Cabinets"
+    - name: "Cabinet Painting"
       url: "/cabinet-painting/"
     - name: "Office Painting"
       url: "/office-painting-experts/"

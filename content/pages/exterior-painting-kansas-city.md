@@ -1,5 +1,5 @@
 ---
-title: "Exterior Painting Experts"
+title: "Exterior Painting"
 url: "exterior-painting-kansas-city"
 description: "Tidy jobs, on-time completion, color help. Book us today - No Drips, No Drama"
 keywords: "Brookside, Lee's Summit, Leawood, Mission Hills, Prairie Village"

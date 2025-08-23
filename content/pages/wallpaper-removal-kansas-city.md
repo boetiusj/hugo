@@ -6,12 +6,44 @@ keywords: "wallpaper removal"
 canonical: "/wallpaper-removal-kansas-city/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
+schema_images:
+  - src: "/images/interior/wallpaper-layers.jpg"
+    caption: "Wallpaper layers"
+    representative: true
+  - src: "/images/r16-6-borchers.webp"
+    caption: "Interior painter"
+knowledge:
+  title: "Wallpaper Removal — Quick Facts"
+  summary: "Careful testing, enzyme/steam removal, residue neutralization, and wall prep for paint or new paper."
+  duration_days: 1
+  price_min: 700
+  price_max: 2500
+  warranty: "Workmanship on removal & prep"
+  prep_highlights:
+    - "Test patch to assess paste/type"
+    - "Score/steam or enzyme process"
+    - "Rinse/neutralize; prime with Gardz"
+  coatings:
+    - "Zinsser Gardz (sealer for torn facing)"
+    - "Finish coats to spec after prep"
+  inclusions:
+    - "Removal, residue cleanup, surface sealing"
+    - "Minor skim/feathering as needed"
+  exclusions:
+    - "Hidden damage behind paper"
+    - "Lead-backed foils or murals (quote separately)"
+  service_areas: ["Kansas City, MO","Leawood, KS","Overland Park, KS","Prairie Village, KS","Liberty, MO","Parkville, MO"]
+  cta_text: "Schedule Removal"
+  cta_url: "/book/"
+  phone: "816-805-4515"
 index: true
 service:
   serviceType: "Wallpaper Revoval"
   areaServed: "Kansas City Metro"
   price: "Quoted"
 ---
+{{< knowledge >}}
+
 {{< figure1st
   src="/images/interior/wallpaper-layers.jpg"
 >}}
@@ -19,6 +51,8 @@ service:
 ## Wallpaper is Not Easy
 
 Ideally, wallpaper removal is quick and easy—just peel it off, with no mess, no wall damage, and no stubborn adhesive left behind. In a perfect scenario, the paper was installed correctly on a properly prepped wall, making removal a smooth process that leaves your walls clean and ready for [fresh interior painting](/interior-painter-kansas-city/).
+
+{{< knowledge >}}
 
 ### What You Might Find
 
@@ -54,4 +88,3 @@ If the wallpaper was installed over poorly prepared surfaces—like unprimed dry
 At Crestwood Painting, we carefully evaluate each of these factors before providing an estimate. We’ll advise you on the best options for your situation, whether it’s full removal, partial removal, or other alternatives, ensuring the most cost-effective and efficient solution.
 
 ![wallpaper removal valuted ceiling](/images/fuhgeddaboudit.webp)
-

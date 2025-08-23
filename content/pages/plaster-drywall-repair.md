@@ -6,12 +6,44 @@ keywords: "plaster repair, drywall repair, Kansas City, Crestwood Painting"
 canonical: "/plaster-drywall-repair/"
 date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
-index: true
+schema_images:
+  - src: "/images/interior/plaster-holes-ceil-wall.jpg"
+    caption: "Plaster holes, Kansas City, MO"
+    representative: true
+  - src: "/images/interior/plaster-dwall-plumbing.jpg"
+    caption: "Plumbing wall damage"
+knowledge:
+  title: "Plaster & Drywall Repair — Quick Facts"
+  summary: "Crack stitching, skim patches, and texture blending. Dust-controlled work with tidy daily cleanup."
+  duration_days: 1
+  price_min: 800
+  price_max: 3500
+  warranty: "1-year workmanship on repairs"
+  prep_highlights:
+    - "ZipWall containment & floor protection"
+    - "HEPA sanding where feasible"
+    - "Primer sealing (BIN/Gardz as needed)"
+  coatings:
+    - "Zinsser BIN / Gardz (primers as needed)"
+    - "Ben Moore Regal / SW Cashmere (topcoats)"
+  inclusions:
+    - "Small holes, stress cracks, corner beads"
+    - "Blend texture to adjacent surfaces"
+  exclusions:
+    - "Structural movement issues"
+    - "Full-home skim coats (quoted separately)"
+  service_areas: ["Kansas City MO","Prairie Village KS","Brookside/Waldo KCMO","Mission Hills KS","Fairway KS","Westwood KS"]
+  cta_text: "Book a Repair Visit"
+  cta_url: "/book/"
+  phone: "816-805-4515"
 service:
   serviceType: "Plaster & Drywall Repair"
   areaServed: "Kansas City Metro"
-  price: "Quoted"
+  price: "Quoted"  
+index: true
 ---
+{{< knowledge-strip >}}
+
 {{< figure1st
   src="/images/interior/plaster-holes-ceil-wall.jpg"
 >}}
@@ -23,6 +55,8 @@ Things shift, cracks appear, and sometimes walls just don’t cooperate. Whether
 ### Plaster vs. Drywall – What’s the Difference?
 
 Plaster and drywall both create smooth, paintable walls, but they have distinct characteristics.
+
+{{< knowledge >}}
 
 #### Dense Plaster
 

@@ -12,7 +12,7 @@ schema_images:
     representative: true
   - src: "/images/interior/brick-fp-paint.jpg"
     caption: "White living room"
-    - src: "/images/interior/mantel-white-close.webp"
+  - src: "/images/interior/mantel-white-close.webp"
     caption: "White mantel"
 knowledge:
   title: "Interior Painting — Quick Facts"

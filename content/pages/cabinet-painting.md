@@ -33,9 +33,9 @@ knowledge:
   exclusions:
     - "Countertops, appliances, flooring"
     - "New cabinet boxes or layout changes"
-  service_areas: ["Kansas City, MO", "Leawood, KS", "Overland Park, KS", "Prairie Village, KS"]
+  service_areas: ["Kansas City MO", "Leawood KS", "Overland Park KS", "Prairie Village KS"]
   cta_text: "Book an Estimate"
-  cta_url: "/book/"
+  # cta_url: "/book/"
   phone: "816-805-4515"    
 service:
   serviceType: "Cabinet Painting"

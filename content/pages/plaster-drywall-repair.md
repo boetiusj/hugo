@@ -32,9 +32,9 @@ knowledge:
   exclusions:
     - "Structural movement issues"
     - "Full-home skim coats (quoted separately)"
-  service_areas: ["Kansas City MO","Prairie Village KS","Brookside/Waldo KCMO","Mission Hills KS","Fairway KS","Westwood KS"]
+  service_areas: ["Kansas City MO","Prairie Village KS","Neighborhoods: Brookside, Valentine, Hyde Park","Mission Hills KS","Fairway KS","Westwood KS"]
   cta_text: "Book a Repair Visit"
-  cta_url: "/book/"
+  # cta_url: "/book/"
   phone: "816-805-4515"
 service:
   serviceType: "Plaster & Drywall Repair"

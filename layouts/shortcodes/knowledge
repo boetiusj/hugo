@@ -1,0 +1,2 @@
+{{/* Shortcode: {{< knowledge >}}  Renders the knowledge panel for this page */}}
+{{ partial "knowledge-panel.html" .Page }}

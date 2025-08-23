@@ -1,0 +1,56 @@
+{{- $k := .Params.knowledge -}}
+{{- if not $k }}{{- warnf "knowledge-panel: no .Params.knowledge on %s" .RelPermalink -}}{{- end -}}
+{{- if $k }}
+<section class="kn-panel">
+  <div class="kn-head">
+    <h2 class="kn-title">{{ $k.title | default (print .Title " — Quick Facts") }}</h2>
+    {{ with $k.summary }}<p class="kn-summary">{{ . }}</p>{{ end }}
+  </div>
+
+  <dl class="kn-grid">
+    {{ with $k.duration_days }}
+      <div class="kn-item"><dt>Timeline</dt><dd>{{ . }} working days</dd></div>
+    {{ end }}
+    {{ if or $k.price_min $k.price_max }}
+      <div class="kn-item"><dt>Typical Price</dt>
+        <dd>
+          {{- if and $k.price_min $k.price_max -}}
+            ${{ printf "%d" $k.price_min }}–${{ printf "%d" $k.price_max }}
+          {{- else if $k.price_min -}}
+            From ${{ printf "%d" $k.price_min }}
+          {{- else -}}
+            Up to ${{ printf "%d" $k.price_max }}
+          {{- end -}}
+        </dd>
+      </div>
+    {{ end }}
+    {{ with $k.warranty }}
+      <div class="kn-item"><dt>Warranty</dt><dd>{{ . }}</dd></div>
+    {{ end }}
+    {{ with $k.prep_highlights }}
+      <div class="kn-item"><dt>Prep</dt><dd>{{ delimit . ", " }}</dd></div>
+    {{ end }}
+    {{ with $k.coatings }}
+      <div class="kn-item"><dt>Coatings</dt><dd>{{ delimit . ", " }}</dd></div>
+    {{ end }}
+    {{ with $k.inclusions }}
+      <div class="kn-item"><dt>Includes</dt><dd>{{ delimit . ", " }}</dd></div>
+    {{ end }}
+    {{ with $k.exclusions }}
+      <div class="kn-item"><dt>Excludes</dt><dd>{{ delimit . ", " }}</dd></div>
+    {{ end }}
+    {{ with $k.service_areas }}
+      <div class="kn-item"><dt>Service Area</dt><dd>{{ delimit . ", " }}</dd></div>
+    {{ end }}
+  </dl>
+
+  <div class="kn-cta">
+    {{ if $k.cta_url }}
+      <a class="btn btn-outline" href="{{ $k.cta_url }}">{{ $k.cta_text | default "Book an Estimate" }}</a>
+    {{ end }}
+    {{ if $k.phone }}
+      <a class="btn btn-ghost" href="tel:{{ $k.phone | urlize }}">{{ $k.phone }}</a>
+    {{ end }}
+  </div>
+</section>
+{{- end }}

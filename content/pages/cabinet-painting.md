@@ -17,7 +17,33 @@ service:
   serviceType: "Cabinet Painting"
   areaServed: "Kansas City Metro"
   price: "Quoted"
+knowledge:
+  title: "Cabinet Painting — Quick Facts"
+  summary: "Smooth waterborne enamel finishes with organized, low-disruption workflow."
+  duration_days: 5          # working days for a typical job
+  price_min: 4000           # USD, typical floor
+  price_max: 15000        # USD, typical ceiling
+  warranty: "2-year workmanship"
+  prep_highlights:
+    - "Clean/degloss, sand, mask"
+    - "Oil or bonding primer"
+    - "Fill/caulk as needed"
+  coatings:
+    - "Benjamin Moore ADVANCE / Scuff-X (waterborne enamel)"
+    - "Sherwin-Williams Emerald Urethane"
+  inclusions:
+    - "Doors and drawer fronts sprayed"
+    - "Face frames and ends brushed/rolled"
+    - "Hardware reinstalled"
+  exclusions:
+    - "Countertops, appliances, flooring"
+    - "New cabinet boxes or layout changes"
+  service_areas: ["Kansas City, MO", "Leawood, KS", "Overland Park, KS", "Prairie Village, KS"]
+  cta_text: "Book an Estimate"
+
 ---
+{{< knowledge-strip >}}
+
 {{< figure1st src="/images/cabinets/c-glass-splash.jpg" >}}
 
 ## Why Paint Cabinets
@@ -27,6 +53,8 @@ If you love your kitchen but feel like it’s stuck in another decade, painting 
 ### Transform Without The Hassle
 
 Painting cabinets delivers a dramatic update without tearing your kitchen apart for weeks. No demolition, no endless decisions—just a fresh, modern look with minimal downtime.
+
+{{< knowledge >}}
 
 ### Lower Cost
 

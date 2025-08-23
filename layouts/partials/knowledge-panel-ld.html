@@ -1,0 +1,61 @@
+{{- $p := . -}}
+{{- $k := .Params.knowledge -}}
+{{- if not $k }}{{- /* nothing to emit */ -}}{{- else -}}
+{{- $svcID := printf "%s#service" $p.Permalink -}}   {{/* same pattern as service-ld */}}
+{{- $url := $p.Permalink -}}
+
+{{/* Build Offer with price bounds if present */}}
+{{- $offer := dict "@type" "Offer" "url" $url -}}
+{{- if and $k.price_min $k.price_max -}}
+  {{- $offer = merge $offer (dict
+        "priceSpecification" (dict "@type" "PriceSpecification" "minPrice" $k.price_min "maxPrice" $k.price_max "priceCurrency" "USD")
+        "priceCurrency" "USD") -}}
+{{- else if $k.price_min -}}
+  {{- $offer = merge $offer (dict "price" $k.price_min "priceCurrency" "USD") -}}
+{{- else if $k.price_max -}}
+  {{- $offer = merge $offer (dict "price" $k.price_max "priceCurrency" "USD") -}}
+{{- end -}}
+
+{{/* Build OfferCatalog items from inclusions (optional) */}}
+{{- $items := slice -}}
+{{- with $k.inclusions -}}
+  {{- range . -}}
+    {{- $items = $items | append (dict "@type" "Offer" "itemOffered" (dict "@type" "Service" "name" .)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* timeRequired from duration_days -> ISO8601 (P#D) */}}
+{{- $time := "" -}}
+{{- with $k.duration_days -}}
+  {{- $time = printf "P%dD" . -}}
+{{- end -}}
+
+{{/* areaServed as Place list */}}
+{{- $areas := slice -}}
+{{- with $k.service_areas -}}
+  {{- range . -}}
+    {{- $areas = $areas | append (dict "@type" "Place" "name" .) -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* knowsAbout from coatings/prep (optional, helps AI comprehension) */}}
+{{- $knows := slice -}}
+{{- with $k.coatings -}}{{- range . }}{{- $knows = $knows | append . -}}{{- end -}}{{- end -}}
+{{- with $k.prep_highlights -}}{{- range . }}{{- $knows = $knows | append . -}}{{- end -}}{{- end -}}
+
+<script type="application/ld+json">
+{{- $node := dict
+      "@context" "https://schema.org"
+      "@graph" (slice (dict
+        "@type" "Service"
+        "@id"   $svcID
+        "offers" $offer
+      ))
+-}}
+{{- if $time }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "timeRequired" $time)))) }}{{ end -}}
+{{- if $areas }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "areaServed" $areas)))) }}{{ end -}}
+{{- if $items }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "hasOfferCatalog" (dict "@type" "OfferCatalog" "name" "Cabinet Painting — Includes" "itemListElement" $items))))) }}{{ end -}}
+{{- if $knows }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "knowsAbout" $knows)))) }}{{ end -}}
+{{ $node | jsonify | safeJS }}
+</script>
+{{- end -}}

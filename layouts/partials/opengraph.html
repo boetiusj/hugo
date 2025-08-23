@@ -185,18 +185,6 @@
   </script>
 {{ end }}
 
-{{/* Emit Service JSON-LD on pages that define .Params.service */}}
-  {{ partial "service-ld.html" . }}
-
-{{/* NEW: optional page-level schema driven by front-matter */}}
-{{ partial "page-ld.html" . }}
-{{ partial "image-ld.html" . }}   {{/* NEW: emits hero + gallery ImageObject(s) */}}
-
-{{/* ─────────────────────────────────────────────────────────────── */}}
-{{/* Insert one universal breadcrumb JSON-LD on every page */}}
-{{ partial "breadcrumb-ld.html" . }}
-{{/* ─────────────────────────────────────────────────────────────── */}}
-
 {{ with .Params.faqs }}
   {{ $faqs_len := sub (len .) 1 }}
   <script type="application/ld+json">

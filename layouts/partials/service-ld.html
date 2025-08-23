@@ -1,26 +1,32 @@
 {{/* Emit Service JSON-LD when a page has .Params.service */}}
 {{- with .Params.service }}
-  {{- $img := "" }}
-  {{- with $.Params.image }}
-    {{- $img = cond (in . "http") . (absURL .) }}
+  {{- $page := $ -}}
+
+  {{- $img := "" -}}
+  {{- with $page.Params.image }}
+    {{- $img = cond (in . "http") . (absURL .) -}}
   {{- end }}
+
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "{{ $.Title }}",
+    "name": "{{ $page.Title }}",
     "serviceType": "{{ .serviceType }}",
-    "description": "{{ $.Description | default $.Summary }}"{{ if not $.Params.schema_type }}, "mainEntityOfPage": { "@type":"WebPage", "@id":"{{ $.Scratch.Get "webpage_id" | default $.Permalink }}" }{{ end }},
-    "mainEntityOfPage": {{ if not $.Params.schema_type }}{ "@type":"WebPage", "@id":"{{ $.Scratch.Get "webpage_id" | default $.Permalink }}" }{{ else }}null{{ end }},
+    "description": "{{ $page.Description | default $page.Summary }}"{{/* ← no trailing comma yet */}}
+    {{- if not $page.Params.schema_type }},
+    "mainEntityOfPage": { "@type":"WebPage", "@id":"{{ $page.Scratch.Get "webpage_id" | default $page.Permalink }}" }
+    {{- end }},
+    "provider": { "@id": "https://crestwoodpainting.com/#site" },
     "areaServed": "{{ .areaServed | default "Kansas City Metro" }}",
     "offers": {
       "@type": "Offer",
       "price": "{{ .price | default "Quoted" }}",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock",
-      "url": "{{ $.Permalink }}"
-    }{{ if $img }},
-    "image": "{{ $img }}"{{ end }}
+      "url": "{{ $page.Permalink }}"
+    }{{- if $img }},
+    "image": "{{ $img }}"{{- end }}
   }
   </script>
 {{- end }}

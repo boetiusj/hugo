@@ -6,6 +6,12 @@ keywords: "house paint, colors, living room color, exterior colors, kansas city,
 canonical: "/color-help/"
 date: "2011-05-05"
 images: "/images/schema-ogimage.jpg"
+schema_images:
+  - src: "/images/exterior/ranch-white.jpg"
+    caption: "Choosing paint colors - Kansas City, MO"
+    representative: true
+  - src: "/images/exterior/tudor-brick.jpg"
+    caption: "House colors, tudor style"
 index: true
 schema_type: "Article"
 ---

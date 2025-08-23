@@ -1,4 +1,5 @@
 {{/* Image JSON-LD without touching your figure shortcode */}}
+
 {{- $p := . -}}
 {{- $pageID := printf "%s#webpage" $p.Permalink -}}
 
@@ -62,5 +63,7 @@
   {{- if $heroID }}{{ $web = merge $web (dict "primaryImageOfPage" (dict "@id" $heroID)) }}{{- end }}
   {{- $graph = (slice $web) | append $graph -}}
 
-  <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify }}</script>
-{{- end }}
+  {{- $out := dict "@context" "https://schema.org" "@graph" $graph -}}
+  {{- $json := $out | jsonify -}}
+  <script type="application/ld+json">{{ $json | safeJS }}</script>
+  {{- end }}

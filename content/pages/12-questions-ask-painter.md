@@ -5,6 +5,11 @@ description: "Solid questions to ask a painter - so you BOTH know what to expect
 keywords: "Painter questions"
 canonical: "/12-questions-ask-painter/"
 images: "/images/schema-ogimage.jpg"
+schema_images:
+  - src: "/images/other/apple-n-orange.webp"
+    caption: "Compare contracts, apples and oranges"
+    representative: true
+
 index: true
 ---
 {{< figure1st src="/images/other/apple-n-orange.webp" >}}

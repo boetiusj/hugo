@@ -6,6 +6,12 @@ keywords: "commercial exterior painting, Kansas City, office"
 canonical: "/commercial-painting-exterior/"
 date: "2017-07-08"
 images: "/images/schema-ogimage.jpg"
+schema_images:
+  - src: "/images/MN-front-e1485211429554.jpg"
+    caption: "Commercial paint colors - Kansas City, MO"
+    representative: true
+  - src: "/images/Safety-Bollards-300x300.jpg"
+    caption: "Commercial painting, Kansas City"
 index: true
 service:
   serviceType: "Commercial Painting"

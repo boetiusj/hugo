@@ -6,6 +6,12 @@ keywords: "Kitchen cabinet painting, bathroom vanity painting, wall paneling pai
 canonical: "/cabinet-painting/"
 date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
+schema_images:
+  - src: "/images/cabinets/c-glass-splash.jpg"
+    caption: "Cabinet painting, Kansas City, MO"
+    representative: true
+  - src: "/images/cabinets/c-peninsula.jpg"
+    caption: "Peninsula cabinets painted"
 index: true
 service:
   serviceType: "Cabinet Painting"

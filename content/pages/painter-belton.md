@@ -16,6 +16,8 @@ service:
       url: "https://crestwoodpainting.com/interior-painter-kansas-city/"
     - name: "Exterior Painting"
       url: "https://crestwoodpainting.com/exterior-painter-kansas-city/"
+      - name: "Office Painting"
+      url: "https://crestwoodpainting.com/office-painting-experts/"
     - name: "Cabinet Painting"
       url: "https://crestwoodpainting.com/cabinet-painter-kansas-city/"
 ---

@@ -1,7 +1,11 @@
 ---
 title: "Image Licensing"
+url: "licensing"
 description: "Usage terms for photos and graphics on Crestwood Painting’s website."
 aliases: ["/licensing/"]
+canonical: "/licensing/"
+date: "2025-08-20"
+index: true
 ---
 
 ## Quick terms

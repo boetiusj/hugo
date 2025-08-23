@@ -3,7 +3,7 @@ title: "Regrets"
 url: "regrets"
 description: "This Zip code is outside our service area."
 keywords: "-"
-canonical: ""
+canonical: "/regrets/"
 date: "2019-02-13"
 index: false
 schema_type: "WebPage"

@@ -1,4 +1,5 @@
 {{/* page-ld.html – emits JSON-LD for non-service resource pages          */}}
+{{- $.Scratch.Set "webpage_id" .Permalink -}}
 {{- $t := .Params.schema_type -}}
 {{- /* If nothing set, do nothing so we don’t disturb Service / Blog / FAQ */}}
 {{- if $t }}

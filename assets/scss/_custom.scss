@@ -181,6 +181,34 @@
 /* Optional: emphasize CTA chip */
 .kn-cta-chip .kn-ico { color: var(--accent); }
 
+/* allow wrapping inside chips */
+.kn-chip{
+  white-space: normal;     /* was: nowrap */
+  max-width: 100%;
+  align-items: flex-start;  /* multi-line chips look better */
+}
+
+/* long values wrap instead of overflowing */
+.kn-val{
+  white-space: normal;
+  overflow-wrap: anywhere;  /* modern */
+  word-break: break-word;   /* fallback */
+}
+
+/* make Areas chip span full width on narrow screens */
+.kn-chip--wide{
+  flex: 1 1 100%;
+}
+
+/* on wider screens, let it grow but not dominate */
+@media (min-width: 640px){
+  .kn-chip--wide{
+    flex: 1 1 auto;
+    min-width: 280px;       /* tweak to taste */
+  }
+}
+
+
 /* ──────────────────────────────────────────
    End Knowledge Panel
    ────────────────────────────────────────── */

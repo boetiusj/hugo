@@ -12,7 +12,11 @@ googleAnalytics = "G-Y229K0TNJR"
   [markup.goldmark]
     [markup.goldmark.renderHooks]
       [markup.goldmark.renderHooks.image]
-        enableDefault = true       
+        enableDefault = true 
+
+[params]
+license_url = "https://crestwoodpainting.com/licensing/"
+acquire_license_url = "mailto:admin@crestwoodpainting.com"      
 
 [taxonomies]
 category = "categories"

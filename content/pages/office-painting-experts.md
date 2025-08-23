@@ -1,17 +1,49 @@
 ---
-title: "Office Painting Experts"
+title: "Office Painting"
 url: "office-painting-experts"
 description: "Painting offices - easy, quiet and fast."
 keywords: "office painting commercial maintenance kansas city"
 canonical: "/office-painting-experts/"
 date: "2017-01-16"
 images: "/images/schema-ogimage.jpg"
-index: true
+schema_images:
+  - src: "/images/office/blue-mfg.jpg"
+    caption: "Manufacturing office painting"
+    representative: true
+  - src: "/images/office/office102.jpg"
+    caption: "Painted offices"
+knowledge:
+  title: "Office & Light Commercial — Quick Facts"
+  summary: "Flexible scheduling (nights/weekends), low-odor systems, coordinated access for occupied spaces."
+  duration_days: 3
+  price_min: 2000
+  price_max: 20000
+  warranty: "2-year workmanship"
+  prep_highlights:
+    - "Staging and protection for furnishings/IT"
+    - "HEPA dust control in work zones"
+    - "After-hours cleanup and re-set"
+  coatings:
+    - "Benjamin Moore Scuff-X (high-traffic walls)"
+    - "Sherwin-Williams ProMar 200 / Duration Home"
+  inclusions:
+    - "Walls/ceilings/doors per plan"
+    - "Minor drywall/plaster touch-ups"
+  exclusions:
+    - "Tenant improvements outside paint scope"
+    - "Flooring, signage, or specialty wallcoverings"
+  service_areas: ["Kansas City, MO","Overland Park, KS","Leawood, KS","Mission, KS","Lenexa, KS","Lee’s Summit, MO"]
+  cta_text: "Request a Proposal"
+  cta_url: "/book/"
+  phone: "816-805-4515"
 service:
   serviceType: "Office Painting"
   areaServed: "Kansas City Metro"
   price: "Quoted"
+index: true
 ---
+{{< knowledge-strip >}}
+
 {{< figure1st
   src="/images/office/blue-mfg.jpg"
 >}}
@@ -19,6 +51,8 @@ service:
 ## The Benefits of Office Painting
 
 A professional office paint job can elevate your brand’s image, boost employee morale, and make a lasting first impression on clients. We’ll help you achieve a polished, professional look that aligns with your company’s values.
+
+{{< knowledge >}}
 
 ### Business Impressions Matter
 

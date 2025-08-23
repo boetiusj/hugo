@@ -6,11 +6,43 @@ keywords: "painting cost, price interior painting, bedroom, living room"
 canonical: "/interior-painter-kansas-city/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
-index: true
+schema_images:
+  - src: "/images/interior/entry-stairs.webp"
+    caption: "Interior painting, Kansas City"
+    representative: true
+  - src: "/images/interior/brick-fp-paint.jpg"
+    caption: "White living room"
+    - src: "/images/interior/mantel-white-close.webp"
+    caption: "White mantel"
+knowledge:
+  title: "Interior Painting — Quick Facts"
+  summary: "Organized jobs, predictable scheduling, tidy daily cleanup. Low-odor, low-disruption workflow."
+  duration_days: 2
+  price_min: 1500
+  price_max: 40000
+  warranty: "2-year workmanship"
+  prep_highlights:
+    - "Masking, floor protection, dust control"
+    - "Nail pops, minor drywall/skimming as scoped"
+    - "Prime stains/tannin spots as needed"
+  coatings:
+    - "Benjamin Moore Regal Select / Aura"
+    - "Sherwin-Williams Cashmere / Emerald"
+  inclusions:
+    - "Walls, ceilings, trim (per proposal)"
+    - "Standard nail hole fill & caulk lines"
+  exclusions:
+    - "Major drywall replacement"
+    - "Custom glazing/faux finishes"
+  service_areas: ["Kansas City MO","Leawood KS","Overland Park KS","Prairie Village KS","Mission Hills KS","Lee’s Summit MO"]
+  cta_text: "Book an Estimate"
+  cta_url: "/book/"
+  phone: "816-805-4515"
 service:
   serviceType: "Interior House Painting"
   areaServed: "Kansas City Metro"
   price: "Quoted"
+index: true
 faqs: 
   - question: "How Much Does Interior Painting Cost?"
     id: "costx"
@@ -33,6 +65,8 @@ faqs:
     answer: |
       A little caution goes a long way! While paint dries quickly, it takes about two to three weeks to fully cure—meaning it reaches maximum hardness and durability. During this time, it’s best to avoid scrubbing, bumping, or placing heavy objects against freshly painted surfaces. If you need to clean a spot, a gentle wipe with a damp cloth will do the trick. After curing, your walls and trim will be fully ready for everyday life.
 ---
+{{< knowledge-strip >}}
+
 {{< figure1st
   src="/images/interior/entry-stairs.webp"
 >}}
@@ -40,6 +74,8 @@ faqs:
 ## Interior Painting – What to Expect
 
 A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are specific and helpful [Interior FAQs](#---) down below and hundreds of ([customer reviews](/reviews/)), too. [Cabinet painting?](/cabinet-painting/) Yep, we do that.
+
+{{< knowledge >}}
 
 ## Let’s Talk: Colors & Expectations
 

@@ -12,35 +12,36 @@ schema_images:
     representative: true
   - src: "/images/cabinets/c-peninsula.jpg"
     caption: "Peninsula cabinets painted"
-index: true
-service:
-  serviceType: "Cabinet Painting"
-  areaServed: "Kansas City Metro"
-  price: "Quoted"
 knowledge:
   title: "Cabinet Painting — Quick Facts"
   summary: "Smooth waterborne enamel finishes with organized, low-disruption workflow."
-  duration_days: 5          # working days for a typical job
-  price_min: 4000           # USD, typical floor
-  price_max: 15000        # USD, typical ceiling
+  duration_days: 5
+  price_min: 4000
+  price_max: 15000
   warranty: "2-year workmanship"
   prep_highlights:
-    - "Clean/degloss, sand, mask"
-    - "Oil or bonding primer"
-    - "Fill/caulk as needed"
+    - "Cover, mask & protect"
+    - "Clean/degloss, sand"
+    - "Fill, caulk & prime"
   coatings:
     - "Benjamin Moore ADVANCE / Scuff-X (waterborne enamel)"
     - "Sherwin-Williams Emerald Urethane"
   inclusions:
     - "Doors and drawer fronts sprayed"
-    - "Face frames and ends brushed/rolled"
+    - "Insides - depends"
     - "Hardware reinstalled"
   exclusions:
     - "Countertops, appliances, flooring"
     - "New cabinet boxes or layout changes"
   service_areas: ["Kansas City, MO", "Leawood, KS", "Overland Park, KS", "Prairie Village, KS"]
   cta_text: "Book an Estimate"
-
+  cta_url: "/book/"
+  phone: "816-805-4515"    
+service:
+  serviceType: "Cabinet Painting"
+  areaServed: "Kansas City Metro"
+  price: "Quoted"
+index: true
 ---
 {{< knowledge-strip >}}
 

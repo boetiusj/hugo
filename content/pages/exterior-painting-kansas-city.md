@@ -9,16 +9,43 @@ images: "/images/schema-ogimage.jpg"
 schema_images:
   - src: "/images/exterior/x-blue.webp"
     caption: "Exterior repaint, Kansas City, MO"
-    representative: true
   - src: "/images/exterior/x-greenranch.webp"
     caption: "Tidy ranch painted"
   - src: "/images/exterior/stately-great-paint.webp"
-    caption: "Stately stucco home"   
-index: true
+    caption: "Stately stucco home"
+    representative: true
+knowledge:
+  title: "Exterior Painting — Quick Facts"
+  summary: "Tidy jobs, clear communication, on-time completion. Organized prep and weather-aware scheduling."
+  duration_days: 5
+  price_min: 5000
+  price_max: 30000
+  warranty: "2-year workmanship"
+  prep_highlights:
+    - "Wash, scrape, sand; spot prime"
+    - "Caulk gaps; minor carpentry as scoped"
+    - "Weather checks each morning"
+  coatings:
+    - "Benjamin Moore Regal Select Exterior / Aura"
+    - "Sherwin-Williams Duration / Emerald"
+  inclusions:
+    - "Body, trim, doors, soffits/fascia (as scoped)"
+    - "Color placement advice"
+  exclusions:
+    - "Masonry/stone unless already painted"
+    - "Full carpentry replacement outside scope"
+  service_areas: ["Neighborhoods: Brookside, Hyde Park, Valentine","Kansas City, MO","Leawood, KS","Overland Park, KS","Prairie Village, KS","Liberty MO"]
+  cta_text: "Book an Estimate"
+  cta_url: "/book/"
+  phone: "816-805-4515"
+  # image: "/images/exterior/panel-thumb.webp"
+  # image_alt: "Fresh exterior repaint, Kansas City"
+  # image_caption: "Two-coat system, satin trim"  
 service:
   serviceType: "Exterior House Painting"
   areaServed: "Kansas City Metro"
   price: "Quoted"
+index: true
 faqs: 
   - question: "What is Included in Exterior House Painting?"
     id: "ex-incl"
@@ -61,6 +88,8 @@ faqs:
       In suburban homes, satin all around is a safe bet. Older, traditional homes often mix two different sheens for contrast. Higher sheens clean up easier but can also highlight imperfections more than lower sheen finishes.
 
 ---
+{{< knowledge-strip >}}
+
 {{< figure1st
   src="/images/exterior/x-blue.webp"
   alt="exterior paint gray house"
@@ -71,6 +100,8 @@ faqs:
 Relax - we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; also check the Exterior FAQs [down below](#---), too.
 
 > They did a fantastic job, were easy to work with, professional, and clearly care about the work they are doing.
+
+{{< knowledge >}}
 
 ### How Many Colors?
 

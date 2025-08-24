@@ -3,7 +3,6 @@ title: "Popcorn Ceiling Removal"
 url: "popcorn-ceiling-removal"
 description: "Removing popcorn ceiling texture is unpleasant - we'll help find the options that make sense for you. Be sure to test for asbestos if built before 1985."
 keywords: "ceiling texture removal, popcorn ceiling, paint contractor"
-canonical: "/popcorn-ceiling-removal/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
 index: true

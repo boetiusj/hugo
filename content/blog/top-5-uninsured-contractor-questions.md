@@ -3,7 +3,6 @@ title: "Top 5 Uninsured Contractor Questions"
 url: "top-5-uninsured-contractor-questions"
 description: "What happens if you hire a uninsured painting contractor - the top 5 questions to ask."
 keywords: "paint contractor, insurance, uninsured, Crestwood Painting, Kansas City"
-canonical: "/top-5-uninsured-contractor-questions/"
 date: "2013-09-28"
 index: true
 images: "/images/schema-ogimage.jpg"
@@ -102,6 +101,6 @@ You can also call the insurance provider listed to verify that the policy is act
 
 Hiring a painter should come with peace of mind. We carry full insurance and are happy to provide documentation upon request. You can [book an estimate](/book-us/) at a time that works for you—most meetings take under 30 minutes, and come with clarity, not pressure.
 
-For more smart homeowner tips, check out [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/), our breakdown of [why painters backroll](/why-painters-backroll/), or tips on [crystal clear contracts](/solid-agreements/). You’ll be glad you did.
+For more smart homeowner tips, check out [12 Questions to Ask *Before* You Hire a Painter](/12-questions-ask-painter/), our breakdown of [why painters backroll](/why-painters-backroll/), or tips on [crystal clear contracts](/solid-agreements/). You’ll be glad you did.
 
 ![customer review](/images/reviews/r19-8-katherinet.png)

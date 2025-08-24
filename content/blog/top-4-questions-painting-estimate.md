@@ -3,7 +3,6 @@ title: "Top 4 Questions Before a Painting Estimate"
 url: "top-4-questions-painting-estimate"
 description: "Here are some key points to consider before a paint estimator knocks at your door."
 keywords: "painter questions kansas city crestwood"
-canonical: "/top-4-questions-painting-estimate/"
 date: "2013-02-11"
 index: true
 images: "/images/schema-ogimage.jpg"

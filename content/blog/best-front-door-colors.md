@@ -3,7 +3,6 @@ title: "Best Front Door Colors"
 url: "best-front-door-colors"
 description: "Choosing front door colors"
 keywords: "front door, paint colors"
-canonical: "/best-front-door-colors/"
 date: "2023-07-22"
 index: true
 feature: "3"

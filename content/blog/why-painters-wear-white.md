@@ -3,20 +3,6 @@ title: Why Do Painters Wear White?
 url: why-painters-wear-white
 description: Answers to the ageless question Why do painters wear white?
 keywords: painters wear white 
-canonical: https://crestwoodpainting.com/why-painters-wear-white/
-date: 2013-01-07
-index: true
-images: "/images/schema-ogimage.jpg"
-image: /images/painters-whites.webp
-categories:
-  - good-to-know
-
-
----  
-White clothing doesn’t make someone a good painter—but it’s tough to find a careless one who wears it.
-
-## A Uniform That’s Stood the Test of Time
-
 Painters wearing white goes back to the 1800s—and the tradition still signals professionalism today.
 
 The practice of painters wearing white dates back to the 19th century, a period that also saw major developments in the painting industry. Sherwin-Williams was founded in 1866, bringing ready-mixed paint to the market. The Painting Contractors Association (PCA) was established in 1884, formalizing the standards of the trade.

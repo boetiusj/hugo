@@ -3,7 +3,6 @@ title: "Project Map"
 url: "map"
 description: "Neighborhoods in metro Kansas City where Crestwood Painting has worked"
 keywords: "project map crestwood painting"
-canonical: "/map/"
 date: "2018-09-27"
 images: "/images/schema-ogimage.jpg"
 index: true

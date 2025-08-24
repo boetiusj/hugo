@@ -3,7 +3,6 @@ title: "Contact Us"
 url: "contact"
 description: "Contact the friendly folks at Crestwood Painting - we'll get right back to you. Or call us: 816-805-4515"
 keywords: "contact, crestwood painting"
-canonical: "/contact/"
 date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
 index: true

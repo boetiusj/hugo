@@ -3,7 +3,6 @@ title: "Touch-ups - Possible?"
 url: "touch-up-paint"
 description: "Paint touch-ups - what to look for"
 keywords: "touch-up paint"
-canonical: "/touch-up-paint/"
 date: "2014-07-30"
 index: true
 images: "/images/schema-ogimage.jpg"

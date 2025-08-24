@@ -3,7 +3,6 @@ title: "Builders Paint is Crummy"
 url: "builders-paint"
 description: "Builders paint has earned its reputation"
 keywords: "paint builders quality"
-canonical: "/builders-paint/"
 date: "2021-04-06"
 index: true
 images: "/images/schema-ogimage.jpg"

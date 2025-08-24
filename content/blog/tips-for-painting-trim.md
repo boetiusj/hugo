@@ -3,7 +3,6 @@ title: "Tips For Painting Trim"
 url: "tips-for-painting-trim"
 description: "Painting interior trim - color tips"
 keywords: "paint color interior trim crestwood"
-canonical: "/tips-for-painting-trim/"
 date: "2013-07-06"
 index: true
 images: "/images/schema-ogimage.jpg"

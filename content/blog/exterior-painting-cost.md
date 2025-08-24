@@ -3,7 +3,6 @@ title: "How Much Does Exterior Painting Cost?"
 url: "exterior-painting-cost"
 description: "Cost of exterior painting in Kansas City"
 keywords: "cost"
-canonical: "/exterior-painting-cost/"
 date: "2013-03-04"
 index: true
 images: "/images/schema-ogimage.jpg"

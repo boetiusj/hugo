@@ -3,7 +3,6 @@ title: "Wallpaper Removal"
 url: "wallpaper-removal-kansas-city"
 description: "Wallpaper removal - what to know"
 keywords: "wallpaper removal"
-canonical: "/wallpaper-removal-kansas-city/"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
 schema_images:

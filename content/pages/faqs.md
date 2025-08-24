@@ -3,7 +3,6 @@ title: "Frequently Asked Questions"
 url: "faqs"
 description: "painting, faq, customer, Kansas City, questions"
 keywords: "painting questions faqs"
-canonical: "/faqs/"
 date: "2011-08-29"
 images: "/images/schema-ogimage.jpg"
 index: true

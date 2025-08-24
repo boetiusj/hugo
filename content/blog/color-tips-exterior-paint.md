@@ -3,7 +3,6 @@ title: "Color Tips for Exterior Paint"
 url: "exterior-color-tips"
 description: "All about dark paint colors - why more labor is required and why they don't cover as well."
 keywords: "paint color tips crestwood painting"
-canonical: "/exterior-color-tips/"
 date: "2013-02-05"
 index: true
 images: "/images/schema-ogimage.jpg"

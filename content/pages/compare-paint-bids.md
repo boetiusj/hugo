@@ -3,7 +3,6 @@ title: "Compare Painting Bids"
 url: "compare-paint-bids"
 description: "What to look for and questions to ask when you're comparing at painting estimates in Kansas City."
 keywords: "painting estimate, compare painting prices, kansas city, crestwood painting"
-canonical: "/compare-paint-bids/"
 date: "2011-08-28"
 images: "/images/schema-ogimage.jpg"
 index: true

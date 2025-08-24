@@ -3,7 +3,6 @@ title: "Office Painting"
 url: "office-painting-experts"
 description: "Painting offices - easy, quiet and fast."
 keywords: "office painting commercial maintenance kansas city"
-canonical: "/office-painting-experts/"
 date: "2017-01-16"
 images: "/images/schema-ogimage.jpg"
 schema_images:

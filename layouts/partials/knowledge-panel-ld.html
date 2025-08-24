@@ -14,6 +14,9 @@
   {{- $offer = merge $offer (dict "price" $k.price_min "priceCurrency" "USD") -}}
 {{- else if $k.price_max -}}
   {{- $offer = merge $offer (dict "price" $k.price_max "priceCurrency" "USD") -}}
+  {{- with $k.duration_days -}}
+  {{- $offer = merge $offer (dict "eligibleDuration" (printf "P%dD" .)) -}}
+{{- end -}}
 {{- end -}}
 
 {{/* Build OfferCatalog items from inclusions (optional) */}}
@@ -24,13 +27,41 @@
   {{- end -}}
 {{- end -}}
 
-{{/* timeRequired from duration_days -> ISO8601 (P#D) */}}
-{{- $time := "" -}}
+{{/* Build additionalProperty (PropertyValue[]) for service facts */}}
+{{- $props := slice -}}
 {{- with $k.duration_days -}}
-  {{- $time = printf "P%dD" . -}}
+  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Typical timeline" "value" (printf "%d working days" .)) -}}
+{{- end -}}
+{{- with $k.coatings -}}
+  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Coatings" "value" (delimit . ", ")) -}}
+{{- end -}}
+{{- with $k.prep_highlights -}}
+  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Prep highlights" "value" (delimit . ", ")) -}}
+{{- end -}}
+{{- with $k.warranty -}}
+  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Warranty" "value" .) -}}
 {{- end -}}
 
-{{/* areaServed as Place list */}}
+{{- $props := slice -}}
+{{- with $k.duration_days -}}
+  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Typical timeline" "value" (printf "%d working days" .)) -}}
+{{- end -}}
+{{- with $k.coatings -}}
+  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Coatings" "value" (delimit . ", ")) -}}
+{{- end -}}
+{{- with $k.prep_highlights -}}
+  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Prep highlights" "value" (delimit . ", ")) -}}
+{{- end -}}
+{{- with $k.warranty -}}
+  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Warranty" "value" .) -}}
+{{- end -}}
+
+{{/* If you want machine-readable duration on the Offer, use eligibleDuration */}}
+{{- with $k.duration_days -}}
+  {{- $offer = merge $offer (dict "eligibleDuration" (printf "P%dD" .)) -}}
+{{- end -}}
+
+{{/* areaServed remains the same (list of Place) */}}
 {{- $areas := slice -}}
 {{- with $k.service_areas -}}
   {{- range . -}}
@@ -38,10 +69,15 @@
   {{- end -}}
 {{- end -}}
 
-{{/* knowsAbout from coatings/prep (optional, helps AI comprehension) */}}
-{{- $knows := slice -}}
-{{- with $k.coatings -}}{{- range . }}{{- $knows = $knows | append . -}}{{- end -}}{{- end -}}
-{{- with $k.prep_highlights -}}{{- range . }}{{- $knows = $knows | append . -}}{{- end -}}{{- end -}}
+{{/* Assemble Service node */}}
+{{- $svc := dict "@type" "Service" "@id" $svcID "offers" $offer -}}
+{{- if $areas }}{{ $svc = merge $svc (dict "areaServed" $areas) }}{{ end -}}
+{{- if $items }}{{ $svc = merge $svc (dict "hasOfferCatalog" (dict "@type" "OfferCatalog" "name" (print $.Title " — Includes") "itemListElement" $items)) }}{{ end -}}
+{{- if $props }}{{ $svc = merge $svc (dict "additionalProperty" $props) }}{{ end -}}
+
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@graph" (slice $svc) | jsonify | safeJS }}
+</script>
 
 <script type="application/ld+json">
 {{- $node := dict
@@ -52,10 +88,8 @@
         "offers" $offer
       ))
 -}}
-{{- if $time }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "timeRequired" $time)))) }}{{ end -}}
 {{- if $areas }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "areaServed" $areas)))) }}{{ end -}}
 {{- if $items }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "hasOfferCatalog" (dict "@type" "OfferCatalog" "name" "Cabinet Painting — Includes" "itemListElement" $items))))) }}{{ end -}}
-{{- if $knows }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "knowsAbout" $knows)))) }}{{ end -}}
 {{ $node | jsonify | safeJS }}
 </script>
 {{- end -}}

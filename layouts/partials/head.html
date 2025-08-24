@@ -10,24 +10,30 @@
 <title>{{ with .Title }}{{ . }}{{ else }}Default Site Title{{ end }}</title>
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
-<!-- Canonical + Robots (single source of truth) -->
-{{- $p := .Paginator -}}
-{{- $isPaginated := and $p (gt $p.PageNumber 1) -}}
-{{- $flagIndex := .Params.index | default true -}}
+<!-- Canonical + Robots (single source of truth; no .Paginator used) -->
+{{- /* List-like kinds where pagination could exist */ -}}
+{{- $isListKind := in (slice "home" "section" "taxonomy" "term") .Kind -}}
+
+{{- /* Detect page>1 by URL pattern (default paginatePath = "page") */ -}}
+{{- $isPaginated := and $isListKind (strings.Contains .RelPermalink "/page/") -}}
+
+{{- /* Respect front-matter flags */ -}}
+{{- $flagIndex   := .Params.index   | default true  -}}
 {{- $flagNoindex := or (not $flagIndex) (.Params.noindex) -}}
 
-{{- /* Robots: noindex paginated pages and any page explicitly noindexed */ -}}
+{{- /* Robots: noindex paginated pages or any page flagged noindex */ -}}
 {{- if or $flagNoindex $isPaginated -}}
   <meta name="robots" content="noindex,follow">
 {{- end -}}
 
 {{- /* Canonical:
-      - Singles & page 1 of lists: emit canonical (via partial)
-      - Page > 1 of lists OR any noindex page: no canonical
+      – Singles & page 1 of lists: emit canonical via partial
+      – Page > 1 of lists OR any noindex page: no canonical
 */ -}}
 {{- if and (not $isPaginated) (not $flagNoindex) -}}
   {{ partial "head/canonical.html" . }}
 {{- end -}}
+
 
 <!-- Opengraph -->
 {{ partial "opengraph.html" . }}

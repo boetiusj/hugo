@@ -10,6 +10,13 @@ HUGO_ENABLEGITINFO = "true"
 [context.split1]
 command = "hugo --gc --minify --enableGitInfo"
 
+# Force non-www (or flip these if you prefer www)
+[[redirects]]
+  from = "https://www.crestwoodpainting.com/*"
+  to   = "https://crestwoodpainting.com/:splat"
+  status = 301
+  force = true
+
 [context.split1.environment]
 HUGO_VERSION = "0.147.3"
 HUGO_ENV = "production"

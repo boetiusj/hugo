@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 Disallow: /*.pdf$
 
-Sitemap: https://www.crestwoodpainting.com/sitemap.xml
+Sitemap: https://crestwoodpainting.com/sitemap.xml

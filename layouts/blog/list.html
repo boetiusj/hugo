@@ -22,11 +22,14 @@
       </div>
 		</div>
 
-		<div class="row justify-content-center mt-5">
-			<div class="col-lg-6 text-center">
-				{{ partial "blog/pagination" . }}
-			</div>
-		</div>
+		{{/* Show pagination only when there are adjacent pages */}}
+    {{ if or $paginator.HasPrev $paginator.HasNext }}
+      <div class="row justify-content-center mt-5">
+        <div class="col-lg-6 text-center">
+          {{ partial "blog/pagination" (dict "p" $paginator) }}
+        </div>
+      </div>
+    {{ end }}
 	</div>
 </section>
 {{ end }}

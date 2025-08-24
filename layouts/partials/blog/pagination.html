@@ -1,21 +1,23 @@
-{{- $pager := .Paginator }}
-{{- $pages := $pager.TotalPages }}
-{{- if gt $pages 1 }}
-<nav class="navigation pagination d-inline-block">
-  <div class="nav-links">
-    {{- with $pager.Prev }}
-    <a class="prev page-numbers" href="{{ .URL }}">Prev</a>
-    <!-- <a class="page-numbers" href="#">{{ .PageNumber }}</a> -->
-    {{ else }}
-    <span class="next page-numbers">Prev</span>
-    {{ end }}
-    <span aria-current="page" class="page-numbers current">{{ $pager.PageNumber }} / {{ $pages }}</span>
-    {{- with $pager.Next -}}
-    <!-- <a class="page-numbers" href="#">{{ .PageNumber }}</a> -->
-    <a class="next page-numbers" href="{{ .URL }}">Next</a>
-    {{ else }}
-    <span class="next page-numbers">Next</span>
-    {{ end }}
-  </div>
-</nav>
-{{- end }}
+{{- /* Prefer the paginator passed in from the list template; fall back to .Paginator if needed */ -}}
+{{- $p := .p | default .Paginator -}}
+{{- if not $p }}{{- /* No paginator on this page type */ -}}{{- else -}}
+  {{- if gt $p.TotalPages 1 -}}
+  <nav class="navigation pagination d-inline-block" aria-label="Pagination">
+    <div class="nav-links">
+      {{- if $p.HasPrev -}}
+        <a class="prev page-numbers" href="{{ $p.Prev.URL }}" rel="prev">Prev</a>
+      {{- else -}}
+        <span class="prev page-numbers" aria-disabled="true">Prev</span>
+      {{- end -}}
+
+      <span aria-current="page" class="page-numbers current">{{ $p.PageNumber }} / {{ $p.TotalPages }}</span>
+
+      {{- if $p.HasNext -}}
+        <a class="next page-numbers" href="{{ $p.Next.URL }}" rel="next">Next</a>
+      {{- else -}}
+        <span class="next page-numbers" aria-disabled="true">Next</span>
+      {{- end -}}
+    </div>
+  </nav>
+  {{- end -}}
+{{- end -}}

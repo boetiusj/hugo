@@ -1,0 +1,7 @@
+{{/* Self-canonical with optional front-matter override */}}
+{{- if not .Params.noindex -}}
+  {{- $canon := .Permalink -}}
+  {{- with .Params.canonical }}{{ $canon = (. | absURL) }}{{ end -}}
+  {{- if not (strings.HasSuffix $canon "/") -}}{{ $canon = printf "%s/" $canon }}{{- end -}}
+  <link rel="canonical" href="{{ $canon }}">
+{{- end -}}

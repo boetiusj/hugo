@@ -10,35 +10,23 @@
 <title>{{ with .Title }}{{ . }}{{ else }}Default Site Title{{ end }}</title>
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
-<!-- Canonical -->
-{{- /* 1) List/taxonomy pages (which support .Paginator) */ -}}
-{{- if or (eq .Kind "home")
-     (eq .Kind "section")
-     (eq .Kind "taxonomy")
-     (eq .Kind "taxonomyTerm") -}}
+<!-- Canonical + Robots (single source of truth) -->
+{{- $p := .Paginator -}}
+{{- $isPaginated := and $p (gt $p.PageNumber 1) -}}
+{{- $flagIndex := .Params.index | default true -}}
+{{- $flagNoindex := or (not $flagIndex) (.Params.noindex) -}}
 
-  {{- with .Paginator -}}
-    {{- if gt .PageNumber 1 -}}
-      <link rel="canonical" href="{{ .First.URL | absURL }}">
-    {{- else -}}
-      <link rel="canonical" href="{{ $.Permalink | absURL }}">
-    {{- end }}
-  {{- else -}}
-    {{- /* In case a taxonomyTerm has no paginator, fall back */ -}}
-    <link rel="canonical" href="{{ .Permalink | absURL }}">
-  {{- end }}
+{{- /* Robots: noindex paginated pages and any page explicitly noindexed */ -}}
+{{- if or $flagNoindex $isPaginated -}}
+  <meta name="robots" content="noindex,follow">
+{{- end -}}
 
-{{- /* 2) Everything else (single pages, etc.) */ -}}
-{{- else -}}
-  {{- $raw := .Params.canonical | default .Permalink -}}
-  <link rel="canonical" href="{{ $raw | absURL }}">
-{{- end }}
-
-<!-- Robots -->
-{{- /* assume index=true unless someone explicitly opts out */ -}}
-{{- $shouldIndex := .Params.index | default true -}}
-{{- if not $shouldIndex -}}
-  <meta name="robots" content="noindex">
+{{- /* Canonical:
+      - Singles & page 1 of lists: emit canonical (via partial)
+      - Page > 1 of lists OR any noindex page: no canonical
+*/ -}}
+{{- if and (not $isPaginated) (not $flagNoindex) -}}
+  {{ partial "head/canonical.html" . }}
 {{- end -}}
 
 <!-- Opengraph -->

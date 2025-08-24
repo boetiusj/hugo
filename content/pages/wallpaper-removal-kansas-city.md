@@ -42,7 +42,7 @@ service:
   areaServed: "Kansas City Metro"
   price: "Quoted"
 ---
-{{< knowledge >}}
+{{< knowledge-strip >}}
 
 {{< figure1st
   src="/images/interior/wallpaper-layers.jpg"

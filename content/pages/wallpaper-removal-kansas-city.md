@@ -16,8 +16,8 @@ knowledge:
   title: "Wallpaper Removal — Quick Facts"
   summary: "Careful testing, enzyme/steam removal, residue neutralization, and wall prep for paint or new paper."
   duration_days: 1
-  price_min: 700
-  price_max: 2500
+  price_min: 1800
+  price_max: 10000
   warranty: "Workmanship on removal & prep"
   prep_highlights:
     - "Test patch to assess paste/type"
@@ -33,8 +33,8 @@ knowledge:
     - "Hidden damage behind paper"
     - "Lead-backed foils or murals (quote separately)"
   service_areas: ["Kansas City MO","Leawood KS","Overland Park KS","Prairie Village KS","Liberty MO","Parkville MO"]
-  # cta_text: "Schedule Removal"
-  # cta_url: "/book/"
+  cta_text: "Schedule Removal"
+  cta_url: "/book-us/#bookform"
   phone: "816-805-4515"
 index: true
 service:

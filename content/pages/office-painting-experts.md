@@ -33,8 +33,8 @@ knowledge:
     - "Tenant improvements outside paint scope"
     - "Flooring, signage, or specialty wallcoverings"
   service_areas: ["Kansas City MO","Overland Park KS","Leawood KS","Mission KS", "Lee’s Summit MO"]
-  # cta_text: "Request a Proposal"
-  # cta_url: "/book/"
+  cta_text: "Request a Proposal"
+  cta_url: "/book-us/#bookform"
   phone: "816-805-4515"
 service:
   serviceType: "Office Painting"

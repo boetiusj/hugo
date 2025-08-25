@@ -70,6 +70,7 @@ Plus, white clothing tends to cost less than dyed garments. When you’re workin
 ## What It Says When a Painter Wears White
 
 While not a guarantee of quality, showing up in whites says: **I take this work seriously.**
+While not a guarantee of quality, showing up in whites says: **I take this work seriously.**
 
 Wearing white is about more than tradition—it’s a mark of pride. It tells customers and coworkers alike that you take the trade seriously, that you know how to work clean, and that you’re someone worth trusting.
 
@@ -84,3 +85,4 @@ Not all white pants qualify. Painter whites are usually made of heavy-duty cotto
 Add a white shirt and some work boots, and you’ve got the traditional uniform that still turns heads on job sites.
 
 ![customer review](/images/reviews/r21-8-montyh.png)
+

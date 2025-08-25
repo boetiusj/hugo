@@ -5,6 +5,7 @@ timeout = "100s"
 enableEmoji = true
 googleAnalytics = "G-Y229K0TNJR"
 # old G (before '24) analytics: UA-1372967-1
+disableHugoGeneratorInject = true
 [build]
   writeStats = true
 

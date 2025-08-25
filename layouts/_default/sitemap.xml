@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
-{{- /* Collect pages: homepage + real indexable pages only */ -}}
-{{- $pages := .Site.RegularPages -}}
+{{- /* Regular, indexable pages only */ -}}
+{{- $pages := site.RegularPages -}}
 {{- $pages = where $pages "Params.noindex" "ne" true -}}
-{{- $pages = union (slice .Home) $pages -}}
+
+{{- /* Include homepage if it exists */ -}}
+{{- $home := site.Home -}}
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{- if $home -}}
+  <url>
+    <loc>{{ $home.Permalink }}</loc>
+    {{- with $home.Lastmod -}}<lastmod>{{ .Format "2006-01-02T15:04:05Z07:00" }}</lastmod>{{- end -}}
+  </url>
+  {{- end -}}
+
   {{- range $pages -}}
   <url>
     <loc>{{ .Permalink }}</loc>

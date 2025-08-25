@@ -1,3 +1,16 @@
+# Collapse www index to apex slash in ONE hop (even if domain alias tries to redirect first)
+[[redirects]]
+  from = "https://www.crestwoodpainting.com/index.html"
+  to   = "https://crestwoodpainting.com/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.crestwoodpainting.com/index.html"
+  to   = "https://crestwoodpainting.com/"
+  status = 301
+  force = true
+
 # www root index.html -> apex slash (ONE hop)
 [[redirects]]
   from = "/index.html"

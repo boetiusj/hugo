@@ -1,81 +1,11 @@
-# Collapse www index to apex slash in ONE hop (even if domain alias tries to redirect first)
-[[redirects]]
-  from = "https://www.crestwoodpainting.com/index.html"
-  to   = "https://crestwoodpainting.com/"
-  status = 301
-  force = true
+###############################################
+# Crestwood Painting — Netlify configuration  #
+# Goal: one-hop normalization, zero 5xx, fast #
+###############################################
 
-[[redirects]]
-  from = "http://www.crestwoodpainting.com/index.html"
-  to   = "https://crestwoodpainting.com/"
-  status = 301
-  force = true
-
-# www root index.html -> apex slash (ONE hop)
-[[redirects]]
-  from = "/index.html"
-  to   = "https://crestwoodpainting.com/"
-  status = 301
-  force = true
-  conditions = { Host = ["www.crestwoodpainting.com"] }
-
-# www subdir index.html -> apex slash (ONE hop)
-[[redirects]]
-  from = "/*/index.html"
-  to   = "https://crestwoodpainting.com/:splat/"
-  status = 301
-  force = true
-  conditions = { Host = ["www.crestwoodpainting.com"] }
-
-# ---------- ONE-HOP NORMALIZATION (specific first) ----------
-
-# http://www  →  https://apex  (ONE hop)
-[[redirects]]
-  from = "http://www.crestwoodpainting.com/*"
-  to   = "https://crestwoodpainting.com/:splat"
-  status = 301
-  force = true
-
-# https://www  →  https://apex  (ONE hop)
-[[redirects]]
-  from = "/:splat"
-  to   = "https://crestwoodpainting.com/:splat"
-  status = 301
-  force = true
-  conditions = { Host = ["www.crestwoodpainting.com"] }
-
-# http://apex  →  https://apex  (ONE hop)
-[[redirects]]
-  from = "http://crestwoodpainting.com/*"
-  to   = "https://crestwoodpainting.com/:splat"
-  status = 301
-  force = true
-
-# Root /index.html  →  /   (normalize)
-[[redirects]]
-  from = "/index.html"
-  to   = "/"
-  status = 301
-  force = true
-
-# Subdir */index.html  →  */  (normalize)
-[[redirects]]
-  from = "/*/index.html"
-  to   = "/:splat/"
-  status = 301
-  force = true
-
-# Add caching headers (safe, low-risk)
-[[headers]]
-  for = "/assets/*"
-  [headers.values]
-  Cache-Control = "public, max-age=31536000, immutable"
-
-[[headers]]
-  for = "/*.html"
-  [headers.values]
-  Cache-Control = "public, max-age=0, must-revalidate"
-
+# =========================
+# BUILD & ENVIRONMENT
+# =========================
 [build]
 publish = "public"
 command = "hugo --gc --minify -b $URL"
@@ -107,33 +37,145 @@ HUGO_VERSION = "0.147.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[[redirects]]
-from = "/npmjs/*"
-to = "/npmjs/"
-status = 200
+# =========================
+# HEADERS (CACHING)
+# =========================
+# Fingerprinted static assets: cache forever
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+  Cache-Control = "public, max-age=31536000, immutable"
 
+# HTML: revalidate at edge on each request (optional: add stale-while-revalidate later)
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+  Cache-Control = "public, max-age=0, must-revalidate"
 
+# =========================
+# CANONICAL DOMAIN & PROTOCOL
+# =========================
+# 1) http://www → https://apex  (ONE hop)
 [[redirects]]
-  from = "/home"
-  to = "/"
+  from = "http://www.crestwoodpainting.com/*"
+  to   = "https://crestwoodpainting.com/:splat"
   status = 301
+  force = true
 
+# 2) https://www → https://apex  (ONE hop)
 [[redirects]]
-  from = "/painter-in-prairie-village"
-  to = "/painter-prairie-village/"
+  from = "/:splat"
+  to   = "https://crestwoodpainting.com/:splat"
   status = 301
+  force = true
+  conditions = { Host = ["www.crestwoodpainting.com"] }
+
+# 3) http://apex → https://apex  (ONE hop)
+[[redirects]]
+  from = "http://crestwoodpainting.com/*"
+  to   = "https://crestwoodpainting.com/:splat"
+  status = 301
+  force = true
+
+# =========================
+# INDEX NORMALIZATION
+# =========================
+# www root/subdir index.html → apex trailing slash (ONE hop)
+[[redirects]]
+  from = "/index.html"
+  to   = "https://crestwoodpainting.com/"
+  status = 301
+  force = true
+  conditions = { Host = ["www.crestwoodpainting.com"] }
 
 [[redirects]]
-from = "/12-questions"
-to = "/12-questions-ask-painter/"
-status = 301  
+  from = "/*/index.html"
+  to   = "https://crestwoodpainting.com/:splat/"
+  status = 301
+  force = true
+  conditions = { Host = ["www.crestwoodpainting.com"] }
+
+# Apex root/subdir index.html → trailing slash
+[[redirects]]
+  from = "/index.html"
+  to   = "/"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/colors-relaxation"
-to = "/colors-interior/"
-status = 301
+  from = "/*/index.html"
+  to   = "/:splat/"
+  status = 301
+  force = true
+
+# =========================
+# PROTECT STATIC PAGES (avoid accidental proxy rewrites)
+# Trailing-slash 301 + identity 200 rewrites for known slugs
+# =========================
+# /reviews
+[[redirects]]
+  from = "/reviews"
+  to   = "/reviews/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/reviews/*"
+  to   = "/reviews/:splat"
+  status = 200
+  force = true
+
+# /nail-pops
+[[redirects]]
+  from = "/nail-pops"
+  to   = "/nail-pops/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/nail-pops/*"
+  to   = "/nail-pops/:splat"
+  status = 200
+  force = true
+
+# /painter-lees-summit
+[[redirects]]
+  from = "/painter-lees-summit"
+  to   = "/painter-lees-summit/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/painter-lees-summit/*"
+  to   = "/painter-lees-summit/:splat"
+  status = 200
+  force = true
+
+# /daunting-colors
+[[redirects]]
+  from = "/daunting-colors"
+  to   = "/daunting-colors/"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/exterior-paint-important/"
-to = "/exterior-color-tips/"
-status = 301
+  from = "/daunting-colors/*"
+  to   = "/daunting-colors/:splat"
+  status = 200
+  force = true
+
+# /interior-painter-kansas-city
+[[redirects]]
+  from = "/interior-painter-kansas-city"
+  to   = "/interior-painter-kansas-city/"
+  status = 301
+  force = true
+
+# /awo-thanks — enforce trailing slash + serve from static
+[[redirects]]
+  from = "/awo-thanks"
+  to   = "/awo-thanks/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/awo-thanks/*"
+  to   = "/awo-thanks/:splat"
+  status = 200
+  force = true

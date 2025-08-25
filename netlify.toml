@@ -1,3 +1,68 @@
+# www root index.html -> apex slash (ONE hop)
+[[redirects]]
+  from = "/index.html"
+  to   = "https://crestwoodpainting.com/"
+  status = 301
+  force = true
+  conditions = { Host = ["www.crestwoodpainting.com"] }
+
+# www subdir index.html -> apex slash (ONE hop)
+[[redirects]]
+  from = "/*/index.html"
+  to   = "https://crestwoodpainting.com/:splat/"
+  status = 301
+  force = true
+  conditions = { Host = ["www.crestwoodpainting.com"] }
+
+# ---------- ONE-HOP NORMALIZATION (specific first) ----------
+
+# http://www  →  https://apex  (ONE hop)
+[[redirects]]
+  from = "http://www.crestwoodpainting.com/*"
+  to   = "https://crestwoodpainting.com/:splat"
+  status = 301
+  force = true
+
+# https://www  →  https://apex  (ONE hop)
+[[redirects]]
+  from = "/:splat"
+  to   = "https://crestwoodpainting.com/:splat"
+  status = 301
+  force = true
+  conditions = { Host = ["www.crestwoodpainting.com"] }
+
+# http://apex  →  https://apex  (ONE hop)
+[[redirects]]
+  from = "http://crestwoodpainting.com/*"
+  to   = "https://crestwoodpainting.com/:splat"
+  status = 301
+  force = true
+
+# Root /index.html  →  /   (normalize)
+[[redirects]]
+  from = "/index.html"
+  to   = "/"
+  status = 301
+  force = true
+
+# Subdir */index.html  →  */  (normalize)
+[[redirects]]
+  from = "/*/index.html"
+  to   = "/:splat/"
+  status = 301
+  force = true
+
+# Add caching headers (safe, low-risk)
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+  Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+  Cache-Control = "public, max-age=0, must-revalidate"
+
 [build]
 publish = "public"
 command = "hugo --gc --minify -b $URL"
@@ -9,13 +74,6 @@ HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
 command = "hugo --gc --minify --enableGitInfo"
-
-# Force non-www (or flip these if you prefer www)
-[[redirects]]
-  from = "https://www.crestwoodpainting.com/*"
-  to   = "https://crestwoodpainting.com/:splat"
-  status = 301
-  force = true
 
 [context.split1.environment]
 HUGO_VERSION = "0.147.3"
@@ -49,20 +107,20 @@ status = 200
 
 [[redirects]]
   from = "/painter-in-prairie-village"
-  to = "/painter-prairie-village"
+  to = "/painter-prairie-village/"
   status = 301
 
 [[redirects]]
 from = "/12-questions"
-to = "/12-questions-ask-painter"
+to = "/12-questions-ask-painter/"
 status = 301  
 
 [[redirects]]
 from = "/colors-relaxation"
-to = "/colors-interior"
+to = "/colors-interior/"
 status = 301
 
 [[redirects]]
 from = "/exterior-paint-important/"
-to = "/exterior-color-tips"
+to = "/exterior-color-tips/"
 status = 301

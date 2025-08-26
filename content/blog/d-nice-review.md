@@ -5,8 +5,11 @@ description: "Another nice review from a happy customer "
 keywords: "painter review, kansas city, crestwood painting"
 date: "2013-07-01"
 index: false
+<<<<<<< HEAD
 sitemap:
   disable: true
+=======
+>>>>>>> b5442a07 (Frontmatter tweaks, sitemap and sitemap.xsl updates.)
 images: "/images/schema-ogimage.jpg"
 image: "/images/reviews/r23-4-karenp.png"
 categories:

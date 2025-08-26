@@ -34,6 +34,13 @@
   {{ partial "head/canonical.html" . }}
 {{- end -}}
 
+{{/* Robots: noindex paginated pages and any page with index=false */}}
+{{- $isListKind := in (slice "home" "section" "taxonomy" "taxonomyTerm") .Kind -}}
+{{- $isPaginated := and $isListKind (strings.Contains .RelPermalink "/page/") -}}
+{{- $shouldIndex := .Params.index | default true -}}
+{{- if or (not $shouldIndex) $isPaginated -}}
+  <meta name="robots" content="noindex,follow">
+{{- end -}}
 
 <!-- Opengraph -->
 {{ partial "opengraph.html" . }}

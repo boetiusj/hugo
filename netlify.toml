@@ -179,3 +179,15 @@ HUGO_ENABLEGITINFO = "true"
   to   = "/awo-thanks/:splat"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/*/amp"
+  to   = "/:splat/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/*/amp/"
+  to   = "/:splat/"
+  status = 301
+  force = true
+

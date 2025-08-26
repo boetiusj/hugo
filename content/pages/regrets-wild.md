@@ -1,10 +1,12 @@
 --- 
 title: "Regrets-wild"
-url: "regrets"
+url: "regrets-wild"
 description: "This Zip code is outside our service area."
 keywords: "-"
 date: "2019-02-13"
 index: false
+sitemap:
+  disable: true
 nofooter: true
 --- 
 This zip code is currently unavailable with our online scheduler. Ask the Store Manager at one of these [professional paint stores](https://www.google.com/search?q=paint+stores+kansas+city) for some great recommendations.

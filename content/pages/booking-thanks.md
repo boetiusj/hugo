@@ -6,6 +6,9 @@ keywords: "online estimate, calendar booking, schedule calendar, Crestwood Paint
 date: "2012-08-27"
 images: "/images/schema-ogimage.jpg"
 index: false
+sitemap:
+  disable: true
+schema_type: "CheckoutPage"
 ---
 
 ![painting estimate request](/images/Thank-You-2-e1514038961814.jpg)

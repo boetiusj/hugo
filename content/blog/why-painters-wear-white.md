@@ -3,9 +3,16 @@ title: Why Do Painters Wear White?
 url: why-painters-wear-white
 description: Answers to the ageless question Why do painters wear white?
 keywords: painters wear white
+date: "2011-09-21"
+images: "/images/schema-ogimage.jpg"
+schema_images:
+  - src: "/images/painters-whites.webp"
+    caption: "Painters' whites, Kansas City, MO"
+    representative: true
+categories:
+  - "color-tips"   
+index: true
 ---
-Painters wearing white goes back to the 1800s—and the tradition still signals professionalism today.
-
 The practice of painters wearing white dates back to the 19th century, a period that also saw major developments in the painting industry. Sherwin-Williams was founded in 1866, bringing ready-mixed paint to the market. The Painting Contractors Association (PCA) was established in 1884, formalizing the standards of the trade.
 
 ![why painters wear whites](/images/painters-whites.webp)
@@ -13,14 +20,6 @@ The practice of painters wearing white dates back to the 19th century, a period 
 These milestones aligned with the rise of white workwear as a symbol of pride, skill, and professional identity.
 
 Even now, from union shops to solo operators, the tradition carries on. In Kansas City and beyond, if your painter’s wearing whites, chances are good they take their work seriously.
-
-## What Counts as “Whites”?
-
-Painter whites are more than just color—they’re built for the job with loops, pockets, and room to move.
-
-Not all white pants qualify. Painter whites are usually made of heavy-duty cotton or canvas, featuring side pockets for tools, loops for rags or brushes, and reinforced knees for crouching. They’re often cut looser than standard pants to make ladder work and long days more comfortable.
-
-Add a white shirt and some work boots, and you’ve got the traditional uniform that still turns heads on job sites.
 
 ## White Helps Set Painters Apart from Other Trades
 
@@ -76,8 +75,12 @@ Wearing white is about more than tradition—it’s a mark of pride. It tells cu
 
 For more tips on professionalism and project planning, check out [how to compare painting bids](/compare-paint-bids/) or explore [best front door colors](/best-front-door-colors/) to help you dream big.
 
-## Book a Quick Estimate
+## What Counts as “Whites”?
 
-Want to see how the pros work? You can [book an estimate](/book-us/) online—most visits take less than 30 minutes. No pressure, just honest feedback and a clear path forward for your painting project.
+Painter whites are more than just color—they’re built for the job with loops, pockets, and room to move.
+
+Not all white pants qualify. Painter whites are usually made of heavy-duty cotton or canvas, featuring side pockets for tools, loops for rags or brushes, and reinforced knees for crouching. They’re often cut looser than standard pants to make ladder work and long days more comfortable.
+
+Add a white shirt and some work boots, and you’ve got the traditional uniform that still turns heads on job sites.
 
 ![customer review](/images/reviews/r21-8-montyh.png)

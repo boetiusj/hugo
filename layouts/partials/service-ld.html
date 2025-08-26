@@ -17,7 +17,7 @@
     {{- if not $page.Params.schema_type }},
     "mainEntityOfPage": { "@type":"WebPage", "@id":"{{ $page.Scratch.Get "webpage_id" | default $page.Permalink }}" }
     {{- end }},
-    "provider": { "@id": "https://crestwoodpainting.com/#site" },
+    "provider": { "@id": "https://crestwoodpainting.com/#local" },
     "areaServed": "{{ .areaServed | default "Kansas City Metro" }}",
     "offers": {
       "@type": "Offer",

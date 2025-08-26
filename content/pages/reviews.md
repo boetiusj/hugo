@@ -6,7 +6,6 @@ keywords: "customer reviews, testimonials, feedback, painter reviews"
 date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
 index: true
-schema_type: "WebPage"
 ---
 ## Customer Reviews and Feedback
 

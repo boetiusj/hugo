@@ -5,7 +5,9 @@ description: "Online payments through Paypal and Venmo - secure, no PayPal accou
 keywords: "payment, credit card, online payments, Crestwood Painting"
 date: "2011-05-05"
 images: "/images/schema-ogimage.jpg"
-index: true
+index: false
+sitemap:
+  disable: true
 schema_type: "CheckoutPage"
 ---
 

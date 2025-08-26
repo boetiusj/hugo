@@ -3,6 +3,7 @@ title: Why Do Painters Wear White?
 url: why-painters-wear-white
 description: Answers to the ageless question Why do painters wear white?
 keywords: painters wear white
+index: true
 ---
 Painters wearing white goes back to the 1800s—and the tradition still signals professionalism today.
 
@@ -70,7 +71,7 @@ Plus, white clothing tends to cost less than dyed garments. When you’re workin
 
 ## What It Says When a Painter Wears White
 
-While not a guarantee of quality, showing up in whites says: *I take this work seriously.*
+While not a guarantee of quality, showing up in whites says: _I take this work seriously._
 
 Wearing white is about more than tradition—it’s a mark of pride. It tells customers and coworkers alike that you take the trade seriously, that you know how to work clean, and that you’re someone worth trusting.
 

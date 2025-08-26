@@ -6,7 +6,6 @@ keywords: "paint colors, kansas city, Crestwood Painting, color professional"
 date: "2011-08-28"
 images: "/images/schema-ogimage.jpg"
 index: true
-schema_type: "Article"
 ---
 {{< figure1st
   src="/images/other/color-chip-wall.jpg"

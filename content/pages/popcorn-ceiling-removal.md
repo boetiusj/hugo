@@ -5,8 +5,7 @@ description: "Removing popcorn ceiling texture is unpleasant - we'll help find t
 keywords: "ceiling texture removal, popcorn ceiling, paint contractor"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
-index: true
-schema_type: "WebPage"
+index: true"
 ---
 {{< figure1st
   src="/images/popcorn-ceiling-300x200.jpg"

@@ -12,7 +12,6 @@ schema_images:
   - src: "/images/exterior/tudor-brick.jpg"
     caption: "House colors, tudor style"
 index: true
-schema_type: "Article"
 ---
 {{< figure1st
   src="/images/exterior/ranch-white.jpg"

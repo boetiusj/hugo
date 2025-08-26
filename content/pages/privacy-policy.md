@@ -3,6 +3,9 @@ title: Privacy Policy
 url: privacy-policy
 description: Your privacy is important - here's our policy.
 keywords: privacy policy, Crestwood Painting
+index: false
+sitemap:
+  disable: true
 ---
 This Privacy Policy governs the manner in which Crestwood Painting collects, uses, maintains and discloses information collected from users (each, a "User") of the crestwoodpainting.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Crestwood Painting.
 

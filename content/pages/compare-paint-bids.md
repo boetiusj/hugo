@@ -6,7 +6,6 @@ keywords: "painting estimate, compare painting prices, kansas city, crestwood pa
 date: "2011-08-28"
 images: "/images/schema-ogimage.jpg"
 index: true
-schema_type: "Article"
 ---
 {{< figure1st
   src="/images/other/apple-n-orange.webp"

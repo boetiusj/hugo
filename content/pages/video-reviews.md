@@ -6,7 +6,6 @@ keywords: "review painting kansas city Crestwood Painting office interior"
 date: "2017-12-02"
 images: "/images/schema-ogimage.jpg"
 index: true
-schema_type: "WebPage"
 ---
 ## Videos - Customer Reviews
 

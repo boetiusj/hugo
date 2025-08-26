@@ -12,7 +12,7 @@
           {{ $pages = where $pages "Params.index" true }}
           {{ range $pages }}
           <li>
-              {{- $image := default "/images/blog/bt-3.jpg" .Params.image }}
+              {{- $image := default "/images/blog/clipboard.webp" .Params.image }}
               <a href="{{ .Permalink }}">
                 {{ partial "template-image.html" (dict
                   "Destination" $image

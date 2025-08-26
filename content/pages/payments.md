@@ -6,6 +6,8 @@ keywords: "payment, credit card, online payments, Crestwood Painting"
 date: "2011-05-05"
 images: "/images/schema-ogimage.jpg"
 index: false
+sitemap:
+  disable: true
 schema_type: "CheckoutPage"
 ---
 

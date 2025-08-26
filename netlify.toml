@@ -180,10 +180,6 @@ HUGO_ENABLEGITINFO = "true"
   status = 200
   force = true
 
-<<<<<<< HEAD
-# /awo-thanks — enforce trailing slash + serve from static
-=======
->>>>>>> dfcb792c (Google Search Console fix Crawled - currently not indexed)
 [[redirects]]
   from = "/*/amp"
   to   = "/:splat/"

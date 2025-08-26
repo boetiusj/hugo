@@ -7,6 +7,10 @@ date: "2014-01-24"
 index: true
 images: "/images/schema-ogimage.jpg"
 image: "/images/duration.jpg"
+schema_images:
+  - src: "/images/duration.jpg"
+    caption: "Dark paint colors, Kansas City, MO"
+    representative: true
 categories:
   - "color-tips"
 
@@ -35,7 +39,7 @@ Allow enough drying time between coats—rushing can cause peeling or patchiness
 
 ### DIY Trick
 
-Using a gray-tinted primer helps reduce the total number of coats needed for deep or bright colors. A gray base offers a more neutral foundation than white, allowing the final shade to appear richer without overwhelming the surface.
+Using a gray-tinted primer helps reduce the total number of coats needed for deep or bright colors. A gray base offers a more neutral foundation than white, allowing the final shade to appear richer without overwhelming the surface. This is more helpful on interiors and less relevant for [exterior painting](/content/pages/exterior-painting-kansas-city/).
 
 #### Why Gray Primer Works
 

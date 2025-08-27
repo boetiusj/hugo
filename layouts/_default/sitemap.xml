@@ -1,50 +1,21 @@
-{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>\n<?xml-stylesheet type=\"text/xsl\" href=\"/sitemap.xsl\"?>" | safeHTML }}
+{{- print "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {{/* Include home explicitly */}}
+  {{ with .Site.Home }}
+    <url>
+      <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
+      <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>{{ end }}
+    </url>
+  {{ end }}
 
-  {{- /* 0) Build a clean page set: RegularPages only, exclude noindex */ -}}
-  {{- $pages := site.RegularPages -}}
-  {{- $pages = where $pages "Params.noindex" "ne" true -}}
-
-  {{- /* 1) Include homepage explicitly (RegularPages doesn't include it) */ -}}
-  {{- $home := site.Home -}}
-  {{- if $home }}
-  <url>
-    <loc>{{ $home.Permalink }}</loc>
-    {{- with $home.Lastmod }}<lastmod>{{ .Format "2006-01-02T15:04:05-07:00" }}</lastmod>{{ end }}
-  </url>
-  {{- end }}
-
-  {{- /* 2) (Optional) Stable order for diffs; bots don't care */ -}}
-  {{- $pages = sort $pages "Lastmod" "desc" -}}
-
+  {{/* Only regular pages that are NOT sitemap.disabled and NOT index:false */}}
+  {{- $pages := where .Site.RegularPages "Sitemap.Disable" "ne" true -}}
+  {{- $pages = where $pages "Params.index" "ne" false -}}
   {{- range $pages }}
-    {{- if .Permalink -}}
-  <url>
-    <loc>{{ .Permalink }}</loc>
-    {{- /* 3) Lastmod with fallback to Date if Lastmod is zero */ -}}
-    {{- if not .Lastmod.IsZero }}
-    <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
-    {{- else if .Date }}
-    <lastmod>{{ .Date.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
-    {{- end }}
-
-    {{- /* 4) Keep changefreq/priority if you use them; harmless otherwise */ -}}
-    {{- with .Sitemap.ChangeFreq }}
-    <changefreq>{{ . }}</changefreq>
-    {{- end }}
-    {{- if ge .Sitemap.Priority 0.0 }}
-    <priority>{{ .Sitemap.Priority }}</priority>
-    {{- end }}
-
-    {{- /* 5) Hreflang alternates (including self) if translations exist */ -}}
-    {{- if .IsTranslated -}}
-      {{- range .Translations }}
-    <xhtml:link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
-      {{- end }}
-    <xhtml:link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
-    {{- end }}
-  </url>
-    {{- end -}}
+    <url>
+      <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
+      <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>{{ end }}
+    </url>
   {{- end }}
 </urlset>

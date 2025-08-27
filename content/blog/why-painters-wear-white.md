@@ -85,4 +85,3 @@ Not all white pants qualify. Painter whites are usually made of heavy-duty cotto
 Add a white shirt and some work boots, and you’ve got the traditional uniform that still turns heads on job sites.
 
 ![customer review](/images/reviews/r21-8-montyh.png)
-

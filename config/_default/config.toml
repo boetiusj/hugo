@@ -25,7 +25,6 @@ category = "categories"
 # tags = ["Products", "Tips", "Color", "Best Practices"]
 
 disableKinds = ['RSS']
-# 'robotsTXT' removed
 enableRobotsTXT = true
 
 [[module.mounts]]
@@ -34,3 +33,20 @@ target = 'assets'
 [[module.mounts]]
 source = 'static'
 target = 'assets'
+
+[related]
+threshold = 30
+includeNewer = true
+toLower = true
+
+[[related.indices]]
+name = "keywords"   # use your front-matter array .Params.keywords or .Params.tags
+weight = 100
+
+[[related.indices]]
+name = "categories"
+weight = 80
+
+[[related.indices]]
+name = "date"
+weight = 10

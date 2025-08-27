@@ -1,0 +1,33 @@
+{{- $items := site.Data.services -}}
+
+{{/* Optional page-level control */}}
+{{- $inc := .Params.service_links_include | default (slice) -}}
+{{- $exc := .Params.service_links_exclude | default (slice) -}}
+{{- if gt (len $inc) 0 -}}
+  {{- $items = where $items "id" "in" $inc -}}
+{{- end -}}
+{{- if gt (len $exc) 0 -}}
+  {{- $items = where $items "id" "not in" $exc -}}
+{{- end -}}
+
+{{/* Default: take the first 4 if page didn’t specify */}}
+{{- $limit := .Params.service_links_limit | default 4 -}}
+{{- $items = first $limit $items -}}
+
+{{- if gt (len $items) 0 -}}
+<section class="section py-10 border-top">
+  <div class="container">
+    <h2 class="h5 mb-4">Popular services</h2>
+    <ul class="row list-unstyled g-3">
+      {{- range $items -}}
+      <li class="col-12 col-sm-6 col-lg-3">
+        <a class="d-block p-3 rounded-4 border text-decoration-none" href="{{ .url }}">
+          <div class="fw-semibold">{{ .title }}</div>
+          {{ with .blurb }}<div class="small text-muted mt-1">{{ . }}</div>{{ end }}
+        </a>
+      </li>
+      {{- end -}}
+    </ul>
+  </div>
+</section>
+{{- end -}}

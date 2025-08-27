@@ -29,6 +29,14 @@
     {{ end }}
 
     {{ .Content }}
+    
+    {{- $isService := eq .Section "pages" -}}
+    {{- $explicitOn := eq .Params.show_service_links true -}}
+    {{- $explicitOff := eq .Params.show_service_links false -}}
+    {{- $blocked := in (slice "book-us" "contact" "privacy-policy" "payments" "payment-thank-you" "estimate-thanks" "awo-thanks") .File.BaseFileName -}}
+    {{- if and (not $blocked) (or $explicitOn (and $isService (not $explicitOff))) -}}
+      {{ partial "service-links.html" . }}
+    {{- end -}}
 
   </div>
 </section>

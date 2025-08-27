@@ -1,0 +1,11 @@
+{{- $rels := .Site.RegularPages.Related . | first 5 -}}
+{{- if gt (len $rels) 0 -}}
+<section class="section py-6 border-t">
+  <h2 class="h5 mb-4">Related reads</h2>
+  <ul class="list-disc ml-6">
+    {{- range $rels -}}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{- end -}}
+  </ul>
+</section>
+{{- end -}}

@@ -42,6 +42,11 @@ service:
   areaServed: "Kansas City Metro"
   price: "Quoted"
 index: true
+# service links: "interior","exterior","cabinets","wallpaper","basements","plaster"
+show_service_links: true          # force on (if using global guard)
+service_links_include: ["exterior","basements","plaster"]
+service_links_exclude: ["wallpaper"]
+service_links_limit: 3
 faqs: 
   - question: "How Much Does Interior Painting Cost?"
     id: "costx"

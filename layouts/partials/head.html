@@ -10,7 +10,6 @@
 <title>{{ with .Title }}{{ . }}{{ else }}Default Site Title{{ end }}</title>
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
-<!-- Canonical + Robots (single source of truth; no .Paginator used) -->
 <!-- Canonical + Robots (single source of truth; deduped; no .Paginator calls) -->
 {{- /* 1) Shared facts for this page */ -}}
 {{- $isListKind   := in (slice "home" "section" "taxonomy" "taxonomyTerm") .Kind -}}
@@ -18,17 +17,15 @@
 {{- $shouldIndex  := .Params.index | default true -}}
 {{- $isNoindex    := not $shouldIndex -}}
 
-{{- /* 2) Canonical:
+<!-- 2) Canonical:
       – Emit only when indexable AND not a paginated page
-      – (No canonical on page>1 or noindex pages)
-*/ -}}
+      – (No canonical on page>1 or noindex pages) -->>
 {{- if and (not $isPaginated) (not $isNoindex) -}}
   {{ partial "head/canonical.html" . }}
 {{- end -}}
 
-{{- /* 3) Robots: one and only one <meta> per page (deduped via Scratch)
-      – Emit on noindex pages and on paginated list pages
-*/ -}}
+<!-- 3) Robots: one and only one <meta> per page (deduped via Scratch)
+      – Emit on noindex pages and on paginated list pages -->>
 {{- if not (.Scratch.Get "meta_robots_emitted") -}}
   {{- if or $isNoindex $isPaginated -}}
     <meta name="robots" content="noindex,follow">

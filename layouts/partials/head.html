@@ -11,35 +11,29 @@
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
 <!-- Canonical + Robots (single source of truth; no .Paginator used) -->
-{{- /* List-like kinds where pagination could exist */ -}}
-{{- $isListKind := in (slice "home" "section" "taxonomy" "term") .Kind -}}
+<!-- Canonical + Robots (single source of truth; deduped; no .Paginator calls) -->
+{{- /* 1) Shared facts for this page */ -}}
+{{- $isListKind   := in (slice "home" "section" "taxonomy" "taxonomyTerm") .Kind -}}
+{{- $isPaginated  := and $isListKind (strings.Contains .RelPermalink "/page/") -}}
+{{- $shouldIndex  := .Params.index | default true -}}
+{{- $isNoindex    := not $shouldIndex -}}
 
-{{- /* Detect page>1 by URL pattern (default paginatePath = "page") */ -}}
-{{- $isPaginated := and $isListKind (strings.Contains .RelPermalink "/page/") -}}
-
-{{- /* Respect front-matter flags */ -}}
-{{- $flagIndex   := .Params.index   | default true  -}}
-{{- $flagNoindex := or (not $flagIndex) (.Params.noindex) -}}
-
-{{- /* Robots: noindex paginated pages or any page flagged noindex */ -}}
-{{- if or $flagNoindex $isPaginated -}}
-  <meta name="robots" content="noindex,follow">
-{{- end -}}
-
-{{- /* Canonical:
-      – Singles & page 1 of lists: emit canonical via partial
-      – Page > 1 of lists OR any noindex page: no canonical
+{{- /* 2) Canonical:
+      – Emit only when indexable AND not a paginated page
+      – (No canonical on page>1 or noindex pages)
 */ -}}
-{{- if and (not $isPaginated) (not $flagNoindex) -}}
+{{- if and (not $isPaginated) (not $isNoindex) -}}
   {{ partial "head/canonical.html" . }}
 {{- end -}}
 
-{{/* Robots: noindex paginated pages and any page with index=false */}}
-{{- $isListKind := in (slice "home" "section" "taxonomy" "taxonomyTerm") .Kind -}}
-{{- $isPaginated := and $isListKind (strings.Contains .RelPermalink "/page/") -}}
-{{- $shouldIndex := .Params.index | default true -}}
-{{- if or (not $shouldIndex) $isPaginated -}}
-  <meta name="robots" content="noindex,follow">
+{{- /* 3) Robots: one and only one <meta> per page (deduped via Scratch)
+      – Emit on noindex pages and on paginated list pages
+*/ -}}
+{{- if not (.Scratch.Get "meta_robots_emitted") -}}
+  {{- if or $isNoindex $isPaginated -}}
+    <meta name="robots" content="noindex,follow">
+  {{- end -}}
+  {{- .Scratch.Set "meta_robots_emitted" true -}}
 {{- end -}}
 
 <!-- Opengraph -->

@@ -40,7 +40,7 @@ includeNewer = true
 toLower = true
 
 [[related.indices]]
-name = "keywords"   # use your front-matter array .Params.keywords or .Params.tags
+name = "keywords"
 weight = 100
 
 [[related.indices]]

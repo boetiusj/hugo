@@ -1,6 +1,17 @@
 {{ define "main" }}
 {{ partial "blocks/page-title.html" . }}
 {{ $config := site.Params }}
+
+{{- $off := eq .Params.show_related false -}}
+{{- if not $off -}}
+  {{ partial "related-links.html" . }}
+{{- end -}}
+
+{{/* Optional: also show services block at end of posts */}}
+{{- if eq .Params.show_service_links true -}}
+  {{ partial "service-links.html" . }}
+{{- end -}}
+
 <section class="section blog-wrap bg-gray">
   <div class="container">
     <div class="row">

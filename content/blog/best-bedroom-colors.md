@@ -10,7 +10,7 @@ image: "/images/bedroompaintcolors.webp"
 categories:
   - "color-tips"
   - "interior"
-
+show_service_links: true
 ---
 ## Understanding How Color Affects Sleep
 

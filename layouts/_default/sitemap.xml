@@ -1,8 +1,7 @@
-{{- print "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>\n<?xml-stylesheet type=\"text/xsl\" href=\"/sitemap.xsl\"?>" | safeHTML -}}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  {{/* Include home explicitly */}}
+  {{/* Always include the homepage once */}}
   {{ with .Site.Home }}
     <url>
       <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}

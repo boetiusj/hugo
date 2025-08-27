@@ -40,6 +40,17 @@ HUGO_ENABLEGITINFO = "true"
 # =========================
 # HEADERS (CACHING)
 # =========================
+# so XML isn’t sticky-cached
+[[headers]]
+  for = "/sitemap.xml"
+  [headers.values]
+  Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/robots.txt"
+  [headers.values]
+  Cache-Control = "public, max-age=0, must-revalidate"
+
 # Fingerprinted static assets: cache forever
 [[headers]]
   for = "/assets/*"

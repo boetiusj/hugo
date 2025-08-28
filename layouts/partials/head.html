@@ -41,11 +41,6 @@
 {{ partial "breadcrumb-ld.html" . }} {{/* Insert one universal breadcrumb JSON-LD on every page */}}
 {{ partial "knowledge-panel-ld.html" . }}
 
-<!-- Fonts (currently using System Fonts) -->
-<!-- <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" href="/fonts/5aU19_a8oxmIfMJaERKSjQpf.woff2" as="font" type="font/woff2" crossorigin="anonymous"> -->
-
 <!-- Stylesheets -->
 {{ $bootstrap := resources.Get "bootstrap/bootstrap.min.css" }}
 {{ $custom    := resources.Get "scss/main.scss" | css.Sass | resources.Minify }}

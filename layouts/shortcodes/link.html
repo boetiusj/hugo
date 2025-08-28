@@ -1,3 +1,17 @@
-{{- $path := .Get 0 -}}
-{{- $text := .Get 1 -}}
-[{{ $text }}]({{< relref $path >}})
+{{- $path   := .Get 0 -}}                 {{/* e.g., "pages/interior-painter-kansas-city" or "...md" */}}
+{{- $text   := .Get 1 | default "" -}}    {{/* optional link text */}}
+{{- $anchor := .Get 2 | default "" -}}    {{/* optional fragment without '#' */}}
+
+{{- $url := relref . $path -}}
+{{- if $anchor }}{{ $url = printf "%s#%s" $url $anchor }}{{ end -}}
+
+{{- if not $text -}}
+  {{- with site.GetPage $path -}}
+    {{- $text = .LinkTitle -}}
+  {{- else -}}
+    {{- $text = $path -}}
+    {{- warnf "link shortcode: page not found for path %q on %s" $path .Page.RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+
+<a href="{{ $url }}">{{ $text }}</a>

@@ -43,9 +43,9 @@ service:
 index: true
 # service links: "interior","exterior","cabinets","wallpaper","basements","plaster"
 show_service_links: true          # force on (if using global guard)
-service_links_include: ["exterior","basements","interior"]
-service_links_exclude: ["wallpaper"]
-service_links_limit: 3
+service_links_include: []
+service_links_exclude: ["cabinets"]
+service_links_limit: 4
 ---
 {{< knowledge-strip >}}
 

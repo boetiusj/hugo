@@ -45,6 +45,11 @@ service:
   areaServed: "Kansas City Metro"
   price: "Quoted"
 index: true
+# service links: "offices","doors","interior","exterior","cabinets","wallpaper","basements","plaster"
+show_service_links: true          # force on (if using global guard)
+service_links_include: []
+service_links_exclude: ["exterior"]
+service_links_limit: 4
 faqs: 
   - question: "What is Included in Exterior House Painting?"
     id: "ex-incl"

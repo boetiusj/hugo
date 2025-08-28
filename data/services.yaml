@@ -1,18 +1,3 @@
-- id: interior
-  title: Interior Painting
-  url: /interior-painter-kansas-city/
-  blurb: Clean lines. Minimal disruption.
-
-- id: exterior
-  title: Exterior Painting
-  url: /exterior-painting-kansas-city/
-  blurb: Durable prep. Weather-smart.
-
-- id: cabinets
-  title: Cabinet Painting
-  url: /cabinet-painting/
-  blurb: Factory-smooth finishes.
-
 - id: wallpaper
   title: Wallpaper Removal
   url: /wallpaper-removal-kansas-city/
@@ -32,3 +17,26 @@
   title: Basement Painting
   url: /interior-painter-kansas-city/
   blurb: Brighten the space.
+
+- id: doors
+  title: Front Doors
+  url: /best-front-door-colors/
+  blurb: Make a statement.
+
+- id: interior
+  title: Interior Painting
+  url: /interior-painter-kansas-city/
+  blurb: Clean lines. Minimal disruption.
+
+- id: exterior
+  title: Exterior Painting
+  url: /exterior-painting-kansas-city/
+  blurb: Durable prep. Weather-smart.
+
+- id: cabinets
+  title: Cabinet Painting
+  url: /cabinet-painting/
+  blurb: Factory-smooth finishes.
+
+
+  

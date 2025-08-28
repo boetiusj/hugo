@@ -1,0 +1,7 @@
+{{- $dest := .Destination -}}
+{{- $base := site.BaseURL | strings.TrimRight "/" -}}
+{{- $internal := or (strings.HasPrefix $dest "/") (strings.HasPrefix $dest $base) -}}
+{{- if $internal }}
+  {{ warnf "Hard-coded internal link in %s: %s" .Page.File.Path $dest }}
+{{ end }}
+<a href="{{ $dest | relURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>

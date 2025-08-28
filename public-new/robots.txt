@@ -1,0 +1,6 @@
+# Robots.txt file for managing crawler access
+User-agent: *
+Allow: /
+Disallow: /*.pdf$
+
+Sitemap: https://crestwoodpainting.com/sitemap.xml

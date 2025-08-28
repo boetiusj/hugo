@@ -1,32 +1,70 @@
 {{/* Emit Service JSON-LD when a page has .Params.service */}}
-{{- with .Params.service }}
-  {{- $page := $ -}}
+{{- $page := . -}}
+{{- with $page.Params.service -}}
 
   {{- $img := "" -}}
-  {{- with $page.Params.image }}
+  {{- with $page.Params.image -}}
     {{- $img = cond (in . "http") . (absURL .) -}}
-  {{- end }}
+  {{- end -}}
 
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "{{ $page.Title }}",
-    "serviceType": "{{ .serviceType }}",
-    "description": "{{ $page.Description | default $page.Summary }}"{{/* ← no trailing comma yet */}}
-    {{- if not $page.Params.schema_type }},
-    "mainEntityOfPage": { "@type":"WebPage", "@id":"{{ $page.Scratch.Get "webpage_id" | default $page.Permalink }}" }
-    {{- end }},
+    "name": {{ $page.Title | jsonify }},
+    "serviceType": {{ .serviceType | jsonify }},
+    "description": {{ ($page.Description | default $page.Summary) | jsonify }}{{ if not $page.Params.schema_type }},
+    "mainEntityOfPage": { "@type":"WebPage", "@id":"{{ $page.Scratch.Get "webpage_id" | default $page.Permalink }}" }{{ end }},
     "provider": { "@id": "https://crestwoodpainting.com/#local" },
-    "areaServed": "{{ .areaServed | default "Kansas City Metro" }}",
+    "areaServed": {{ (.areaServed | default "Kansas City Metro") | jsonify }},
     "offers": {
       "@type": "Offer",
-      "price": "{{ .price | default "Quoted" }}",
+      "price": {{ (.price | default "Quoted") | jsonify }},
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock",
       "url": "{{ $page.Permalink }}"
-    }{{- if $img }},
-    "image": "{{ $img }}"{{- end }}
+    }{{ if $img }},
+    "image": {{ $img | jsonify }}{{ end }}{{ with .hasOfferCatalog }},
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Painting Services",
+      "itemListElement": [
+        {{- /* Use Scratch to manage commas only for items we actually emit */ -}}
+        {{- $.Scratch.Set "firstItem" true -}}
+        {{- range $i, $o := . -}}
+          {{- $finalURL := "" -}}
+          {{- $dispName := (index $o "name") -}}
+
+          {{- with (index $o "path") -}}
+            {{- with site.GetPage . -}}
+              {{- $finalURL = .Permalink -}}
+              {{- if not $dispName }}{{ $dispName = .LinkTitle }}{{ end -}}
+            {{- end -}}
+          {{- end -}}
+
+          {{- if and (eq $finalURL "") (index $o "url") -}}
+            {{- $u := index $o "url" -}}
+            {{- $finalURL = cond (in $u "http") $u (absURL $u) -}}
+          {{- end -}}
+
+          {{- if $finalURL -}}
+            {{- if not ($.Scratch.Get "firstItem") }},{{ end -}}
+            {
+              "@type":"Offer",
+              "itemOffered":{
+                "@type":"Service",
+                "name": {{ $dispName | default "" | jsonify }},
+                "url":  {{ $finalURL | jsonify }}
+              }
+            }
+            {{- $.Scratch.Set "firstItem" false -}}
+          {{- else -}}
+            {{- warnf "hasOfferCatalog item skipped (no path/url) on %s: %#v" $page.RelPermalink $o -}}
+          {{- end -}}
+        {{- end -}}
+      ]
+    }{{ end }}
   }
   </script>
-{{- end }}
+
+{{- end -}}

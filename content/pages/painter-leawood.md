@@ -1,5 +1,7 @@
 ---
 title: "Painter in Leawood"
+slug: "painter-in-leawood"           # lock new canonical
+aliases: ["/painter-leawood/"]       # preserve old
 description: "Crestwood Painting in Leawood, KS - homes and offices!"
 keywords: "painter leawood ks"
 date: "2014-01-04"

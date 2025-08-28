@@ -1,5 +1,7 @@
 ---
 title: "Builders Paint is Crummy"
+slug: "builders-paint-is-crummy"        # lock new canonical
+aliases: "/builders-paint/"             # preserve old
 description: "Builders paint has earned its reputation"
 keywords: "paint builders quality"
 date: "2021-04-06"

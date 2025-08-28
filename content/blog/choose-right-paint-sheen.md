@@ -1,5 +1,7 @@
 ---
 title: "Choose the Right Paint Sheen"
+slug: "choose-the-right-paint-sheen"        # lock new canonical
+aliases: "/choose-paint-sheen/"             # preserve old
 description: "Some of the factors involved in choosing paint sheens."
 keywords: "Paint sheen color crestwood painting"
 date: "2013-01-28"

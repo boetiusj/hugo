@@ -1,5 +1,7 @@
 --- 
 title: "Frequently Asked Questions"
+slug: "frequently-asked-questions"   # lock new canonical
+aliases: "/faqs/"                    # preserve old
 description: "painting, faq, customer, Kansas City, questions"
 keywords: "painting questions faqs"
 date: "2011-08-29"

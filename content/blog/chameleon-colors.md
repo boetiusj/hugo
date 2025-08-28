@@ -1,5 +1,6 @@
 ---
 title: "Chameleon Colors"
+slug: "chameleon-colors"           # lock new canonical
 description: "Paint colors can look different depending on sunlight, shadows, reflection of other colors."
 keywords: "paint colors kansas city"
 date: "2016-02-02"

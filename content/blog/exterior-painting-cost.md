@@ -1,5 +1,7 @@
 ---
 title: "How Much Does Exterior Painting Cost?"
+slug: "how-much-does-exterior-painting-cost"           # lock new canonical
+aliases: ["/exterior-painting-cost/"]       # preserve old
 description: "Cost of exterior painting in Kansas City"
 keywords: "cost"
 date: "2013-03-04"

@@ -1,5 +1,7 @@
 ---
 title: "Painter in Mission Hills"
+slug: "painter-in-mission-hills"           # lock new canonical
+aliases: ["/painter-mission-hills/"]       # preserve old
 description: "Crestwood Painting in Mission Hills, KS - homes and offices!"
 keywords: "painter mission hills ks"
 date: "2025-03-21"

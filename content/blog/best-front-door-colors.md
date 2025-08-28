@@ -1,5 +1,7 @@
 ---
 title: "Best Front Door Colors"
+slug: "best-front-door-colors"        # lock new canonical
+aliases: ["/best-front-door-colors/"]             # preserve old
 description: "Choosing front door colors"
 keywords: "front door, paint colors"
 date: "2023-07-22"

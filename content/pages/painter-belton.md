@@ -1,5 +1,7 @@
 ---
 title: "Painter in Belton"
+slug: "painter-in-belton"           # lock new canonical
+aliases: ["/painter-belton/"]       # preserve old
 description: "Crestwood Painting in Belton, MO - homes and offices!"
 keywords: "painter belton mo"
 date: "2025-03-21"

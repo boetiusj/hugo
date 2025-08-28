@@ -1,5 +1,7 @@
 ---
 title: "Proper Paint Storage - 3 Steps"
+slug: "proper-paint-storage-3-steps"           # lock new canonical
+aliases: ["/proper-paint-storage/"]       # preserve old
 description: "Tips on how to best make paint storage painless - when to keep paint, how to get rid of old paint and how to store paint so you can actually use it in the future."
 keywords: "paint storage tips"
 date: "2014-06-02"

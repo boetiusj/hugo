@@ -1,7 +1,8 @@
 ---
 title: "Vinyl Window Trim Color"
+slug: "vinyl-window-trim-color"           # lock new canonical
 description: "Vinyl windows can affect trim color"
-keywords: "-"
+keywords: "Painting vinyl window trim"
 date: "2013-11-21"
 index: true
 images: "/images/schema-ogimage.jpg"

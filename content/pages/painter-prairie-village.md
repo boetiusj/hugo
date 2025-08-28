@@ -1,5 +1,7 @@
 ---
 title: "Painter in Prairie Village"
+slug: "painter-in-prairie-village"           # lock new canonical
+aliases: ["/painter-prairie-village/"]       # preserve old
 description: "Crestwood Painting in Prairie Village - exteriors, interiors, offices!"
 keywords: "prairie village ks painting crestwood"
 date: "2014-01-03"

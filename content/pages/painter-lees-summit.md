@@ -1,5 +1,7 @@
 ---
 title: "Painter in Lee's Summit"
+slug: "painter-in-lees-summit"           # lock new canonical
+aliases: ["/painter-lees-summit/"]       # preserve old
 description: "Crestwood Painting in Lee's Summit - interior specialists"
 keywords: "interior office painting kansas city crestwood"
 date: "2014-01-04"

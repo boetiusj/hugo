@@ -1,5 +1,7 @@
 ---
 title: "What's A Warranty Worth?"
+slug: "whats-a-warranty-worth"           # lock new canonical
+aliases: ["/whats-warranty-worth/"]       # preserve old
 description: "Warranties are only as good as the company behind them. Learn what can go wrong when the wrong company is chosen."
 keywords: "house paint warranty kansas city crestwood"
 date: "2013-08-23"

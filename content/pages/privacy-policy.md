@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+slug: "privacy-policy"           # lock new canonical
 description: Your privacy is important - here's our policy.
 keywords: privacy policy, Crestwood Painting
 index: true

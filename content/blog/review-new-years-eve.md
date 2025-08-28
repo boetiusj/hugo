@@ -1,5 +1,7 @@
 ---
 title: "New Year's Eve Review"
+slug: "new-years-eve-review"           # lock new canonical
+aliases: ["/review-new-years-eve/"]       # preserve old
 description: "Kind words from a lady that didn't hire us."
 keywords: "house painting review"
 date: "2012-12-31"

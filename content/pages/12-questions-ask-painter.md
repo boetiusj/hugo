@@ -1,5 +1,7 @@
 --- 
 title: "12 Top Painter Questions"
+slug: "12-top-painter-questions"        # lock new canonical
+aliases: ["/12-questions-ask-painter/"]             # preserve old
 description: "Solid questions to ask a painter - so you BOTH know what to expect."
 keywords: "Painter questions"
 images: "/images/schema-ogimage.jpg"

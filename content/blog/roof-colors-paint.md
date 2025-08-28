@@ -1,5 +1,7 @@
 ---
 title: "Roof Colors and Paint"
+slug: "roof-colors-and-paint"           # lock new canonical
+aliases: ["/roof-colors-paint/"]       # preserve old
 description: "Learn about how other fixed elements (roof, landscaping, foundation, etc.) can affect exterior paint color choices."
 keywords: "paint color roof choose kansas city crestwood"
 date: "2013-05-20"

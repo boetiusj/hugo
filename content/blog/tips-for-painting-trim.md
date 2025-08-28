@@ -1,5 +1,7 @@
 ---
 title: "Tips For Painting Trim"
+slug: "tips-for-painting-trim"           # lock new canonical
+aliases: ["/tips-for-painting-trim/"]       # preserve old
 description: "Painting interior trim - color tips"
 keywords: "paint color interior trim crestwood"
 date: "2013-07-06"

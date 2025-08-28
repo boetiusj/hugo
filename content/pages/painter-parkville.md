@@ -1,5 +1,7 @@
 ---
 title: "Painter in Parkville"
+slug: "painter-in-parkville"           # lock new canonical
+aliases: ["/painter-parkville/"]       # preserve old
 description: "Crestwood Painting in Parkville, MO - the Project Map will show you where!"
 keywords: "house painter"
 date: "2014-01-03"

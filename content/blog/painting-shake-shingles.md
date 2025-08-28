@@ -1,5 +1,7 @@
 ---
 title: "Painting Cedar Shake Shingles"
+slug: "painting-cedar-shake-shingles"           # lock new canonical
+aliases: ["/painting-shake-shingles/"]       # preserve old
 description: "Cedar shakes require special TLC - here's a good overview."
 keywords: "painting shake shingles kansas city crestwood"
 date: "2014-04-02"

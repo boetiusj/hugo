@@ -1,5 +1,7 @@
 ---
 title: "How to Test Paint Colors"
+slug: "how-to-test-paint-colors"           # lock new canonical
+aliases: ["/how-to-test-paint-colors/"]       # preserve old
 description: "Helpful info when thinking about exterior painting."
 keywords: "paint colors test"
 date: "2025-04-20"

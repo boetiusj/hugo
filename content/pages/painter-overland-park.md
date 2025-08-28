@@ -1,5 +1,7 @@
 ---
 title: "Painter in Overland Park"
+slug: "painter-in-overland-park"           # lock new canonical
+aliases: ["/painter-overland-park/"]       # preserve old
 description: "Overland Park's reliable painter."
 keywords: "painter overland park KS"
 date: "2014-01-04"

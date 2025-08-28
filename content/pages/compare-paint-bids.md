@@ -1,5 +1,7 @@
 ---
 title: "Compare Painting Bids"
+slug: "compare-painting-bids"        # lock new canonical
+aliases: "/compare-paint-bids/"        # preserve old
 description: "What to look for and questions to ask when you're comparing at painting estimates in Kansas City."
 keywords: "painting estimate, compare painting prices, kansas city, crestwood painting"
 date: "2011-08-28"

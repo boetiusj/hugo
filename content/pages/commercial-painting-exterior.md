@@ -1,5 +1,6 @@
 ---
 title: "Commercial Painting - Exterior"
+slug: "commercial-painting-exterior"           # lock new canonical
 description: "Painting a commercial building should be easy, quiet and fast. Call us today for a No Drips, No Drama commercial painting experience! 816-805-4515"
 keywords: "commercial exterior painting, Kansas City, office"
 date: "2017-07-08"

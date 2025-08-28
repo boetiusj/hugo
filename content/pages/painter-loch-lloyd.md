@@ -1,5 +1,7 @@
 ---
 title: "Painter in Loch Lloyd"
+slug: "painter-in-loch-lloyd"           # lock new canonical
+aliases: ["/painter-loch-lloyd/"]       # preserve old
 description: "Crestwood Painting in Loch Lloyd - homes and offices!"
 keywords: "painter westwood ks"
 date: "2025-03-25"

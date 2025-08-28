@@ -1,5 +1,7 @@
 ---
 title: "Touch-ups - Possible?"
+slug: "touch-ups-possible"           # lock new canonical
+aliases: ["/touch-up-paint/"]       # preserve old
 description: "Paint touch-ups - what to look for"
 keywords: "touch-up paint"
 date: "2014-07-30"

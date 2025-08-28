@@ -1,5 +1,7 @@
 ---
 title: "Project Map"
+slug: "project-map"           # lock new canonical
+aliases: ["/map/"]       # preserve old
 description: "Neighborhoods in metro Kansas City where Crestwood Painting has worked"
 keywords: "project map crestwood painting"
 date: "2018-09-27"

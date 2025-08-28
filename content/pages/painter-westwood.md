@@ -1,5 +1,7 @@
 ---
 title: "Painter in Westwood"
+slug: "painter-in-westwood"           # lock new canonical
+aliases: ["/painter-westwood/"]       # preserve old
 description: "Crestwood Painting in Westwood - homes and offices!"
 keywords: "painter westwood ks"
 date: "2025-03-21"

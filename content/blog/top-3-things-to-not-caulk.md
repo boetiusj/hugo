@@ -1,5 +1,6 @@
 ---
 title: "Top 3 Things to NOT Caulk"
+aliases: ["/top-3-things-to-not-caulk/"]       # preserve old
 description: "Caulking is key to proper paint prep - here's what to caulk and what not to caulk."
 keywords: "painting caulk best practices"
 date: "2014-07-15"

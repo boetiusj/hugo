@@ -12,11 +12,7 @@
           {{ $pages = where $pages "Params.index" true }}
           {{ range $pages }}
           <li>
-<<<<<<< HEAD
               {{- $image := default "images/blog/clipboard.webp" .Params.image }}
-=======
-              {{- $image := default "/images/blog/clipboard.webp" .Params.image }}
->>>>>>> 3dbc4e56 (404 template image default line 15 updated (old template image was deleted))
               <a href="{{ .Permalink }}">
                 {{ partial "template-image.html" (dict
                   "Destination" $image

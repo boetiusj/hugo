@@ -1,5 +1,6 @@
 ---
 title: "Best Bedroom Colors"
+slug: "best-bedroom-colors"        # lock new canonical
 description: "Some of the factors in choosing paint colors for a bedroom."
 keywords: "paint bedroom color crestwood painting"
 date: "2013-04-30"

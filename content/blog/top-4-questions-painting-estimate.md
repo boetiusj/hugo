@@ -1,5 +1,7 @@
 ---
 title: "Top 4 Questions Before a Painting Estimate"
+slug: "top-4-questions-before-a-painting-estimate"           # lock new canonical
+aliases: ["/top-4-questions-painting-estimate/"]       # preserve old
 description: "Here are some key points to consider before a paint estimator knocks at your door."
 keywords: "painter questions kansas city crestwood"
 date: "2013-02-11"

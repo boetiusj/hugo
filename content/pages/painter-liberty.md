@@ -1,5 +1,7 @@
 ---
 title: "Painter in Liberty"
+slug: "painter-in-liberty"           # lock new canonical
+aliases: ["/painter-liberty/"]       # preserve old
 description: "Painting in Liberty, MO - homes and offices"
 keywords: "painter liberty"
 date: "2025-03-21"

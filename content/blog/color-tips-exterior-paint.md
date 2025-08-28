@@ -1,5 +1,7 @@
 ---
 title: "Color Tips for Exterior Paint"
+slug: "color-tips-for-exterior-paint"           # lock new canonical
+aliases: ["/exterior-color-tips/"]       # preserve old
 description: "All about dark paint colors - why more labor is required and why they don't cover as well."
 keywords: "paint color tips crestwood painting"
 date: "2013-02-05"

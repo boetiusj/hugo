@@ -1,5 +1,7 @@
 ---
 title: "Properly Painted Walls - the Standard"
+slug: "properly-painted-walls-the-standard"           # lock new canonical
+aliases: ["/properly-painted-walls/"]       # preserve old
 description: "A clear explanation of just what \"properly painted walls\" are."
 keywords: "interior painting properly painted walls"
 date: "2012-12-17"

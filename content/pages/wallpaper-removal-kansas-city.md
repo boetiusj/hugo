@@ -1,5 +1,7 @@
 ---
 title: "Wallpaper Removal"
+slug: "wallpaper-removal"        # lock new canonical
+aliases: "/wallpaper-removal-kansas-city/"             # preserve old
 description: "Wallpaper removal - what to know"
 keywords: "wallpaper removal"
 date: "2011-09-18"

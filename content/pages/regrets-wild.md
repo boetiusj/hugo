@@ -1,6 +1,5 @@
 --- 
 title: "Regrets-wild"
-url: "regrets-wild"
 description: "This Zip code is outside our service area."
 keywords: "-"
 date: "2019-02-13"

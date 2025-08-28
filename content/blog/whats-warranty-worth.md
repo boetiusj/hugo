@@ -1,6 +1,5 @@
 ---
 title: "What's A Warranty Worth?"
-url: "whats-warranty-worth"
 description: "Warranties are only as good as the company behind them. Learn what can go wrong when the wrong company is chosen."
 keywords: "house paint warranty kansas city crestwood"
 date: "2013-08-23"

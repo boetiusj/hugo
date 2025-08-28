@@ -1,6 +1,5 @@
 ---
 title: "Roof Colors and Paint"
-url: "roof-colors-paint"
 description: "Learn about how other fixed elements (roof, landscaping, foundation, etc.) can affect exterior paint color choices."
 keywords: "paint color roof choose kansas city crestwood"
 date: "2013-05-20"

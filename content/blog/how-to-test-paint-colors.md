@@ -1,6 +1,5 @@
 ---
 title: "How to Test Paint Colors"
-url: "how-to-test-paint-colors"
 description: "Helpful info when thinking about exterior painting."
 keywords: "paint colors test"
 date: "2025-04-20"

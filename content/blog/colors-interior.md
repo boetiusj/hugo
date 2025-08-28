@@ -1,6 +1,5 @@
 ---
 title: "Choosing Interior Colors"
-url: "colors-interior"
 description: "The best look for your home is easier if you're using the right tools."
 keywords: "paint colors interior"
 date: "2013-02-27"

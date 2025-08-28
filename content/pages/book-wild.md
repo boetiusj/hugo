@@ -1,6 +1,6 @@
 ---
 title: "Wildcard Scheduler"
-url: "wild"
+slug: "wild"
 description: "Online painting estimate scheduler: fast and easy"
 keywords: "estimate schedule"
 date: "2024-01-19"

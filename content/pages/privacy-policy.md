@@ -1,6 +1,5 @@
 ---
 title: Privacy Policy
-url: privacy-policy
 description: Your privacy is important - here's our policy.
 keywords: privacy policy, Crestwood Painting
 index: true

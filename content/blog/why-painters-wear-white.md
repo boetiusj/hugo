@@ -1,6 +1,5 @@
 --- 
 title: Why Do Painters Wear White?
-url: why-painters-wear-white
 description: Answers to the ageless question Why do painters wear white?
 keywords: painters wear white
 date: "2011-09-21"

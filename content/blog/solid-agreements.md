@@ -1,6 +1,5 @@
 ---
 title: "Solid Agreements"
-url: "solid-agreements"
 description: "Get a clear painting agreement."
 keywords: "contract, agreement, clause, expectations, paint contractor"
 date: "2023-10-22" 

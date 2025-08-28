@@ -1,6 +1,5 @@
 --- 
 title: "12 Top Painter Questions"
-url: "12-questions-ask-painter"
 description: "Solid questions to ask a painter - so you BOTH know what to expect."
 keywords: "Painter questions"
 images: "/images/schema-ogimage.jpg"

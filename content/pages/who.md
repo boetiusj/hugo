@@ -1,6 +1,6 @@
 ---
 title: "Who & Why"
-url: "who"
+slug: "who"
 description: "Communicate often, set clear expectations and meet them. Be courteous, responsive, tidy, prompt. Always professional."
 keywords: "no drips no drama, story, who we are, about"
 date: "2011-09-27"

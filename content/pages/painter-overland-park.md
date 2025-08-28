@@ -1,6 +1,5 @@
 ---
 title: "Painter in Overland Park"
-url: "painter-overland-park"
 description: "Overland Park's reliable painter."
 keywords: "painter overland park KS"
 date: "2014-01-04"
@@ -12,13 +11,13 @@ service:
   price: "Quoted"
   hasOfferCatalog:
     - name: "Interior Painting"
-      url: "https://crestwoodpainting.com/interior-painter-kansas-city/"
+      url: "pages/interior-painter-kansas-city.md"
     - name: "Exterior Painting"
-      url: "https://crestwoodpainting.com/exterior-painter-kansas-city/"
+      url: "pages/exterior-painter-kansas-city.md"
     - name: "Office Painting"
-      url: "https://crestwoodpainting.com/office-painting-experts/"
+      url: "pages/office-painting-experts.md"
     - name: "Cabinet Painting"
-      url: "https://crestwoodpainting.com/cabinet-painter-kansas-city/"
+      url: "pages/cabinet-painter-kansas-city.md"
 ---
 {{< figure1st
   src="/images/city/opks.jpg"

@@ -1,6 +1,5 @@
 ---
 title: "Call Center"
-url: "call-center"
 description: "Answering service for Crestwood Painting in Kansas City"
 keywords: "-"
 date: "2019-03-07"

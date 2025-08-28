@@ -1,6 +1,5 @@
 ---
 title: "Properly Painted Walls - the Standard"
-url: "properly-painted-walls"
 description: "A clear explanation of just what \"properly painted walls\" are."
 keywords: "interior painting properly painted walls"
 date: "2012-12-17"

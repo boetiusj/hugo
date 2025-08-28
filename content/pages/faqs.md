@@ -1,6 +1,5 @@
 --- 
 title: "Frequently Asked Questions"
-url: "faqs"
 description: "painting, faq, customer, Kansas City, questions"
 keywords: "painting questions faqs"
 date: "2011-08-29"

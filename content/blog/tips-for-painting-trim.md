@@ -1,6 +1,5 @@
 ---
 title: "Tips For Painting Trim"
-url: "tips-for-painting-trim"
 description: "Painting interior trim - color tips"
 keywords: "paint color interior trim crestwood"
 date: "2013-07-06"

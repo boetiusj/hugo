@@ -1,6 +1,5 @@
 ---
 title: "Choose the Right Paint Sheen"
-url: "choose-paint-sheen"
 description: "Some of the factors involved in choosing paint sheens."
 keywords: "Paint sheen color crestwood painting"
 date: "2013-01-28"

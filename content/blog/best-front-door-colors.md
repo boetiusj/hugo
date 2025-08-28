@@ -1,6 +1,5 @@
 ---
 title: "Best Front Door Colors"
-url: "best-front-door-colors"
 description: "Choosing front door colors"
 keywords: "front door, paint colors"
 date: "2023-07-22"

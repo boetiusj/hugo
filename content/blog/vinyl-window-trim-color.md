@@ -1,6 +1,5 @@
 ---
 title: "Vinyl Window Trim Color"
-url: "vinyl-window-trim-color"
 description: "Vinyl windows can affect trim color"
 keywords: "-"
 date: "2013-11-21"

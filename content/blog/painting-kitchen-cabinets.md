@@ -1,6 +1,5 @@
 ---
 title: "Painting Kitchen Cabinets"
-url: "painting-kitchen-cabinets"
 description: "There are many important details that shouldn't be overlooked when painting cabinets. Give us a call to you're equipped to make a good decision."
 keywords: "paint kitchen cabinets kansas city crestwood"
 date: "2013-02-18"

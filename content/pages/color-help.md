@@ -1,6 +1,6 @@
 ---
 title: "What Color Should I Paint My House?"
-url: "color-help"
+slug: "color-help"
 description: "Choose the right colors for your home - with confidence. The right resources make it easy."
 keywords: "house paint, colors, living room color, exterior colors, kansas city, crestwood painting"
 date: "2011-05-05"

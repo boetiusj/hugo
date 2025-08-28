@@ -1,6 +1,5 @@
 ---
 title: "Thanks for Your Payment!"
-url: "payment-thank-you"
 description: "We appreciate your business and hope we will be your painter for life!"
 keywords: "payment, thank-you, Crestwood Painting"
 date: "2018-11-12"

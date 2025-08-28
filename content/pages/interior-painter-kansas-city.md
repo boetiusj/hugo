@@ -1,6 +1,6 @@
 ---
 title: "Interior Painters"
-url: "interior-painter-kansas-city"
+slug: "interior-painter-kansas-city"
 description: "Organized jobs, tidy painters, happy customers."
 keywords: "painting cost, price interior painting, bedroom, living room"
 date: "2011-09-18"

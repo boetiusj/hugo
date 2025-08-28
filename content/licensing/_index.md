@@ -1,6 +1,5 @@
 ---
 title: "Image Licensing"
-url: "licensing"
 description: "Usage terms for photos and graphics on Crestwood Painting’s website."
 date: "2025-08-20"
 index: false

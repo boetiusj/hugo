@@ -1,6 +1,5 @@
 ---
 title: "RRP Thank You"
-url: "rrp-thank-you"
 description: "EPA's Renovate Right brochure was sent, received and acknowledged."
 keywords: "lead paint certification"
 date: "2015-06-07"

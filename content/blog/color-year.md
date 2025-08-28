@@ -1,6 +1,5 @@
 ---
 title: "Color of the Year"
-url: "color-year"
 description: "Year after year, experts cannot agree on a color trend."
 keywords: "color house painting"
 date: "2014-01-17"

@@ -1,6 +1,5 @@
 ---
 title: "Commercial Office Painting - Case Study"
-url: "office-painting-case-study"
 description: "This commercial office building was updated from drab 70's to tech-forward business incubator."
 keywords: "commercial painting, office painting"
 date: "2017-06-02"

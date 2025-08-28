@@ -1,6 +1,5 @@
 ---
 title: "Trim Joint Gaps"
-url: "trim-joint-gaps"
 description: "Interior wood trim moves and joints can open up."
 keywords: "painting interior trim prep crestwood "
 date: "2013-01-21"

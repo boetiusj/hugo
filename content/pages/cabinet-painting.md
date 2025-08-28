@@ -1,6 +1,5 @@
 ---
 title: "Cabinet Painting"
-url: "cabinet-painting"
 description: "Painting cabinets - the easiest way to a clean and modern kitchen."
 keywords: "Kitchen cabinet painting, bathroom vanity painting, wall paneling painting"
 date: "2011-09-21"

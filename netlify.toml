@@ -172,13 +172,6 @@ HUGO_ENABLEGITINFO = "true"
   status = 200
   force = true
 
-# /interior-painter-kansas-city
-[[redirects]]
-  from = "/interior-painter-kansas-city"
-  to   = "/interior-painter-kansas-city/"
-  status = 301
-  force = true
-
 # /awo-thanks — enforce trailing slash + serve from static
 [[redirects]]
   from = "/awo-thanks"

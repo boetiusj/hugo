@@ -6,6 +6,11 @@ enableEmoji = true
 googleAnalytics = "G-Y229K0TNJR"
 # old G (before '24) analytics: UA-1372967-1
 disableHugoGeneratorInject = true
+
+[permalinks]
+  pages     = "/:slug/"            # content/pages/...  → /<slug>/
+  blog      = "/:slug/"            # content/blog/...   → /<slug>/
+
 [build]
   writeStats = true
 

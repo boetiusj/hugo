@@ -19,13 +19,13 @@
 
 <!-- 2) Canonical:
       – Emit only when indexable AND not a paginated page
-      – (No canonical on page>1 or noindex pages) -->>
+      – (No canonical on page>1 or noindex pages) -->
 {{- if and (not $isPaginated) (not $isNoindex) -}}
   {{ partial "head/canonical.html" . }}
 {{- end -}}
 
 <!-- 3) Robots: one and only one <meta> per page (deduped via Scratch)
-      – Emit on noindex pages and on paginated list pages -->>
+      – Emit on noindex pages and on paginated list pages -->
 {{- if not (.Scratch.Get "meta_robots_emitted") -}}
   {{- if or $isNoindex $isPaginated -}}
     <meta name="robots" content="noindex,follow">

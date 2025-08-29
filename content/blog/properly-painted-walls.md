@@ -99,6 +99,6 @@ If you're not sure how to start a conversation about quality, check out our [top
 
 ## Book a Quick Estimate
 
-Every home has its quirks—but we're here to help you make the best of them. You can [book an estimate](/book-us/) at a time that works for you—most meetings take less than 30 minutes and give you the clarity you need without any pressure.
+Every home has its quirks—but we're here to help you make the best of them. You can [book an estimate]({{< relref "pages/book-us.md >}}) at a time that works for you—most meetings take less than 30 minutes and give you the clarity you need without any pressure.
 
 ![customer review](/images/reviews/r23-10-richards.png)

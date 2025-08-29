@@ -101,7 +101,7 @@ A freshly painted metal fence says "Well-maintained\!" and protects from rust an
 
 ## Book a Free Estimate
 
-Get a hassle-free estimate at a time that works for you. We show up on time, take our time to understand your needs, and answer all your questions. Most consultations take about 30 minutes, but we’re never in a hurry. [Book your estimate now.](/book-us/)
+Get a hassle-free estimate at a time that works for you. We show up on time, take our time to understand your needs, and answer all your questions. Most consultations take about 30 minutes, but we’re never in a hurry. [Book your estimate now.]({{< relref "pages/book-us.md >}})
 
 ### Why Westwood KS Homeowners Choose Crestwood Painting
 

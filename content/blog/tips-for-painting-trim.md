@@ -89,6 +89,6 @@ If you’re already planning other updates, be sure to [dispose of old paint](/d
 
 ## Book a Quick Estimate
 
-Need help selecting the right trim colors? We can walk through the options together. Just [book an estimate](/book-us/) using our simple online form—most meetings take under 30 minutes, and we’ll leave you with a clear plan and zero pressure.
+Need help selecting the right trim colors? We can walk through the options together. Just [book an estimate]({{< relref "pages/book-us.md >}}) using our simple online form—most meetings take under 30 minutes, and we’ll leave you with a clear plan and zero pressure.
 
 ![customer review](/images/reviews/r20-12-jamesono.png)

@@ -250,6 +250,6 @@ Ignoring fleeting trends can save you money by reducing frequent updates and rep
 
 Check out [insider tips - exterior paint](/exterior-paint-important/) for more practical advice on paint investments.
 
-Ready to confidently select colors for your home? Schedule your color consultation conveniently through our [easy and short online booking form](/book-us/). Appointments usually take 30 minutes or less, designed entirely around your schedule.
+Ready to confidently select colors for your home? Schedule your color consultation conveniently through our [easy and short online booking form]({{< relref "pages/book-us.md >}}). Appointments usually take 30 minutes or less, designed entirely around your schedule.
 
 ![customer review](/images/reviews/r24-5-jeremyj.png)

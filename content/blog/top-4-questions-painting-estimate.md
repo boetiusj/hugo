@@ -94,6 +94,6 @@ For more perspective, you might enjoy [why painters wear white](/why-painters-we
 
 ## Book a Quick Estimate
 
-Curious about how we’d answer these questions? You can [book an estimate](/book-us/) online in just a few clicks. Appointments usually take less than 30 minutes, and we’ll give you clear answers with no pressure—just straight talk from a team that’s been around the block.
+Curious about how we’d answer these questions? You can [book an estimate]({{< relref "pages/book-us.md >}}) online in just a few clicks. Appointments usually take less than 30 minutes, and we’ll give you clear answers with no pressure—just straight talk from a team that’s been around the block.
 
 ![customer review](/images/reviews/r19-4-heatherk.png)

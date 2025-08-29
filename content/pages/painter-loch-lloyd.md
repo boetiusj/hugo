@@ -99,7 +99,7 @@ A freshly painted metal fence says "Well-maintained!" and protects from rust and
 
 ### Book a Free Estimate
 
-Scheduling a free estimate is quick and easy. Our [online form makes booking simple](/book-us/), and -yep- we arrive on time. In about 30 minutes, we’ll answer your questions and provide a thorough assessment.
+Scheduling a free estimate is quick and easy. Our [online form makes booking simple]({{< relref "pages/book-us.md >}}), and -yep- we arrive on time. In about 30 minutes, we’ll answer your questions and provide a thorough assessment.
 
 ### Why Loch Lloyd Homeowners Choose Crestwood Painting
 

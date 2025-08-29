@@ -123,6 +123,6 @@ A fresh coat of paint is a great time to update other features. Now might be the
 
 ## Ready to Start? Let’s Talk
 
-You can [book an estimate](/book-us/) online by choosing a time that works best for you. The meeting usually takes 30 minutes or less, and there’s no pressure—just straightforward answers and advice tailored to your home.
+You can [book an estimate]({{< relref "pages/book-us.md >}}) online by choosing a time that works best for you. The meeting usually takes 30 minutes or less, and there’s no pressure—just straightforward answers and advice tailored to your home.
 
 ![customer review](/images/reviews/r20-3-jamest.png)

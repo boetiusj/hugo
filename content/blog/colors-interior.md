@@ -147,6 +147,6 @@ Choosing interior colors can be overwhelming, but thoughtful planning ensures a 
 
 For more insights into creating cohesive interiors, check out our [interior painting services](/interior-painter-kansas-city/). Considering a kitchen makeover? Our [cabinet painting](/cabinet-painting/) guide can help you choose the right colors for your space.
 
-Ready to make your home feel like you? Schedule a convenient color consultation with us through our [easy online booking form](/book-us/). Most sessions take 30 minutes or less, with no pressure—just helpful guidance to make your space perfect.
+Ready to make your home feel like you? Schedule a convenient color consultation with us through our [easy online booking form]({{< relref "pages/book-us.md >}}). Most sessions take 30 minutes or less, with no pressure—just helpful guidance to make your space perfect.
 
 ![customer review](/images/reviews/r23-5-lanee.png)

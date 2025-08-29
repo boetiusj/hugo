@@ -101,7 +101,7 @@ We’ll strip old paint if needed and apply high-performance coatings built for 
 
 ## Book a Free Estimate
 
-A free estimate is just a click away. We show up on time, go over every detail, and make sure you have all the information you need. The process is quick, easy, and never rushed. [Book your estimate now.](/book-us/)
+A free estimate is just a click away. We show up on time, go over every detail, and make sure you have all the information you need. The process is quick, easy, and never rushed. [Book your estimate now.]({{< relref "pages/book-us.md >}})
 
 ### Why Lee's Summit Homeowners Choose Crestwood Painting
 

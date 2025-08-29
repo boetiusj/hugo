@@ -117,6 +117,6 @@ Larger or recurring gaps can point to structural shifts. Consider professional c
 
 ## Ready to Schedule a Consultation?
 
-If you’re tired of chasing trim gaps, we have a simple [online booking form](/book-us/) that lets you pick a convenient time. It’s a relaxed, no-pressure conversation about your home’s needs, so we can suggest practical, budget-friendly solutions. Scheduling now can spare you bigger headaches later, and we’ll help keep your trim looking its best.
+If you’re tired of chasing trim gaps, we have a simple [online booking form]({{< relref "pages/book-us.md >}}) that lets you pick a convenient time. It’s a relaxed, no-pressure conversation about your home’s needs, so we can suggest practical, budget-friendly solutions. Scheduling now can spare you bigger headaches later, and we’ll help keep your trim looking its best.
 
 ![customer review](/images/reviews/r24-4-krausj.png)

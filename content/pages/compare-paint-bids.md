@@ -92,6 +92,6 @@ The more transparent the bid, the more confidence you can have in the outcome. A
 
 ## Book a Quick Estimate
 
-Curious how we break down a proposal? [Book an estimate](/book-us/) online—it’s quick, usually less than 30 minutes, and you’ll get a clear scope of work with no pressure. Just the straight answers you need to make the right call for your home.
+Curious how we break down a proposal? [Book an estimate]({{< relref "pages/book-us.md >}}) online—it’s quick, usually less than 30 minutes, and you’ll get a clear scope of work with no pressure. Just the straight answers you need to make the right call for your home.
 
 ![customer review](/images/reviews/r24-9-bethb.png)

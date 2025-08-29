@@ -122,6 +122,6 @@ If your home predates 1978, ensure your professional has [lead paint certificati
 
 Have additional questions? See our [FAQs here](/faqs/).
 
-Ready to transform your bedroom? Schedule a quick, stress-free consultation using our [easy online booking form](/book-us/)—choose a convenient time; consultations typically take 30 minutes or less.
+Ready to transform your bedroom? Schedule a quick, stress-free consultation using our [easy online booking form]({{< relref "pages/book-us.md >}})—choose a convenient time; consultations typically take 30 minutes or less.
 
 [customer review](/images/reviews/r23-11-diedrep.png)

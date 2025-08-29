@@ -117,6 +117,6 @@ Plan to repaint every 10-15 years, depending on all the many variables. Keeping 
 
 Review our [customer reviews](/reviews/) to see how homeowners maintain beautiful exteriors.
 
-Ready to enhance your home's exterior with confidence? Schedule a convenient time for your painting estimate through our [easy and short online booking form](/book-us/). Estimates are typically completed in 30 minutes or less and tailored to your needs.
+Ready to enhance your home's exterior with confidence? Schedule a convenient time for your painting estimate through our [easy and short online booking form]({{< relref "pages/book-us.md >}}). Estimates are typically completed in 30 minutes or less and tailored to your needs.
 
 ![customer review](images/reviews/r24-12-leann.png)

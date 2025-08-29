@@ -101,7 +101,7 @@ We use specialized coatings that not only enhance appearance but also prevent co
 
 ## Book a Free Estimate
 
-[Booking your estimate](/book-us/) is simple, and we make the process stress-free. Our team arrives promptly, listens to your needs, and ensures a thorough consultation. In just 30 minutes, you'll have the answers you need.
+[Booking your estimate]({{< relref "pages/book-us.md >}}) is simple, and we make the process stress-free. Our team arrives promptly, listens to your needs, and ensures a thorough consultation. In just 30 minutes, you'll have the answers you need.
 
 ### Why Prairie Village Homeowners Choose Crestwood Painting
 

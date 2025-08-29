@@ -104,7 +104,7 @@ Metal fences need more than paint—they need protection. We apply long-lasting 
 
 ### Book a Free Estimate
 
-Scheduling a free estimate is quick and easy. Our [online form makes booking simple](/book-us/), and - yep - we arrive on time. In about 30 minutes, we’ll answer your questions and provide a thorough assessment.
+Scheduling a free estimate is quick and easy. Our [online form makes booking simple]({{< relref "pages/book-us.md >}}), and - yep - we arrive on time. In about 30 minutes, we’ll answer your questions and provide a thorough assessment.
 
 ### Why Liberty MO Homeowners Choose Crestwood Painting
 

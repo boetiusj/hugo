@@ -99,7 +99,7 @@ Metal fences need more than paint—they need protection. We apply long-lasting 
 
 ## Book a Free Estimate
 
-Get a hassle-free estimate at a time that works for you. We show up on time, take our time to understand your needs, and answer all your questions. Most consultations take about 30 minutes, but we’re never in a hurry. [Book your estimate now.](/book-us/)
+Get a hassle-free estimate at a time that works for you. We show up on time, take our time to understand your needs, and answer all your questions. Most consultations take about 30 minutes, but we’re never in a hurry. [Book your estimate now.]({{< relref "pages/book-us.md >}})
 
 ### Why Belton, MO Homeowners Choose Crestwood Painting
 

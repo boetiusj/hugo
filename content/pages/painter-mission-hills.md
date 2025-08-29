@@ -99,7 +99,7 @@ We’ll strip old paint if needed and apply high-performance coatings built for 
 
 ### Book a Free Estimate
 
-We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, take the time to understand your project, and answer all your questions. Most estimates take about 30 minutes, but we’re happy to be as thorough as needed. [Book your estimate now.](/book-us/)
+We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, take the time to understand your project, and answer all your questions. Most estimates take about 30 minutes, but we’re happy to be as thorough as needed. [Book your estimate now.]({{< relref "pages/book-us.md >}})
 
 ### Why Mission Hills, KS Homeowners Choose Crestwood Painting
 

@@ -219,7 +219,7 @@ Partnering with Crestwood Painting means a hassle-free process, exceptional craf
 
 ## Book An Estimate Today
 
-We’ll help narrow objectives and priorities and go over best options - there are many ways to approach this. [Book an Estimate with us](/book-us/) and let’s find what works best for your situation.
+We’ll help narrow objectives and priorities and go over best options - there are many ways to approach this. [Book an Estimate with us]({{< relref "pages/book-us.md >}}) and let’s find what works best for your situation.
 
 ## Interior Painting Terms
 

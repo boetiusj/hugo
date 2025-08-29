@@ -93,6 +93,6 @@ If you're not sure where to start, our guides on [best front door colors](/best-
 
 ## Book a Quick Estimate
 
-Choosing the right exterior colors starts with a conversation. You can [book an estimate](/book-us/) at a time that works for you—most meetings take less than 30 minutes, and they come with clear answers, not a sales pitch.
+Choosing the right exterior colors starts with a conversation. You can [book an estimate]({{< relref "pages/book-us.md >}}) at a time that works for you—most meetings take less than 30 minutes, and they come with clear answers, not a sales pitch.
 
 ![customer review](/images/reviews/r24-2-shellib.png)

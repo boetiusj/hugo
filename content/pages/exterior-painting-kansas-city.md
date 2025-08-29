@@ -208,7 +208,7 @@ After we’re finished, we make sure everything is cleaned up. This includes rem
 
 ## Book an Estimate
 
-We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this - let’s find what works best for your situation. You can [book an estimate time](/book-us/) here.
+We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this - let’s find what works best for your situation. You can [book an estimate time]({{< relref "pages/book-us.md >}}) here.
 
 ### What Else Should I Ask?
 

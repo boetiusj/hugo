@@ -86,6 +86,6 @@ You can also explore our take on [best front door colors](/best-front-door-color
 
 ## Book a Quick Estimate
 
-Wondering what approach makes sense for your home? You can [book an estimate](/book-us/) online in just a few clicks. Most consultations take less than 30 minutes and give you clear, helpful information with zero pressure.
+Wondering what approach makes sense for your home? You can [book an estimate]({{< relref "pages/book-us.md >}}) online in just a few clicks. Most consultations take less than 30 minutes and give you clear, helpful information with zero pressure.
 
 ![customer review](/images/reviews/r22-6-jodyt.png)

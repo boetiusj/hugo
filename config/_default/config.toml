@@ -12,9 +12,6 @@ disableHugoGeneratorInject = true
   blog      = "/:slug/"            # content/blog/...   → /<slug>/
   licensing = "/licensing/:slug/"  # adjust if you want root
 
-[build]
-  writeStats = true
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderHooks]

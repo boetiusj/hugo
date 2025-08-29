@@ -6,3 +6,6 @@ resources
 *.sh
 php
 uploads
+
+public/
+resources/

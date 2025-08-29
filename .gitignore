@@ -9,3 +9,5 @@ uploads
 
 public/
 resources/
+
+hugo_stats.json

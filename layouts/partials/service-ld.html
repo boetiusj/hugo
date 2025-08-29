@@ -1,70 +1,86 @@
 {{/* Emit Service JSON-LD when a page has .Params.service */}}
 {{- $page := . -}}
 {{- with $page.Params.service -}}
+  {{- $svc := . -}}
 
+  {{- /* Resolve image to absolute if provided */ -}}
   {{- $img := "" -}}
   {{- with $page.Params.image -}}
     {{- $img = cond (in . "http") . (absURL .) -}}
   {{- end -}}
 
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Service",
-    "name": {{ $page.Title | jsonify }},
-    "serviceType": {{ .serviceType | jsonify }},
-    "description": {{ ($page.Description | default $page.Summary) | jsonify }}{{ if not $page.Params.schema_type }},
-    "mainEntityOfPage": { "@type":"WebPage", "@id":"{{ $page.Scratch.Get "webpage_id" | default $page.Permalink }}" }{{ end }},
-    "provider": { "@id": "https://crestwoodpainting.com/#local" },
-    "areaServed": {{ (.areaServed | default "Kansas City Metro") | jsonify }},
-    "offers": {
-      "@type": "Offer",
-      "price": {{ (.price | default "Quoted") | jsonify }},
-      "priceCurrency": "USD",
-      "availability": "https://schema.org/InStock",
-      "url": "{{ $page.Permalink }}"
-    }{{ if $img }},
-    "image": {{ $img | jsonify }}{{ end }}{{ with .hasOfferCatalog }},
-    "hasOfferCatalog": {
-      "@type": "OfferCatalog",
-      "name": "Painting Services",
-      "itemListElement": [
-        {{- /* Use Scratch to manage commas only for items we actually emit */ -}}
-        {{- $.Scratch.Set "firstItem" true -}}
-        {{- range $i, $o := . -}}
-          {{- $finalURL := "" -}}
-          {{- $dispName := (index $o "name") -}}
+  {{- /* Build OfferCatalog -> itemListElement as real data (no string building) */ -}}
+  {{- $catalog := slice -}}
+  {{- with $svc.hasOfferCatalog -}}
+    {{- range $i, $o := . -}}
+      {{- $finalURL := "" -}}
+      {{- $dispName := (index $o "name") -}}
 
-          {{- with (index $o "path") -}}
-            {{- with site.GetPage . -}}
-              {{- $finalURL = .Permalink -}}
-              {{- if not $dispName }}{{ $dispName = .LinkTitle }}{{ end -}}
-            {{- end -}}
-          {{- end -}}
-
-          {{- if and (eq $finalURL "") (index $o "url") -}}
-            {{- $u := index $o "url" -}}
-            {{- $finalURL = cond (in $u "http") $u (absURL $u) -}}
-          {{- end -}}
-
-          {{- if $finalURL -}}
-            {{- if not ($.Scratch.Get "firstItem") }},{{ end -}}
-            {
-              "@type":"Offer",
-              "itemOffered":{
-                "@type":"Service",
-                "name": {{ $dispName | default "" | jsonify }},
-                "url":  {{ $finalURL | jsonify }}
-              }
-            }
-            {{- $.Scratch.Set "firstItem" false -}}
-          {{- else -}}
-            {{- warnf "hasOfferCatalog item skipped (no path/url) on %s: %#v" $page.RelPermalink $o -}}
-          {{- end -}}
+      {{- with (index $o "path") -}}
+        {{- with site.GetPage . -}}
+          {{- $finalURL = .Permalink -}}
+          {{- if not $dispName }}{{ $dispName = .LinkTitle }}{{ end -}}
         {{- end -}}
-      ]
-    }{{ end }}
-  }
-  </script>
+      {{- end -}}
 
+      {{- if and (eq $finalURL "") (index $o "url") -}}
+        {{- $u := index $o "url" -}}
+        {{- $finalURL = cond (in $u "http") $u (absURL $u) -}}
+      {{- end -}}
+
+      {{- if $finalURL -}}
+        {{- $catalog = $catalog | append (dict
+          "@type" "Offer"
+          "itemOffered" (dict
+            "@type" "Service"
+            "name" ($dispName | default "")
+            "url"  $finalURL
+          )
+        ) -}}
+      {{- else -}}
+        {{- warnf "hasOfferCatalog item skipped (no path/url) on %s: %#v" $page.RelPermalink $o -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- /* Base Service node */ -}}
+  {{- $node := dict
+    "@context" "https://schema.org"
+    "@type" "Service"
+    "name" $page.Title
+    "serviceType" $svc.serviceType
+    "description" (or $page.Description $page.Summary)
+    "provider" (dict "@id" "https://crestwoodpainting.com/#local")
+    "areaServed" (or $svc.areaServed "Kansas City Metro")
+    "offers" (dict
+      "@type" "Offer"
+      "price" (or $svc.price "Quoted")
+      "priceCurrency" "USD"
+      "availability" "https://schema.org/InStock"
+      "url" $page.Permalink
+    )
+  -}}
+
+  {{- if not $page.Params.schema_type -}}
+    {{- $node = merge $node (dict "mainEntityOfPage" (dict
+      "@type" "WebPage"
+      "@id" (or ($page.Scratch.Get "webpage_id") $page.Permalink)
+    )) -}}
+  {{- end -}}
+
+  {{- if $img -}}
+    {{- $node = merge $node (dict "image" $img) -}}
+  {{- end -}}
+
+  {{- if gt (len $catalog) 0 -}}
+    {{- $node = merge $node (dict
+      "hasOfferCatalog" (dict
+        "@type" "OfferCatalog"
+        "name" "Painting Services"
+        "itemListElement" $catalog
+      )
+    ) -}}
+  {{- end -}}
+
+  <script type="application/ld+json">{{ $node | jsonify }}</script>
 {{- end -}}

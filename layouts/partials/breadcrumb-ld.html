@@ -1,41 +1,36 @@
 {{/* layouts/partials/breadcrumb-ld.html */}}
+{{- $crumbs := slice -}}
+{{- $pos := 1 -}}
 
-{{/* 
-   Universal JSON-LD BreadcrumbList. 
-   Works on Home, Section pages, blog posts, service pages, etc. 
-*/}}
+{{- $crumbs = $crumbs | append (dict
+  "@type" "ListItem"
+  "position" $pos
+  "name" site.Title
+  "item" site.BaseURL
+) -}}
+{{- $pos = add $pos 1 -}}
 
-{{/* 1) Build a slice of crumbs, always starting with “Home” */}}
-{{ $crumbs := slice (dict "name" "Home" "url" (absURL "/")) }}
+{{- range .Ancestors.Reverse }}
+  {{- $crumbs = $crumbs | append (dict
+    "@type" "ListItem"
+    "position" $pos
+    "name" .Title
+    "item" .Permalink
+  ) -}}
+  {{- $pos = add $pos 1 -}}
+{{- end -}}
 
-{{/* 2) If this is a section (e.g. /blog/, /services/), append it as a crumb */}}
-{{ if .IsSection }}
-  {{ $crumbs = $crumbs | append (dict "name" (title .Section) "url" .Permalink) }}
-
-{{/* 3) If this is a single page (any “Kind=page”), walk its .Ancestors */}}
-{{ else if .IsPage }}
-  {{ range .Ancestors }} 
-    {{ $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) }}
-  {{ end }}
-  {{ $crumbs = $crumbs | append (dict "name" .Title "url" .Permalink) }}
-
-{{/* 4) If this is the homepage, we leave $crumbs as just “Home” */}}
-{{ end }}
+{{- $crumbs = $crumbs | append (dict
+  "@type" "ListItem"
+  "position" $pos
+  "name" .Title
+  "item" .Permalink
+) -}}
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {{- range $i, $c := $crumbs -}}
-      {{- if gt $i 0 }},{{ end -}}
-      {
-        "@type": "ListItem",
-        "position": {{ add $i 1 }},
-        "name": "{{ $c.name | htmlEscape }}",
-        "item": "{{ $c.url }}"
-      }
-    {{- end }}
-  ]
-}
+{{ dict
+  "@context" "https://schema.org"
+  "@type" "BreadcrumbList"
+  "itemListElement" $crumbs
+| jsonify }}
 </script>

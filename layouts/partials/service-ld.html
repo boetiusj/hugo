@@ -7,64 +7,47 @@
     {{- $img = cond (in . "http") . (absURL .) -}}
   {{- end -}}
 
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Service",
-    "name": {{ $page.Title | jsonify }},
-    "serviceType": {{ .serviceType | jsonify }},
-    "description": {{ ($page.Description | default $page.Summary) | jsonify }}{{ if not $page.Params.schema_type }},
-    "mainEntityOfPage": { "@type":"WebPage", "@id":"{{ $page.Scratch.Get "webpage_id" | default $page.Permalink }}" }{{ end }},
-    "provider": { "@id": "https://crestwoodpainting.com/#local" },
-    "areaServed": {{ (.areaServed | default "Kansas City Metro") | jsonify }},
-    "offers": {
-      "@type": "Offer",
-      "price": {{ (.price | default "Quoted") | jsonify }},
-      "priceCurrency": "USD",
-      "availability": "https://schema.org/InStock",
-      "url": "{{ $page.Permalink }}"
-    }{{ if $img }},
-    "image": {{ $img | jsonify }}{{ end }}{{ with .hasOfferCatalog }},
-    "hasOfferCatalog": {
-      "@type": "OfferCatalog",
-      "name": "Painting Services",
-      "itemListElement": [
-        {{- /* Use Scratch to manage commas only for items we actually emit */ -}}
-        {{- $.Scratch.Set "firstItem" true -}}
-        {{- range $i, $o := . -}}
-          {{- $finalURL := "" -}}
-          {{- $dispName := (index $o "name") -}}
+  {{/* layouts/partials/service-ld.html (safe ItemList emitter) */}}
+{{- $items := slice -}}
 
-          {{- with (index $o "path") -}}
-            {{- with site.GetPage . -}}
-              {{- $finalURL = .Permalink -}}
-              {{- if not $dispName }}{{ $dispName = .LinkTitle }}{{ end -}}
-            {{- end -}}
-          {{- end -}}
+{{/* EXAMPLE SOURCES for the list:
+     - If you pass a list of pages/dicts into this partial as .items, it will use that.
+     - Otherwise, it will try .Site.RegularPages of type "pages" tagged "service".
+     Adjust as needed for your site.
+*/}}
 
-          {{- if and (eq $finalURL "") (index $o "url") -}}
-            {{- $u := index $o "url" -}}
-            {{- $finalURL = cond (in $u "http") $u (absURL $u) -}}
-          {{- end -}}
+{{- with .items -}}
+  {{- range $i, $p := . }}
+    {{- $name := cond (isset $p "Title") $p.Title (cond (isset $p "name") $p.name "") -}}
+    {{- $url  := cond (isset $p "Permalink") $p.Permalink (cond (isset $p "url")  $p.url  "") -}}
+    {{- $items = $items | append (dict
+      "@type" "ListItem"
+      "position" (add $i 1)
+      "name" $name
+      "url"  $url
+    ) -}}
+  {{- end -}}
+{{- else -}}
+  {{- $svcPages := where site.RegularPages "Type" "in" (slice "pages" "services") -}}
+  {{- range $i, $p := $svcPages }}
+    {{- $items = $items | append (dict
+      "@type" "ListItem"
+      "position" (add $i 1)
+      "name" $p.Title
+      "url"  $p.Permalink
+    ) -}}
+  {{- end -}}
+{{- end -}}
 
-          {{- if $finalURL -}}
-            {{- if not ($.Scratch.Get "firstItem") }},{{ end -}}
-            {
-              "@type":"Offer",
-              "itemOffered":{
-                "@type":"Service",
-                "name": {{ $dispName | default "" | jsonify }},
-                "url":  {{ $finalURL | jsonify }}
-              }
-            }
-            {{- $.Scratch.Set "firstItem" false -}}
-          {{- else -}}
-            {{- warnf "hasOfferCatalog item skipped (no path/url) on %s: %#v" $page.RelPermalink $o -}}
-          {{- end -}}
-        {{- end -}}
-      ]
-    }{{ end }}
-  }
-  </script>
+{{- if gt (len $items) 0 -}}
+<script type="application/ld+json">
+{{ dict
+  "@context" "https://schema.org"
+  "@type" "ItemList"
+  "itemListElement" $items
+| jsonify }}
+</script>
+{{- end -}}
+
 
 {{- end -}}

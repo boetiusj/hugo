@@ -9,7 +9,7 @@ index: true
 images: "/images/schema-ogimage.jpg"
 image: "/images/other/yard-sign.jpg"
 categories:
-  - "good-news"
+  - "good-to-know"
   
 ---
 This was a nice treat on New Years Eve - very kind and thoughtful words from a lady that _didn't_ hire us!

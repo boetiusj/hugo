@@ -123,17 +123,6 @@ HUGO_ENABLEGITINFO = "true"
 # PROTECT STATIC PAGES (avoid accidental proxy rewrites)
 # Trailing-slash 301 + identity 200 rewrites for known slugs
 # =========================
-# /reviews
-[[redirects]]
-  from = "/reviews"
-  to   = "/reviews/"
-  status = 301
-  force = true
-[[redirects]]
-  from = "/reviews/*"
-  to   = "/reviews/:splat"
-  status = 200
-  force = true
 
 # /nail-pops
 [[redirects]]

@@ -31,3 +31,14 @@ git push
 # 6) Clean up
 git branch -d fix/short-name
 git push origin --delete fix/short-name
+
+# Handy checks
+git remote show origin     # shows: HEAD branch: mk (or main)
+git status -sb             # shows if mk is ahead/behind origin/mk
+git fetch origin --prune   # refresh origin/* pointers
+git pull --ff-only         # fast-forward mk to origin/mk
+git push                   # update origin/mk from mk
+
+# If you ever need to set tracking:
+
+git branch -u origin/mk mk

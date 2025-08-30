@@ -36,7 +36,7 @@ Great news — if the test results show no asbestos, you have a range of safe an
 
 ### Popcorn Ceiling Details
 
-After popcorn ceiling removal, the underlying surface often reveals flaws, such as damaged corners or poorly finished joints. These imperfections are a result of builder shortcuts (not fully finishing the drywall), knowing the textured ceiling would hide any defects. Crestwood Painting specializes in repairing these areas as well as [larger interior painting projects](/interior-painter-kansas-city/), ensuring a flawless finish. We can patch, sand, and smooth out any rough spots, preparing the ceiling for paint or a new texture.
+After popcorn ceiling removal, the underlying surface often reveals flaws, such as damaged corners or poorly finished joints. These imperfections are a result of builder shortcuts (not fully finishing the drywall), knowing the textured ceiling would hide any defects. Crestwood Painting specializes in repairing these areas as well as [larger interior painting projects]({{< relref "pages/interior-painter-kansas-city.md >}}), ensuring a flawless finish. We can patch, sand, and smooth out any rough spots, preparing the ceiling for paint or a new texture.
 
 Ceiling texture was also used on older plaster ceilings as an effective means of covering decades of cracked plaster. Same thing applies: removing the texture will likely uncover some bad news that will have to be dealt with.
 
@@ -66,6 +66,6 @@ The cost of popcorn ceiling removal depends on several factors that can affect t
 
 ### More Info Needed?
 
-Take a look at what many previous customers have said in [rave reviews](/reviews/) about [interior painting](/interior-painter-kansas-city/) and [wallpaper removal](/wallpaper-removal-kansas-city/). Be sure to not miss [12 Questions to Ask](/12-questions-ask-painter/) _before_ you hire a painter.
+Take a look at what many previous customers have said in [rave reviews](/reviews/) about [interior painting]({{< relref "pages/interior-painter-kansas-city.md >}}) and [wallpaper removal](/wallpaper-removal-kansas-city/). Be sure to not miss [12 Questions to Ask](/12-questions-ask-painter/) _before_ you hire a painter.
 
 ![online painting review crestwood painting](/images/r13-10-ann-d.webp)

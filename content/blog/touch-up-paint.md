@@ -76,7 +76,7 @@ Doors, window frames, and baseboards endure bumps, scuffs, and regular cleaning.
 
 ### Multiple Layers Required
 
-Trim usually needs more coats than walls, especially when covering old or glossy finishes. Underestimating this leads to uneven patches that catch the eye in a well-lit [interior](/interior-painter-kansas-city/) space.
+Trim usually needs more coats than walls, especially when covering old or glossy finishes. Underestimating this leads to uneven patches that catch the eye in a well-lit [interior]({{< relref "pages/interior-painter-kansas-city.md >}}) space.
 
 ## Why Quick Patches Often Fail
 

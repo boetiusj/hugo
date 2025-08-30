@@ -22,7 +22,7 @@ A nail pop is simply a nail head that has pushed above the surface of a wall or 
 
 ### Exterior Nail Pops
 
-On [exterior surfaces](/exterior-painting-kansas-city/), a visible nail head isn’t always a nail pop. Exterior nails are often left slightly visible, especially on newer construction where plywood siding and rapid building timelines create the perfect conditions for minor shifting.
+On [exterior surfaces]({{< relref "pages/exterior-painting-kansas-city.md >}}), a visible nail head isn’t always a nail pop. Exterior nails are often left slightly visible, especially on newer construction where plywood siding and rapid building timelines create the perfect conditions for minor shifting.
 
 If the original siding crew had taken an extra second to properly set each nail—just dimpling the surface without overdriving—it could have prevented many of these issues. But time and budgets don’t always allow for that level of care.
 
@@ -47,7 +47,7 @@ Sometimes, leaving well enough alone is the best approach. If the nail is doing 
 
 ### Interior Nail Pops
 
-Interior nail pops happen for similar reasons—settling, lumber shrinkage, or improper fastening. However, they’re usually more noticeable to homeowners since they look tacky—especially when they appear along ceiling joints, where structural movement is most common. These can be trickier to reach, making them more of a nuisance, but they’re still part of a thorough [interior painting project](/interior-painter-kansas-city/).
+Interior nail pops happen for similar reasons—settling, lumber shrinkage, or improper fastening. However, they’re usually more noticeable to homeowners since they look tacky—especially when they appear along ceiling joints, where structural movement is most common. These can be trickier to reach, making them more of a nuisance, but they’re still part of a thorough [interior painting project]({{< relref "pages/interior-painter-kansas-city.md >}}).
 
 ![nail pops](/images/interior/nail-pop.png)
 

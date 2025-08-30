@@ -40,7 +40,7 @@ Allow enough drying time between coats—rushing can cause peeling or patchiness
 
 ### DIY Trick
 
-Using a gray-tinted primer helps reduce the total number of coats needed for deep or bright colors. A gray base offers a more neutral foundation than white, allowing the final shade to appear richer without overwhelming the surface. This is more helpful on interiors and less relevant for [exterior painting](/content/pages/exterior-painting-kansas-city/).
+Using a gray-tinted primer helps reduce the total number of coats needed for deep or bright colors. A gray base offers a more neutral foundation than white, allowing the final shade to appear richer without overwhelming the surface. This is more helpful on interiors and less relevant for [exterior painting](/content/pages{{< relref "pages/exterior-painting-kansas-city.md >}}).
 
 #### Why Gray Primer Works
 
@@ -64,7 +64,7 @@ If you’re painting several rooms, consider premium paint for the most visible 
 
 ### Why Color Choices Affect Project Costs
 
-Darker or more saturated shades usually need more coats, more primer, and additional labor, which can raise the cost. Being upfront about your color preferences early on with your painter helps them give you an accurate estimate. For more insights on interior painting, see [interior painting](/interior-painter-kansas-city/).
+Darker or more saturated shades usually need more coats, more primer, and additional labor, which can raise the cost. Being upfront about your color preferences early on with your painter helps them give you an accurate estimate. For more insights on interior painting, see [interior painting]({{< relref "pages/interior-painter-kansas-city.md >}}).
 
 > A gray base offers a more neutral foundation than white, allowing the final shade to appear richer without overwhelming the surface.
 

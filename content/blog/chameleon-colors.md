@@ -27,7 +27,7 @@ Paint colors often behave like chameleons, shifting their appearance as the ligh
 
 ### The Appeal of Shifting Shades
 
-This quality can add a dynamic element to your home’s interior. Some designers intentionally choose paints with multiple undertones that morph throughout the day, creating visual interest. It’s a departure from the once-dominant trend of bold, saturated hues, favoring instead a gentler, more adaptable palette suited for many styles of [interior](/interior-painter-kansas-city/) spaces.
+This quality can add a dynamic element to your home’s interior. Some designers intentionally choose paints with multiple undertones that morph throughout the day, creating visual interest. It’s a departure from the once-dominant trend of bold, saturated hues, favoring instead a gentler, more adaptable palette suited for many styles of [interior]({{< relref "pages/interior-painter-kansas-city.md >}}) spaces.
 
 > Softer hues, like gentle blues or mild greens, can help you relax after a hectic day. Whether you need a living room refresh or a calming new palette in the bedroom, these subtle tints might bring a bright new ambiance.
 

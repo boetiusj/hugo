@@ -106,8 +106,8 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 ### Why Westwood KS Homeowners Choose Crestwood Painting
 
 * Proven Results – See what your neighbors say in our [customer reviews](/reviews/ "Online Reviews – Painters in Kansas City").  
-* FAQs? Oodles! Plenty of insightful [FAQs here]({{< relref "pages/faqs.md >}}) but also very specific Qs at the bottom of the [interior](/interior-painter-kansas-city/) and [exterior](/exterior-painting-kansas-city/) pages.  
-* Interior & Exterior Expertise – Explore more about [interior painting](/interior-painter-kansas-city/) and [exterior painting](/exterior-painting-kansas-city/) services.  
+* FAQs? Oodles! Plenty of insightful [FAQs here]({{< relref "pages/faqs.md >}}) but also very specific Qs at the bottom of the [interior]({{< relref "pages/interior-painter-kansas-city.md >}}) and [exterior]({{< relref "pages/exterior-painting-kansas-city.md >}}) pages.  
+* Interior & Exterior Expertise – Explore more about [interior painting]({{< relref "pages/interior-painter-kansas-city.md >}}) and [exterior painting]({{< relref "pages/exterior-painting-kansas-city.md >}}) services.  
 * Cabinet Transformations – Learn more about our [cabinet painting](/cabinet-painting/).  
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 

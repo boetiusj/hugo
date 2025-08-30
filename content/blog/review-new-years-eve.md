@@ -37,7 +37,7 @@ Best regards, Barbara L
 
 ### Nice Words
 
-Kansas City homeowners have a wide range of options available when they look for [an exterior painter](/exterior-painting-kansas-city/). Most homeowners are happy to pay a little more than to be totally dissatisfied with the experience.
+Kansas City homeowners have a wide range of options available when they look for [an exterior painter]({{< relref "pages/exterior-painting-kansas-city.md >}}). Most homeowners are happy to pay a little more than to be totally dissatisfied with the experience.
 
 Give us a call and we can discuss the options that are best for your situation and budget. Meantime, see if [12 Questions to Ask Before You Hire a Painter](/12-questions-ask-painter/) might help you avoid some of what Barbara ran into.
 

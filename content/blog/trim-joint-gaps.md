@@ -11,7 +11,7 @@ categories:
   - "nitty-gritty"
   - "interior"
 ---
-Something we see quite often on older [interior projects](/interior-painter-kansas-city/) is how craftsmen carpenters designed trim to hide wood movement.
+Something we see quite often on older [interior projects]({{< relref "pages/interior-painter-kansas-city.md >}}) is how craftsmen carpenters designed trim to hide wood movement.
 
 ## A Look at Traditional Carpentry
 

@@ -36,7 +36,7 @@ So even if your warranty says “five years,” you should ask how long the comp
 
 Paint companies back the product, but actual defects are incredibly rare when premium materials are used.
 
-At Crestwood Painting, we use Sherwin-Williams Duration on our [exterior painting projects](/exterior-painting-kansas-city/). It comes with a lifetime product warranty. Sounds impressive, right?
+At Crestwood Painting, we use Sherwin-Williams Duration on our [exterior painting projects]({{< relref "pages/exterior-painting-kansas-city.md >}}). It comes with a lifetime product warranty. Sounds impressive, right?
 
 But here’s the thing: with top-tier paint, failure is almost unheard of. Most reps will gladly supply extra gallons for a rare warranty issue—but it almost never comes to that. The paint just doesn’t fail when it’s applied properly.
 

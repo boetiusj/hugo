@@ -90,7 +90,7 @@ Choosing a painter should be based on trust, clarity, and a track record—not j
 
 There’s nothing wrong with asking about price. But if it’s the *only* question you ask, you could end up with more surprises than savings. These four questions are simple—but they reveal a lot.
 
-For more perspective, you might enjoy [why painters wear white](/why-painters-wear-white/) or explore some [interior projects](/interior-painter-kansas-city/) we’ve completed recently.
+For more perspective, you might enjoy [why painters wear white](/why-painters-wear-white/) or explore some [interior projects]({{< relref "pages/interior-painter-kansas-city.md >}}) we’ve completed recently.
 
 ## Book a Quick Estimate
 

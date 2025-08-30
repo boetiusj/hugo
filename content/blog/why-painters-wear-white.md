@@ -62,7 +62,7 @@ For more on what separates good painters from great ones, check out [12 Question
 
 Whites are often cheaper, easier to clean, and better at hiding spackle, primer, or caulk dust.
 
-White workwear can be bleached without fading or streaking. That makes it easier to clean, and it holds up better over time. It also hides dust from sanding, drywall repair, and caulking—especially on [interior projects](/interior-painter-kansas-city/).
+White workwear can be bleached without fading or streaking. That makes it easier to clean, and it holds up better over time. It also hides dust from sanding, drywall repair, and caulking—especially on [interior projects]({{< relref "pages/interior-painter-kansas-city.md >}}).
 
 Plus, white clothing tends to cost less than dyed garments. When you’re working five or six days a week, every pair of pants matters.
 

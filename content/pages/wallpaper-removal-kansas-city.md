@@ -50,7 +50,7 @@ service:
 
 ## Wallpaper is Not Easy
 
-Ideally, wallpaper removal is quick and easy—just peel it off, with no mess, no wall damage, and no stubborn adhesive left behind. In a perfect scenario, the paper was installed correctly on a properly prepped wall, making removal a smooth process that leaves your walls clean and ready for [fresh interior painting](/interior-painter-kansas-city/).
+Ideally, wallpaper removal is quick and easy—just peel it off, with no mess, no wall damage, and no stubborn adhesive left behind. In a perfect scenario, the paper was installed correctly on a properly prepped wall, making removal a smooth process that leaves your walls clean and ready for [fresh interior painting]({{< relref "pages/interior-painter-kansas-city.md >}}).
 
 {{< knowledge >}}
 

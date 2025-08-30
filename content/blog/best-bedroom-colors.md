@@ -104,7 +104,8 @@ Muted blues paired with soft grays create a serene, balanced environment, ideal 
 
 Combining gentle greens with warm whites provides a comforting atmosphere, subtly guiding your mind toward relaxation.
 
-Further explore relaxing palettes for your home's [interior](/interior-painter-kansas-city/).
+Further explore relaxing palettes for your home's [interior]({{< relref "pages
+/interior-painter-kansas-city.md >}}).
 
 > "Your bedroom should provide comfort, relaxation, and a respite from daily stress. Choose colors that directly support how you want the space to feel."
 

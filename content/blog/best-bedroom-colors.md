@@ -120,7 +120,7 @@ Professional color consultants clarify personal preferences, reduce confusion, a
 
 If your home predates 1978, ensure your professional has [lead paint certification](/lead-paint-certification/) for safe interior painting.
 
-Have additional questions? See our [FAQs here](/faqs/).
+Have additional questions? See our [FAQs here]({{< relref "pages/faqs.md >}}).
 
 Ready to transform your bedroom? Schedule a quick, stress-free consultation using our [easy online booking form]({{< relref "pages/book-us.md >}})—choose a convenient time; consultations typically take 30 minutes or less.
 

@@ -18,7 +18,7 @@ Properly dealing with leftover paint not only keeps your home clutter-free but a
 
 ## The Leftover Paint Dilemma
 
-Storing old paint in basements or garages might seem harmless, but eventually those cans pile up. Disposing of them carelessly can lead to legal and environmental problems. If you still have paint questions, take a look at our [FAQs here](/faqs/) for additional insights.
+Storing old paint in basements or garages might seem harmless, but eventually those cans pile up. Disposing of them carelessly can lead to legal and environmental problems. If you still have paint questions, take a look at our [FAQs here]({{< relref "pages/faqs.md >}}) for additional insights.
 
 ### Keep a Little for Touch-Ups
 
@@ -74,7 +74,7 @@ Providing a small amount to a friend who needs to paint a doghouse or treehouse 
 If you’re looking for more ways to make your next painting project a success—or if you want to learn about Crestwood Painting’s approach—below are some additional resources you may find helpful:
 
 - [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/)  
-- [FAQs here](/faqs/)  
+- [FAQs here]({{< relref "pages/faqs.md >}})  
 
 At Crestwood Painting, we’re committed to delivering top-quality work and eco-friendly practices. Keeping leftover paint out of landfills and waterways is just another way we help protect our community. If you have any questions or want to explore your next project, let’s talk!  
 

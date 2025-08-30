@@ -37,7 +37,7 @@ We’re in a cycle where lighter colors are back in vogue. Unlike pastels of the
 
 ### Lighting and Your Color’s Journey
 
-Natural light evolves throughout the day, bringing out different undertones in your walls. Morning sunlight can make colors appear cooler and more blue, while the golden glow of late afternoon can reveal warmer yellows or pinkish tints. The type of artificial lighting also matters: LED vs. incandescent can shift a hue dramatically once the sun goes down. If you still have questions about lighting or other paint-related concerns, check out our [FAQs here](/faqs/).
+Natural light evolves throughout the day, bringing out different undertones in your walls. Morning sunlight can make colors appear cooler and more blue, while the golden glow of late afternoon can reveal warmer yellows or pinkish tints. The type of artificial lighting also matters: LED vs. incandescent can shift a hue dramatically once the sun goes down. If you still have questions about lighting or other paint-related concerns, check out our [FAQs here]({{< relref "pages/faqs.md >}}).
 
 > There’s an undeniable mental boost that comes from living in a lighter environment.
 
@@ -63,6 +63,6 @@ There’s an undeniable mental boost that comes from living in a lighter environ
 
 ### Right Time to Paint
 
-If you’ve been thinking about a change, now could be the perfect time to repaint. This move to chameleon-like, lighter colors coincides with the desire for a cheerful, uplifting atmosphere—particularly during gloomy winter days. Whether you’re rearranging furniture or taking on a full makeover, a carefully chosen tint can transform each room into a brighter, more welcoming space for every hour of the day. If you’re unsure where to start or want a second opinion, you can always explore our other resources, like the [FAQs here](/faqs/) or our [customer reviews](/reviews/), to see how we help homeowners achieve the perfect look.
+If you’ve been thinking about a change, now could be the perfect time to repaint. This move to chameleon-like, lighter colors coincides with the desire for a cheerful, uplifting atmosphere—particularly during gloomy winter days. Whether you’re rearranging furniture or taking on a full makeover, a carefully chosen tint can transform each room into a brighter, more welcoming space for every hour of the day. If you’re unsure where to start or want a second opinion, you can always explore our other resources, like the [FAQs here]({{< relref "pages/faqs.md >}}) or our [customer reviews](/reviews/), to see how we help homeowners achieve the perfect look.
 
 ![customer review](/images/reviews/r23-6-emilyu.png)

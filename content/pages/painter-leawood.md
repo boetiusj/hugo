@@ -108,7 +108,7 @@ We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, tak
 ### Why Leawood Homeowners Choose Crestwood Painting
 
 * Proven Results – See what your neighbors say in our [customer reviews](/reviews/ "Online Reviews – Painters in Kansas City").  
-* FAQs? Oodles! Plenty of insightful [FAQs here](/faqs/) but also very specific Qs at the bottom of the [interior](/interior-painter-kansas-city/) and [exterior](/exterior-painting-kansas-city/) pages.
+* FAQs? Oodles! Plenty of insightful [FAQs here]({{< relref "pages/faqs.md >}}) but also very specific Qs at the bottom of the [interior](/interior-painter-kansas-city/) and [exterior](/exterior-painting-kansas-city/) pages.
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
 
 Painting in Leawood means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.

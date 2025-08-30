@@ -25,7 +25,7 @@ Manufacturers tend to produce vinyl windows in a single, bright white hue that p
 
 ### The Warranty Issue: Painting Vinyl Windows
 
-Most window manufacturers warn that painting vinyl frames may void warranties, especially if you opt for a darker color. They worry about heat absorption causing warping or popped seams. While some homeowners successfully paint vinyl windows using a special primer and very light paint, it’s a risk you should understand before grabbing a brush. If you have questions, head over to our [FAQs here](/faqs/) for more details on warranties and paint compatibility.
+Most window manufacturers warn that painting vinyl frames may void warranties, especially if you opt for a darker color. They worry about heat absorption causing warping or popped seams. While some homeowners successfully paint vinyl windows using a special primer and very light paint, it’s a risk you should understand before grabbing a brush. If you have questions, head over to our [FAQs here]({{< relref "pages/faqs.md >}}) for more details on warranties and paint compatibility.
 
 ### White-on-White: Overly Matchy?
 
@@ -45,7 +45,7 @@ Blending white vinyl windows with a softly tinted trim often makes your home loo
 
 ### Consider Your Home’s Style
 
-Your decision should ultimately align with your overall architecture and design goals. If your house leans modern, a more pronounced contrast might be acceptable. In a classic or colonial-style home, subtly differentiated off-white trim can keep the look cohesive while enhancing the design’s charm. If you have more questions about color selection or specific paint brands, [FAQs here](/faqs/) can help address common concerns.
+Your decision should ultimately align with your overall architecture and design goals. If your house leans modern, a more pronounced contrast might be acceptable. In a classic or colonial-style home, subtly differentiated off-white trim can keep the look cohesive while enhancing the design’s charm. If you have more questions about color selection or specific paint brands, [FAQs here]({{< relref "pages/faqs.md >}}) can help address common concerns.
 
 > Most window manufacturers warn that painting vinyl frames may void warranties, especially if you opt for a darker color.
 

@@ -77,7 +77,7 @@ faqs:
 
 ## Interior Painting – What to Expect
 
-A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are specific and helpful [Interior FAQs](#---) down below and hundreds of ([customer reviews](/reviews/)), too. [Cabinet painting?](/cabinet-painting/) Yep, we do that.
+A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are specific and helpful [Interior FAQs](#---) down below and hundreds of ([customer reviews](/reviews/)), too. [Cabinet painting?](/< relref "pages/cabinet-painting.md" >/) Yep, we do that.
 
 {{< knowledge >}}
 
@@ -219,7 +219,7 @@ Partnering with Crestwood Painting means a hassle-free process, exceptional craf
 
 ## Book An Estimate Today
 
-We’ll help narrow objectives and priorities and go over best options - there are many ways to approach this. [Book an Estimate with us]({{< relref "pages/book-us.md >}}) and let’s find what works best for your situation.
+We’ll help narrow objectives and priorities and go over best options - there are many ways to approach this. [Book an Estimate with us]({{< relref "pages/estimate-scheduler.md" >}}) and let’s find what works best for your situation.
 
 ## Interior Painting Terms
 

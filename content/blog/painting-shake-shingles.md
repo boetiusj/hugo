@@ -101,12 +101,12 @@ Knowing the limits of shake siding helps ensure better outcomes and fewer surpri
 
 If you’re repainting or repairing shakes, ask the right questions upfront. That includes whether primers will block tannins, whether replacement shingles will match, and what compromises might be necessary.
 
-Start here: [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/). You’ll get a better job—and a smoother process—when everyone’s on the same page.
+Start here: [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/). You’ll get a better job—and a smoother process—when everyone’s on the same page.
 
 For related challenges, read up on [plaster and drywall repair](/plaster-drywall-repair/) or how to approach bold tones in our [dark paint colors tips](/dark-paint-colors-tips/). And if you’re gathering bids, don’t miss our [top 5 uninsured contractor questions](/top-5-uninsured-contractor-questions/).
 
 ## Ready to Talk It Through?
 
-Every shake siding project is unique, and we’re happy to take a look. You can [book an estimate]({{< relref "pages/book-us.md >}}) through our online form—just pick a time that works for you. The visit usually takes under 30 minutes and gives you clear answers, not a sales pitch.
+Every shake siding project is unique, and we’re happy to take a look. You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) through our online form—just pick a time that works for you. The visit usually takes under 30 minutes and gives you clear answers, not a sales pitch.
 
 ![Exterior painting fence kansas city crestwood](/images/r18-2-ruben.webp)

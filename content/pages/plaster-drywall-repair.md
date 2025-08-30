@@ -50,7 +50,7 @@ index: true
 
 ## Plaster & Drywall Repair
 
-Things shift, cracks appear, and sometimes walls just don’t cooperate. Whether it’s a sneaky leak or wood expanding and contracting with the seasons, plaster and drywall repairs are a standard part of any [interior painting project]({{< relref "pages/interior-painter-kansas-city.md >}}). Because let’s be honest - paint looks best on a smooth, well-prepped surface.
+Things shift, cracks appear, and sometimes walls just don’t cooperate. Whether it’s a sneaky leak or wood expanding and contracting with the seasons, plaster and drywall repairs are a standard part of any [interior painting project]({{< relref "pages/interior-painter-kansas-city.md" >}}). Because let’s be honest - paint looks best on a smooth, well-prepped surface.
 
 ### Plaster vs. Drywall – What’s the Difference?
 

@@ -95,10 +95,10 @@ Industry guidelines help ensure a consistent result—and help avoid misundersta
 
 You don’t have to define what a “good” wall looks like on your own. National standards exist to help painters and homeowners work from the same playbook. These guidelines help clarify expectations without confusion or second-guessing.
 
-If you're not sure how to start a conversation about quality, check out our [top 4 questions for a productive painting estimate](/top-4-questions-painting-estimate/). Or take a look at [FAQs here]({{< relref "pages/faqs.md >}}), explore [interior](/interior-painter-kansas-city/) projects, or read what others say in our [customer reviews](/reviews/).
+If you're not sure how to start a conversation about quality, check out our [top 4 questions for a productive painting estimate](/top-4-questions-painting-estimate/). Or take a look at [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}}), explore [interior](/interior-painter-kansas-city/) projects, or read what others say in our [customer reviews](/reviews/).
 
 ## Book a Quick Estimate
 
-Every home has its quirks—but we're here to help you make the best of them. You can [book an estimate]({{< relref "pages/book-us.md >}}) at a time that works for you—most meetings take less than 30 minutes and give you the clarity you need without any pressure.
+Every home has its quirks—but we're here to help you make the best of them. You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) at a time that works for you—most meetings take less than 30 minutes and give you the clarity you need without any pressure.
 
 ![customer review](/images/reviews/r23-10-richards.png)

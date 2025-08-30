@@ -101,10 +101,10 @@ When in doubt, we’re happy to take a look and offer advice.
 
 If you’re unsure whether your paint is salvageable—or what to do next—feel free to ask. We can help assess what’s usable, what’s worth saving, and how best to move forward.
 
-Before your next job, review our [top 4 questions for a productive painting estimate](/top-4-questions-painting-estimate/), browse our [interior]({{< relref "pages/interior-painter-kansas-city.md >}}) project ideas, or see what others have to say on our [customer reviews](/reviews/) page.
+Before your next job, review our [top 4 questions for a productive painting estimate](/top-4-questions-painting-estimate/), browse our [interior]({{< relref "pages/interior-painter-kansas-city.md" >}}) project ideas, or see what others have to say on our [customer reviews](/reviews/) page.
 
 ## Book a Quick Estimate
 
-Whether it’s time for a refresh or you just have questions, you can [book an estimate]({{< relref "pages/book-us.md >}}) using our simple online form. The meeting usually takes 30 minutes or less and gives you helpful insight with no pressure.
+Whether it’s time for a refresh or you just have questions, you can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) using our simple online form. The meeting usually takes 30 minutes or less and gives you helpful insight with no pressure.
 
 ![customer review](/images/reviews/r23-5-lanee.png)

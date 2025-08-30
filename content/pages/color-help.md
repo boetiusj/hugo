@@ -19,7 +19,7 @@ index: true
 
 ## Choosing Exterior Colors
 
-Picking an [exterior paint color]({{< relref "pages/exterior-painting-kansas-city.md >}}) can feel like a big decision, but with the right resources and a little guidance, you’ll find a color you love that enhances your home’s style and curb appeal. Down below there are hints for [Exterior](#exterior-color-hints) and [Interior colors](#interior-color-hints), too.
+Picking an [exterior paint color]({{< relref "pages/exterior-painting-kansas-city.md" >}}) can feel like a big decision, but with the right resources and a little guidance, you’ll find a color you love that enhances your home’s style and curb appeal. Down below there are hints for [Exterior](#exterior-color-hints) and [Interior colors](#interior-color-hints), too.
 
 ### Color Resources
 

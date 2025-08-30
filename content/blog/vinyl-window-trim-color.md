@@ -19,13 +19,13 @@ Vinyl windows often come in a stark “hospital white.” Choosing "matchy-match
 
 ## Why Are Vinyl Windows So White?
 
-Manufacturers tend to produce vinyl windows in a single, bright white hue that pairs with a wide range of siding colors. However, this intense whiteness can stand out in a way that doesn’t always complement the style of your home. If you want more inspiration on overall exterior appeal, take a look at our [exterior]({{< relref "pages/exterior-painting-kansas-city.md >}}) painting info or check out [best front door colors](/best-front-door-colors/) for another high-impact change.
+Manufacturers tend to produce vinyl windows in a single, bright white hue that pairs with a wide range of siding colors. However, this intense whiteness can stand out in a way that doesn’t always complement the style of your home. If you want more inspiration on overall exterior appeal, take a look at our [exterior]({{< relref "pages/exterior-painting-kansas-city.md" >}}) painting info or check out [best front door colors](/best-front-door-colors/) for another high-impact change.
 
 > If white-on-white feels sterile and black trim looks too harsh, an off-white or neutral shade may provide the perfect middle ground.
 
 ### The Warranty Issue: Painting Vinyl Windows
 
-Most window manufacturers warn that painting vinyl frames may void warranties, especially if you opt for a darker color. They worry about heat absorption causing warping or popped seams. While some homeowners successfully paint vinyl windows using a special primer and very light paint, it’s a risk you should understand before grabbing a brush. If you have questions, head over to our [FAQs here]({{< relref "pages/faqs.md >}}) for more details on warranties and paint compatibility.
+Most window manufacturers warn that painting vinyl frames may void warranties, especially if you opt for a darker color. They worry about heat absorption causing warping or popped seams. While some homeowners successfully paint vinyl windows using a special primer and very light paint, it’s a risk you should understand before grabbing a brush. If you have questions, head over to our [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}}) for more details on warranties and paint compatibility.
 
 ### White-on-White: Overly Matchy?
 
@@ -33,7 +33,7 @@ One route is to match your trim perfectly to the bright vinyl window color. Whil
 
 ### Black Trim: Harsh Contrast
 
-On the opposite end, some homeowners choose black or similarly dark trim around white vinyl windows. While this high-contrast style can look bold on certain modern designs, it might be too jarring for traditional homes. If you’re unsure how much contrast you can handle, consider reading [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/) for guidance on design decisions and professional input.
+On the opposite end, some homeowners choose black or similarly dark trim around white vinyl windows. While this high-contrast style can look bold on certain modern designs, it might be too jarring for traditional homes. If you’re unsure how much contrast you can handle, consider reading [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/) for guidance on design decisions and professional input.
 
 ### Off-White or Neutral Trim
 
@@ -45,12 +45,12 @@ Blending white vinyl windows with a softly tinted trim often makes your home loo
 
 ### Consider Your Home’s Style
 
-Your decision should ultimately align with your overall architecture and design goals. If your house leans modern, a more pronounced contrast might be acceptable. In a classic or colonial-style home, subtly differentiated off-white trim can keep the look cohesive while enhancing the design’s charm. If you have more questions about color selection or specific paint brands, [FAQs here]({{< relref "pages/faqs.md >}}) can help address common concerns.
+Your decision should ultimately align with your overall architecture and design goals. If your house leans modern, a more pronounced contrast might be acceptable. In a classic or colonial-style home, subtly differentiated off-white trim can keep the look cohesive while enhancing the design’s charm. If you have more questions about color selection or specific paint brands, [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}}) can help address common concerns.
 
 > Most window manufacturers warn that painting vinyl frames may void warranties, especially if you opt for a darker color.
 
 ### Final Thoughts
 
-Deciding the best trim color for vinyl windows is about finding a balance between warranty concerns, color harmony, and personal taste. If white-on-white feels sterile and black trim looks too harsh, an off-white or neutral shade may provide the perfect middle ground. And if you’re eager to refresh your home’s exterior even further, our [exterior]({{< relref "pages/exterior-painting-kansas-city.md >}}) painting info and [best front door colors](/best-front-door-colors/) can offer additional inspiration. By choosing a trim color that blends with your home’s architecture, you’ll achieve a more polished, welcoming facade—one that avoids the pitfalls of stark contrasts or unrelenting whiteness.
+Deciding the best trim color for vinyl windows is about finding a balance between warranty concerns, color harmony, and personal taste. If white-on-white feels sterile and black trim looks too harsh, an off-white or neutral shade may provide the perfect middle ground. And if you’re eager to refresh your home’s exterior even further, our [exterior]({{< relref "pages/exterior-painting-kansas-city.md" >}}) painting info and [best front door colors](/best-front-door-colors/) can offer additional inspiration. By choosing a trim color that blends with your home’s architecture, you’ll achieve a more polished, welcoming facade—one that avoids the pitfalls of stark contrasts or unrelenting whiteness.
 
 ![customer review](/images/reviews/r22-6-jodyt.png)

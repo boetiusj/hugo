@@ -115,7 +115,7 @@ A little planning goes a long way toward a smoother experience and better result
 
 ### Ask Good Questions Early
 
-Not all painters prep the same way. Ask what kind of primer they use, if they caulk everything, and how they handle loose paint. If you’re unsure where to start, see our [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/).
+Not all painters prep the same way. Ask what kind of primer they use, if they caulk everything, and how they handle loose paint. If you’re unsure where to start, see our [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/).
 
 ### Think Beyond the Paint
 
@@ -123,6 +123,6 @@ A fresh coat of paint is a great time to update other features. Now might be the
 
 ## Ready to Start? Let’s Talk
 
-You can [book an estimate]({{< relref "pages/book-us.md >}}) online by choosing a time that works best for you. The meeting usually takes 30 minutes or less, and there’s no pressure—just straightforward answers and advice tailored to your home.
+You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) online by choosing a time that works best for you. The meeting usually takes 30 minutes or less, and there’s no pressure—just straightforward answers and advice tailored to your home.
 
 ![customer review](/images/reviews/r20-3-jamest.png)

@@ -97,4 +97,4 @@ Depending on your needs, we can repaint the entire home or focus on high-traffic
 
 Builders paint may be the industry standard, but it’s not your standard—and it’s not ours. Whether you're looking for a full repaint or just want to upgrade the areas that take the most abuse, Crestwood Painting is ready to help.
 
-[Let’s talk about repainting.]({{< relref "pages/interior-painter-kansas-city.md >}})
+[Let’s talk about repainting.]({{< relref "pages/interior-painter-kansas-city.md" >}})

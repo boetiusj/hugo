@@ -90,10 +90,10 @@ Choosing a painter should be based on trust, clarity, and a track record—not j
 
 There’s nothing wrong with asking about price. But if it’s the *only* question you ask, you could end up with more surprises than savings. These four questions are simple—but they reveal a lot.
 
-For more perspective, you might enjoy [why painters wear white](/why-painters-wear-white/) or explore some [interior projects]({{< relref "pages/interior-painter-kansas-city.md >}}) we’ve completed recently.
+For more perspective, you might enjoy [why painters wear white](/why-painters-wear-white/) or explore some [interior projects]({{< relref "pages/interior-painter-kansas-city.md" >}}) we’ve completed recently.
 
 ## Book a Quick Estimate
 
-Curious about how we’d answer these questions? You can [book an estimate]({{< relref "pages/book-us.md >}}) online in just a few clicks. Appointments usually take less than 30 minutes, and we’ll give you clear answers with no pressure—just straight talk from a team that’s been around the block.
+Curious about how we’d answer these questions? You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) online in just a few clicks. Appointments usually take less than 30 minutes, and we’ll give you clear answers with no pressure—just straight talk from a team that’s been around the block.
 
 ![customer review](/images/reviews/r19-4-heatherk.png)

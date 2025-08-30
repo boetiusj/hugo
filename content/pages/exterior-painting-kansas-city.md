@@ -1,7 +1,7 @@
 ---
 title: "Exterior Painting"
 slug: "exterior-painting-kansas-city"           # lock new canonical
-aliases: ["{{< relref "pages/exterior-painting-kansas-city.md >}}"]       # preserve old
+aliases: ["{{< relref "pages/exterior-painting-kansas-city.md" >}}"]       # preserve old
 description: "Tidy jobs, on-time completion, color help. Book us today - No Drips, No Drama"
 keywords: "Brookside, Lee's Summit, Leawood, Mission Hills, Prairie Village"
 date: "2011-09-18"
@@ -208,11 +208,11 @@ After we’re finished, we make sure everything is cleaned up. This includes rem
 
 ## Book an Estimate
 
-We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this - let’s find what works best for your situation. You can [book an estimate time]({{< relref "pages/book-us.md >}}) here.
+We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this - let’s find what works best for your situation. You can [book an estimate time]({{< relref "pages/estimate-scheduler.md" >}}) here.
 
 ### What Else Should I Ask?
 
-Learn how to [compare painting bids](/compare-paint-bids/), then see [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/). Still more questions? Call or email - we're ready to answer your questions.
+Learn how to [compare painting bids](/compare-paint-bids/), then see [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/). Still more questions? Call or email - we're ready to answer your questions.
 
 ### Final Thoughts
 

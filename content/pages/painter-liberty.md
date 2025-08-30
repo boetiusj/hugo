@@ -104,13 +104,13 @@ Metal fences need more than paint—they need protection. We apply long-lasting 
 
 ### Book a Free Estimate
 
-Scheduling a free estimate is quick and easy. Our [online form makes booking simple]({{< relref "pages/book-us.md >}}), and - yep - we arrive on time. In about 30 minutes, we’ll answer your questions and provide a thorough assessment.
+Scheduling a free estimate is quick and easy. Our [online form makes booking simple]({{< relref "pages/estimate-scheduler.md" >}}), and - yep - we arrive on time. In about 30 minutes, we’ll answer your questions and provide a thorough assessment.
 
 ### Why Liberty MO Homeowners Choose Crestwood Painting
 
 * Proven Results – See what your neighbors say in our [customer reviews](/reviews/ "Online Reviews – Painters in Kansas City").  
-* FAQs? Oodles! Plenty of insightful [FAQs here]({{< relref "pages/faqs.md >}}) but also very specific Qs at the bottom of the [interior]({{< relref "pages/interior-painter-kansas-city.md >}}) and [exterior]({{< relref "pages/exterior-painting-kansas-city.md >}}) pages.
-* Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/ "12 Questions to Ask Before You Hire a Painter")
+* FAQs? Oodles! Plenty of insightful [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}}) but also very specific Qs at the bottom of the [interior]({{< relref "pages/interior-painter-kansas-city.md" >}}) and [exterior]({{< relref "pages/exterior-painting-kansas-city.md" >}}) pages.
+* Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/ "12 Questions to Ask Before You Hire a Painter")
 
 We know Liberty homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 

@@ -27,7 +27,7 @@ Paint colors often behave like chameleons, shifting their appearance as the ligh
 
 ### The Appeal of Shifting Shades
 
-This quality can add a dynamic element to your home’s interior. Some designers intentionally choose paints with multiple undertones that morph throughout the day, creating visual interest. It’s a departure from the once-dominant trend of bold, saturated hues, favoring instead a gentler, more adaptable palette suited for many styles of [interior]({{< relref "pages/interior-painter-kansas-city.md >}}) spaces.
+This quality can add a dynamic element to your home’s interior. Some designers intentionally choose paints with multiple undertones that morph throughout the day, creating visual interest. It’s a departure from the once-dominant trend of bold, saturated hues, favoring instead a gentler, more adaptable palette suited for many styles of [interior]({{< relref "pages/interior-painter-kansas-city.md" >}}) spaces.
 
 > Softer hues, like gentle blues or mild greens, can help you relax after a hectic day. Whether you need a living room refresh or a calming new palette in the bedroom, these subtle tints might bring a bright new ambiance.
 
@@ -37,7 +37,7 @@ We’re in a cycle where lighter colors are back in vogue. Unlike pastels of the
 
 ### Lighting and Your Color’s Journey
 
-Natural light evolves throughout the day, bringing out different undertones in your walls. Morning sunlight can make colors appear cooler and more blue, while the golden glow of late afternoon can reveal warmer yellows or pinkish tints. The type of artificial lighting also matters: LED vs. incandescent can shift a hue dramatically once the sun goes down. If you still have questions about lighting or other paint-related concerns, check out our [FAQs here]({{< relref "pages/faqs.md >}}).
+Natural light evolves throughout the day, bringing out different undertones in your walls. Morning sunlight can make colors appear cooler and more blue, while the golden glow of late afternoon can reveal warmer yellows or pinkish tints. The type of artificial lighting also matters: LED vs. incandescent can shift a hue dramatically once the sun goes down. If you still have questions about lighting or other paint-related concerns, check out our [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}}).
 
 > There’s an undeniable mental boost that comes from living in a lighter environment.
 
@@ -55,7 +55,7 @@ Your choice of upholstery and decorative items can also sway how a color reads. 
 
 ### Opening Up Your Space
 
-Lighter shades not only change throughout the day; they also give rooms a more open, airy feel. Dark colors can create a cozy vibe, but they can also make spaces look smaller. By using subtle tints, you’ll reflect more light and visually expand the area. If you’re considering a major update, take a look at our [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/) for more insights on making informed decisions.
+Lighter shades not only change throughout the day; they also give rooms a more open, airy feel. Dark colors can create a cozy vibe, but they can also make spaces look smaller. By using subtle tints, you’ll reflect more light and visually expand the area. If you’re considering a major update, take a look at our [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/) for more insights on making informed decisions.
 
 ### Brighter Surfaces, Brighter Mood
 
@@ -63,6 +63,6 @@ There’s an undeniable mental boost that comes from living in a lighter environ
 
 ### Right Time to Paint
 
-If you’ve been thinking about a change, now could be the perfect time to repaint. This move to chameleon-like, lighter colors coincides with the desire for a cheerful, uplifting atmosphere—particularly during gloomy winter days. Whether you’re rearranging furniture or taking on a full makeover, a carefully chosen tint can transform each room into a brighter, more welcoming space for every hour of the day. If you’re unsure where to start or want a second opinion, you can always explore our other resources, like the [FAQs here]({{< relref "pages/faqs.md >}}) or our [customer reviews](/reviews/), to see how we help homeowners achieve the perfect look.
+If you’ve been thinking about a change, now could be the perfect time to repaint. This move to chameleon-like, lighter colors coincides with the desire for a cheerful, uplifting atmosphere—particularly during gloomy winter days. Whether you’re rearranging furniture or taking on a full makeover, a carefully chosen tint can transform each room into a brighter, more welcoming space for every hour of the day. If you’re unsure where to start or want a second opinion, you can always explore our other resources, like the [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}}) or our [customer reviews](/reviews/), to see how we help homeowners achieve the perfect look.
 
 ![customer review](/images/reviews/r23-6-emilyu.png)

@@ -29,7 +29,7 @@ What is the best paint sheen for your project? It depends on factors like traffi
 
 #### Performance vs. Aesthetics
 
-Interior trim endures frequent contact, making satin or semi-gloss a practical choice for longevity. In contrast, [exterior painted]({{< relref "pages/exterior-painting-kansas-city.md >}}) trim and shutters traditionally sport a glossier sheen to highlight architectural features and withstand weather. Balancing the look you love with the performance level you need keeps surfaces looking fresh over time.
+Interior trim endures frequent contact, making satin or semi-gloss a practical choice for longevity. In contrast, [exterior painted]({{< relref "pages/exterior-painting-kansas-city.md" >}}) trim and shutters traditionally sport a glossier sheen to highlight architectural features and withstand weather. Balancing the look you love with the performance level you need keeps surfaces looking fresh over time.
 
 ### Flat Paint: Subdued and Versatile
 
@@ -43,7 +43,7 @@ Eggshell and satin finishes balance soft aesthetics with mild sheen, giving wall
 
 #### Versatility Indoors and Out
 
-Eggshell is a go-to finish for [interior paint]({{< relref "pages/interior-painter-kansas-city.md >}}) walls when you want a hint of shine that’s not as glossy as satin. Satin, with a slightly higher sheen, is an excellent option for exterior trim or shutters, adding durability and a polished look that highlights architectural details. Both finishes resist moisture better than flat paint, and they can perform well in less humid bathrooms or in moderate climates.
+Eggshell is a go-to finish for [interior paint]({{< relref "pages/interior-painter-kansas-city.md" >}}) walls when you want a hint of shine that’s not as glossy as satin. Satin, with a slightly higher sheen, is an excellent option for exterior trim or shutters, adding durability and a polished look that highlights architectural details. Both finishes resist moisture better than flat paint, and they can perform well in less humid bathrooms or in moderate climates.
 
 ### Semi-Gloss: Cleanliness and Durability
 

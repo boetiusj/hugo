@@ -73,7 +73,7 @@ Let your samples sit for a few days and check them in the morning, afternoon, an
 
 ### Ready to Move Forward?
 
-Once you’ve found the right color, we can help bring it to life. You can [book an estimate]({{< relref "pages/book-us.md >}}) online at a time that works best for you—usually a quick, no-pressure meeting that takes less than 30 minutes.
+Once you’ve found the right color, we can help bring it to life. You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) online at a time that works best for you—usually a quick, no-pressure meeting that takes less than 30 minutes.
 
 For more inspiration, check out our [colors interior](/colors-interior/) gallery, read our guide on [painting kitchen cabinets](/painting-kitchen-cabinets/), or explore why [touch-up paint](/touch-up-paint/) isn’t always as easy as it seems.
 

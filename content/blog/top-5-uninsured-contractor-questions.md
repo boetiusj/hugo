@@ -99,8 +99,8 @@ You can also call the insurance provider listed to verify that the policy is act
 
 ## Book a Quick Estimate
 
-Hiring a painter should come with peace of mind. We carry full insurance and are happy to provide documentation upon request. You can [book an estimate]({{< relref "pages/book-us.md >}}) at a time that works for you—most meetings take under 30 minutes, and come with clarity, not pressure.
+Hiring a painter should come with peace of mind. We carry full insurance and are happy to provide documentation upon request. You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) at a time that works for you—most meetings take under 30 minutes, and come with clarity, not pressure.
 
-For more smart homeowner tips, check out [12 Questions to Ask *Before* You Hire a Painter](/12-questions-ask-painter/), our breakdown of [why painters backroll](/why-painters-backroll/), or tips on [crystal clear contracts](/solid-agreements/). You’ll be glad you did.
+For more smart homeowner tips, check out [12 Questions to Ask *Before* You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/), our breakdown of [why painters backroll](/why-painters-backroll/), or tips on [crystal clear contracts](/solid-agreements/). You’ll be glad you did.
 
 ![customer review](/images/reviews/r19-8-katherinet.png)

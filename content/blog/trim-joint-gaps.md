@@ -11,7 +11,7 @@ categories:
   - "nitty-gritty"
   - "interior"
 ---
-Something we see quite often on older [interior projects]({{< relref "pages/interior-painter-kansas-city.md >}}) is how craftsmen carpenters designed trim to hide wood movement.
+Something we see quite often on older [interior projects]({{< relref "pages/interior-painter-kansas-city.md" >}}) is how craftsmen carpenters designed trim to hide wood movement.
 
 ## A Look at Traditional Carpentry
 
@@ -113,10 +113,10 @@ A decent caulk gun, flexible fillers, and proper cleaning handle most small crac
 
 ### When to Call a Pro
 
-Larger or recurring gaps can point to structural shifts. Consider professional carpentry or painting services, check [customer reviews](/reviews/), and see [12 Questions to Ask _Before_ You Hire a Painter](/12-questions-ask-painter/) before deciding.
+Larger or recurring gaps can point to structural shifts. Consider professional carpentry or painting services, check [customer reviews](/reviews/), and see [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/) before deciding.
 
 ## Ready to Schedule a Consultation?
 
-If you’re tired of chasing trim gaps, we have a simple [online booking form]({{< relref "pages/book-us.md >}}) that lets you pick a convenient time. It’s a relaxed, no-pressure conversation about your home’s needs, so we can suggest practical, budget-friendly solutions. Scheduling now can spare you bigger headaches later, and we’ll help keep your trim looking its best.
+If you’re tired of chasing trim gaps, we have a simple [online booking form]({{< relref "pages/estimate-scheduler.md" >}}) that lets you pick a convenient time. It’s a relaxed, no-pressure conversation about your home’s needs, so we can suggest practical, budget-friendly solutions. Scheduling now can spare you bigger headaches later, and we’ll help keep your trim looking its best.
 
 ![customer review](/images/reviews/r24-4-krausj.png)

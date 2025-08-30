@@ -13,7 +13,7 @@ Also see [online reviews here](/reviews/).
 
 {{< youtube "GSKLgHZHNKM" >}}
 
-[Exterior Paint Review]({{< relref "pages/exterior-painting-kansas-city.md >}})
+[Exterior Paint Review]({{< relref "pages/exterior-painting-kansas-city.md" >}})
 
 {{< youtube "somyoSBk9DQ" >}}
 
@@ -21,15 +21,15 @@ Also see [online reviews here](/reviews/).
 
 {{< youtube "PXS9Zy6R8Gg" >}}
 
-[Exterior Paint Review]({{< relref "pages/exterior-painting-kansas-city.md >}})
+[Exterior Paint Review]({{< relref "pages/exterior-painting-kansas-city.md" >}})
 
 {{< youtube "f514gX1SLSA" >}}
 
-[Interior Paint Review]({{< relref "pages/interior-painter-kansas-city.md >}})
+[Interior Paint Review]({{< relref "pages/interior-painter-kansas-city.md" >}})
 
 {{< youtube "jJWMJStRzfk" >}}
 
-[Exterior Paint Review]({{< relref "pages/exterior-painting-kansas-city.md >}})
+[Exterior Paint Review]({{< relref "pages/exterior-painting-kansas-city.md" >}})
 
 {{< youtube "PP-qRdjiT3M" >}}
 
@@ -37,4 +37,4 @@ In The News
 
 {{< youtube "TQju0Uk1PUU" >}}
 
-[Interior Paint Review]({{< relref "pages/interior-painter-kansas-city.md >}})
+[Interior Paint Review]({{< relref "pages/interior-painter-kansas-city.md" >}})

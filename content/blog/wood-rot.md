@@ -84,6 +84,6 @@ You’ll also see the difference in the finished product. Our repairs blend in, 
 
 ## Book a Quick Estimate
 
-Not sure if it’s rot or just rough paint? We’re happy to take a look. You can [book an estimate]({{< relref "pages/book-us.md >}}) online—appointments usually take 30 minutes or less. No pressure, just honest answers and a clear next step.
+Not sure if it’s rot or just rough paint? We’re happy to take a look. You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) online—appointments usually take 30 minutes or less. No pressure, just honest answers and a clear next step.
 
 ![customer review](/images/reviews/r22-5-nickw.png)

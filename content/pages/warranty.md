@@ -1,7 +1,7 @@
 ---
 title: "Warranty"
 slug: "warranty"        # lock new canonical
-aliases: "/warranty/"             # preserve old
+aliases: ["/warranty/"]             # preserve old
 description: "Warranty information - how Crestwood Painting customers are protected."
 keywords: "painting warranty kansas city"
 date: "2011-09-18"

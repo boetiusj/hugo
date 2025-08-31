@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 slug: "contact-us"        # lock new canonical
-aliases: "/contact/"             # preserve old
+aliases: ["/contact/"]             # preserve old
 description: "Contact the friendly folks at Crestwood Painting - we'll get right back to you. Or call us: 816-805-4515"
 keywords: "contact, crestwood painting"
 date: "2011-09-21"

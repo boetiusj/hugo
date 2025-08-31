@@ -1,7 +1,7 @@
 --- 
 title: Why Do Painters Wear White?
 slug: "why-do-painters-wear-white"        # lock new canonical
-aliases: "/why-painters-wear-white/"        # preserve old
+aliases: ["/why-painters-wear-white/"]        # preserve old
 description: Answers to the ageless question Why do painters wear white?
 keywords: painters wear white
 date: "2011-09-21"

@@ -1,7 +1,7 @@
 ---
 title: "Cabinet Painting"
 slug: "cabinet-painting"        # lock new canonical
-aliases: "/cabinet-painting/"             # preserve old
+aliases: ["/cabinet-painting/"]             # preserve old
 description: "Painting cabinets - the easiest way to a clean and modern kitchen."
 keywords: "Kitchen cabinet painting, bathroom vanity painting, wall paneling painting"
 date: "2011-09-21"

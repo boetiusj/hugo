@@ -1,7 +1,7 @@
 ---
 title: "Plaster and Drywall Repair"
 slug: "plaster-drywall-repair"        # lock new canonical
-aliases: "/plaster-and-drywall-repair/"             # preserve old
+aliases: ["/plaster-and-drywall-repair/"]             # preserve old
 description: "Plaster and drywall - tidy repairs done with No Drips, No Drama. Book an Estimate today."
 keywords: "plaster repair, drywall repair, Kansas City, Crestwood Painting"
 date: "2011-09-21"

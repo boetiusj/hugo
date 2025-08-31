@@ -1,7 +1,7 @@
 ---
 title: "Office Painting"
 slug: "office-painting"        # lock new canonical
-aliases: "/office-painting-experts/"             # preserve old
+aliases: ["/office-painting-experts/"]             # preserve old
 description: "Painting offices - easy, quiet and fast."
 keywords: "office painting commercial maintenance kansas city"
 date: "2017-01-16"

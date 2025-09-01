@@ -34,7 +34,7 @@ knowledge:
     - "Lead-backed foils or murals (quote separately)"
   service_areas: ["Kansas City MO","Leawood KS","Overland Park KS","Prairie Village KS","Liberty MO","Parkville MO"]
   cta_text: "Schedule Removal"
-  cta_url: "/book-us/#bookform"
+  cta_url: "/estimate-scheduler/"
   phone: "816-805-4515"
 index: true
 service:

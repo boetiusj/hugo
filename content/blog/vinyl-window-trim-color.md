@@ -33,7 +33,7 @@ One route is to match your trim perfectly to the bright vinyl window color. Whil
 
 ### Black Trim: Harsh Contrast
 
-On the opposite end, some homeowners choose black or similarly dark trim around white vinyl windows. While this high-contrast style can look bold on certain modern designs, it might be too jarring for traditional homes. If you’re unsure how much contrast you can handle, consider reading [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/) for guidance on design decisions and professional input.
+On the opposite end, some homeowners choose black or similarly dark trim around white vinyl windows. While this high-contrast style can look bold on certain modern designs, it might be too jarring for traditional homes. If you’re unsure how much contrast you can handle, consider reading [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}) for guidance on design decisions and professional input.
 
 ### Off-White or Neutral Trim
 

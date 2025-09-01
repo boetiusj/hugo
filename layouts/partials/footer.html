@@ -44,20 +44,20 @@
             <div class="row">
               <div class="col-6">
                 <ul class="list-unstyled footer-menu">
-                  <li><a href='{{ relref . "pages/painter-lees-summit" }}'>Lee's Summit</a></li>
-                  <li><a href='{{ relref . "pages/painter-prairie-village" }}'>Prairie Village</a></li>
-                  <li><a href='{{ relref . "pages/painter-leawood" }}'>Leawood</a></li>
-                  <li><a href='{{ relref . "pages/painter-overland-park" }}'>Overland Park</a></li>
-                  <li><a href='{{ relref . "pages/painter-liberty" }}'>Liberty</a></li>
+                  <li><a href="{{ relref . 'pages/painter-in-lees-summit.md' }}">Lee's Summit</a></li>
+                  <li><a href="{{ relref . 'pages/painter-in-prairie-village.md' }}">Prairie Village</a></li>
+                  <li><a href="{{ relref . 'pages/painter-in-leawood.md' }}">Leawood</a></li>
+                  <li><a href="{{ relref . 'pages/painter-in-overland-park.md' }}">Overland Park</a></li>
+                  <li><a href="{{ relref . 'pages/painter-in-liberty.md' }}">Liberty</a></li>
                 </ul>
               </div>
               <div class="col-6">
                 <ul class="list-unstyled footer-menu">
-                  <li><a href='{{ relref . "pages/painter-belton" }}'>Belton</a></li>
-                  <li><a href='{{ relref . "pages/painter-mission-hills" }}'>Mission Hills</a></li>
-                  <li><a href='{{ relref . "pages/painter-parkville" }}'>Parkville</a></li>
-                  <li><a href='{{ relref . "pages/painter-westwood" }}'>Westwood</a></li>
-                  <li><a href='{{ relref . "pages/painter-loch-lloyd" }}'>Loch Lloyd</a></li>
+                  <li><a href="{{ relref . 'pages/painter-in-belton.md' }}">Belton</a></li>
+                  <li><a href="{{ relref . 'pages/painter-in-mission-hills.md' }}">Mission Hills</a></li>
+                  <li><a href="{{ relref . 'pages/painter-in-parkville.md' }}">Parkville</a></li>
+                  <li><a href="{{ relref . 'pages/painter-in-westwood.md' }}">Westwood</a></li>
+                  <li><a href="{{ relref . 'pages/painter-in-loch-lloyd.md' }}">Loch Lloyd</a></li>
                 </ul>
               </div>
             </div>
@@ -73,7 +73,7 @@
               <li>Clear communication</li>
               <li>Professional & friendly</li>
             </ul>
-            <a href='{{ relref . "pages/book-us" }}' class="btn btn-main btn-round-full">
+            <a href='{{ relref . "pages/estimate-scheduler" }}' class="btn btn-main btn-round-full">
               Schedule an Estimate
               {{ $angle := resources.Get "images/svg/angle-right-solid.svg" }}
               <span class="btn-icon ml-2 svg-h-8 mr-2">{{ $angle.Content | safeHTML }}</span>

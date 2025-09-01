@@ -107,7 +107,7 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 
 * Proven Results – See what your neighbors say in our [customer reviews](/reviews/ "Online Reviews – Painters in Kansas City").  
 * FAQs? Oodles! Plenty of insightful [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}}) but also very specific Qs at the bottom of the [interior]({{< relref "pages/interior-painter-kansas-city.md" >}}) and [exterior]({{< relref "pages/exterior-painting-kansas-city.md" >}}) pages.
-* Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/ "12 Questions to Ask Before You Hire a Painter")"
+* Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}} "12 Questions to Ask Before You Hire a Painter")"
 
 In Parkville, details matter—and so does durability. We take pride in delivering lasting finishes that make your home look its best for years to come.
 

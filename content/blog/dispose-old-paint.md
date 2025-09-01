@@ -73,7 +73,7 @@ Providing a small amount to a friend who needs to paint a doghouse or treehouse 
 
 If you’re looking for more ways to make your next painting project a success—or if you want to learn about Crestwood Painting’s approach—below are some additional resources you may find helpful:
 
-- [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/)  
+- [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}})  
 - [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}})  
 
 At Crestwood Painting, we’re committed to delivering top-quality work and eco-friendly practices. Keeping leftover paint out of landfills and waterways is just another way we help protect our community. If you have any questions or want to explore your next project, let’s talk!  

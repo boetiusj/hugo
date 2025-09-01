@@ -128,6 +128,6 @@ Some issues require more than paint alone, like refilling grooves or smoothing u
 
 ## Ready to Book an Estimate?
 
-If you’re looking for a quick, no-pressure way to tackle pesky touch-ups, you can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) to find a convenient time—often in half an hour or less. Our simple online form lets you pick the slot that fits your schedule, and we’ll suggest practical options without pushing any hard sell. Also, consider reviewing [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/) if you need extra clarity on your next steps.
+If you’re looking for a quick, no-pressure way to tackle pesky touch-ups, you can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) to find a convenient time—often in half an hour or less. Our simple online form lets you pick the slot that fits your schedule, and we’ll suggest practical options without pushing any hard sell. Also, consider reviewing [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}) if you need extra clarity on your next steps.
 
 ![customer review](/images/reviews/r22-7-meganr.png)

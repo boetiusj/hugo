@@ -36,7 +36,7 @@ knowledge:
     - "Full carpentry replacement outside scope"
   service_areas: ["Neighborhoods: Brookside, Hyde Park, Valentine","Kansas City MO","Leawood KS","Overland Park KS","Prairie Village KS","Liberty MO"]
   cta_text: "Book an Estimate"
-  cta_url: "/book-us/#bookform"
+  cta_url: "/estimate-scheduler/"
   phone: "816-805-4515"
   # image: "/images/exterior/panel-thumb.webp"
   # image_alt: "Fresh exterior repaint, Kansas City"
@@ -212,7 +212,7 @@ We can take a look at your objectives and priorities and then narrow down the be
 
 ### What Else Should I Ask?
 
-Learn how to [compare painting bids](/compare-paint-bids/), then see [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/). Still more questions? Call or email - we're ready to answer your questions.
+Learn how to [compare painting bids](/compare-paint-bids/), then see [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}). Still more questions? Call or email - we're ready to answer your questions.
 
 ### Final Thoughts
 

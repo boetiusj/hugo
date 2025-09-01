@@ -115,7 +115,7 @@ A little planning goes a long way toward a smoother experience and better result
 
 ### Ask Good Questions Early
 
-Not all painters prep the same way. Ask what kind of primer they use, if they caulk everything, and how they handle loose paint. If you’re unsure where to start, see our [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/).
+Not all painters prep the same way. Ask what kind of primer they use, if they caulk everything, and how they handle loose paint. If you’re unsure where to start, see our [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}).
 
 ### Think Beyond the Paint
 

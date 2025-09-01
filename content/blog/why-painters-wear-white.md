@@ -56,7 +56,7 @@ First impressions matter, and a clean, well-kept uniform helps homeowners feel c
 
 That doesn’t mean a non-white painter isn’t great. But all else equal, showing up in whites still says something.
 
-For more on what separates good painters from great ones, check out [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/).
+For more on what separates good painters from great ones, check out [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}).
 
 ## There’s a Practical Side, Too
 

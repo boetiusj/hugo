@@ -35,7 +35,7 @@ knowledge:
     - "Custom glazing/faux finishes"
   service_areas: ["Kansas City MO","Leawood KS","Overland Park KS","Prairie Village KS","Mission Hills KS","Lee’s Summit MO"]
   cta_text: "Book an Estimate"
-  cta_url: "/book-us/#bookform"
+  cta_url: "/estimate-scheduler/"
   phone: "816-805-4515"
 service:
   serviceType: "Interior House Painting"

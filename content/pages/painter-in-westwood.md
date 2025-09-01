@@ -109,7 +109,7 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 * FAQs? Oodles! Plenty of insightful [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}}) but also very specific Qs at the bottom of the [interior]({{< relref "pages/interior-painter-kansas-city.md" >}}) and [exterior]({{< relref "pages/exterior-painting-kansas-city.md" >}}) pages.  
 * Interior & Exterior Expertise – Explore more about [interior painting]({{< relref "pages/interior-painter-kansas-city.md" >}}) and [exterior painting]({{< relref "pages/exterior-painting-kansas-city.md" >}}) services.  
 * Cabinet Transformations – Learn more about our [cabinet painting]({{< relref "pages/cabinet-painting.md" >}}).  
-* Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/ "12 Questions to Ask Before You Hire a Painter")
+* Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}} "12 Questions to Ask Before You Hire a Painter")
 
 We know Westwood homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 

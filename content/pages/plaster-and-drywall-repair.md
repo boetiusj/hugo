@@ -1,7 +1,7 @@
 ---
 title: "Plaster and Drywall Repair"
-slug: "plaster-drywall-repair"        # lock new canonical
-aliases: ["/plaster-and-drywall-repair/"]             # preserve old
+slug: "plaster-and-drywall-repair"        # lock new canonical
+aliases: ["/plaster-drywall-repair/"]             # preserve old
 description: "Plaster and drywall - tidy repairs done with No Drips, No Drama. Book an Estimate today."
 keywords: "plaster repair, drywall repair, Kansas City, Crestwood Painting"
 date: "2011-09-21"
@@ -34,7 +34,7 @@ knowledge:
     - "Full-home skim coats (quoted separately)"
   service_areas: ["Kansas City MO","Prairie Village KS","Neighborhoods: Brookside, Valentine, Hyde Park","Mission Hills KS","Fairway KS","Westwood KS"]
   # cta_text: "Book a Repair Visit"
-  # cta_url: "/book-us/#bookform"
+  # cta_url: "/estimate-scheduler/"
   phone: "816-805-4515"
 service:
   serviceType: "Plaster & Drywall Repair"

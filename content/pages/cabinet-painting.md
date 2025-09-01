@@ -35,7 +35,7 @@ knowledge:
     - "New cabinet boxes or layout changes"
   service_areas: ["Kansas City MO", "Leawood KS", "Overland Park KS", "Prairie Village KS"]
   cta_text: "Book an Estimate"
-  cta_url: "/book/"
+  cta_url: "/estimate-scheduler/"
   phone: "816-805-4515"    
 service:
   serviceType: "Cabinet Painting"

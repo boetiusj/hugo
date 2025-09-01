@@ -33,7 +33,7 @@ This quality can add a dynamic element to your home’s interior. Some designers
 
 ### Why Subtle Tints Are Trending
 
-We’re in a cycle where lighter colors are back in vogue. Unlike pastels of the past, today’s tints often combine three or more hues for a refined finish. This layering makes the color harder to categorize—neither purely green, gray, nor yellow—and lends a sense of sophistication to the room. If you’re curious about how others have tackled this approach, read our [customer reviews](/reviews/) to see real-life experiences.
+We’re in a cycle where lighter colors are back in vogue. Unlike pastels of the past, today’s tints often combine three or more hues for a refined finish. This layering makes the color harder to categorize—neither purely green, gray, nor yellow—and lends a sense of sophistication to the room. If you’re curious about how others have tackled this approach, read our [customer reviews]({{< relref "pages/reviews.md" >}}) to see real-life experiences.
 
 ### Lighting and Your Color’s Journey
 
@@ -55,7 +55,7 @@ Your choice of upholstery and decorative items can also sway how a color reads. 
 
 ### Opening Up Your Space
 
-Lighter shades not only change throughout the day; they also give rooms a more open, airy feel. Dark colors can create a cozy vibe, but they can also make spaces look smaller. By using subtle tints, you’ll reflect more light and visually expand the area. If you’re considering a major update, take a look at our [12 Questions to Ask _Before_ You Hire a Painter](/< relref "pages/12-top-painter-questions.md" >/) for more insights on making informed decisions.
+Lighter shades not only change throughout the day; they also give rooms a more open, airy feel. Dark colors can create a cozy vibe, but they can also make spaces look smaller. By using subtle tints, you’ll reflect more light and visually expand the area. If you’re considering a major update, take a look at our [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}) for more insights on making informed decisions.
 
 ### Brighter Surfaces, Brighter Mood
 

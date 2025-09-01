@@ -105,7 +105,7 @@ faqs:
   - question: How can I compare estimates?
     id: apples
     answer: |
-      Start here to compare [Apples to Apples](/{{< relref "blog/compare-paint-bids.md" >}}/). And yes, we have done line-by-line comparisons of paint proposals - just give us a call.
+      Start here to compare [Apples to Apples]({{< relref "blog/compare-paint-bids.md" >}}). And yes, we have done line-by-line comparisons of paint proposals - just give us a call.
 
   - question: How about just a “ballpark” estimate?
     id: ballpark

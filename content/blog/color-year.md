@@ -180,7 +180,7 @@ Committing large areas, like entire rooms or exteriors, to a trendy color can qu
 
 Trendy colors must harmonize with your existing furnishings, flooring, and fixed elements. Choosing a color purely because it’s popular risks clashing and dissatisfaction.
 
-Check our guide on [how to compare paint bids]({{< relref "blog/compare-painting-bids.md" >}}) to make sure you're investing wisely in your color choices.
+Check our guide on [how to compare paint bids]({{< relref "pages/compare-painting-bids.md" >}})  to make sure you're investing wisely in your color choices.
 
 > "The colors in your home directly affect mood, productivity, and comfort—choose carefully, trend or not."
 

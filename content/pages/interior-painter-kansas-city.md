@@ -83,7 +83,7 @@ A well-planned painting project means minimal disruption and maximum results. We
 
 ## Let’s Talk: Colors & Expectations
 
-Your estimate isn’t just about numbers—it’s a chance to fine-tune the details. We’ll discuss any needed repairs, [go over color](/color-help/) and sheen options, and set clear expectations for the project. We'll even help you to [compare paint bids]({{< relref "blog/compare-painting-bids.md" >}}). This conversation ensures everything is planned out before work begins, so the process is smooth and stress-free.
+Your estimate isn’t just about numbers—it’s a chance to fine-tune the details. We’ll discuss any needed repairs, [go over color]({{< relref "pages/color-help.md" >}}) and sheen options, and set clear expectations for the project. We'll even help you to [compare paint bids]({{< relref "pages/compare-painting-bids.md" >}}). This conversation ensures everything is planned out before work begins, so the process is smooth and stress-free.
 
 ![white living room](/images/interior/brick-fp-paint.jpg)
 

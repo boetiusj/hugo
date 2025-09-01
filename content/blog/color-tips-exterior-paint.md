@@ -99,7 +99,7 @@ Use bold or vibrant colors sparingly, like on shutters, doors, or porch railings
 
 Ensure accent colors complement rather than clash with the primary house color. Keeping accent colors cohesive with your overall color scheme enhances curb appeal.
 
-Choosing exterior paint can feel overwhelming; learn why [choosing colors can be daunting]({{< relref "blog/daunting-colors.md" >}}) and how to simplify the process.
+Choosing exterior paint can feel overwhelming; learn why [choosing colors can be daunting]({{< relref "pages/daunting-colors.md" >}}) and how to simplify the process.
 
 > Proper maintenance of your home's exterior paint ensures lasting beauty, durability, and protects your investment.
 

@@ -74,7 +74,7 @@ While not a guarantee of quality, showing up in whites says: **I take this work 
 
 Wearing white is about more than tradition—it’s a mark of pride. It tells customers and coworkers alike that you take the trade seriously, that you know how to work clean, and that you’re someone worth trusting.
 
-For more tips on professionalism and project planning, check out [how to compare painting bids]({{< relref "blog/compare-paint-bids.md" >}}) or explore [best front door colors]({{< relref "blog/best-front-door-colors.md" >}}) to help you dream big.
+For more tips on professionalism and project planning, check out [how to compare painting bids]({{< relref "pages/compare-painting-bids.md" >}}) or explore [best front door colors]({{< relref "blog/best-front-door-colors.md" >}}) to help you dream big.
 
 ## What Counts as “Whites”?
 

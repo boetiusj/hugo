@@ -40,7 +40,7 @@ Allow enough drying time between coats—rushing can cause peeling or patchiness
 
 ### DIY Trick
 
-Using a gray-tinted primer helps reduce the total number of coats needed for deep or bright colors. A gray base offers a more neutral foundation than white, allowing the final shade to appear richer without overwhelming the surface. This is more helpful on interiors and less relevant for [exterior painting](/content/pages{{< relref "pages/exterior-painting-kansas-city.md" >}}).
+Using a gray-tinted primer helps reduce the total number of coats needed for deep or bright colors. A gray base offers a more neutral foundation than white, allowing the final shade to appear richer without overwhelming the surface. This is more helpful on interiors and less relevant for [exterior painting]({{< relref "pages/exterior-painting-kansas-city.md" >}}).
 
 #### Why Gray Primer Works
 

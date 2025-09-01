@@ -9,7 +9,7 @@ hero:
   title: Painting Kansas City Homes & Offices
   image: "/images/january.webp"        # hi-res (1920 × 1080 WebP)
   button:
-    url: "/book-us/"
+    url: "/schedule-estimate/"
     label: Schedule an Estimate
 intro:
   title: "Trusted. Since 2007"
@@ -37,7 +37,7 @@ cta:
   show: true # turn to false to hide
   # image: 
   button:
-    url: "/book-us/"
+    url: "/schedule-estimate/"
     label: "Schedule an Estimate"
 index: true
 # about:

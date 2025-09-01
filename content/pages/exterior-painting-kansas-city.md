@@ -212,7 +212,7 @@ We can take a look at your objectives and priorities and then narrow down the be
 
 ### What Else Should I Ask?
 
-Learn how to [compare painting bids]({{< relref "blog/compare-painting-bids.md" >}}), then see [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}). Still more questions? Call or email - we're ready to answer your questions.
+Learn how to [compare painting bids]({{< relref "pages/compare-painting-bids.md" >}}), then see [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}). Still more questions? Call or email - we're ready to answer your questions.
 
 ### Final Thoughts
 

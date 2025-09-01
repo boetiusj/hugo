@@ -72,7 +72,7 @@ Drywall, on the other hand, is a (relatively) modern (1940's-ish), factory-made 
 
 Time-tested techniques like plaster washers, patching compounds, and bonding agents can restore damaged plaster without compromising its integrity. Often, large hole patches (say, after a plumber finishes) will involve techniques from both traditional plaster and drywall.
 
-> Excellent repair of water [damaged plaster ceiling](/reviews/). Clear communication about project, professional workmanship.
+> Excellent repair of water [damaged plaster ceiling]({{< relref "pages/reviews.md" >}}). Clear communication about project, professional workmanship.
 
 ### Repairing Drywall
 

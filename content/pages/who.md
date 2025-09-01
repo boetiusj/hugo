@@ -37,7 +37,7 @@ As an active member of the [Painting Contractors Association](https://www.pcapai
 
 ### High Customer Ratings
 
-Since 2007, we’ve built our business one happy customer at a time. [Customer reviews](/reviews/) tell the story—homeowners love working with us, and they call us back again and again. When people find a painting company that shows up, does the job right, and treats their home with respect, they tend to share the news.
+Since 2007, we’ve built our business one happy customer at a time. [Customer reviews]({{< relref "pages/reviews.md" >}}) tell the story—homeowners love working with us, and they call us back again and again. When people find a painting company that shows up, does the job right, and treats their home with respect, they tend to share the news.
 
 ### Schedule Driven
 

@@ -1,5 +1,6 @@
 ---
 title: "Call Center - Regrets"
+slug: "call-center-regrets"
 description: "-"
 keywords: "-"
 date: "2019-03-17"

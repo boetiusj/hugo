@@ -95,7 +95,7 @@ Industry guidelines help ensure a consistent result—and help avoid misundersta
 
 You don’t have to define what a “good” wall looks like on your own. National standards exist to help painters and homeowners work from the same playbook. These guidelines help clarify expectations without confusion or second-guessing.
 
-If you're not sure how to start a conversation about quality, check out our [top 4 questions for a productive painting estimate]({{< relref "blog/top-4-questions-painting-estimate.md" >}}). Or take a look at [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}}), explore [interior](/interior-painter-kansas-city/) projects, or read what others say in our [customer reviews](/reviews/).
+If you're not sure how to start a conversation about quality, check out our [top 4 questions for a productive painting estimate]({{< relref "blog/top-4-questions-painting-estimate.md" >}}). Or take a look at [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}}), explore [interior](/interior-painter-kansas-city/) projects, or read what others say in our [customer reviews]({{< relref "pages/reviews.md" >}}).
 
 ## Book a Quick Estimate
 

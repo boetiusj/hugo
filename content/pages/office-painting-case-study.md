@@ -98,4 +98,4 @@ Erasers remove markings, yes. But only Mostly - there is a slight residue left b
 
 {{< youtube id="somyoSBk9DQ" title="Video testimonial" >}}
 
-The whole project came off smoothly - injury free, ahead of schedule, [the delighted customer raved](/reviews/) and leasing at [10200 State Line Rd.](http://www.10200stateline.com/) is booming. If you have an office painting project in the metro Kansas City area, give us a call and let's talk about some of the options.
+The whole project came off smoothly - injury free, ahead of schedule, [the delighted customer raved]({{< relref "pages/reviews.md" >}}) and leasing at [10200 State Line Rd.](http://www.10200stateline.com/) is booming. If you have an office painting project in the metro Kansas City area, give us a call and let's talk about some of the options.

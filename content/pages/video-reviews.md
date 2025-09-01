@@ -9,7 +9,7 @@ index: true
 ---
 ## Videos - Customer Reviews
 
-Also see [online reviews here](/reviews/).
+Also see [online reviews here]({{< relref "pages/reviews.md" >}}).
 
 {{< youtube "GSKLgHZHNKM" >}}
 

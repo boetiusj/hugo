@@ -77,7 +77,7 @@ faqs:
 
 ## Interior Painting – What to Expect
 
-A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are specific and helpful [Interior FAQs](#---) down below and hundreds of ([customer reviews](/reviews/)), too. [Cabinet painting?](/< relref "pages/cabinet-painting.md" >/) Yep, we do that.
+A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are specific and helpful [Interior FAQs](#---) down below and hundreds of ([customer reviews]({{< relref "pages/reviews.md" >}})), too. [Cabinet painting?](/< relref "pages/cabinet-painting.md" >/) Yep, we do that.
 
 {{< knowledge >}}
 
@@ -109,7 +109,7 @@ Flat walls help hide surface irregularities and absorb light, making them a grea
 
 When in doubt, we’ll help you weigh the options so you get the right balance of looks and practicality.
 
-> The team was on time, professional and made clean up a breeze. My house looks way better! Thank you! {{< sub "[(more reviews here)](/reviews/)" >}}
+> The team was on time, professional and made clean up a breeze. My house looks way better! Thank you!
 
 ### Repairs: Finding the Right Fit for Your Project
 
@@ -185,7 +185,7 @@ Textured plaster (knockdown, orange-peel, etc.) can be tricky to match after a r
 
 Interior prep is the foundation of a great paint job. At Crestwood Painting, we take the time to do it right, so your home looks great now and for years to come.
 
-> Of course it’s disruptive to have your home invaded for a handful of days, but I can’t think of a single thing Crestwood Painting could have done to make the experience better.{{< sub "[(more reviews here)](/reviews/)" >}}
+> Of course it’s disruptive to have your home invaded for a handful of days, but I can’t think of a single thing Crestwood Painting could have done to make the experience better.
 
 ## Let’s Paint
 

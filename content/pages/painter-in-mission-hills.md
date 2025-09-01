@@ -103,7 +103,7 @@ We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, tak
 
 ### Why Mission Hills, KS Homeowners Choose Crestwood Painting
 
-* Proven Results – See what your neighbors say in our [customer reviews](/reviews/ "Online Reviews – Painters in Kansas City").  
+* Proven Results – See what your neighbors say in our [customer reviews]({{< relref "pages/reviews.md" >}} "Online Reviews – Painters in Kansas City").  
 * FAQs? Oodles - plenty of insightful [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}}) and very specific Qs at the bottom of the [interior]({{< relref "pages/interior-painter-kansas-city.md" >}}) and [exterior]({{< relref "pages/exterior-painting-kansas-city.md" >}}) pages.
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}} "12 Questions to Ask Before You Hire a Painter")
 

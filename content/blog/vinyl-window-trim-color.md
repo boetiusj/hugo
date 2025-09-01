@@ -41,7 +41,7 @@ For many, the most practical solution is choosing an off-white or neutral trim. 
 
 ### Achieving Visual Harmony
 
-Blending white vinyl windows with a softly tinted trim often makes your home look more inviting. These off-whites minimize the “hospital white” effect, allowing the windows to remain bright yet not overly attention-grabbing. If you want to see how other homeowners have handled color choices, browse our [customer reviews](/reviews/) for real-life success stories and tips.
+Blending white vinyl windows with a softly tinted trim often makes your home look more inviting. These off-whites minimize the “hospital white” effect, allowing the windows to remain bright yet not overly attention-grabbing. If you want to see how other homeowners have handled color choices, browse our [customer reviews]({{< relref "pages/reviews.md" >}}) for real-life success stories and tips.
 
 ### Consider Your Home’s Style
 

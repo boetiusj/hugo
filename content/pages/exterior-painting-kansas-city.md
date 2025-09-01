@@ -138,7 +138,7 @@ After a project is Set To Go and so things run smoothly, we’ll share a quick c
 * Tidy Up – If you're concerned about anything (furniture? toys?) just let us know - we may be able to help you move things.  
 * Check the Yard – A quick scan for obstacles (including dog doo—thanks in advance!) makes setup and movement easier.  
 * Final Decisions – Still deciding on a color? Thinking about updating your house numbers? Or mailbox? Now’s the time!
-* [Check out our reviews](/reviews/)
+* [Check out our reviews]({{< relref "pages/reviews.md" >}})
 
 No stress, no surprises—we’ll walk you through everything and make sure you’re set for a smooth, easy process.
 
@@ -170,7 +170,7 @@ If we encounter cracks or small holes in stucco, we make sure to patch them up w
 
 We go the extra mile to keep your home protected—drop cloths, surface covers, even special wraps for your car (because no one wants a speckled driveway or a ‘custom’ paint job on their patio set).
 
-> We selected them based on positive referrals from neighbors.{{< sub "[(more reviews here)](/reviews/)" >}}
+> We selected them based on positive referrals from neighbors.
 
 ### Plants and Shrubs
 

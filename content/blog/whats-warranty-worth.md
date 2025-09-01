@@ -66,7 +66,7 @@ Reputable contractors rarely get warranty calls—but when they do, it’s often
 
 At Crestwood Painting, we’ve had very few warranty issues over the years. But when we do, it’s simple: we show up, repaint the affected area, and make it right.
 
-Once, a deep chocolate-brown paint faded faster than expected. Sherwin-Williams provided new product without hesitation. We repainted the entire section so there’d be no color mismatch. The [customer was delighted](/reviews/)—again.
+Once, a deep chocolate-brown paint faded faster than expected. Sherwin-Williams provided new product without hesitation. We repainted the entire section so there’d be no color mismatch. The [customer was delighted]({{< relref "pages/reviews.md" >}})—again.
 
 ## Trust Beats Paperwork Every Time
 

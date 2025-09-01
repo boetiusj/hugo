@@ -113,7 +113,7 @@ A decent caulk gun, flexible fillers, and proper cleaning handle most small crac
 
 ### When to Call a Pro
 
-Larger or recurring gaps can point to structural shifts. Consider professional carpentry or painting services, check [customer reviews](/reviews/), and see [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}) before deciding.
+Larger or recurring gaps can point to structural shifts. Consider professional carpentry or painting services, check [customer reviews]({{< relref "pages/reviews.md" >}}), and see [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}) before deciding.
 
 ## Ready to Schedule a Consultation?
 

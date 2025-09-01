@@ -120,7 +120,7 @@ A great paint job can last for years—but just how long depends on the use and 
 
 For kitchens that don’t see much action, cabinet paint can stay looking fresh for a decade or more with minimal upkeep.
 
- > We are very happy with the quality of the work. I would recommend them for painting cabinets to anyone.{{< sub "[(see more reviews here)](/reviews/)" >}}
+ > We are very happy with the quality of the work. I would recommend them for painting cabinets to anyone.
 
 ### A Short Time (six teenage cooks)
 

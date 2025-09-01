@@ -76,7 +76,7 @@ The best warranty? A company that doesn’t disappear, dodge calls, or blame the
 
 If you trust your contractor, a warranty becomes a formality. If you don’t, then no document in the world will protect you.
 
-Looking for more smart planning advice? Check out [tips for painting trim](/tips-for-painting-trim/), [top 4 questions for a productive painting estimate](/top-4-questions-painting-estimate/), or start dreaming with our [best front door colors](/best-front-door-colors/) guide.
+Looking for more smart planning advice? Check out [tips for painting trim](/tips-for-painting-trim/), [top 4 questions for a productive painting estimate]({{< relref "blog/top-4-questions-painting-estimate.md" >}}), or start dreaming with our [best front door colors]({{< relref "blog/best-front-door-colors.md" >}}) guide.
 
 ## Book a Quick Estimate
 

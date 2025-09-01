@@ -82,7 +82,7 @@ With over 1,000 exterior projects under our belt and many years of experience, w
 
 We know our products, we know Kansas City homes, and we know when a technique will help—or when it’ll cause trouble. Backrolling might be the right call in a very specific scenario, but for most homes and offices in Kansas City, clean and consistent wins the day.
 
-You can also explore our take on [best front door colors](/best-front-door-colors/), see how we deal with [wood rot](/wood-rot/), or learn why [choosing colors can be daunting](/daunting-colors/)—but doesn’t have to be.
+You can also explore our take on [best front door colors]({{< relref "blog/best-front-door-colors.md" >}}), see how we deal with [wood rot]({{< relref "blog/wood-rot.md" >}}), or learn why [choosing colors can be daunting]({{< relref "blog/daunting-colors.md" >}})—but doesn’t have to be.
 
 ## Book a Quick Estimate
 

@@ -1,7 +1,7 @@
 ---
 title: "Compare Painting Bids"
 slug: "compare-painting-bids"        # lock new canonical
-aliases: ["/compare-paint-bids/"]        # preserve old
+aliases: ["/blog/compare-paint-bids/"]        # preserve old
 description: "What to look for and questions to ask when you're comparing at painting estimates in Kansas City."
 keywords: "painting estimate, compare painting prices, kansas city, crestwood painting"
 date: "2011-08-28"
@@ -52,7 +52,7 @@ If something goes wrong, the right insurance protects you—the wrong answer cou
 
 Too many contractors work without basic insurance, hoping nothing goes wrong. But ladders fall, windows break, and people get hurt. Without proper coverage, those risks can fall to the homeowner.
 
-Be sure to get an industry-standard **ACORD certificate** from whomever you hire to do the work. For more insight, see the [top 5 uninsured contractor questions](/top-5-uninsured-contractor-questions/) every homeowner should ask before signing anything.
+Be sure to get an industry-standard **ACORD certificate** from whomever you hire to do the work. For more insight, see the [top 5 uninsured contractor questions]({{< relref "blog/top-5-uninsured-contractor-questions.md" >}}) every homeowner should ask before signing anything.
 
 ![ACORD insurance cert](/images/other/ins-cert.webp)
 

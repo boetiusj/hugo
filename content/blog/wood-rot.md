@@ -1,7 +1,7 @@
 ---
 title: "Wood Rot"
 slug: "wood-rot"           # lock new canonical
-aliases: ["/wood-rot/"]       # preserve old
+aliases: ["/blog/wood-rot/"]       # preserve old
 description: "Wood rot - why and how"
 keywords: "painting prep wood rot kansas city"
 date: "2012-08-20"

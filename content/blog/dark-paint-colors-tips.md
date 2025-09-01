@@ -1,7 +1,7 @@
 ---
 title: "Tips For Dark Paint Colors"
 slug: "tips-for-dark-paint-colors"           # lock new canonical
-aliases: ["/dark-paint-colors-tips/"]       # preserve old
+aliases: ["/blog/dark-paint-colors-tips/"]       # preserve old
 description: "All about dark paint colors - why more labor is required and why they don't cover as well."
 keywords: "paint color tips crestwood painting"
 date: "2014-01-24"

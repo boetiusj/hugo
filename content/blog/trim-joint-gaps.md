@@ -1,6 +1,6 @@
 ---
 title: "Trim Joint Gaps"
-aliases: ["/trim-joint-gaps/"]       # preserve old
+aliases: ["/blog/trim-joint-gaps/"]       # preserve old
 description: "Interior wood trim moves and joints can open up."
 keywords: "painting interior trim prep crestwood "
 date: "2013-01-21"
@@ -77,7 +77,7 @@ A new bead of caulk hides hairline cracks and blocks moisture. However, repeated
 
 ### Beyond Caulking
 
-If joints constantly separate, a more flexible design may be needed. Otherwise, it’s like repainting over [builders paint](/builders-paint/) without proper prep: the issue will return.
+If joints constantly separate, a more flexible design may be needed. Otherwise, it’s like repainting over [builders paint]({{< relref "blog/builders-paint.md" >}}) without proper prep: the issue will return.
 
 ## Construction Economies and Trade-Offs
 
@@ -97,7 +97,7 @@ Even high-quality trim needs periodic attention to remain gap-free. Staying ahea
 
 ### Periodic Inspections
 
-Check corners for cracks every few months. If you spot gaps near [nail pops](/nail-pops/) or doors, a deeper structural check may be wise.
+Check corners for cracks every few months. If you spot gaps near [nail pops]({{< relref "blog/nail-pops.md" >}}) or doors, a deeper structural check may be wise.
 
 ### Protective Primer and Paint
 
@@ -109,7 +109,7 @@ Simple steps help prevent big problems. Knowing when to tackle a project yoursel
 
 ### DIY Tools and Techniques
 
-A decent caulk gun, flexible fillers, and proper cleaning handle most small cracks. If you’re updating [interior colors](/colors-interior/), thoroughly prep surfaces for the best bond.
+A decent caulk gun, flexible fillers, and proper cleaning handle most small cracks. If you’re updating [interior colors]({{< relref "blog/colors-interior.md" >}}), thoroughly prep surfaces for the best bond.
 
 ### When to Call a Pro
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Test Paint Colors"
 slug: "how-to-test-paint-colors"           # lock new canonical
-aliases: ["/how-to-test-paint-colors/"]       # preserve old
+aliases: ["/blog/how-to-test-paint-colors/"]       # preserve old
 description: "Helpful info when thinking about exterior painting."
 keywords: "paint colors test"
 date: "2025-04-20"
@@ -75,6 +75,6 @@ Let your samples sit for a few days and check them in the morning, afternoon, an
 
 Once you’ve found the right color, we can help bring it to life. You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) online at a time that works best for you—usually a quick, no-pressure meeting that takes less than 30 minutes.
 
-For more inspiration, check out our [colors interior](/colors-interior/) gallery, read our guide on [painting kitchen cabinets](/painting-kitchen-cabinets/), or explore why [touch-up paint](/touch-up-paint/) isn’t always as easy as it seems.
+For more inspiration, check out our [colors interior]({{< relref "blog/colors-interior.md" >}}) gallery, read our guide on [painting kitchen cabinets]({{< relref "blog/painting-kitchen-cabinets.md" >}}), or explore why [touch-up paint]({{< relref "blog/touch-up-paint.md" >}}) isn’t always as easy as it seems.
 
 ![customer review](/images/reviews/r23-6-cherylp.png)

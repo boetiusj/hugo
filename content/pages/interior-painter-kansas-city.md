@@ -83,7 +83,7 @@ A well-planned painting project means minimal disruption and maximum results. We
 
 ## Let’s Talk: Colors & Expectations
 
-Your estimate isn’t just about numbers—it’s a chance to fine-tune the details. We’ll discuss any needed repairs, [go over color](/color-help/) and sheen options, and set clear expectations for the project. We'll even help you to [compare paint bids](/compare-paint-bids/). This conversation ensures everything is planned out before work begins, so the process is smooth and stress-free.
+Your estimate isn’t just about numbers—it’s a chance to fine-tune the details. We’ll discuss any needed repairs, [go over color](/color-help/) and sheen options, and set clear expectations for the project. We'll even help you to [compare paint bids]({{< relref "blog/compare-painting-bids.md" >}}). This conversation ensures everything is planned out before work begins, so the process is smooth and stress-free.
 
 ![white living room](/images/interior/brick-fp-paint.jpg)
 
@@ -179,7 +179,7 @@ And when we say "trim," we’re talking about more than just door frames. Trim i
 
 ### Plaster & Drywall Repairs
 
-If your walls or ceilings need some TLC, we’ve got it covered. Whether it’s drywall or plaster, we’ll repair [nail pops](/nail-pops/), cracks or other damage with care, ensuring repairs blend in seamlessly and hold up over time. Here's a complete [overview of plaster repair](/plaster-drywall-repair/).
+If your walls or ceilings need some TLC, we’ve got it covered. Whether it’s drywall or plaster, we’ll repair [nail pops]({{< relref "blog/nail-pops.md" >}}), cracks or other damage with care, ensuring repairs blend in seamlessly and hold up over time. Here's a complete [overview of plaster repair](/plaster-drywall-repair/).
 
 Textured plaster (knockdown, orange-peel, etc.) can be tricky to match after a repair. While we strive for the best possible outcome, we’ll want to have a conversation to set realistic expectations so there are no surprises.
 

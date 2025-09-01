@@ -93,7 +93,7 @@ Write the room name, paint brand, finish, and date on the can—or better yet, o
 
 ### Use in Small Touch-Ups
 
-Touch-up work can be tricky (see our [tips for painting trim](/tips-for-painting-trim/)), but properly stored paint can help when done right. For best results, review our thoughts on [how to test paint colors](/how-to-test-paint-colors/) before committing to a full repaint.
+Touch-up work can be tricky (see our [tips for painting trim](/tips-for-painting-trim/)), but properly stored paint can help when done right. For best results, review our thoughts on [how to test paint colors]({{< relref "blog/how-to-test-paint-colors.md" >}}) before committing to a full repaint.
 
 ## Still Not Sure? We Can Help
 
@@ -101,7 +101,7 @@ When in doubt, we’re happy to take a look and offer advice.
 
 If you’re unsure whether your paint is salvageable—or what to do next—feel free to ask. We can help assess what’s usable, what’s worth saving, and how best to move forward.
 
-Before your next job, review our [top 4 questions for a productive painting estimate](/top-4-questions-painting-estimate/), browse our [interior]({{< relref "pages/interior-painter-kansas-city.md" >}}) project ideas, or see what others have to say on our [customer reviews](/reviews/) page.
+Before your next job, review our [top 4 questions for a productive painting estimate]({{< relref "blog/top-4-questions-painting-estimate.md" >}}), browse our [interior]({{< relref "pages/interior-painter-kansas-city.md" >}}) project ideas, or see what others have to say on our [customer reviews](/reviews/) page.
 
 ## Book a Quick Estimate
 

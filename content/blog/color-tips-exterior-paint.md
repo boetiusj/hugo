@@ -1,7 +1,7 @@
 ---
 title: "Color Tips for Exterior Paint"
-slug: "color-tips-for-exterior-paint"           # lock new canonical
-aliases: ["/exterior-color-tips/"]       # preserve old
+slug: "/blog/color-tips-for-exterior-paint"           # lock new canonical
+aliases: ["/blog/exterior-color-tips/"]       # preserve old
 description: "All about dark paint colors - why more labor is required and why they don't cover as well."
 keywords: "paint color tips crestwood painting"
 date: "2013-02-05"
@@ -57,7 +57,7 @@ Bright colors may look appealing initially but can quickly overwhelm, especially
 
 Fixed features like brick, stone, or roofing materials must be part of your color equation. Neglecting these elements can lead to visual discord and dissatisfaction.
 
-Learn more about tackling common home improvement issues like [trim joint gaps](/trim-joint-gaps/) and [nail pops](/nail-pops/).
+Learn more about tackling common home improvement issues like [trim joint gaps]({{< relref "blog/trim-joint-gaps.md" >}}) and [nail pops]({{< relref "blog/nail-pops.md" >}}).
 
 ## The Impact of Sunlight on Exterior Paint Colors
 
@@ -71,7 +71,7 @@ Colors often look brighter and more intense in sunlight, particularly those with
 
 Pure whites can look harsh and create uncomfortable glare in bright sunlight. Choose softer shades like cream, off-white, or light gray for trim instead.
 
-For more ideas, explore our guide on the [best front door colors](/best-front-door-colors/).
+For more ideas, explore our guide on the [best front door colors]({{< relref "blog/best-front-door-colors.md" >}}).
 
 ## Why Test Painting Is Essential
 
@@ -99,7 +99,7 @@ Use bold or vibrant colors sparingly, like on shutters, doors, or porch railings
 
 Ensure accent colors complement rather than clash with the primary house color. Keeping accent colors cohesive with your overall color scheme enhances curb appeal.
 
-Choosing exterior paint can feel overwhelming; learn why [choosing colors can be daunting](/daunting-colors/) and how to simplify the process.
+Choosing exterior paint can feel overwhelming; learn why [choosing colors can be daunting]({{< relref "blog/daunting-colors.md" >}}) and how to simplify the process.
 
 > Proper maintenance of your home's exterior paint ensures lasting beauty, durability, and protects your investment.
 

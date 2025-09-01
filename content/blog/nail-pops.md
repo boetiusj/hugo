@@ -1,7 +1,7 @@
 ---
 title: "Nail Pops: What To Know"
 slug: "nail-pops-what-to-know"           # lock new canonical
-aliases: ["/nail-pops/"]       # preserve old
+aliases: ["/blog/nail-pops/"]       # preserve old
 description: "Nail pops happen - learn how and why, and what to do."
 keywords: "drywall nail pops repair painting crestwood"
 date: "2014-06-20"

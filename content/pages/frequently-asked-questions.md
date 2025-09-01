@@ -64,7 +64,7 @@ faqs:
   - question: What color for the front door?
     id: front-door
     answer: |
-      Here's an oldie-but-goodie. Photograph the front of your house filling as much of the frame as you can. Cut out the front door with an exacto knife and hold the picture against enough color chips until you find the perfect color. Easy trial and error and no brush cleaning! There's a more thorough overview of [front door colors here.](/best-front-door-colors/)
+      Here's an oldie-but-goodie. Photograph the front of your house filling as much of the frame as you can. Cut out the front door with an exacto knife and hold the picture against enough color chips until you find the perfect color. Easy trial and error and no brush cleaning! There's a more thorough overview of [front door colors here.]({{< relref "blog/best-front-door-colors.md" >}})
 
   - question: What is the best way to apply paint?
     id: apply-paint
@@ -105,7 +105,7 @@ faqs:
   - question: How can I compare estimates?
     id: apples
     answer: |
-      Start here to compare [Apples to Apples](/compare-paint-bids/). And yes, we have done line-by-line comparisons of paint proposals - just give us a call.
+      Start here to compare [Apples to Apples](/{{< relref "blog/compare-paint-bids.md" >}}/). And yes, we have done line-by-line comparisons of paint proposals - just give us a call.
 
   - question: How about just a “ballpark” estimate?
     id: ballpark

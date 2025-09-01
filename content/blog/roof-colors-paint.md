@@ -89,7 +89,7 @@ When the roof, siding, trim, and accents all work together, the result feels pol
 
 Even understated homes benefit from thoughtful color coordination. A well-chosen exterior palette enhances architectural features and helps your home sit comfortably in its surroundings.
 
-If you're not sure where to start, our guides on [best front door colors](/best-front-door-colors/) and [colors interior](/colors-interior/) can help shape your thinking. And if you're doing a broader update, don't forget to [dispose of old paint](/dispose-old-paint/) responsibly as you plan ahead.
+If you're not sure where to start, our guides on [best front door colors]({{< relref "blog/best-front-door-colors.md" >}}) and [colors interior]({{< relref "blog/colors-interior.md" >}}) can help shape your thinking. And if you're doing a broader update, don't forget to [dispose of old paint](/dispose-old-paint/) responsibly as you plan ahead.
 
 ## Book a Quick Estimate
 

@@ -40,7 +40,7 @@ Selecting overly intense colors can interfere with restful sleep, leading to ove
 
 Another common error is following trends without considering personal comfort and relaxation needs. Always prioritize colors that resonate with you personally.
 
-Explore this further in [top 3 things to not caulk](/top-3-things-to-not-caulk/) for related tips on home improvements.
+Explore this further in [top 3 things to not caulk]({{< relref "blog/top-3-things-to-not-caulk.md" >}}) for related tips on home improvements.
 
 ## When to Refresh Your Bedroom Colors
 
@@ -66,7 +66,7 @@ Neutral shades like beige, ivory, or gray provide a calming and versatile backdr
 
 Incorporate texture and subtle accent pieces to avoid monotony, keeping neutral schemes visually interesting and calming.
 
-For complementary color insights, read our detailed article on choosing a [vinyl window trim color](/vinyl-window-trim-color/).
+For complementary color insights, read our detailed article on choosing a [vinyl window trim color]({{< relref "blog/vinyl-window-trim-color.md" >}}).
 
 ## Matching Bedroom Colors with Room Lighting
 
@@ -118,7 +118,7 @@ Professional color consultants clarify personal preferences, reduce confusion, a
 
 ### Safety and Professional Standards
 
-If your home predates 1978, ensure your professional has [lead paint certification](/lead-paint-certification/) for safe interior painting.
+If your home predates 1978, ensure your professional has [lead paint certification]({{< relref "blog/lead-paint-certification.md" >}}) for safe interior painting.
 
 Have additional questions? See our [FAQs here]({{< relref "pages/frequently-asked-questions.md" >}}).
 

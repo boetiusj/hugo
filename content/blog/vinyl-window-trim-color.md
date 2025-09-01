@@ -19,7 +19,7 @@ Vinyl windows often come in a stark “hospital white.” Choosing "matchy-match
 
 ## Why Are Vinyl Windows So White?
 
-Manufacturers tend to produce vinyl windows in a single, bright white hue that pairs with a wide range of siding colors. However, this intense whiteness can stand out in a way that doesn’t always complement the style of your home. If you want more inspiration on overall exterior appeal, take a look at our [exterior]({{< relref "pages/exterior-painting-kansas-city.md" >}}) painting info or check out [best front door colors](/best-front-door-colors/) for another high-impact change.
+Manufacturers tend to produce vinyl windows in a single, bright white hue that pairs with a wide range of siding colors. However, this intense whiteness can stand out in a way that doesn’t always complement the style of your home. If you want more inspiration on overall exterior appeal, take a look at our [exterior]({{< relref "pages/exterior-painting-kansas-city.md" >}}) painting info or check out [best front door colors]({{< relref "blog/best-front-door-colors.md" >}}) for another high-impact change.
 
 > If white-on-white feels sterile and black trim looks too harsh, an off-white or neutral shade may provide the perfect middle ground.
 
@@ -51,6 +51,6 @@ Your decision should ultimately align with your overall architecture and design 
 
 ### Final Thoughts
 
-Deciding the best trim color for vinyl windows is about finding a balance between warranty concerns, color harmony, and personal taste. If white-on-white feels sterile and black trim looks too harsh, an off-white or neutral shade may provide the perfect middle ground. And if you’re eager to refresh your home’s exterior even further, our [exterior]({{< relref "pages/exterior-painting-kansas-city.md" >}}) painting info and [best front door colors](/best-front-door-colors/) can offer additional inspiration. By choosing a trim color that blends with your home’s architecture, you’ll achieve a more polished, welcoming facade—one that avoids the pitfalls of stark contrasts or unrelenting whiteness.
+Deciding the best trim color for vinyl windows is about finding a balance between warranty concerns, color harmony, and personal taste. If white-on-white feels sterile and black trim looks too harsh, an off-white or neutral shade may provide the perfect middle ground. And if you’re eager to refresh your home’s exterior even further, our [exterior]({{< relref "pages/exterior-painting-kansas-city.md" >}}) painting info and [best front door colors]({{< relref "blog/best-front-door-colors.md" >}}) can offer additional inspiration. By choosing a trim color that blends with your home’s architecture, you’ll achieve a more polished, welcoming facade—one that avoids the pitfalls of stark contrasts or unrelenting whiteness.
 
 ![customer review](/images/reviews/r22-6-jodyt.png)

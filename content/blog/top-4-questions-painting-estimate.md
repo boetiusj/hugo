@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Questions Before a Painting Estimate"
 slug: "top-4-questions-before-a-painting-estimate"           # lock new canonical
-aliases: ["/top-4-questions-painting-estimate/"]       # preserve old
+aliases: ["/blog/top-4-questions-painting-estimate/"]       # preserve old
 description: "Here are some key points to consider before a paint estimator knocks at your door."
 keywords: "painter questions kansas city crestwood"
 date: "2013-02-11"
@@ -82,7 +82,7 @@ Your neighbor’s good experience is a start—but it’s not a full picture.
 
 Maybe your neighbor used someone they liked. That’s a great starting point—but it’s still just one data point. Don’t rely on a sample of one. Ask around, check reviews, and trust your own conversation with the contractor.
 
-You can also check out our guide to the [top 5 uninsured contractor questions](/top-5-uninsured-contractor-questions/) to understand the risks when hiring based on reputation alone.
+You can also check out our guide to the [top 5 uninsured contractor questions]({{< relref "blog/top-5-uninsured-contractor-questions.md" >}}) to understand the risks when hiring based on reputation alone.
 
 ## It’s Your House—Ask the Right Questions
 

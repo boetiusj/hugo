@@ -1,7 +1,7 @@
 ---
 title: "Color of the Year"
 slug: "color-of-the-year"        # lock new canonical
-aliases: ["/color-year/"]             # preserve old
+aliases: ["/blog/color-year/"]             # preserve old
 description: "Year after year, experts cannot agree on a color trend."
 keywords: "color house painting"
 date: "2014-01-17"
@@ -180,7 +180,7 @@ Committing large areas, like entire rooms or exteriors, to a trendy color can qu
 
 Trendy colors must harmonize with your existing furnishings, flooring, and fixed elements. Choosing a color purely because it’s popular risks clashing and dissatisfaction.
 
-Check our guide on [how to compare paint bids](/compare-paint-bids/) to make sure you're investing wisely in your color choices.
+Check our guide on [how to compare paint bids]({{< relref "blog/compare-painting-bids.md" >}}) to make sure you're investing wisely in your color choices.
 
 > "The colors in your home directly affect mood, productivity, and comfort—choose carefully, trend or not."
 
@@ -208,7 +208,7 @@ Keep your foundational elements, like walls, floors, and major furnishings, time
 
 Use modular decor items, accessories, or removable wallpaper featuring trendy colors. This approach allows easy updates as trends change, protecting your home's lasting appeal.
 
-For more guidance, explore our tips on [builders paint](/builders-paint/) and quality interior finishes.
+For more guidance, explore our tips on [builders paint]({{< relref "blog/builders-paint.md" >}}) and quality interior finishes.
 
 ## Choosing Paint Colors: Trendy vs. Traditional
 

@@ -1,7 +1,7 @@
 ---
 title: "Touch-ups - Possible?"
 slug: "touch-ups-possible"           # lock new canonical
-aliases: ["/touch-up-paint/"]       # preserve old
+aliases: ["/blog/touch-up-paint/"]       # preserve old
 description: "Paint touch-ups - what to look for"
 keywords: "touch-up paint"
 date: "2014-07-30"
@@ -112,7 +112,7 @@ If the damage is in a corner or mostly hidden behind furniture, a slight mismatc
 
 ### Proper Tools and Techniques
 
-Use the exact same paint type and finish, plus a quality brush or roller. Feather the new paint into the old surface, and consider referencing [dark paint colors tips](/dark-paint-colors-tips/) if you’re dealing with deep hues that emphasize inconsistencies.
+Use the exact same paint type and finish, plus a quality brush or roller. Feather the new paint into the old surface, and consider referencing [dark paint colors tips]({{< relref "blog/dark-paint-colors-tips.md" >}}) if you’re dealing with deep hues that emphasize inconsistencies.
 
 ## The Case for Professional Help
 
@@ -124,7 +124,7 @@ Pros often adjust sheen on-site and know how to achieve a uniform result. Their 
 
 ### Dealing with Complex Repairs
 
-Some issues require more than paint alone, like refilling grooves or smoothing uneven patches. Professional painters or contractors can handle more advanced tasks and can also answer questions about [top 5 uninsured contractor questions](/top-5-uninsured-contractor-questions/) that might affect your project.
+Some issues require more than paint alone, like refilling grooves or smoothing uneven patches. Professional painters or contractors can handle more advanced tasks and can also answer questions about [top 5 uninsured contractor questions]({{< relref "blog/top-5-uninsured-contractor-questions.md" >}}) that might affect your project.
 
 ## Ready to Book an Estimate?
 

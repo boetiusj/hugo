@@ -1,7 +1,7 @@
 ---
 title: "How Much Does Exterior Painting Cost?"
 slug: "how-much-does-exterior-painting-cost"           # lock new canonical
-aliases: ["/exterior-painting-cost/"]       # preserve old
+aliases: ["/blog/exterior-painting-cost/"]       # preserve old
 description: "Cost of exterior painting in Kansas City"
 keywords: "cost"
 date: "2013-03-04"
@@ -51,7 +51,7 @@ Fiber cement siding like James Hardie is extremely durable but still benefits fr
 
 ### Shake Shingles and Cedar Clapboard Siding
 
-[Shake shingles and cedar clapboards](/painting-shake-shingles/) need more attention. Removing old paint, cleaning in grooves and edges, and ensuring proper priming of exposed wood all add to the scope—and cost—of the project.
+[Shake shingles and cedar clapboards]({{< relref "blog/painting-shake-shingles.md" >}}) need more attention. Removing old paint, cleaning in grooves and edges, and ensuring proper priming of exposed wood all add to the scope—and cost—of the project.
 
 ## The Power of Prep Work
 
@@ -83,7 +83,7 @@ Changing from white to navy or forest green to beige can be dramatic—but not n
 
 ### Ask About Product Choice
 
-If you’re planning a big color shift, talk with your painter about the best way to approach coverage. Testing a few sample areas (see our [how to test paint colors](/how-to-test-paint-colors/) guide) is a smart move before committing.
+If you’re planning a big color shift, talk with your painter about the best way to approach coverage. Testing a few sample areas (see our [how to test paint colors]({{< relref "blog/how-to-test-paint-colors.md" >}}) guide) is a smart move before committing.
 
 ## Trim, Shutters, and Architectural Details
 
@@ -119,7 +119,7 @@ Not all painters prep the same way. Ask what kind of primer they use, if they ca
 
 ### Think Beyond the Paint
 
-A fresh coat of paint is a great time to update other features. Now might be the moment to refresh your [vinyl window trim color](/vinyl-window-trim-color/) or choose one of our [best front door colors](/best-front-door-colors/) for a bold entryway.
+A fresh coat of paint is a great time to update other features. Now might be the moment to refresh your [vinyl window trim color]({{< relref "blog/vinyl-window-trim-color.md" >}}) or choose one of our [best front door colors]({{< relref "blog/best-front-door-colors.md" >}}) for a bold entryway.
 
 ## Ready to Start? Let’s Talk
 

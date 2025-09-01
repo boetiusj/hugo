@@ -1,7 +1,7 @@
 --- 
 title: Why Do Painters Wear White?
 slug: "why-do-painters-wear-white"        # lock new canonical
-aliases: ["/why-painters-wear-white/"]        # preserve old
+aliases: ["/blog/why-painters-wear-white/"]        # preserve old
 description: Answers to the ageless question Why do painters wear white?
 keywords: painters wear white
 date: "2011-09-21"
@@ -46,7 +46,7 @@ White clothing keeps painters cooler outside, and it matches the most common col
 
 Anyone who’s painted exteriors in Kansas City knows the summer heat is no joke. White reflects sunlight and helps regulate body temperature, especially on long days in the sun. It’s just more practical.
 
-It also blends in with the work itself. Caulk, spackle, primer, joint compound, and [builders paint](/builders-paint/) are usually white or off-white. Wearing white helps hide drips, dust, and smudges from the most common job site materials.
+It also blends in with the work itself. Caulk, spackle, primer, joint compound, and [builders paint]({{< relref "blog/builders-paint.md" >}}) are usually white or off-white. Wearing white helps hide drips, dust, and smudges from the most common job site materials.
 
 ## A Nod to Tradition and Trust
 
@@ -71,11 +71,10 @@ Plus, white clothing tends to cost less than dyed garments. When you’re workin
 ## What It Says When a Painter Wears White
 
 While not a guarantee of quality, showing up in whites says: **I take this work seriously.**
-While not a guarantee of quality, showing up in whites says: **I take this work seriously.**
 
 Wearing white is about more than tradition—it’s a mark of pride. It tells customers and coworkers alike that you take the trade seriously, that you know how to work clean, and that you’re someone worth trusting.
 
-For more tips on professionalism and project planning, check out [how to compare painting bids](/compare-paint-bids/) or explore [best front door colors](/best-front-door-colors/) to help you dream big.
+For more tips on professionalism and project planning, check out [how to compare painting bids]({{< relref "blog/compare-paint-bids.md" >}}) or explore [best front door colors]({{< relref "blog/best-front-door-colors.md" >}}) to help you dream big.
 
 ## What Counts as “Whites”?
 

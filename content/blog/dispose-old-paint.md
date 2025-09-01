@@ -22,7 +22,7 @@ Storing old paint in basements or garages might seem harmless, but eventually th
 
 ### Keep a Little for Touch-Ups
 
-It’s usually a good idea to hold onto a quart or so of your [current paint color](/colors-relaxation/) for quick fixes when dents or scratches appear. Anything beyond that takes up space and may become a burden later.
+It’s usually a good idea to hold onto a quart or so of your current paint color for quick fixes when dents or scratches appear. Anything beyond that takes up space and may become a burden later.
 
 ### PaintCare: Great Public Policy
 

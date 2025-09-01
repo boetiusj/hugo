@@ -110,7 +110,7 @@ If plaster has separated from the lath, it needs to be reattached before repairs
 
 #### Nail Pops Too
 
-As buildings settle, [nail pops](/nail-pops/) — small bumps where nails push through drywall or plaster — can appear. These are set back into place, secured, and properly patched.
+As buildings settle, [nail pops]({{< relref "blog/nail-pops.md" >}}) — small bumps where nails push through drywall or plaster — can appear. These are set back into place, secured, and properly patched.
 
 #### Paper Tape Helps Prevent the Crack from “Telegraphing” Through
 

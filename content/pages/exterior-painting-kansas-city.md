@@ -129,7 +129,7 @@ For example:
 * Accent Colors – Used for small details to add contrast.  
 * Front Door – A chance to make a statement!
 
-No need to memorize the lingo — just tell us what catches your eye, and we’ll guide you from there. [See our color page](/color-help/) for some more ideas.
+No need to memorize the lingo — just tell us what catches your eye, and we’ll guide you from there. [See our color page]({{< relref "pages/color-help.md" >}}) for some more ideas.
 
 ### Getting Ready: A Few Simple Steps
 
@@ -258,6 +258,6 @@ There won’t be a test, but this list might save some searching. Yes, it’s bo
 * Corbels – Ornamental supports under eaves or overhangs.  
 * Brackets – Structural or decorative angled supports under porches, eaves, or beams.
 
-[![customer review exterior painting](/images/reviews/r24-5-wineingerk.png)](/reviews/)
+![customer review exterior painting](/images/reviews/r24-5-wineingerk.png)
 
 #### ---

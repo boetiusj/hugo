@@ -16,11 +16,11 @@ A generic 70's-era two story office building had been occupied by a real estate 
 
 ### Make it Ready For Tenants
 
-As this was an investment situation the new owners were quite interested in choosing a painting contractor with the capacity and discipline to get in and simply get the job done so that the property was ready to lease as scheduled. Crestwood Painting was chosen based on previous [office painting business](/office-painting-experts/) with this customer.
+As this was an investment situation the new owners were quite interested in choosing a painting contractor with the capacity and discipline to get in and simply get the job done so that the property was ready to lease as scheduled. Crestwood Painting was chosen based on previous [office painting business]({{< relref "pages/office-painting.md" >}}) with this customer.
 
 ### The Situation
 
-Office doors were bland stained oak slabs with years of adhesive residue; interior windows showed dated and worn paint; walls had the usual old-age dings, door knob holes and [other plaster repairs](/plaster-drywall-repair/). The concrete floor had multiple layers of carpet adhesive, ceilings had yellow water spots and showed signs of texture delamination.
+Office doors were bland stained oak slabs with years of adhesive residue; interior windows showed dated and worn paint; walls had the usual old-age dings, door knob holes and [other plaster repairs]({{< relref "pages/plaster-and-drywall-repair.md" >}}). The concrete floor had multiple layers of carpet adhesive, ceilings had yellow water spots and showed signs of texture delamination.
 
 > A job well planned is half delivered.
 

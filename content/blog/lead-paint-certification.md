@@ -35,7 +35,7 @@ Lead-safe work practices start with understanding that lead is a hazard to peopl
 
 If a pre-'78 home is tested and found to have no lead in the work surfaces then lead-safe practices do not have to be followed. But the test procedures are fraught with their own set of tangled rules - so we just assume lead paint and then follow lead-safe work practices.
 
-This means more prep work than most contractors will do: we cover gardens to keep paint chips out, we sweep and vacuum driveways and decks and very often [customers tell us the yard is cleaner](/reviews/) than it was when we started!
+This means more prep work than most contractors will do: we cover gardens to keep paint chips out, we sweep and vacuum driveways and decks and very often [customers tell us the yard is cleaner]({{< relref "pages/reviews.md" >}}) than it was when we started!
 
 Lead poisoning is serious - young children and pregnant women are especially vulnerable. Contractors that ignore the EPA's RRP (Renovate, Repair & Paint) regulations are putting their business at risk. Those same contractors are also unlikely to share the risks with their customers or their employees.
 

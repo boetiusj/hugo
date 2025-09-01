@@ -41,7 +41,7 @@ Cracks, holes, and other imperfections can ruin the look of a freshly painted wa
 
 #### Wallpaper Removal – Clean slate, done right
 
-Wallpaper removal is harder than it looks—unless you call us. Our [wallpaper removal pros](/wallpaper-removal-kansas-city/) deliver smooth walls and a fresh, modern appearance with zero hassle.
+Wallpaper removal is harder than it looks—unless you call us. Our [wallpaper removal pros]({{< relref "pages/wallpaper-removal-kansas-city.md" >}}) deliver smooth walls and a fresh, modern appearance with zero hassle.
 
 #### Ceiling Painting
 

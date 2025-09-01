@@ -120,7 +120,7 @@ To prevent cracks from returning, paper tape is embedded in joint compound to re
 
 The final step is a smooth, seamless finish. Multiple thin coats of joint compound are applied and sanded between layers to blend the patch perfectly into the surrounding surface before priming and painting.
 
-[![review exterior painting](/images/reviews/r24-2-shellib.png)](/reviews/)
+![review exterior painting](/images/reviews/r24-2-shellib.png)
 
 ### Plaster and Drywall Terms
 

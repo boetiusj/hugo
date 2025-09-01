@@ -70,7 +70,7 @@ The difference between skilled professionals and unsupervised day labor is easy 
 
 A solid estimate and friendly salesperson are a great start—but the crew that shows up to do the work makes or breaks the experience. Are they full-time employees or a revolving team of subcontractors? Are they experienced, supervised, and clearly accountable?
 
-Consistent, experienced crews produce consistent results. Look for signs of professionalism—organized work areas, good communication, and yes, even [painter whites](/why-painters-wear-white/)—that indicate a team that takes pride in their craft.
+Consistent, experienced crews produce consistent results. Look for signs of professionalism—organized work areas, good communication, and yes, even [painter whites]({{< relref "blog/why-painters-wear-white.md" >}})—that indicate a team that takes pride in their craft.
 
 ## Prep Work Is the Foundation
 

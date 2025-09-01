@@ -85,7 +85,7 @@ Trim that works with the rest of the home—rather than jumping out—usually ap
 
 That’s why thoughtful trim is worth the effort. It’s a finishing touch that pays off both in everyday comfort and resale value.
 
-If you’re already planning other updates, be sure to [dispose of old paint](/dispose-old-paint/) the right way. And if warranties are a concern, our post on [what’s a warranty worth](/whats-warranty-worth/) might be helpful as well.
+If you’re already planning other updates, be sure to [dispose of old paint]({{< relref "blog/dispose-old-paint.md" >}}) the right way. And if warranties are a concern, our post on [what’s a warranty worth]({{< relref "blog/whats-warranty-worth.md" >}}) might be helpful as well.
 
 ## Book a Quick Estimate
 

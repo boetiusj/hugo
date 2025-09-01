@@ -103,7 +103,7 @@ If you’re repainting or repairing shakes, ask the right questions upfront. Tha
 
 Start here: [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}). You’ll get a better job—and a smoother process—when everyone’s on the same page.
 
-For related challenges, read up on [plaster and drywall repair](/plaster-drywall-repair/) or how to approach bold tones in our [dark paint colors tips]({{< relref "blog/dark-paint-colors-tips.md" >}}). And if you’re gathering bids, don’t miss our [top 5 uninsured contractor questions]({{< relref "blog/top-5-uninsured-contractor-questions.md" >}}).
+For related challenges, read up on [plaster and drywall repair]({{< relref "pages/plaster-and-drywall-repair.md" >}}) or how to approach bold tones in our [dark paint colors tips]({{< relref "blog/dark-paint-colors-tips.md" >}}). And if you’re gathering bids, don’t miss our [top 5 uninsured contractor questions]({{< relref "blog/top-5-uninsured-contractor-questions.md" >}}).
 
 ## Ready to Talk It Through?
 

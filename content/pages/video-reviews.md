@@ -17,7 +17,7 @@ Also see [online reviews here]({{< relref "pages/reviews.md" >}}).
 
 {{< youtube "somyoSBk9DQ" >}}
 
-[Office Painting Review](/office-painting-case-study/)
+[Office Painting Review]({{< relref "pages/office-painting-case-study.md" >}})
 
 {{< youtube "PXS9Zy6R8Gg" >}}
 

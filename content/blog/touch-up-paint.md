@@ -100,7 +100,7 @@ Small fixes can hide cracks or water stains that resurface later. If you suspect
 
 ### Look Beyond Fresh Paint
 
-A recently painted room might need deeper repairs beneath the surface. While a quick tour could miss these clues, living in the home will usually reveal hidden patchwork—just like noticing flawed [plaster and drywall repair](/plaster-drywall-repair/) over time.
+A recently painted room might need deeper repairs beneath the surface. While a quick tour could miss these clues, living in the home will usually reveal hidden patchwork—just like noticing flawed [plaster and drywall repair]({{< relref "pages/plaster-and-drywall-repair.md" >}}) over time.
 
 ## When Touch-Up Can Work
 

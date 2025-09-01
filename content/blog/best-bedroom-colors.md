@@ -124,4 +124,4 @@ Have additional questions? See our [FAQs here]({{< relref "pages/frequently-aske
 
 Ready to transform your bedroom? Schedule a quick, stress-free consultation using our [easy online booking form]({{< relref "pages/estimate-scheduler.md" >}})—choose a convenient time; consultations typically take 30 minutes or less.
 
-[customer review](/images/reviews/r23-11-diedrep.png)
+![customer review](/images/reviews/r24-8-jeffo.png)

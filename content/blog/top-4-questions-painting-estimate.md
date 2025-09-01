@@ -43,7 +43,7 @@ Look for consistent patterns, not perfection. If there are no reviews, that’s 
 
 > A successful contractor will have a verifiable history of delighted customers and will have confident answers to those same questions.
 
-We’ve collected many [nice reviews](/nice-review/) over the years from happy homeowners—check them out if you're curious what others have said.
+We’ve collected many nice reviews over the years from happy homeowners—check them out if you're curious what others have said.
 
 ## 3. How (and When) Will You Deliver the Estimate?
 
@@ -90,7 +90,7 @@ Choosing a painter should be based on trust, clarity, and a track record—not j
 
 There’s nothing wrong with asking about price. But if it’s the *only* question you ask, you could end up with more surprises than savings. These four questions are simple—but they reveal a lot.
 
-For more perspective, you might enjoy [why painters wear white](/why-painters-wear-white/) or explore some [interior projects]({{< relref "pages/interior-painter-kansas-city.md" >}}) we’ve completed recently.
+For more perspective, you might enjoy [why painters wear white]({{< relref "blog/why-painters-wear-white.md" >}}) or explore some [interior projects]({{< relref "pages/interior-painter-kansas-city.md" >}}) we’ve completed recently.
 
 ## Book a Quick Estimate
 

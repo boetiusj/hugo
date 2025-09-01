@@ -17,11 +17,11 @@ ___
 
 ### Payments
 
-[Online Payments](/payments/) - easy and secure through PayPal (no PP account needed)
+[Online Payments]({{< relref "pages/payments.md" >}}) - easy and secure through PayPal (no PP account needed)
 
 ### Warranty
 
-[Warranty Info](/warranty/) - we stand behind our work
+[Warranty Info]({{< relref "pages/warranty.md" >}}) - we stand behind our work
 ___
 Located in:\
 Waldo / Brookside\

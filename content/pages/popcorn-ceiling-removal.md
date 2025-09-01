@@ -66,6 +66,6 @@ The cost of popcorn ceiling removal depends on several factors that can affect t
 
 ### More Info Needed?
 
-Take a look at what many previous customers have said in [rave reviews]({{< relref "pages/reviews.md" >}}) about [interior painting]({{< relref "pages/interior-painter-kansas-city.md" >}}) and [wallpaper removal](/wallpaper-removal-kansas-city/). Be sure to not miss [12 Questions to Ask]({{< relref "pages/12-top-painter-questions.md" >}}) _before_ you hire a painter.
+Take a look at what many previous customers have said in [rave reviews]({{< relref "pages/reviews.md" >}}) about [interior painting]({{< relref "pages/interior-painter-kansas-city.md" >}}) and [wallpaper removal]({{< relref "pages/wallpaper-removal-kansas-city.md" >}}). Be sure to not miss [12 Questions to Ask]({{< relref "pages/12-top-painter-questions.md" >}}) _before_ you hire a painter.
 
 ![online painting review crestwood painting](/images/r13-10-ann-d.webp)

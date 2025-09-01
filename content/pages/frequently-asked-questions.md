@@ -49,7 +49,7 @@ faqs:
   - question: Are more colors better?
     id: morecolors
     answer: |
-      The use of color should be driven by the style of the home. Victorian, brick colonial and Arts & Crafts styles will each use color differently to show the home to its best advantage. Whether your home is brick, wood siding or shingles, stone or stucco, the natural colors and textures can be enhanced by the use of color. Often similar colors with slight shading differences are used to subtly "suggest" details and features rather than "advertise" them. Think of a blue house with bright red trim and a yellow door - fine for a quirky beach cottage but not suited for most Kansas City neighborhoods. See the [Color Ideas page](/color-help/) for some ideas on how to make it happen.
+      The use of color should be driven by the style of the home. Victorian, brick colonial and Arts & Crafts styles will each use color differently to show the home to its best advantage. Whether your home is brick, wood siding or shingles, stone or stucco, the natural colors and textures can be enhanced by the use of color. Often similar colors with slight shading differences are used to subtly "suggest" details and features rather than "advertise" them. Think of a blue house with bright red trim and a yellow door - fine for a quirky beach cottage but not suited for most Kansas City neighborhoods. See the [Color Ideas page]({{< relref "pages/color-help.md" >}}) for some ideas on how to make it happen.
 
   - question: The case for inexpensive paint.
     id: expensive-paint

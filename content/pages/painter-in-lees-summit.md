@@ -63,7 +63,7 @@ The living room should be a place where you love to spend time. A fresh paint jo
 
 #### Wallpaper Removal – Smooth walls, zero stress
 
-From prep to cleanup, we handle every detail with care. Trust our [Kansas City wallpaper removal](/wallpaper-removal-kansas-city/) team for a clean, updated look without the frustration.
+From prep to cleanup, we handle every detail with care. Trust our [Kansas City wallpaper removal]({{< relref "pages/wallpaper-removal-kansas-city.md" >}}) team for a clean, updated look without the frustration.
 
 #### Playroom Painting
 

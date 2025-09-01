@@ -55,7 +55,7 @@ faqs:
   - question: "How Long Does an Interior Painting Estimate Take?"
     id: "est-int"
     answer: |
-      It's quick and easy to [book an estimate time](https://crestwoodpainting.com/book-us/) or, call our friendly phone service (816-805-4515). You’ll get a confirmation email right away and then a reminder 24 hours before. Most estimates take 30 minutes or less. Our goal is to leave you feeling informed and comfortable with the process ahead.
+      It's quick and easy to [schedule an estimate](https://crestwoodpainting.com/estimate-scheduler/) or, call our friendly phone service (816-805-4515). You’ll get a confirmation email right away and then a reminder 24 hours before. Most estimates take 30 minutes or less. Our goal is to leave you feeling informed and comfortable with the process ahead.
   - question: "How Long Does Interior Painting in Lee's Summit Take?"
     id: "int-time"
     answer: |
@@ -129,7 +129,7 @@ For your floors, we’ll use super-tough non-marking underlayment or heavy-duty 
 
 ### Delicate Surfaces
 
-Some areas need an even gentler touch, such as wallpaper (have you considered [wallpaper removal](/wallpaper-removal-kansas-city/)?), older paint finishes, or varnished floors. For these, we use painter’s blue tape, specially designed for delicate surfaces, to help minimize any damage when tape is removed.
+Some areas need an even gentler touch, such as wallpaper (have you considered [wallpaper removal]({{< relref "pages/wallpaper-removal-kansas-city.md" >}})?), older paint finishes, or varnished floors. For these, we use painter’s blue tape, specially designed for delicate surfaces, to help minimize any damage when tape is removed.
 
 ### Furniture and Artwork
 
@@ -179,7 +179,7 @@ And when we say "trim," we’re talking about more than just door frames. Trim i
 
 ### Plaster & Drywall Repairs
 
-If your walls or ceilings need some TLC, we’ve got it covered. Whether it’s drywall or plaster, we’ll repair [nail pops]({{< relref "blog/nail-pops.md" >}}), cracks or other damage with care, ensuring repairs blend in seamlessly and hold up over time. Here's a complete [overview of plaster repair](/plaster-drywall-repair/).
+If your walls or ceilings need some TLC, we’ve got it covered. Whether it’s drywall or plaster, we’ll repair [nail pops]({{< relref "blog/nail-pops.md" >}}), cracks or other damage with care, ensuring repairs blend in seamlessly and hold up over time. Here's a complete [overview of plaster repair]({{< relref "pages/plaster-and-drywall-repair.md" >}}).
 
 Textured plaster (knockdown, orange-peel, etc.) can be tricky to match after a repair. While we strive for the best possible outcome, we’ll want to have a conversation to set realistic expectations so there are no surprises.
 

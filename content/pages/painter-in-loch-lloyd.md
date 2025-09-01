@@ -45,7 +45,7 @@ Time, moisture, and repairs can leave ceilings looking worn. We smooth out imper
 
 #### Wallpaper Removal – Peel back the years
 
-Skip the DIY struggle and trust a pro for a clean finish. We make it easy to move on from outdated wallpaper with our [expert removal services](/wallpaper-removal-kansas-city/).
+Skip the DIY struggle and trust a pro for a clean finish. We make it easy to move on from outdated wallpaper with our [expert removal services]({{< relref "pages/wallpaper-removal-kansas-city.md" >}}).
 
 #### Cabinet Painting – Old cabinets, new attitude
 

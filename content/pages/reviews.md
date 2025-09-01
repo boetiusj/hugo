@@ -147,7 +147,7 @@ Karen P
 I found Crestwood Painting in a Google search. They were near me and responded quickly. Their work was excellent! And it only took 2 days for my project! Highly recommend!
 Eileen B
 
-> Yikes! - "I chose a cheaper bid. And they were a band of idiots...I am so sorry I did not hire you, and won't make that mistake in the future."{{< sub "[(see the whole story here)](/review-new-years-eve/)" >}}
+> Yikes! - "I chose a cheaper bid. And they were a band of idiots...I am so sorry I did not hire you, and won't make that mistake in the future." [See the whole story here.]({{< relref "blog/review-new-years-eve.md" >}})
 
 **5 Stars**
 7/2022

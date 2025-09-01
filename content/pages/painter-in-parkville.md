@@ -53,7 +53,7 @@ A freshly painted basement transforms it from a dull, unfinished space into a br
 
 #### Wallpaper Removal – Smooth walls, zero stress
 
-From prep to cleanup, we handle every detail with care. Trust our [Kansas City wallpaper removal](/wallpaper-removal-kansas-city/) team for a clean, updated look without the frustration.
+From prep to cleanup, we handle every detail with care. Trust our [Kansas City wallpaper removal]({{< relref "pages/wallpaper-removal-kansas-city.md" >}}) team for a clean, updated look without the frustration.
 
 #### Bathroom Painting
 

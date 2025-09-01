@@ -204,4 +204,4 @@ At Crestwood Painting, we do the hard work so you don’t have to. Meticulous pr
 
 Great cabinets. No chaos. Just a stunning new space.
 
-[![cabinet painting review](/images/r17-2-jimmye.webp)](/reviews/)
+![cabinet painting review](/images/r17-2-jimmye.webp)

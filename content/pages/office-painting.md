@@ -1,7 +1,7 @@
 ---
 title: "Office Painting"
 slug: "office-painting"        # lock new canonical
-aliases: ["/office-painting-experts/"]             # preserve old
+aliases: ["pages/office-painting-experts"]             # preserve old
 description: "Painting offices - easy, quiet and fast."
 keywords: "office painting commercial maintenance kansas city"
 date: "2017-01-16"
@@ -65,7 +65,7 @@ First impressions matter, and your office is a reflection of your brand. A fresh
 
 ### Professionalism and Precision
 
-At Crestwood, we bring precision and attention to detail to every office painting project. Our approach ensures that the work is done correctly the first time, on time, and with minimal disruption to your office environment. Take a look at this nitty gritty [case study](/office-painting-case-study/) of another office project we did.
+At Crestwood, we bring precision and attention to detail to every office painting project. Our approach ensures that the work is done correctly the first time, on time, and with minimal disruption to your office environment. Take a look at this nitty gritty [case study]({{< relref "pages/office-painting-case-study.md" >}}) of another office project we did.
 
 ![office painting](/images/office/office102.jpg)
 

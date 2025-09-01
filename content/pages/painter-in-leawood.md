@@ -53,7 +53,7 @@ A well-painted basement isn’t just about looks—it’s about function, too. T
 
 #### Wallpaper Removal – Out with the old, in with the smooth
 
-We’ll take care of the mess so you don’t have to. Enjoy an updated appearance and the confidence of hiring a [professional wallpaper removal expert](/wallpaper-removal-kansas-city/).
+We’ll take care of the mess so you don’t have to. Enjoy an updated appearance and the confidence of hiring a [professional wallpaper removal expert]({{< relref "pages/wallpaper-removal-kansas-city.md" >}}).
 
 #### Bathroom Painting
 

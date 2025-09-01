@@ -93,7 +93,7 @@ Write the room name, paint brand, finish, and date on the can—or better yet, o
 
 ### Use in Small Touch-Ups
 
-Touch-up work can be tricky (see our [tips for painting trim](/tips-for-painting-trim/)), but properly stored paint can help when done right. For best results, review our thoughts on [how to test paint colors]({{< relref "blog/how-to-test-paint-colors.md" >}}) before committing to a full repaint.
+Touch-up work can be tricky (see our [tips for painting trim]({{< relref "blog/tips-for-painting-trim.md" >}})), but properly stored paint can help when done right. For best results, review our thoughts on [how to test paint colors]({{< relref "blog/how-to-test-paint-colors.md" >}}) before committing to a full repaint.
 
 ## Still Not Sure? We Can Help
 

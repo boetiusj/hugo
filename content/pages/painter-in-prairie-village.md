@@ -49,7 +49,7 @@ Cabinets take a beating from daily use, but a fresh coat of paint can bring them
 
 #### Wallpaper Removal – Out with the old, in with the smooth
 
-We’ll take care of the mess so you don’t have to. Enjoy an updated appearance and the confidence of hiring a [professional wallpaper removal expert](/wallpaper-removal-kansas-city/).
+We’ll take care of the mess so you don’t have to. Enjoy an updated appearance and the confidence of hiring a [professional wallpaper removal expert]({{< relref "pages/wallpaper-removal-kansas-city.md" >}}).
 
 #### Basement Painting
 

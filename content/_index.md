@@ -28,7 +28,7 @@ intro:
     - title: Busy Offices
       svcimg: /images/admin/blue-mfg-500.webp
       summary: "Quiet and careful, one room at a time - on your schedule."
-      link: /office-painting-experts/
+      link: /office-painting/
 cta:
   title: "Same. Local. Owners."
   headline: "Prompt and Reliable"
@@ -37,7 +37,7 @@ cta:
   show: true # turn to false to hide
   # image: 
   button:
-    url: "/schedule-estimate/"
+    url: "/estimate-scheduler/"
     label: "Schedule an Estimate"
 index: true
 # about:

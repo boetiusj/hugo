@@ -49,24 +49,13 @@
     | fingerprint }}
 <link rel="stylesheet" href="{{ $styles.Permalink }}">
 
-<!-- Favicon & PWA Icons -->
-{{- $iconsPath := "favicons/" -}}
-<link rel="icon" type="image/png" sizes="32x32"
-      href="{{ absURL (printf "%sfavicon-32x32.png" $iconsPath) }}">
-<link rel="icon" type="image/png" sizes="16x16"
-      href="{{ absURL (printf "%sfavicon-16x16.png" $iconsPath) }}">
-<link rel="apple-touch-icon" sizes="180x180"
-      href="{{ absURL (printf "%sapple-touch-icon.png" $iconsPath) }}">
-<link rel="manifest"
-      href="{{ absURL (printf "%ssite.webmanifest" $iconsPath) }}">
-<link rel="license" 
-      href="{{ site.Params.license_url }}">
-
-
-<!-- Safari pinned tab -->
-<link rel="mask-icon"
-      href="{{ absURL (printf "%ssafari-pinned.svg" $iconsPath) }}"
-      color="#232B4A">
+<!-- Favicon & App Icons (root paths = max compatibility) -->
+<link rel="icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#232B4A">
+<link rel="manifest" href="/site.webmanifest">
 
 <!-- Windows tile -->
 <meta name="msapplication-TileColor" content="#232B4A">

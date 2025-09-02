@@ -115,7 +115,7 @@ Regularly inspect your exterior for signs of wear like peeling, chipping, or fad
 
 Plan to repaint every 10-15 years, depending on all the many variables. Keeping your paint fresh enhances your home's curb appeal and prevents deterioration.
 
-Review our [customer reviews](({{< relref "pages/reviews.md" >}})) to see how homeowners maintain beautiful exteriors.
+Review our customer reviews to see how homeowners maintain beautiful exteriors.
 
 Ready to enhance your home's exterior with confidence? Schedule a convenient time for your painting estimate through our [easy and short online booking form]({{< relref "pages/estimate-scheduler.md" >}}). Estimates are typically completed in 30 minutes or less and tailored to your needs.
 

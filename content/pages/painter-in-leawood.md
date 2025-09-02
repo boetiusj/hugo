@@ -17,7 +17,7 @@ service:
     - name: "Exterior Painting"
       url: "pages/exterior-painter-kansas-city.md"
     - name: "Office Painting"
-      url: "pages/office-painting-experts.md"
+      url: "pages/office-painting.md"
     - name: "Cabinet Painting"
       url: "pages/cabinet-painter-kansas-city.md"
 ---

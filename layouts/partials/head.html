@@ -3,29 +3,22 @@
 <!-- Mobile Specific Metas -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#232B4A">
-<!-- PWA Meta Tags -->
 <meta name="mobile-web-app-capable" content="yes">
 
 <!-- Title and Description -->
 <title>{{ with .Title }}{{ . }}{{ else }}Default Site Title{{ end }}</title>
 <meta name="description" content="{{ .Description | default "Default site description for SEO purposes." }}">
 
-<!-- Canonical + Robots (single source of truth; deduped; no .Paginator calls) -->
-{{- /* 1) Shared facts for this page */ -}}
+<!-- Canonical + Robots -->
 {{- $isListKind   := in (slice "home" "section" "taxonomy" "taxonomyTerm") .Kind -}}
 {{- $isPaginated  := and $isListKind (strings.Contains .RelPermalink "/page/") -}}
 {{- $shouldIndex  := .Params.index | default true -}}
 {{- $isNoindex    := not $shouldIndex -}}
 
-<!-- 2) Canonical:
-      – Emit only when indexable AND not a paginated page
-      – (No canonical on page>1 or noindex pages) -->
 {{- if and (not $isPaginated) (not $isNoindex) -}}
   {{ partial "head/canonical.html" . }}
 {{- end -}}
 
-<!-- 3) Robots: one and only one <meta> per page (deduped via Scratch)
-      – Emit on noindex pages and on paginated list pages -->
 {{- if not (.Scratch.Get "meta_robots_emitted") -}}
   {{- if or $isNoindex $isPaginated -}}
     <meta name="robots" content="noindex,follow">
@@ -33,23 +26,21 @@
   {{- .Scratch.Set "meta_robots_emitted" true -}}
 {{- end -}}
 
-<!-- Opengraph -->
+<!-- Opengraph & JSON-LD -->
 {{ partial "opengraph.html" . }}
-{{ partial "page-ld.html" . }}  {{/* page-level schema driven by front-matter */}}
+{{ partial "page-ld.html" . }}
 {{ partial "image-ld.html" . }}
-{{ partial "service-ld.html" . }}  {{/* Emit Service JSON-LD on pages that define .Params.service */}}
-{{ partial "breadcrumb-ld.html" . }} {{/* Insert one universal breadcrumb JSON-LD on every page */}}
+{{ partial "service-ld.html" . }}
+{{ partial "breadcrumb-ld.html" . }}
 {{ partial "knowledge-panel-ld.html" . }}
 
 <!-- Stylesheets -->
 {{ $bootstrap := resources.Get "bootstrap/bootstrap.min.css" }}
 {{ $custom    := resources.Get "scss/main.scss" | css.Sass | resources.Minify }}
-{{ $styles    := slice $bootstrap $custom 
-    | resources.Concat "styles.min.css" 
-    | fingerprint }}
+{{ $styles    := slice $bootstrap $custom | resources.Concat "styles.min.css" | fingerprint }}
 <link rel="stylesheet" href="{{ $styles.Permalink }}">
 
-<!-- Favicon & App Icons (root paths = max compatibility) -->
+<!-- Favicon & App Icons (served from root for max compatibility) -->
 <link rel="icon" href="/favicon.ico">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -57,7 +48,5 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#232B4A">
 <link rel="manifest" href="/site.webmanifest">
 
-<!-- Windows tile -->
+<!-- Windows tile (optional color only; no TileImage file) -->
 <meta name="msapplication-TileColor" content="#232B4A">
-<meta name="msapplication-TileImage"
-      content="{{ absURL (printf "%smstile-144x144.png" $iconsPath) }}">

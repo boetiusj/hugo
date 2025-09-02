@@ -48,7 +48,7 @@ index: true
 #   show: false # turn to false to hide
 #   image: "/images/kcmo.webp"
 #   cta:
-#     url: "/book-us/"
+#     url: "/estimate-scheduler/"
 #     label: "Let's get started"
 ## Cabinet section breaks home page ##
 #    - title: Cabinets

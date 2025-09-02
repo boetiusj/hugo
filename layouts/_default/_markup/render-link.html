@@ -1,7 +1,7 @@
 {{- $dest := .Destination | safeURL -}}
 {{- $base := site.BaseURL | strings.TrimRight "/" -}}
-{{- $internal := or (strings.HasPrefix $dest "/") (strings.HasPrefix $dest $base) -}}
-{{- if $internal }}
+{{- $warnAbsSameDomain := strings.HasPrefix $dest $base -}}
+{{- if $warnAbsSameDomain }}
   {{ warnf "Hard-coded internal link in %s: %s" .Page.File.Path $dest }}
-{{ end }}
+{{- end }}
 <a href="{{ $dest }}"{{ with .Title }} title="{{ . | safeHTMLAttr }}"{{ end }}>{{ .Text | safeHTML }}</a>

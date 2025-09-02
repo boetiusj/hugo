@@ -55,7 +55,7 @@ faqs:
   - question: "How Long Does an Interior Painting Estimate Take?"
     id: "est-int"
     answer: |
-      It's quick and easy to [schedule an estimate](https://crestwoodpainting.com/estimate-scheduler/) or, call our friendly phone service (816-805-4515). You’ll get a confirmation email right away and then a reminder 24 hours before. Most estimates take 30 minutes or less. Our goal is to leave you feeling informed and comfortable with the process ahead.
+      It's quick and easy to [schedule an estimate](/estimate-scheduler/) or, call our friendly phone service (816-805-4515). You’ll get a confirmation email right away and then a reminder 24 hours before. Most estimates take 30 minutes or less. Our goal is to leave you feeling informed and comfortable with the process ahead.
   - question: "How Long Does Interior Painting in Lee's Summit Take?"
     id: "int-time"
     answer: |

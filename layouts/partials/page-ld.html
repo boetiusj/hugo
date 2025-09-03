@@ -1,4 +1,5 @@
 {{/* page-ld.html – emits JSON-LD for non-service resource pages          */}}
+{{- $license := .Params.license_url | default site.Params.license_url -}}
 {{- $.Scratch.Set "webpage_id" .Permalink -}}
 {{- $t := .Params.schema_type -}}
 {{- /* If nothing set, do nothing so we don’t disturb Service / Blog / FAQ */}}
@@ -14,7 +15,12 @@
     "name": "{{ .Title }}",
     "description": "{{ .Description | default .Summary }}",
     "url": "{{ .Permalink }}"{{ if $img }},
-    "image": "{{ $img }}"{{ end }}
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ $img }}",
+      "contentUrl": "{{ $img }}"{{ with $license }},
+      "license": "{{ . | absURL }}"{{ end }}
+    }{{ end }}
     {{- /* Article-only extras */ -}}
     {{- if eq $t "Article" -}}
       {{ with .Params.datePublished }},

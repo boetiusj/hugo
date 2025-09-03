@@ -1,10 +1,13 @@
 ---
 title: "Image Licensing"
+slug: "licensing"
+Aliases: ["/pages/licensing/"]
 description: "Usage terms for photos and graphics on Crestwood Painting’s website."
 date: "2025-08-20"
 index: false
 sitemap:
   disable: true
+schema_type: "WebPage"
 ---
 
 ## Quick terms

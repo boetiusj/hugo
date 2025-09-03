@@ -46,13 +46,13 @@ index: true
 #   subtitle: "We make it easy"
 #   description: "Prompt and courteous painters deliver on clear proposals."
 #   show: false # turn to false to hide
-#   image: "/images/kcmo.webp"
+#   image: ""
 #   cta:
 #     url: "/estimate-scheduler/"
 #     label: "Let's get started"
 ## Cabinet section breaks home page ##
 #    - title: Cabinets
-#      svcimg: /images/cabinets/c-glass-splash.jpg
+#      svcimg: 
 #      summary: "Modern, lasting finishes transform your most-used space."
 #      link: /cabinet-painting/
 ---

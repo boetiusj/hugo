@@ -1,5 +1,5 @@
 {{/* Image JSON-LD without touching your figure shortcode */}}
-
+{{- $license := .Params.license_url | default site.Params.license_url -}}
 {{- $p := . -}}
 {{- $pageID := printf "%s#webpage" $p.Permalink -}}
 

@@ -34,6 +34,10 @@
 {{ partial "breadcrumb-ld.html" . }}
 {{ partial "knowledge-panel-ld.html" . }}
 
+{{ with site.Params.license_url }}
+<link rel="license" href="{{ . | absURL }}">
+{{ end }}
+
 <!-- Stylesheets -->
 {{ $bootstrap := resources.Get "bootstrap/bootstrap.min.css" }}
 {{ $custom    := resources.Get "scss/main.scss" | css.Sass | resources.Minify }}

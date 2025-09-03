@@ -2,7 +2,8 @@
 {{- $page := . -}}
 {{- with $page.Params.service -}}
   {{- $svc := . -}}
-
+{{- /* Page/site-level license URL (if provided) */ -}}
+  {{- $license := or $page.Params.license_url site.Params.license_url -}}
   {{- /* Resolve image to absolute if provided */ -}}
   {{- $img := "" -}}
   {{- with $page.Params.image -}}
@@ -69,7 +70,9 @@
   {{- end -}}
 
   {{- if $img -}}
-    {{- $node = merge $node (dict "image" $img) -}}
+    {{- $imgNode := dict "@type" "ImageObject" "url" $img "contentUrl" $img -}}
+    {{- with $license }}{{ $imgNode = merge $imgNode (dict "license" (. | absURL)) }}{{ end -}}
+    {{- $node = merge $node (dict "image" $imgNode) -}}
   {{- end -}}
 
   {{- if gt (len $catalog) 0 -}}

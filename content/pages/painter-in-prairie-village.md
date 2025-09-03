@@ -12,7 +12,7 @@ service:
   areaServed: "Prairie Village, KS"
   price: "Quoted"
   hasOfferCatalog:
-        - name: "Interior Painting"
+    - name: "Interior Painting"
       url: "pages/interior-painter-kansas-city.md"
     - name: "Exterior Painting"
       url: "pages/exterior-painting-kansas-city.md"

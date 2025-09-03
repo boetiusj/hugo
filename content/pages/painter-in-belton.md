@@ -10,9 +10,9 @@ index: true
 service:
   serviceType: "House Painting"
   areaServed: "Belton, MO"
-  price: "Quoted"                        # still “Quoted”—keeps you out of price-ballpark spam
-  hasOfferCatalog:                       # OPTIONAL – list the sub-services you actually sell
-        - name: "Interior Painting"
+  price: "Quoted"                      
+  hasOfferCatalog:                     
+    - name: "Interior Painting"
       url: "pages/interior-painter-kansas-city.md"
     - name: "Exterior Painting"
       url: "pages/exterior-painting-kansas-city.md"

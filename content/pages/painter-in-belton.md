@@ -12,14 +12,14 @@ service:
   areaServed: "Belton, MO"
   price: "Quoted"                        # still “Quoted”—keeps you out of price-ballpark spam
   hasOfferCatalog:                       # OPTIONAL – list the sub-services you actually sell
-    - name: "Interior Painting"
+        - name: "Interior Painting"
       url: "pages/interior-painter-kansas-city.md"
     - name: "Exterior Painting"
-      url: "pages/exterior-painter-kansas-city.md"
+      url: "pages/exterior-painting-kansas-city.md"
     - name: "Office Painting"
       url: "pages/office-painting.md"
     - name: "Cabinet Painting"
-      url: "pages/cabinet-painter-kansas-city.md"
+      url: "pages/cabinet-painting.md"
 ---
 {{< figure1st
   src="/images/city/belton.jpg"

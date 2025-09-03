@@ -155,12 +155,6 @@ HUGO_ENABLEGITINFO = "true"
   status = 301
   force = true
 
-[[redirects]]
-  from = "/daunting-colors/*"
-  to   = "/daunting-colors/:splat"
-  status = 200
-  force = true
-
 # /awo-thanks — enforce trailing slash + serve from static
 [[redirects]]
   from = "/awo-thanks"

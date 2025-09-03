@@ -13,13 +13,13 @@ service:
   price: "Quoted"
   hasOfferCatalog:
     - name: "Interior Painting"
-      url: "pages/interior-painter-kansas-city.md"
+      path: "pages/interior-painter-kansas-city.md"
     - name: "Exterior Painting"
-      url: "pages/exterior-painting-kansas-city.md"
+      path: "pages/exterior-painting-kansas-city.md"
     - name: "Office Painting"
-      url: "pages/office-painting.md"
+      path: "pages/office-painting.md"
     - name: "Cabinet Painting"
-      url: "pages/cabinet-painting.md"
+      path: "pages/cabinet-painting.md"
 ---
 {{< figure1st
   src="/images/city/leawood-museum.jpg"

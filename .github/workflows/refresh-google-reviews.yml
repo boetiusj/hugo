@@ -11,11 +11,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     env:
-      # If your Hugo site is in a subfolder, change this (e.g. "site")
       SITE_DIR: "."
-      # Keep these secret names as-is in GitHub → Settings → Secrets and variables → Actions
-      PLACE_ID: ${{ secrets.GOOGLE_PLACE_ID }}      # ← uses your repo secret
-      API_KEY:  ${{ secrets.GOOGLE_API_KEY }}       # ← uses your repo secret
+      PLACE_ID: ${{ secrets.GOOGLE_PLACE_ID }}
+      API_KEY:  ${{ secrets.GOOGLE_API_KEY }}
       NETLIFY_BUILD_HOOK_URL: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
 
     steps:
@@ -26,59 +24,69 @@ jobs:
 
       - name: Check secrets present (safe)
         run: |
-          # CHANGED: check the actual env vars we set above
-          if [ -z "$PLACE_ID" ]; then
-            echo "::error ::GOOGLE_PLACE_ID missing (set repo secret GOOGLE_PLACE_ID)"
-            exit 1
-          fi
-          if [ -z "$API_KEY" ]; then
-            echo "::error ::GOOGLE_API_KEY missing (set repo secret GOOGLE_API_KEY)"
-            exit 1
-          fi
-          if [ -n "$NETLIFY_BUILD_HOOK_URL" ]; then
-            echo "Build hook set"
-          else
-            echo "Build hook not set (optional)"
-          fi
-          # Tip: PLACE_ID must be the raw 'ChIJ…' string (no 'places/' prefix).
+          test -n "$GOOGLE_PLACE_ID" && echo "PLACE_ID set" || echo "::error ::GOOGLE_PLACE_ID missing"
+          test -n "$GOOGLE_API_KEY"  && echo "API_KEY set"   || echo "::error ::GOOGLE_API_KEY missing"
+          # Short fingerprints (safe to print)
+          echo "PLACE_ID hash: $(echo -n "$GOOGLE_PLACE_ID" | sha256sum | cut -c1-10)"
+          echo "API_KEY   hash: $(echo -n "$GOOGLE_API_KEY"  | sha256sum | cut -c1-10)"
 
-      - name: Fetch rating + count (Places API v1)
+      - name: Fetch rating + count (v1 with legacy fallback)
         run: |
-          set -e
+          set -euo pipefail
           mkdir -p "$SITE_DIR/data"
 
-          # CHANGED: ensure PLACE_ID has no 'places/' prefix to avoid double segment
-          PID="$PLACE_ID"
-          PID="${PID#places/}"
+          # 1) Sanitize place id (strip accidental 'places/' prefix)
+          PID="${PLACE_ID#places/}"
 
-          RESP=$(curl -s \
+          # 2) Try the new Places API v1
+          V1_URL="https://places.googleapis.com/v1/places/${PID}"
+          RESP=$(curl -s -w "\n%{http_code}" \
             -H "X-Goog-Api-Key: ${API_KEY}" \
-            -H "X-Goog-FieldMask: rating,userRatingCount" \
-            "https://places.googleapis.com/v1/places/${PID}")
+            -H "X-Goog-FieldMask: rating,userRatingCount,displayName,name" \
+            "$V1_URL")
 
-          echo "Raw status snippet:"
-          echo "$RESP" | jq '{rating, userRatingCount, error: .error, name}'
+          HTTP=$(tail -n1 <<< "$RESP")
+          BODY=$(sed '$d'   <<< "$RESP")
 
-          # Fail on error block
-          ERR=$(echo "$RESP" | jq -r '.error.message // empty')
-          if [ -n "$ERR" ]; then
-            echo "::error ::Places API error: $ERR"
-            exit 1
+          echo "v1 status: $HTTP"
+          echo "$BODY" | jq '{name,displayName,rating,userRatingCount,error: .error}'
+
+          RATING=""
+          COUNT=""
+
+          if [ "$HTTP" -ge 200 ] && [ "$HTTP" -lt 300 ]; then
+            RATING=$(echo "$BODY" | jq -r '.rating // empty')
+            COUNT=$(echo "$BODY"  | jq -r '.userRatingCount // empty')
           fi
 
-          RATING=$(echo "$RESP" | jq -r '.rating // empty')
-          COUNT=$(echo "$RESP" | jq -r '.userRatingCount // empty')
+          # 3) Fallback to legacy Places Details if needed
+          if [ -z "$RATING" ] || [ -z "$COUNT" ]; then
+            echo "Falling back to legacy Places Details…"
+            LEGACY_URL="https://maps.googleapis.com/maps/api/place/details/json?place_id=${PID}&fields=rating,user_ratings_total&key=${API_KEY}"
+            LRESP=$(curl -s "$LEGACY_URL")
+            echo "$LRESP" | jq '{status, result: {rating, user_ratings_total}}'
+
+            STATUS=$(echo "$LRESP" | jq -r '.status // empty')
+            if [ "$STATUS" != "OK" ]; then
+              echo "::error ::Legacy API error: ${STATUS:-unknown}"
+              exit 1
+            fi
+
+            RATING=$(echo "$LRESP" | jq -r '.result.rating // empty')
+            COUNT=$(echo "$LRESP"  | jq -r '.result.user_ratings_total // empty')
+          fi
+
+          # 4) Final check + write file
           if [ -z "$RATING" ] || [ -z "$COUNT" ]; then
             echo "::error ::Missing rating/userRatingCount in response."
             exit 1
           fi
 
-          # Writes exactly where your Hugo template reads from:
           jq -n --arg pid "$PID" --argjson r "$RATING" --argjson c "$COUNT" \
             '{ rating: $r, reviews: $c, place_id: $pid }' \
             > "$SITE_DIR/data/googleReviews.json"
 
-          echo "Wrote:"
+          echo "Wrote data/googleReviews.json:"
           cat "$SITE_DIR/data/googleReviews.json"
 
       - name: Commit & push only if changed

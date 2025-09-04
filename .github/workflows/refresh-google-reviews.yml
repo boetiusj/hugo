@@ -11,10 +11,11 @@ jobs:
   update:
     runs-on: ubuntu-latest
     env:
-      # EDIT THIS if your Hugo site lives in a subfolder (e.g., "site")
+      # If your Hugo site is in a subfolder, change this (e.g. "site")
       SITE_DIR: "."
-      PLACE_ID: ${{ secrets.GOOGLE_PLACE_ID }}
-      API_KEY:  ${{ secrets.GOOGLE_API_KEY }}
+      # Keep these secret names as-is in GitHub → Settings → Secrets and variables → Actions
+      PLACE_ID: ${{ secrets.GOOGLE_PLACE_ID }}      # ← uses your repo secret
+      API_KEY:  ${{ secrets.GOOGLE_API_KEY }}       # ← uses your repo secret
       NETLIFY_BUILD_HOOK_URL: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
 
     steps:
@@ -25,23 +26,40 @@ jobs:
 
       - name: Check secrets present (safe)
         run: |
-          test -n "$GOOGLE_PLACE_ID" && echo "PLACE_ID set" || echo "::error ::GOOGLE_PLACE_ID missing"
-          test -n "$GOOGLE_API_KEY"  && echo "API_KEY set"   || echo "::error ::GOOGLE_API_KEY missing"
-          if [ -n "$NETLIFY_BUILD_HOOK_URL" ]; then echo "Build hook set"; else echo "Build hook not set"; fi
+          # CHANGED: check the actual env vars we set above
+          if [ -z "$PLACE_ID" ]; then
+            echo "::error ::GOOGLE_PLACE_ID missing (set repo secret GOOGLE_PLACE_ID)"
+            exit 1
+          fi
+          if [ -z "$API_KEY" ]; then
+            echo "::error ::GOOGLE_API_KEY missing (set repo secret GOOGLE_API_KEY)"
+            exit 1
+          fi
+          if [ -n "$NETLIFY_BUILD_HOOK_URL" ]; then
+            echo "Build hook set"
+          else
+            echo "Build hook not set (optional)"
+          fi
+          # Tip: PLACE_ID must be the raw 'ChIJ…' string (no 'places/' prefix).
 
       - name: Fetch rating + count (Places API v1)
         run: |
           set -e
           mkdir -p "$SITE_DIR/data"
+
+          # CHANGED: ensure PLACE_ID has no 'places/' prefix to avoid double segment
+          PID="$PLACE_ID"
+          PID="${PID#places/}"
+
           RESP=$(curl -s \
             -H "X-Goog-Api-Key: ${API_KEY}" \
             -H "X-Goog-FieldMask: rating,userRatingCount" \
-            "https://places.googleapis.com/v1/places/${PLACE_ID}")
+            "https://places.googleapis.com/v1/places/${PID}")
 
           echo "Raw status snippet:"
           echo "$RESP" | jq '{rating, userRatingCount, error: .error, name}'
 
-          # If there's an error block or both numbers are missing, fail the job
+          # Fail on error block
           ERR=$(echo "$RESP" | jq -r '.error.message // empty')
           if [ -n "$ERR" ]; then
             echo "::error ::Places API error: $ERR"
@@ -55,7 +73,8 @@ jobs:
             exit 1
           fi
 
-          jq -n --arg pid "$PLACE_ID" --argjson r "$RATING" --argjson c "$COUNT" \
+          # Writes exactly where your Hugo template reads from:
+          jq -n --arg pid "$PID" --argjson r "$RATING" --argjson c "$COUNT" \
             '{ rating: $r, reviews: $c, place_id: $pid }' \
             > "$SITE_DIR/data/googleReviews.json"
 

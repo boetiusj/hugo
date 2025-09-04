@@ -124,50 +124,6 @@ HUGO_ENABLEGITINFO = "true"
 # Trailing-slash 301 + identity 200 rewrites for known slugs
 # =========================
 
-# /nail-pops
-[[redirects]]
-  from = "/nail-pops"
-  to   = "/nail-pops/"
-  status = 301
-  force = true
-[[redirects]]
-  from = "/nail-pops/*"
-  to   = "/nail-pops/:splat"
-  status = 200
-  force = true
-
-# /painter-lees-summit
-[[redirects]]
-  from = "/painter-lees-summit"
-  to   = "/painter-lees-summit/"
-  status = 301
-  force = true
-[[redirects]]
-  from = "/painter-lees-summit/*"
-  to   = "/painter-lees-summit/:splat"
-  status = 200
-  force = true
-
-# /daunting-colors
-[[redirects]]
-  from = "/daunting-colors"
-  to   = "/daunting-colors/"
-  status = 301
-  force = true
-
-# /awo-thanks — enforce trailing slash + serve from static
-[[redirects]]
-  from = "/awo-thanks"
-  to   = "/awo-thanks/"
-  status = 301
-  force = true
-[[redirects]]
-  from = "/awo-thanks/*"
-  to   = "/awo-thanks/:splat"
-  status = 200
-  force = true
-
-# /awo-thanks — enforce trailing slash + serve from static
 [[redirects]]
   from = "/*/amp"
   to   = "/:splat/"

@@ -1,7 +1,7 @@
 ---
-title: "Lead Paint: It's Important"
-slug: "lead-paint-its-important"           # lock new canonical
-aliases: ["blog/lead-paint-certification/"]       # preserve old
+title: "Lead Paint Certification"
+slug: "lead-paint-certification"           # lock new canonical
+aliases: ["/lead-paint-its-important/"]       # preserve old
 description: "EPA Lead Paint certified (RRP) - Crestwood Painting"
 keywords: "painter certification, kansas city, lead paint,"
 date: "2020-09-01"

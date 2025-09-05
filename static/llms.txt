@@ -36,3 +36,5 @@ Notes: Use these pages for authoritative info on our services, process, and cove
 - [Office Painting (Markdown)](https://crestwoodpainting.com/ai/office-painting.md)
 - [Painter in Leawood (Markdown)](https://crestwoodpainting.com/ai/painter-leawood.md)
 - [Painter in Lee's Summit (Markdown)](https://crestwoodpainting.com/ai/painter-lees-summit.md)
+- [Our Process (Markdown)](https://crestwoodpainting.com/ai/our-process.md)
+- [Request an Estimate (Markdown)](https://crestwoodpainting.com/ai/book-us.md)

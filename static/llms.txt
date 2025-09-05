@@ -28,3 +28,11 @@ Notes: Use these pages for authoritative info on our services, process, and cove
 ## Optional
 - [Reviews](https://crestwoodpainting.com/reviews/): Customer feedback
 - [Blog](https://crestwoodpainting.com/blog/): Tips, colors, maintenance
+
+## Markdown Copies
+- [Interior Painting (Markdown)](https://crestwoodpainting.com/ai/interior-painting.md)
+- [Exterior Painting (Markdown)](https://crestwoodpainting.com/ai/exterior-painting.md)
+- [Plaster & Drywall Repair (Markdown)](https://crestwoodpainting.com/ai/plaster-drywall-repair.md)
+- [Office Painting (Markdown)](https://crestwoodpainting.com/ai/office-painting.md)
+- [Painter in Leawood (Markdown)](https://crestwoodpainting.com/ai/painter-leawood.md)
+- [Painter in Lee's Summit (Markdown)](https://crestwoodpainting.com/ai/painter-lees-summit.md)

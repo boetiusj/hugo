@@ -1,3 +1,30 @@
+/* Popular Services — consistent, minimal */
+.popular-services { margin-block: 1.5rem; }
+.popular-services__title { margin: 0 0 .75rem 0; }
+.popular-services__card {
+  transition: transform .06s ease, box-shadow .12s ease, border-color .12s ease;
+  background: #fff;
+}
+.popular-services__card:hover,
+.popular-services__card:focus {
+  outline: none;
+  transform: translateY(-1px);
+  border-color: #d8d8d8;
+  box-shadow: 0 2px 14px rgba(0,0,0,.06);
+}
+.popular-services__card-title { line-height: 1.2; }
+.popular-services__card-blurb { opacity: .85; }
+@media (prefers-reduced-motion: reduce) {
+  .popular-services__card { transition: none; }
+}
+@media (prefers-color-scheme: dark) {
+  .popular-services__card { background: #111; border-color: #333; }
+  .popular-services__card:hover,
+  .popular-services__card:focus { border-color: #444; box-shadow: 0 2px 14px rgba(0,0,0,.35); }
+  .popular-services__card-blurb { opacity: .9; }
+}
+
+
 /* ──────────────────────────────────────────
    Knowledge Panel (cabinet painting, etc.)
    Mobile-first; simple, clean card

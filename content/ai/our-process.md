@@ -1,4 +1,9 @@
-# Our Process | Crestwood Painting
+---
+title: "Our Process"
+index: false
+sitemap:
+  disable: true
+---
 
 Crestwood Painting makes home painting hassle-free. Since 2007 we’ve focused on clear communication, reliable schedules, and clean job sites.
 

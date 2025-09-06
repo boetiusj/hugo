@@ -1,14 +1,14 @@
 {{- $p := . -}}
 {{- $k := $p.Params.knowledge -}}
-{{- if not $k }}{{- warnf "knowledge-strip: no .Params.knowledge on %s" $p.RelPermalink -}}{{- end -}}
-{{- if $k }}
-{{- if $k -}}
-  {{- warnf "knowledge-strip: rendering on %s" .RelPermalink -}}
-  ...
+
+{{- if not $k -}}
+  {{- warnf "knowledge-strip: no .Params.knowledge on %s" $p.RelPermalink -}}
 {{- end -}}
+
+{{- if $k -}}
 <div class="kn-strip" role="region" aria-label="Service quick facts">
 
-  {{ if or $k.price_min $k.price_max }}
+  {{- if or $k.price_min $k.price_max -}}
     <div class="kn-chip">
       {{ partial "kn-icon.html" (dict "name" "money") }}
       <span class="kn-label">Typical</span>
@@ -22,41 +22,42 @@
         {{- end -}}
       </span>
     </div>
-  {{ end }}
+  {{- end -}}
 
-  {{ with $k.duration_days }}
+  {{- with $k.duration_days -}}
     <div class="kn-chip">
       {{ partial "kn-icon.html" (dict "name" "clock") }}
       <span class="kn-label">Timeline</span>
       <span class="kn-val">{{ . }} days</span>
     </div>
-  {{ end }}
+  {{- end -}}
 
-  {{ with $k.warranty }}
+  {{- with $k.warranty -}}
     <div class="kn-chip">
       {{ partial "kn-icon.html" (dict "name" "shield") }}
       <span class="kn-label">Warranty</span>
       <span class="kn-val">{{ . }}</span>
     </div>
-  {{ end }}
+  {{- end -}}
 
-  {{ with $k.service_areas }}
+  {{- with $k.service_areas -}}
     <div class="kn-chip">
       {{ partial "kn-icon.html" (dict "name" "pin") }}
       <span class="kn-label">Areas</span>
       <span class="kn-val">{{ delimit . ", " }}</span>
     </div>
-  {{ end }}
-  
-  {{ if or $k.cta_url $k.phone }}
+  {{- end -}}
+
+  {{- if or $k.cta_url $k.phone -}}
     <div class="kn-chip kn-cta-chip">
-      {{ if $k.cta_url }}
-        <a class="kn-cta-link" href="{{ $k.cta_url }}">Book an Estimate</a>
-      {{ else if $k.phone }}
-        <a class="kn-cta-link" href="tel:{{ $k.phone | urlize }}">Call {{ $k.phone }}</a>
-      {{ end }}
+      {{- if $k.cta_url -}}
+        <a class="kn-cta-link" href="{{ $k.cta_url | safeURL }}">Book an Estimate</a>
+      {{- else -}}
+        {{- $tel := replaceRE `\D+` "" $k.phone -}}
+        <a class="kn-cta-link" href="tel:{{ $tel }}">Call {{ $k.phone }}</a>
+      {{- end -}}
     </div>
-  {{ end }}
+  {{- end -}}
 
 </div>
-{{- end }}
+{{- end -}}

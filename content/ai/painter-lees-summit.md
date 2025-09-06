@@ -1,4 +1,9 @@
-# Painter in Lee's Summit | Crestwood Painting
+---
+title: "Painter in Lee's Summit MO"
+index: false
+sitemap:
+  disable: true
+---
 
 We provide professional house painting in Lee’s Summit—interior, exterior, and more—backed by years of Kansas City experience.
 

@@ -1,5 +1,9 @@
-# Office Painting | Crestwood Painting
-
+---
+title: "Office Painting"
+index: false
+sitemap:
+  disable: true
+---
 We help Kansas City businesses maintain professional, welcoming spaces with efficient office painting. Reliable scheduling minimizes downtime.
 
 ## What We Do

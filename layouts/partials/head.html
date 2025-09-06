@@ -38,6 +38,19 @@
 <link rel="license" href="{{ . | absURL }}">
 {{ end }}
 
+<!-- Detect /ai/ pages by URL and/or index:false flag -->
+{{ $isAI := strings.HasPrefix .RelPermalink "/ai/" }}
+
+{{ if or (eq .Params.index false) $isAI }}
+  <meta name="robots" content="noindex,follow">
+{{ end }}
+
+<!-- Auto-canonical for /ai/: replace `/ai/slug/` with `/slug/` -->
+{{ if $isAI }}
+  <link rel="canonical" href="{{ printf "%s%s" .Site.BaseURL (replace .RelPermalink "/ai/" "/") }}">
+{{ end }}
+
+
 <!-- Stylesheets -->
 {{ $bootstrap := resources.Get "bootstrap/bootstrap.min.css" }}
 {{ $custom    := resources.Get "scss/main.scss" | css.Sass | resources.Minify }}

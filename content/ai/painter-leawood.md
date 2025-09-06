@@ -1,4 +1,9 @@
-# Painter in Leawood | Crestwood Painting
+---
+title: "Painter in Leawood KS"
+index: false
+sitemap:
+  disable: true
+---
 
 Crestwood Painting serves homeowners in Leawood with reliable interior and exterior painting. We’ve been trusted locally since 2007.
 

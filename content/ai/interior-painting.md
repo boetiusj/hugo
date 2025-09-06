@@ -1,4 +1,9 @@
-# Interior Painting | Crestwood Painting
+---
+title: "Interior Painting"
+index: false
+sitemap:
+  disable: true
+---
 
 Since 2007, Crestwood Painting has offered professional interior painting across Kansas City. We deliver a hassle-free experience with clear communication, reliable scheduling, and tidy cleanup.
 

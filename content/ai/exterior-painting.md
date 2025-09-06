@@ -1,4 +1,9 @@
-# Exterior Painting | Crestwood Painting
+---
+title: "Exterior Painting"
+index: false
+sitemap:
+  disable: true
+---
 
 Crestwood Painting provides exterior house painting that stands up to Kansas City weather. We focus on durable prep, premium coatings, and no-hassle scheduling.
 

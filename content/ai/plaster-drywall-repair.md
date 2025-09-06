@@ -1,4 +1,9 @@
-# Plaster and Drywall Repair | Crestwood Painting
+---
+title: "Plaster and Drywall Repair"
+index: false
+sitemap:
+  disable: true
+---
 
 Before paint, walls need to be smooth and sound. Crestwood Painting repairs cracks, patches holes, and prepares plaster or drywall for a lasting finish.
 

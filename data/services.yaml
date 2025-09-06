@@ -1,8 +1,3 @@
-- id: wallpaper
-  title: Wallpaper Removal
-  url: /wallpaper-removal-kansas-city/
-  blurb: Careful removal. Smooth walls.
-
 - id: plaster
   title: Plaster & Drywall Repair
   url: /plaster-and-drywall-repair/
@@ -18,7 +13,6 @@
   url: /interior-painter-kansas-city/
   blurb: Clean & brighten the space.
 
-
 - id: doors
   title: Front Doors
   url: /best-front-door-colors/
@@ -33,6 +27,11 @@
   title: Exterior Painting
   url: /exterior-painting-kansas-city/
   blurb: Durable prep. Lasting results.
+
+- id: wallpaper
+  title: Wallpaper Removal
+  url: /wallpaper-removal-kansas-city/
+  blurb: Careful removal. Smooth walls.  
 
 - id: cabinets
   title: Cabinet Painting

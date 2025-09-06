@@ -1,38 +1,56 @@
 ---
-title: "Our Process | Crestwood Painting"
+title: "Our Process"
 description: "On-time estimates, clear proposals, tidy jobsites, and prompt communication—Crestwood Painting’s proven process for busy Kansas City homeowners and professionals."
 slug: "our-process"
-url: "/our-process/"
 date: 2025-09-05
 lastmod: 2025-09-05
-draft: false
 robots: "index,follow"
-canonicalURL: "https://crestwoodpainting.com/our-process/"
-sitemap:
-  changefreq: "monthly"
-  priority: 0.8
-breadcrumbs: true
-show_toc: false
+index: true
 schema_type: "WebPage"
 
 knowledge:
-  enable: true
-  strip:
-    enable: true
+  title: "Our Process — Quick Facts"
+  summary: "Clear proposals, tidy jobsites, and prompt communication keep projects on track and stress-free."
+  duration_days: "1–10"
+  price_min: 1000
+  price_max: 20000
+  warranty: "2-year workmanship"
+  prep_highlights:
+    - "On-time arrival for estimates"
+    - "Proposal delivered within 24 hours"
+    - "Floors and furnishings protected"
+    - "Daily cleanup"
+  coatings:
+    - "Premium Sherwin-Williams paints"
+    - "Premium Benjamin Moore paints"
+  inclusions:
+    - "Step-by-step communication"
+    - "Surface prep: fill, sand, caulk, spot-prime"
+    - "Painting by skilled crews"
+    - "Final walkthrough with touch-ups"
+  exclusions:
+    - "DIY materials supplied by homeowner"
+    - "Structural repairs outside painting scope"
+    - "Projects outside listed service areas"
+  service_areas:
+    - "Kansas City MO"
+    - "Leawood KS"
+    - "Overland Park KS"
+    - "Prairie Village KS"
   panel:
-    enable: true
-
-
-show_service_links: true
-service_links_include: []                # optional: ["interior","cabinets"]
-service_links_exclude: []                # optional: ["interior"]
-service_links_limit: 4                   # cap how many show here
-service_links_order: ["offices","doors","interior","exterior","cabinets","wallpaper","basements","plaster"]  # optional page-specific order
-
+    title: "Credentials & Commitments"
+    bullets:
+      - "Organized jobsites: clean, safe, and livable while work is in progress"
+      - "Clear proposals: detailed scope, sent within 24 hours of estimate"
+      - "Prompt communication: on-time arrival for estimates and daily updates"
+      - "EPA Lead-Safe Certified since 2011"
+      - "PCA Member since 2008"
+      - "Locally established in Kansas City since 2007"
+    layout: "span"   # "default" | "wide" | "span"  
+  cta_text: "Estimate Scheduler"
+  cta_url: "/estimate-scheduler/"
+  phone: "816-805-4515"
 ---
-
-# Our Process
-
 {{< knowledge-strip >}}
 
 Since 2007, Crestwood Painting has made residential and light-commercial painting straightforward for busy Kansas City clients. The promise is simple: organized jobs, clear proposals, and prompt communication from start to finish. You’ll always know what’s happening, who’s on site, and what comes next.
@@ -83,10 +101,6 @@ When the last coat is dry, we walk the project with you, handle touch-ups, and r
 ## What to Expect Throughout
 
 Communication and reliability are built into each step. You’ll have a single point of contact, clear scheduling, and updates without chasing. Crews show up prepared and keep the site tidy. If something needs attention, we address it quickly and transparently. The aim is simple: deliver the quality you hired us for—and make the experience as smooth as the finish.
-
-## Popular Services
-
-{{ partial "service-links.html" . }}
 
 ## Helpful Links
 

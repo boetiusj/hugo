@@ -50,7 +50,7 @@ index: true
 show_service_links: true          # force on (if using global guard)
 service_links_include: []
 service_links_exclude: ["exterior"]
-service_links_limit: 4
+service_links_limit: 7
 faqs: 
   - question: "What is Included in Exterior House Painting?"
     id: "ex-incl"

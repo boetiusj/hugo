@@ -2,6 +2,10 @@
 {{- $k := $p.Params.knowledge -}}
 {{- if not $k }}{{- warnf "knowledge-strip: no .Params.knowledge on %s" $p.RelPermalink -}}{{- end -}}
 {{- if $k }}
+{{- if $k -}}
+  {{- warnf "knowledge-strip: rendering on %s" .RelPermalink -}}
+  ...
+{{- end -}}
 <div class="kn-strip" role="region" aria-label="Service quick facts">
 
   {{ if or $k.price_min $k.price_max }}
@@ -43,7 +47,7 @@
       <span class="kn-val">{{ delimit . ", " }}</span>
     </div>
   {{ end }}
-
+  
   {{ if or $k.cta_url $k.phone }}
     <div class="kn-chip kn-cta-chip">
       {{ if $k.cta_url }}

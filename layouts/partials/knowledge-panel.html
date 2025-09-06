@@ -1,7 +1,9 @@
+{{- /* Knowledge panel: quick facts grid + optional credentials block + CTA */ -}}
 {{- $k := .Params.knowledge -}}
 {{- if not $k }}{{- warnf "knowledge-panel: no .Params.knowledge on %s" .RelPermalink -}}{{- end -}}
 {{- if $k }}
-<section class="kn-panel">
+
+<section class="kn-panel{{ with $k.panel }}{{ if eq .layout "wide" }} kn-panel--wide{{ end }}{{ end }}">
   <div class="kn-head">
     <h2 class="kn-title">{{ $k.title | default (print .Title " — Quick Facts") }}</h2>
     {{ with $k.summary }}<p class="kn-summary">{{ . }}</p>{{ end }}
@@ -11,8 +13,10 @@
     {{ with $k.duration_days }}
       <div class="kn-item"><dt>Timeline</dt><dd>{{ . }} working days</dd></div>
     {{ end }}
+
     {{ if or $k.price_min $k.price_max }}
-      <div class="kn-item"><dt>Typical Price</dt>
+      <div class="kn-item">
+        <dt>Typical Price</dt>
         <dd>
           {{- if and $k.price_min $k.price_max -}}
             ${{ printf "%d" $k.price_min }}–${{ printf "%d" $k.price_max }}
@@ -24,6 +28,7 @@
         </dd>
       </div>
     {{ end }}
+
     {{ with $k.warranty }}
       <div class="kn-item"><dt>Warranty</dt><dd>{{ . }}</dd></div>
     {{ end }}
@@ -44,7 +49,9 @@
     {{ end }}
   </dl>
 
-  <div class="kn-cta">
+  
+
+      <div class="kn-cta">
     {{ if $k.cta_url }}
       <a class="btn btn-outline" href="{{ $k.cta_url }}">{{ $k.cta_text | default "Book an Estimate" }}</a>
     {{ end }}
@@ -52,5 +59,23 @@
       <a class="btn btn-ghost" href="tel:{{ $k.phone | urlize }}">{{ $k.phone }}</a>
     {{ end }}
   </div>
+
+  {{/* Credentials & Commitments inside the same .kn-panel as a .kn-item */}}
+  {{- $panel := $k.panel -}}
+  {{- if $panel }}
+    <div class="kn-item kn-cred mt-4">
+      <div class="kn-cred__inner">
+        {{ with $panel.title }}
+          <h2 class="kn-title kn-cred__title">{{ . }}</h2>
+        {{ end }}
+        {{ with $panel.bullets }}
+          <ul class="kn-cred__list">
+            {{ range . }}<li class="kn-cred__li">{{ . }}</li>{{ end }}
+          </ul>
+        {{ end }}
+      </div>
+    </div>
+  {{- end }}
+
 </section>
 {{- end }}

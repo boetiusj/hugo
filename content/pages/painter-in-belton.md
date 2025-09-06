@@ -20,6 +20,12 @@ service:
       path: "pages/office-painting.md"
     - name: "Cabinet Painting"
       path: "pages/cabinet-painting.md"
+# service links: "plaster","offices","basements","doors","interior","exterior","wallpaper","cabinets"
+show_service_links: true
+service_links_include: []                   
+service_links_exclude: ["cabinets"] 
+service_links_limit: 6
+service_links_order: []      
 ---
 {{< figure1st
   src="/images/city/belton.jpg"

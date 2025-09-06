@@ -41,6 +41,12 @@ service:
   areaServed: "Kansas City Metro"
   price: "Quoted"  
 index: true
+# service links: "plaster","offices","basements","doors","interior","exterior","wallpaper","cabinets"
+show_service_links: true
+service_links_include: []                   
+service_links_exclude: ["plaster","cabinets"] 
+service_links_limit: 6
+service_links_order: []
 ---
 {{< knowledge-strip >}}
 

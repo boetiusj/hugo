@@ -12,7 +12,11 @@ image: "images/doors/fd-gloss.jpg"
 categories:
   - "exterior"
   - "color-tips"
-
+# service links: "offices","doors","interior","exterior","cabinets","wallpaper","basements","plaster"
+show_service_links: true          # force on (if using global guard)
+service_links_include: []
+service_links_exclude: ["doors","cabinets"]
+service_links_limit: 5
 ---
 ## Front Doors: The Focal Point
 

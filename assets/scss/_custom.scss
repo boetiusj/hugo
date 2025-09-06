@@ -11,6 +11,7 @@
   transform: translateY(-1px);
   border-color: #d8d8d8;
   box-shadow: 0 2px 14px rgba(0,0,0,.06);
+  background: linear-gradient(0deg, rgba(0,0,0,.02), rgba(0,0,0,.02)); 
 }
 .popular-services__card-title { line-height: 1.2; }
 .popular-services__card-blurb { opacity: .85; }
@@ -98,6 +99,32 @@
 .kn-item dd{
   margin: 0;
   font-size: .95rem;
+}
+
+/* Credentials block inside kn-item */
+.kn-cred { /* the gray rounded card already comes from .kn-item */ }
+
+/* the inner text column: centered block, left-aligned text */
+.kn-cred__inner {
+  max-width: 38rem;     /* adjust to taste; matches readable measure */
+  margin: 0 auto;       /* centers the whole text column inside the card */
+  padding: 0 1rem;      /* even L/R breathing room */
+  text-align: left;     /* text itself stays left-aligned */
+}
+
+/* heading matches other kn-title, just small spacing tweaks */
+.kn-cred__title {
+  margin: .25rem 0 .75rem 0;
+}
+
+/* bullets: comfortable but not airy */
+.kn-cred__list {
+  margin: 0;
+  padding-left: 1.1rem;   /* normal bullet indent */
+  line-height: 1.3;
+}
+.kn-cred__li {
+  margin: .2rem 0;
 }
 
 /* calls-to-action */

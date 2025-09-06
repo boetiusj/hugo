@@ -14,6 +14,7 @@ schema_images:
 categories:
   - "interior"
   - "color-tips"
+show_service_links: include
 
 ---
 

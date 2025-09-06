@@ -1,0 +1,22 @@
+{{- /* layouts/ai/baseof.html */ -}}
+<!doctype html>
+<html lang="en">
+  <head>
+    {{ partial "head.html" . }}
+    {{/* Optional: tiny style to keep things clean without site chrome */}}
+    <style>
+      body.ai-body { margin: 0; padding: 1.25rem; font-size: 1.0625rem; line-height: 1.6; }
+      .ai-wrap { max-width: 900px; margin: 0 auto; }
+      .ai-toplink { display: inline-block; margin-bottom: 0.75rem; font-size: .95rem; opacity: .8; }
+      .kn-strip { margin: .5rem 0 1rem; } /* if you use the knowledge strip */
+    </style>
+  </head>
+  <body class="ai-body">
+    <div class="ai-wrap">
+      {{/* Optional: small backlink to main site */}}
+      <a class="ai-toplink" href="{{ .Site.BaseURL | relURL }}">← Crestwood Painting</a>
+
+      {{ block "main" . }}{{ end }}
+    </div>
+  </body>
+</html>

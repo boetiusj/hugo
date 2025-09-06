@@ -38,17 +38,25 @@
 <link rel="license" href="{{ . | absURL }}">
 {{ end }}
 
-<!-- Detect /ai/ pages by URL and/or index:false flag -->
-{{ $isAI := strings.HasPrefix .RelPermalink "/ai/" }}
+{{- /* Detect /ai/ pages */ -}}
+{{- $isAI := strings.HasPrefix .RelPermalink "/ai/" -}}
 
-{{ if or (eq .Params.index false) $isAI }}
+{{- /* If the theme already emits robots for index:false, don't duplicate it here */ -}}
+{{- $robotsAlready := eq .Params.index false -}}
+
+{{- /* Add robots only for /ai/ pages that are NOT already index:false */ -}}
+{{- if and $isAI (not $robotsAlready) -}}
   <meta name="robots" content="noindex,follow">
-{{ end }}
+{{- end -}}
 
-<!-- Auto-canonical for /ai/: replace `/ai/slug/` with `/slug/` -->
-{{ if $isAI }}
-  <link rel="canonical" href="{{ printf "%s%s" .Site.BaseURL (replace .RelPermalink "/ai/" "/") }}">
-{{ end }}
+{{- /* Canonical for /ai/ pages: map /ai/slug/ -> /slug/ and normalize the URL */ -}}
+{{- if $isAI -}}
+  {{- $canonRel := replace .RelPermalink "/ai/" "/" -}}
+  {{- /* JoinPath avoids double slashes regardless of trailing/leading slashes */ -}}
+  {{- $canon := urls.JoinPath .Site.BaseURL $canonRel -}}
+  <link rel="canonical" href="{{ $canon }}">
+{{- end -}}
+
 
 
 <!-- Stylesheets -->

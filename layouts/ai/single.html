@@ -1,0 +1,11 @@
+{{- /* layouts/ai/single.html */ -}}
+{{ define "main" }}
+
+  {{/* Optional: drop the knowledge strip in AI pages automatically */}}
+  {{ partial "knowledge-strip.html" . }}
+
+  <article class="content">
+    {{ .Content }}
+  </article>
+
+{{ end }}

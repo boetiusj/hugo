@@ -1,10 +1,6 @@
 {{- $p := . -}}
 {{- $k := $p.Params.knowledge -}}
 
-{{- if not $k -}}
-  {{- warnf "knowledge-strip: no .Params.knowledge on %s" $p.RelPermalink -}}
-{{- end -}}
-
 {{- if $k -}}
 <div class="kn-strip" role="region" aria-label="Service quick facts">
 

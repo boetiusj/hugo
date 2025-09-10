@@ -11,6 +11,8 @@ https://www.crestwoodpainting.com/*   https://crestwoodpainting.com/:splat 301!
 # ──────────────────────────────────────────────────────────────
 /tags/*                               410
 /categories/*                         410
+/content/pages/*                      410
+/home/*                               410
 
 # ──────────────────────────────────────────────────────────────
 # 2) One-to-one slug moves (old → new)
@@ -44,6 +46,12 @@ https://www.crestwoodpainting.com/*   https://crestwoodpainting.com/:splat 301!
 # Color of the Year article slug changed in front-matter
 /color-year/                           /color-of-the-year/                  301!
 
+# Deleted pages, long gone
+/titanium-dioxide-in-your-paint-can/            /             410
+/scraping-paint-prep-kansas-city/               /             410
+/zig/                                           /             410  
+/feed/                                          /             410
+
 # ──────────────────────────────────────────────────────────────
 # 3) Normalize small variants (no trailing slash → trailing slash)
 #    Only list the ones you saw in the crawl reports.
@@ -63,6 +71,20 @@ https://www.crestwoodpainting.com/*   https://crestwoodpainting.com/:splat 301!
 /why-painters-backroll               /why-painters-backroll/             301!
 /colors-interior                     /colors-interior/                   301!
 
+/painter-for-a-day-kansas-city/	        /interior-painter-kansas-city/	301
+/kut-the-krud/	                        /interior-painter-kansas-city/	301
+/paint-estimates-drop-in-or-drop-off/	/estimate-scheduler/	        301
+/does-unfinished-cabinetry-pay/	        /cabinet-painting/	            301
+/being-green/	                        /interior-painter-kansas-city/	301
+/payment-thank-you/(opens in a new tab)	/payment-thank-you/	            301
+/exterior-paint-new-homes/	            /exterior-painting-kansas-city/	301
+/what-kind-painting/	                /exterior-painting-kansas-city/	301
+/choose-right-paint-sheen/	            /choose-the-right-paint-sheen/	301
+/12-questions-ask-painter/	            /12-top-painter-questions/	    301
+/painter-in-prairie-village/	        /painter-in-prairie-village/	301
+/12-questions-ask-painter	            /12-top-painter-questions/	    301
+/top-3-must-haves-hiring-contractor/	/12-top-painter-questions/	    301
+
 # ──────────────────────────────────────────────────────────────
 # 4) “double-slash” cleanups you listed
 # ──────────────────────────────────────────────────────────────
@@ -71,6 +93,7 @@ https://www.crestwoodpainting.com/*   https://crestwoodpainting.com/:splat 301!
 /payments//                           /payments/                           301!
 /12-questions-ask-painter//           /12-questions-ask-painter/           301!
 /wallpaper-removal-kansas-city//      /wallpaper-removal-kansas-city/      301!
+/plaster-repair-kansas-city//         /plaster-repair-kansas-city/         301!
 
 # ──────────────────────────────────────────────────────────────
 # 5) Old AMP query cruft (map to canonical)
@@ -82,8 +105,9 @@ https://www.crestwoodpainting.com/*   https://crestwoodpainting.com/:splat 301!
 /painter-parkville/?amp               /painter-in-parkville/               301!
 /popcorn-ceiling-removal/?amp         /popcorn-ceiling-removal/            301!
 /12-questions-ask-painter/?amp        /12-questions-ask-painter/           301!
-/privacy-policy/?amp                  /privacy-policy/                      301!
+/privacy-policy/?amp                  /privacy-policy/                     301!
 /wallpaper-removal-kansas-city/?amp   /wallpaper-removal-kansas-city/      301!
+/plaster-repair-kansas-city/?amp      /plaster-repair-kansas-city/         301!
 
 # ──────────────────────────────────────────────────────────────
 # 6) Paths that are already canonical (no redirect needed)

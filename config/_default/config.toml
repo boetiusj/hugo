@@ -10,7 +10,7 @@ disableHugoGeneratorInject = true
 [permalinks]
   pages     = "/:slug/"            # content/pages/...  → /<slug>/
   blog      = "/:slug/"            # content/blog/...   → /<slug>/
-  licensing = "/licensing/:slug/"  # adjust if you want root
+  ai        = "/ai/:slug/"         # adjust if you want root
 
 [markup]
   [markup.goldmark]

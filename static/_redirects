@@ -63,7 +63,7 @@ https://www.crestwoodpainting.com/*   https://crestwoodpainting.com/:splat 301!
 /map                                 /map/                               301!
 /color-help                          /color-help/                        301!
 /reviews.html                        /reviews/                           301!
-/reviews/                            /reviews/                           301!
+/pages/reviews/                            /reviews/                           301!
 
 /vinyl-window-trim-color             /vinyl-window-trim-color/           301!
 /exterior-painting-cost              /exterior-painting-cost/            301!

@@ -1,0 +1,7 @@
+############################################################
+# Block A — Canonical host/scheme (safe first)
+# Purpose: force https + non-www
+############################################################
+https://www.crestwoodpainting.com/*   https://crestwoodpainting.com/:splat   301!
+http://www.crestwoodpainting.com/*    https://crestwoodpainting.com/:splat   301!
+http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301!

@@ -61,3 +61,9 @@ http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301
 ############################################################
 /tags/*                                /                                       410!
 /categories/*                          /                                       410!
+
+############################################################
+# Block G — (Optional) Catch a stray explicit path you saw
+# Purpose: add one-offs as you discover them
+############################################################
+# /color-help                          /color-consulting/                      301!

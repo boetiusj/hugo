@@ -54,3 +54,10 @@ http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301
 /painter-parkville/?amp                /painter-in-parkville/                 301!
 /popcorn-ceiling-removal/?amp          /popcorn-ceiling-removal/              301!
 /wallpaper-removal-kansas-city/?amp    /wallpaper-removal-kansas-city/        301!
+
+############################################################
+# Block F — Decommissioned taxonomies (410 = Gone)
+# Purpose: tell crawlers these shouldn’t exist
+############################################################
+/tags/*                                /                                       410!
+/categories/*                          /                                       410!

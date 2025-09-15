@@ -33,6 +33,14 @@ http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301
 ############################################################
 /interior-painter-kansas-city//        /interior-painter-kansas-city/         301!
 /exterior-painting-kansas-city//       /exterior-painting-kansas-city/        301!
-/payments//                            /payments/                              301!
+/payments//                            /payments/                             301!
 /wallpaper-removal-kansas-city//       /wallpaper-removal-kansas-city/        301!
 
+############################################################
+# Block D — Extension & index cleanup (targeted)
+# Purpose: remove .html where you have a directory URL
+############################################################
+/index.html                            /                                       301!
+/reviews.html                          /reviews/                               301!
+
+# (Avoid a broad “/*.html  /:splat/” rule to prevent surprises.)

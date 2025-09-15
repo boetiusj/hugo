@@ -49,7 +49,7 @@ http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301
 # Block E — AMP query canonicals (explicit paths only)
 # Purpose: strip legacy “?amp” URLs you’ve seen in reports
 ############################################################
-/privacy-policy/?amp                   /privacy-policy/                        301!
+/privacy-policy/?amp                   /privacy-policy/                       301!
 /12-questions-ask-painter/?amp         /12-questions-ask-painter/             301!
 /painter-parkville/?amp                /painter-in-parkville/                 301!
 /popcorn-ceiling-removal/?amp          /popcorn-ceiling-removal/              301!

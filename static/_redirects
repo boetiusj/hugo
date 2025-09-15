@@ -26,3 +26,13 @@ http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301
 
 # Lead paint old → new
 /blog/lead-paint-certification/        /lead-paint-its-important/             301!
+
+############################################################
+# Block C — “Ugly variants” cleanup (double slashes, etc.)
+# Purpose: collapse known bad variants only (keeps it loop-proof)
+############################################################
+/interior-painter-kansas-city//        /interior-painter-kansas-city/         301!
+/exterior-painting-kansas-city//       /exterior-painting-kansas-city/        301!
+/payments//                            /payments/                              301!
+/wallpaper-removal-kansas-city//       /wallpaper-removal-kansas-city/        301!
+

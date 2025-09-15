@@ -5,3 +5,24 @@
 https://www.crestwoodpainting.com/*   https://crestwoodpainting.com/:splat   301!
 http://www.crestwoodpainting.com/*    https://crestwoodpainting.com/:splat   301!
 http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301!
+
+############################################################
+# Block B — One-to-one page moves / aliases
+# Purpose: old slugs → new slugs (no trailing-slash flip-flops)
+############################################################
+/book-us                               /estimate-scheduler/                   301!
+/book-us/                              /estimate-scheduler/                   301!
+
+/faqs                                  /frequently-asked-questions/           301!
+/faqs/                                 /frequently-asked-questions/           301!
+
+/compare-paint-bids                    /compare-painting-bids/                301!
+/compare-paint-bids/                   /compare-painting-bids/                301!
+
+/painter-leawood                       /painter-in-leawood/                   301!
+/painter-overland-park                 /painter-in-overland-park/             301!
+/painter-loch-lloyd                    /painter-in-loch-lloyd/                301!
+/painter-prairie-village               /painter-in-prairie-village/           301!
+
+# Lead paint old → new
+/blog/lead-paint-certification/        /lead-paint-its-important/             301!

@@ -1,7 +1,9 @@
 ---
 title: "Color of the Year"
 slug: "color-of-the-year"        # lock new canonical
-aliases: ["/blog/color-year/"]             # preserve old
+aliases:              # preserve old
+  - /color-year
+  - /blog/color-year/
 description: "Year after year, experts cannot agree on a color trend."
 keywords: "color house painting"
 date: "2014-01-17"

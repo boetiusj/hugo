@@ -1,7 +1,6 @@
 ---
 title: "Exterior Painting"
 slug: "exterior-painting-kansas-city"           # lock new canonical
-aliases: ["/exterior-painting-kansas-city/"]     # preserve old
 description: "Tidy jobs, on-time completion, color help. Book us today - No Drips, No Drama"
 keywords: "Brookside, Lee's Summit, Leawood, Mission Hills, Prairie Village"
 date: "2011-09-18"

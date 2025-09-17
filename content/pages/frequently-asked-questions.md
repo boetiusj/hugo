@@ -2,6 +2,7 @@
 title: "Frequently Asked Questions"
 slug: "frequently-asked-questions"   # lock new canonical                   
 aliases:                             # preserve old 
+  - /faqs
   - /faqs/
   - /FAQs/
 description: "painting, faq, customer, Kansas City, questions"

@@ -19,10 +19,10 @@ http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301
 /compare-paint-bids                    /compare-painting-bids/                301!
 /compare-paint-bids/                   /compare-painting-bids/                301!
 
-/painter-leawood                       /painter-in-leawood/                   301!
-/painter-overland-park                 /painter-in-overland-park/             301!
-/painter-loch-lloyd                    /painter-in-loch-lloyd/                301!
-/painter-prairie-village               /painter-in-prairie-village/           301!
+# /painter-leawood                       /painter-in-leawood/                   301!
+# /painter-overland-park                 /painter-in-overland-park/             301!
+# /painter-loch-lloyd                    /painter-in-loch-lloyd/                301!
+# /painter-prairie-village               /painter-in-prairie-village/           301!
 
 # Lead paint old → new
 # reverse these: /blog/lead-paint-certification/        /lead-paint-its-important/             301!
@@ -33,8 +33,8 @@ http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301
 ############################################################
 # /interior-painter-kansas-city//        /interior-painter-kansas-city/         301!
 # /exterior-painting-kansas-city//       /exterior-painting-kansas-city/        301!
-/payments//                            /payments/                             301!
-/wallpaper-removal-kansas-city//       /wallpaper-removal-kansas-city/        301!
+# /payments//                            /payments/                             301!
+# /wallpaper-removal-kansas-city//       /wallpaper-removal-kansas-city/        301!
 
 ############################################################
 # Block D — Extension & index cleanup (targeted)

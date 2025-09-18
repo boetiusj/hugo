@@ -1,52 +1,65 @@
-{{ $original := .Page.Resources.GetMatch (printf "**%s" .Destination) }}
-{{ if not $original }}
-  {{ $original = resources.Get .Destination }}
-{{ end }}
+{{/* render-image.html */}}
 
-{{ if not $original }}
-  {{ errorf "Image not found: %s" .Destination }}
-{{ end }}
+{{/* (ALREADY ADDED BY YOU) Normalize destination – keep this */}}
+{{- $dest := strings.TrimPrefix "/" .Destination -}}
 
-{{ $alt := .Text | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" .Destination) }}
+{{/* Resolve resource: page bundle → /assets → assets/images fallback */}}
+{{- $img := .Page.Resources.GetMatch (printf "**%s" $dest) -}}
+{{- if not $img -}}
+  {{- if not (hasPrefix $dest "images/") -}}
+    {{- $img = resources.Get (printf "images/%s" $dest) -}} {{/* CHANGE: images/ fallback */}}
+  {{- end -}}
+{{- end -}}
+{{- if not $img -}}
+  {{- $img = resources.Get $dest -}}
+{{- end -}}
 
-{{ if ge $original.Width 500 }}
-  {{ $webp := $original.Fit (printf "1200x%d webp q75" $original.Height) }}
-  {{ $avif := $original.Fit (printf "1200x%d avif q50" $original.Height) }}
-  {{- /* only offer variants up to the 1200px fallback width */ -}}
+{{- if not $img -}}
+  {{ errorf "Image not found for '%s' on %s (tried: '%s', 'images/%s')" .Destination .Page.RelPermalink $dest $dest }}
+{{- end -}}
+
+{{/* Alt fallback = filename stem */}}
+{{- $alt := .Text | default (replaceRE "^.*/([^/]+)\\.[^.]+$" "$1" $dest) -}}
+
+{{/* === NO UPSCALING POLICY === */}}
+{{- if le $img.Width 500 -}}
+  {{/* CHANGE: tiny images (≤500px) = original only */}}
+  <img
+    src="{{ $img.Permalink }}"
+    alt="{{ $alt }}"
+    loading="lazy"   {{/* CHANGE: fixed to lazy; see note below */}}
+    width="{{ $img.Width }}"
+    height="{{ $img.Height }}"
+    style="aspect-ratio: {{ $img.Width }}/{{ $img.Height }}; width:auto; max-width:100%; height:auto;"
+  />
+{{- else -}}
+  {{/* CHANGE: clamp master width to min(1200, source) */}}
+  {{- $masterW := cond (lt $img.Width 1200) $img.Width 1200 -}}
+
+  {{- $webpMaster := $img.Resize (printf "%dx webp q75" $masterW) -}} {{/* CHANGE */}}
+  {{- $avifMaster := $img.Resize (printf "%dx avif q50" $masterW) -}} {{/* CHANGE */}}
+
+  {{/* CHANGE: build srcset only for widths ≤ source width */}}
+  {{- $candidates := slice 960 640 320 -}}
   {{- $entries := slice -}}
-  {{- if ge $webp.Width 960 -}}
-    {{- $entries = $entries | append (printf "%s 960w"  ($original.Resize "960x q75 webp").Permalink) -}}
+  {{- range $w := $candidates -}}
+    {{- if le $w $img.Width -}}
+      {{- $entries = $entries | append (printf "%s %dw" ($img.Resize (printf "%dx webp q75" $w)).Permalink $w) -}}
+    {{- end -}}
   {{- end -}}
-  {{- if ge $webp.Width 640 -}}
-    {{- $entries = $entries | append (printf "%s 640w"  ($original.Resize "640x q75 webp").Permalink) -}}
-  {{- end -}}
-  {{- if ge $webp.Width 320 -}}
-    {{- $entries = $entries | append (printf "%s 320w"  ($original.Resize "320x q75 webp").Permalink) -}}
-  {{- end -}}
-  {{- $srcset := delimit $entries ", " -}} 
+  {{- $srcset := delimit $entries ", " -}}
+
   <picture>
-    <source srcset="{{ $avif.Permalink }}" type="image/avif">
-    <source srcset="{{ $webp.Permalink }}" type="image/webp">
+    <source srcset="{{ $avifMaster.Permalink }}" type="image/avif">      {{/* CHANGE */}}
+    <source srcset="{{ $webpMaster.Permalink }}" type="image/webp">       {{/* CHANGE */}}
     <img
-      class="img-fluid"
-      src="{{ $webp.Permalink }}"
-      srcset="{{ $srcset }}"
-      sizes="(min-width: 1400px) 1280px, (min-width: 1024px) 960px, (min-width: 768px) 640px, 100vw"
+      src="{{ $webpMaster.Permalink }}"
+      {{- if $srcset }} srcset="{{ $srcset }}" sizes="(min-width: 1400px) 1280px, (min-width: 1024px) 960px, (min-width: 768px) 640px, 100vw"{{ end -}}
       alt="{{ $alt }}"
-      loading="lazy"
-      width="{{ $webp.Width }}"
-      height="{{ $webp.Height }}"
-      style="aspect-ratio: {{ $webp.Width }}/{{ $webp.Height }}; width:auto; max-width:100%; height:auto;"
+      loading="lazy"   {{/* CHANGE: fixed to lazy; see note below */}}
+      width="{{ $webpMaster.Width }}"
+      height="{{ $webpMaster.Height }}"
+      style="aspect-ratio: {{ $webpMaster.Width }}/{{ $webpMaster.Height }}; width:auto; max-width:100%; height:auto;"
     />
   </picture>
-{{ else }}
-  <img
-    class="img-fluid"
-    src="{{ $original.Permalink }}"
-    alt="{{ $alt }}"
-    loading="lazy"
-    width="{{ $original.Width }}"
-    height="{{ $original.Height }}"
-    style="aspect-ratio: {{ $original.Width }}/{{ $original.Height }}; width:auto; max-width:100%; height:auto;"
-  />
-{{ end }}
+{{- end -}}

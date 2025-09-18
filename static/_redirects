@@ -19,7 +19,6 @@ http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301
 /compare-paint-bids                    /compare-painting-bids/                301!
 /compare-paint-bids/                   /compare-painting-bids/                301!
 
-
 ############################################################
 # Block C — “Ugly variants” cleanup (double slashes, etc.)
 # Purpose: collapse known bad variants only (keeps it loop-proof)
@@ -33,8 +32,8 @@ http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301
 # Block D — Extension & index cleanup (targeted)
 # Purpose: remove .html where you have a directory URL
 ############################################################
-/index.html                            /                                       301!
-/reviews.html                          /reviews/                               301!
+/index.html                              /                                      301!
+/reviews.html                            /reviews/                              301!
 
 # (Avoid a broad “/*.html  /:splat/” rule to prevent surprises.)
 
@@ -42,26 +41,26 @@ http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301
 # Block E — AMP query canonicals (explicit paths only)
 # Purpose: strip legacy “?amp” URLs you’ve seen in reports
 ############################################################
-/privacy-policy/?amp                   /privacy-policy/                       301!
-/12-questions-ask-painter/?amp         /12-questions-ask-painter/             301!
-/painter-parkville/?amp                /painter-in-parkville/                 301!
-/popcorn-ceiling-removal/?amp          /popcorn-ceiling-removal/              301!
-/wallpaper-removal-kansas-city/?amp    /wallpaper-removal-kansas-city/        301!
+/privacy-policy/?amp                     /privacy-policy/                       301!
+/12-questions-ask-painter/?amp           /12-questions-ask-painter/             301!
+/painter-parkville/?amp                  /painter-in-parkville/                 301!
+/popcorn-ceiling-removal/?amp            /popcorn-ceiling-removal/              301!
+/wallpaper-removal-kansas-city/?amp      /wallpaper-removal-kansas-city/        301!
 
 ############################################################
 # Block F — Decommissioned taxonomies (410 = Gone)
 # Purpose: tell crawlers these shouldn’t exist
 ############################################################
-/tags/*                                /                                       410!
-# /categories/*                          /                                       410!
-/content/pages/*                       /                                       410
-/home/*                                /                                       410
+/tags/*                                  /                      410!
+# /categories/*                            /                      410!
+/content/pages/*                         /                      410
+/home/*                                  /                      410
 
 # Deleted pages, long gone
-/titanium-dioxide-in-your-paint-can/            /             410
-/scraping-paint-prep-kansas-city/               /             410
-/zig/                                           /             410  
-/feed/                                          /             410
+/titanium-dioxide-in-your-paint-can/     /                      410
+/scraping-paint-prep-kansas-city/        /                      410
+/zig/                                    /                      410  
+/feed/                                   /                      410
 
 # Possibly still referenced, now redirected
 /painter-for-a-day-kansas-city/	        /interior-painter-kansas-city/	            301

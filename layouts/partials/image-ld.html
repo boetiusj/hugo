@@ -27,16 +27,26 @@
     {{- $license := $it.license | default $licenseDefault -}}
     {{- $acquire := $it.acquire | default $acquireDefault -}}
 
-    {{- $res := $p.Resources.GetMatch $src -}}
-    {{- if not $res }}{{ $res = resources.Get (strings.TrimPrefix "/" $src) }}{{- end -}}
+    {{/* AFTER (normalize + images/ fallback) */}}
+{{- $srcNorm := strings.TrimPrefix "/" $src -}}                 {{/* CHANGE */}}
+{{- $res := $p.Resources.GetMatch $srcNorm -}}                  {{/* CHANGE */}}
+{{- if not $res -}}
+  {{- if not (hasPrefix $srcNorm "images/") -}}                 {{/* CHANGE */}}
+    {{- $res = resources.Get (printf "images/%s" $srcNorm) -}}  {{/* CHANGE */}}
+  {{- end -}}
+{{- end -}}
+{{- if not $res }}{{ $res = resources.Get $srcNorm }}{{- end -}} {{/* CHANGE */}}
+
     {{- if not $res }}{{ warnf "image-ld: not found %s on %s" $src $p.RelPermalink }}{{- continue -}}{{- end -}}
 
     {{- $w := $res.Width | int -}}
     {{- $h := $res.Height | int -}}
     {{- $url := $res.Permalink -}}
     {{- $id := printf "%s#img%d" $url $i -}}
-    {{- $fmt := cond (strings.HasSuffix $url ".webp") "image/webp" (cond (or (strings.HasSuffix $url ".jpg") (strings.HasSuffix $url ".jpeg")) "image/jpeg" (cond (strings.HasSuffix $url ".png") "image/png" "") ) -}}
-
+    {{- $fmt := cond (strings.HasSuffix $url ".avif") "image/avif"
+          (cond (strings.HasSuffix $url ".webp") "image/webp"
+          (cond (or (strings.HasSuffix $url ".jpg") (strings.HasSuffix $url ".jpeg")) "image/jpeg"
+          (cond (strings.HasSuffix $url ".png") "image/png" ""))) -}}  {{/* CHANGE */}}
     {{- $imgNode := dict
         "@type" "ImageObject"
         "@id"   $id

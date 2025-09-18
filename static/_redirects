@@ -19,13 +19,6 @@ http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301
 /compare-paint-bids                    /compare-painting-bids/                301!
 /compare-paint-bids/                   /compare-painting-bids/                301!
 
-# /painter-leawood                       /painter-in-leawood/                   301!
-# /painter-overland-park                 /painter-in-overland-park/             301!
-# /painter-loch-lloyd                    /painter-in-loch-lloyd/                301!
-# /painter-prairie-village               /painter-in-prairie-village/           301!
-
-# Lead paint old → new
-# reverse these: /blog/lead-paint-certification/        /lead-paint-its-important/             301!
 
 ############################################################
 # Block C — “Ugly variants” cleanup (double slashes, etc.)
@@ -61,6 +54,26 @@ http://crestwoodpainting.com/*        https://crestwoodpainting.com/:splat   301
 ############################################################
 /tags/*                                /                                       410!
 # /categories/*                          /                                       410!
+/content/pages/*                       /                                       410
+/home/*                                /                                       410
+
+# Deleted pages, long gone
+/titanium-dioxide-in-your-paint-can/            /             410
+/scraping-paint-prep-kansas-city/               /             410
+/zig/                                           /             410  
+/feed/                                          /             410
+
+# Possibly still referenced, now redirected
+/painter-for-a-day-kansas-city/	        /interior-painter-kansas-city/	            301
+/kut-the-krud/	                        /interior-painter-kansas-city/	            301
+/being-green/	                        /interior-painter-kansas-city/	            301
+/paint-estimates-drop-in-or-drop-off/	/estimate-scheduler/	                    301
+/payment-thank-you/(opens in a new tab)	/payment-thank-you/	                        301
+/exterior-paint-new-homes/	            /exterior-painting-kansas-city/	            301
+/what-kind-painting/	                /exterior-painting-kansas-city/	            301
+/choose-right-paint-sheen/	            /choose-the-right-paint-sheen/	            301
+/top-3-must-haves-hiring-contractor/	/12-top-painter-questions/	                301
+/does-unfinished-cabinetry-pay/	        /cabinet-painting/	                        301
 
 ############################################################
 # Block G — (Optional) Catch a stray explicit path you saw

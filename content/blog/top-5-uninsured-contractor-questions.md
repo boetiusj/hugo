@@ -13,7 +13,7 @@ categories:
 ---
 Insurance isn’t just paperwork—it’s a safeguard against the unexpected. When you hire someone uninsured, you're often the one holding the bag when things go wrong.
 
-![insurance scream](/images/blog/measure.webp)
+![insurance scream](images/blog/measure.webp)
 
 ## Why Insurance Coverage Matters for Contractors
 
@@ -103,4 +103,4 @@ Hiring a painter should come with peace of mind. We carry full insurance and are
 
 For more smart homeowner tips, check out [12 Questions to Ask *Before* You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}), our breakdown of [why painters backroll]({{< relref "blog/why-painters-backroll.md" >}}), or tips on [crystal clear contracts]({{< relref "blog/solid-agreements.md" >}}). You’ll be glad you did.
 
-![customer review](/images/reviews/r19-8-katherinet.png)
+![customer review](images/reviews/r19-8-katherinet.png)

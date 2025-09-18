@@ -56,7 +56,7 @@ A simple coat of paint can turn your basement into a stylish and functional exte
 
 Wallpaper removal is harder than it looks—unless you call us. Our [wallpaper removal pros]({{< relref "pages/wallpaper-removal-kansas-city.md" >}}) deliver smooth walls and a fresh, modern appearance with zero hassle.
 
-![painting review](/images/r18-2-ruben.webp)
+![painting review](images/r18-2-ruben.webp)
 
 #### Bathroom Painting – A fresh look, even in high humidity
 
@@ -114,4 +114,4 @@ Scheduling a free estimate is quick and easy. Our [online form makes booking sim
 
 We know Liberty homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 
-![customer review](/images/reviews/r24-7-dawnk.png)
+![customer review](images/reviews/r24-7-dawnk.png)

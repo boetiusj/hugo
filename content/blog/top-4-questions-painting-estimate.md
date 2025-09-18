@@ -15,7 +15,7 @@ categories:
 ---
 There are four questions that tell you more about a potential contractor—and the job you’ll actually get.
 
-![Paint estimate Kansas City Crestwood Painting](/images/blog/calculator-tape.webp)
+![Paint estimate Kansas City Crestwood Painting](images/blog/calculator-tape.webp)
 
 ## Don’t Start With “How Much?”
 
@@ -96,4 +96,4 @@ For more perspective, you might enjoy [why painters wear white]({{< relref "blog
 
 Curious about how we’d answer these questions? You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) online in just a few clicks. Appointments usually take less than 30 minutes, and we’ll give you clear answers with no pressure—just straight talk from a team that’s been around the block.
 
-![customer review](/images/reviews/r19-4-heatherk.png)
+![customer review](images/reviews/r19-4-heatherk.png)

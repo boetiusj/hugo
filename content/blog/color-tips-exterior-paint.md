@@ -15,7 +15,7 @@ categories:
 ---
 Brick and roof colors, landscaping and even your neighbor's house color - these can all factor in when choosing colors for your home.
 
-![exterior paint colors](/images/exterior/stucco-stone.jpg)
+![exterior paint colors](images/exterior/stucco-stone.jpg)
 
 ## Choosing Exterior Colors to Match Your Home’s Style
 
@@ -29,7 +29,7 @@ Traditional-style homes often benefit from muted, classic tones like soft greens
 
 Modern homes frequently use bolder contrasts and sharper color lines. Whites, blacks, and deep grays paired with contrasting trims create a clean and striking visual effect.
 
-![home harsh color contrast crestwood painting kansas city](/images/exterior/ext-before.jpg)
+![home harsh color contrast crestwood painting kansas city](images/exterior/ext-before.jpg)
 
 ## How Landscaping Influences Your Exterior Color Choices
 
@@ -77,7 +77,7 @@ For more ideas, explore our guide on the [best front door colors]({{< relref "bl
 
 Small-scale paint tests help ensure your final choice looks perfect in all conditions.
 
-![exterior paint colors kansas city](/images/exterior/ext-after.webp)
+![exterior paint colors kansas city](images/exterior/ext-after.webp)
 
 ### Observing at Different Times
 

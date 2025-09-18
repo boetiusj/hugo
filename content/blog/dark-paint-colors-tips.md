@@ -18,7 +18,7 @@ categories:
 ---
 Deep, vibrant paint colors can transform a room with dramatic flair, but you might be wondering how many coats of paint does it take to get that full, even coverage. As it turns out, extra steps and careful planning are often necessary for rich, saturated shades.
 
-![Paint colors - deep base](/images/duration.jpg)
+![Paint colors - deep base](images/duration.jpg)
 
 ## Why Deep Colors Don’t Cover as Well
 
@@ -96,4 +96,4 @@ Lighter bases accommodate pastels and mid-range colors with only small amounts o
 
 Not every premium paint line offers an ultra-deep base. If your chosen color demands more tint than that line supports, you may have to opt for a different brand or a commercial-grade product. Balancing color preference with paint performance is often the best strategy for vibrant, long-lasting results.
 
-![customer review](/images/reviews/r22-5-nickw.png)
+![customer review](images/reviews/r22-5-nickw.png)

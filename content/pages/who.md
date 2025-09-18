@@ -19,8 +19,8 @@ We believe a good painting experience starts with clear communication and ends w
 
 {{< gallery >}}
 
-- ![Painting Contractors Assoc](/images/logo-pca100.webp)
-- ![EPA Lead paint certified](/images/Lead-Safe-Certified120.webp)
+- ![Painting Contractors Assoc](images/logo-pca100.webp)
+- ![EPA Lead paint certified](images/Lead-Safe-Certified120.webp)
 {{< /gallery >}}
 
 From day one, we’ve held a KCMO business license and full insurance. You’ll get a copy of our insurance certificate with your proposal—because we believe peace of mind starts with transparency.
@@ -83,4 +83,4 @@ For us, *No Drips, No Drama* means:
 
 Give us a call and see how easy it can be to work with true service professionals.
 
-![painter review testimonial kansas city crestwood](/images/r15-2-goff.webp)
+![painter review testimonial kansas city crestwood](images/r15-2-goff.webp)

@@ -42,7 +42,7 @@ The GC turned over the work space right on schedule and two weeks later we were 
 
 ## The Materials
 
-![painting break room kansas city](/images/office/breakroom.jpg)
+![painting break room kansas city](images/office/breakroom.jpg)
 
 ### Office Walls
 
@@ -78,7 +78,7 @@ Walls were lightly sanded to remove “bumps and fuzzies” and then rolled with
 
 ## Challenge II - Dry Erase Boards
 
-![office painting whiteboard dry erase kansas city](/images/office/classroom.webp)
+![office painting whiteboard dry erase kansas city](images/office/classroom.webp)
 
 Halfway through the project the customer asked about dry-erase white boards. There are several options available and, after discussing pros and cons of each, they decided that the “on-wall” option allowed larger sizes at a more practical price point than the office-store or factory-made metal boards.
 

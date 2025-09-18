@@ -149,4 +149,4 @@ For more insights into creating cohesive interiors, check out our [interior pain
 
 Ready to make your home feel like you? Schedule a convenient color consultation with us through our [easy online booking form]({{< relref "pages/estimate-scheduler.md" >}}). Most sessions take 30 minutes or less, with no pressure—just helpful guidance to make your space perfect.
 
-![customer review](/images/reviews/r23-5-lanee.png)
+![customer review](images/reviews/r23-5-lanee.png)

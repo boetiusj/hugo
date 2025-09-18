@@ -17,7 +17,7 @@ Something we see quite often on older [interior projects]({{< relref "pages/inte
 
 Traditional methods often used multiple pieces that accommodate expansion and contraction. This approach helps wood shift without creating large, visible gaps.
 
-![interior trim crestwood painting kansas city](/images/blog/trad-trim.webp)
+![interior trim crestwood painting kansas city](images/blog/trad-trim.webp)
 
 ### Layers of Wood Components
 
@@ -49,7 +49,7 @@ Older joint styles used angled and overlapping parts to hide movement. By acknow
 
 A coping cut follows the profile of an adjoining piece, so even if boards warp, the joint remains snug. It’s especially handy in crown molding where corners might not meet at perfect angles.
 
-![paint prep kansas city crestwood painting miter joint gap](/images/interior/trim-gap.webp)
+![paint prep kansas city crestwood painting miter joint gap](images/interior/trim-gap.webp)
 
 ### Multi-Piece Molding
 
@@ -119,4 +119,4 @@ Larger or recurring gaps can point to structural shifts. Consider professional c
 
 If you’re tired of chasing trim gaps, we have a simple [online booking form]({{< relref "pages/estimate-scheduler.md" >}}) that lets you pick a convenient time. It’s a relaxed, no-pressure conversation about your home’s needs, so we can suggest practical, budget-friendly solutions. Scheduling now can spare you bigger headaches later, and we’ll help keep your trim looking its best.
 
-![customer review](/images/reviews/r24-4-krausj.png)
+![customer review](images/reviews/r24-4-krausj.png)

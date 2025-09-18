@@ -53,7 +53,7 @@ Whether you want a playful space for kids or a dramatic home theater, basement p
 Bathroom Painting  
 High-humidity areas require the right paint and application. We use moisture-resistant paints to prevent mold and mildew while giving your bathroom a fresh, clean appearance.
 
-![mission hills house](/images/city/mhks_home.jpeg)
+![mission hills house](images/city/mhks_home.jpeg)
 
 #### Living Room Painting
 
@@ -109,4 +109,4 @@ We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, tak
 
 Painting in Mission Hills means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
 
-![painting review](/images/r12-7-dianah.webp)
+![painting review](images/r12-7-dianah.webp)

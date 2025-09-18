@@ -109,4 +109,4 @@ For related challenges, read up on [plaster and drywall repair]({{< relref "page
 
 Every shake siding project is unique, and we’re happy to take a look. You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) through our online form—just pick a time that works for you. The visit usually takes under 30 minutes and gives you clear answers, not a sales pitch.
 
-![Exterior painting fence kansas city crestwood](/images/r18-2-ruben.webp)
+![Exterior painting fence kansas city crestwood](images/r18-2-ruben.webp)

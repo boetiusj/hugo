@@ -86,7 +86,7 @@ A well-planned painting project means minimal disruption and maximum results. We
 
 Your estimate isn’t just about numbers—it’s a chance to fine-tune the details. We’ll discuss any needed repairs, [go over color]({{< relref "pages/color-help.md" >}}) and sheen options, and set clear expectations for the project. We'll even help you to [compare paint bids]({{< relref "pages/compare-painting-bids.md" >}}). This conversation ensures everything is planned out before work begins, so the process is smooth and stress-free.
 
-![white living room](/images/interior/brick-fp-paint.jpg)
+![white living room](images/interior/brick-fp-paint.jpg)
 
 ### Choosing a Color? Here’s Where to Start
 
@@ -166,7 +166,7 @@ If you just need your blue walls light gray, we can do that. And if you’re aft
 
 A beautifully painted interior starts with a strong foundation, so we take extra care to ensure your walls, trim, and other surfaces are perfectly prepped before the first coat of paint goes on.
 
-![white mantel closeup](/images/interior/mantel-white-close.webp)
+![white mantel closeup](images/interior/mantel-white-close.webp)
 
 ### Wall Prep
 
@@ -238,6 +238,6 @@ We’ll help narrow objectives and priorities and go over best options - there a
 - Door Stop – A strip of trim inside door frames that helps seal the door.  
 - Picture Frame Molding – Trim arranged in rectangles on walls for a decorative effect.
 
-![house painting review](/images/reviews/r23-4-karenp.png)
+![house painting review](images/reviews/r23-4-karenp.png)
 
 ### ---

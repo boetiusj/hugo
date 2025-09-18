@@ -14,7 +14,7 @@ categories:
 ---
 > nail pop *(noun)* | ˈnāl ˌpäp| A condition in which a nail protrudes above the surface of drywall or siding due to structural movement, wood shrinkage, or improper installation.
 
-![nail pop intact](/images/nail-pop-surface-intact.webp)
+![nail pop intact](images/nail-pop-surface-intact.webp)
 
 ## Nail Pops: What They Are and How to Fix Them
 
@@ -26,7 +26,7 @@ On [exterior surfaces]({{< relref "pages/exterior-painting-kansas-city.md" >}}),
 
 If the original siding crew had taken an extra second to properly set each nail—just dimpling the surface without overdriving—it could have prevented many of these issues. But time and budgets don’t always allow for that level of care.
 
-![nail pops test](/images/nail-pop-drywall.webp)
+![nail pops test](images/nail-pop-drywall.webp)
 
 #### When to Fix Exterior Nail Pops
 
@@ -49,7 +49,7 @@ Sometimes, leaving well enough alone is the best approach. If the nail is doing 
 
 Interior nail pops happen for similar reasons—settling, lumber shrinkage, or improper fastening. However, they’re usually more noticeable to homeowners since they look tacky—especially when they appear along ceiling joints, where structural movement is most common. These can be trickier to reach, making them more of a nuisance, but they’re still part of a thorough [interior painting project]({{< relref "pages/interior-painter-kansas-city.md" >}}).
 
-![nail pops](/images/interior/nail-pop.png)
+![nail pops](images/interior/nail-pop.png)
 
 #### How to Fix Interior Nail Pops
 
@@ -66,4 +66,4 @@ Interior nail pops are a common but purely cosmetic issue caused by natural sett
 
 Nail pops, whether inside or out, are more about aesthetics than function. Exterior pops often look worse than they are, and over-fixing can create bigger problems. Interior pops, while unsightly, are easy to correct with the right approach. If you’re unsure whether yours need attention, [book an estimate time]({{< relref "pages/estimate-scheduler.md" >}}) with us — we’re happy to help keep your home looking its best. No drips, no drama—just solid, straightforward solutions.
 
-![customer review](/images/reviews/r20-8-javierp.png)
+![customer review](images/reviews/r20-8-javierp.png)

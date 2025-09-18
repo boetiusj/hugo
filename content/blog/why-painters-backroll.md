@@ -16,7 +16,7 @@ categories:
 ---
 Backrolling in the wrong situation can introduce more problems than it solves. Done poorly, the finish can end up blotchy and uneven.
 
-![painters backroll](/images/blog/backroll.webp)
+![painters backroll](images/blog/backroll.webp)
 
 ## What Is Backrolling and Why Is It Used?
 
@@ -88,4 +88,4 @@ You can also explore our take on [best front door colors]({{< relref "blog/best-
 
 Wondering what approach makes sense for your home? You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) online in just a few clicks. Most consultations take less than 30 minutes and give you clear, helpful information with zero pressure.
 
-![customer review](/images/reviews/r22-6-jodyt.png)
+![customer review](images/reviews/r22-6-jodyt.png)

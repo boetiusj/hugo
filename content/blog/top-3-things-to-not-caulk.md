@@ -17,7 +17,7 @@ Caulk is a vital part of any exterior painting or maintenance job, but sealing e
 
 Caulk is designed to seal joints around windows, doors, and trim. It prevents moisture infiltration and creates a seamless, unified look, especially on exterior surfaces. Because it smooths over gaps, cracks, and small crevices, caulk contributes significantly to a home’s curb appeal and structural integrity when used correctly.
 
-![caulk here but not there](/images/caulk-here.webp)
+![caulk here but not there](images/caulk-here.webp)
 
 ### Why Proper Caulking Matters
 
@@ -41,7 +41,7 @@ A small gap along the bottom edge of siding may not look perfect, but it serves 
 
 Soffits bridge the gap between a home’s exterior wall and the roofline. While you might think caulking every joint prevents water intrusion, excessive sealing in this area can trap water and cause rot, mold, or mildew.
 
-![caulk stretches by design](/images/blog/caulk-stretch.png)
+![caulk stretches by design](images/blog/caulk-stretch.png)
 
 #### Think Like a Raindrop
 
@@ -83,4 +83,4 @@ Some contractors claim they “caulk everything,” but that approach often back
 
 Caulk works wonders for appearance and protection, but only when you know where—and where not—to use it. Bottom edges of siding, soffits, and storm windows should remain unsealed or only selectively caulked to prevent moisture issues. When in doubt, consult a professional or gather more information to ensure you’re making the best choices for your home’s longevity and curb appeal.
 
-![customer review](/images/reviews/r19-8-dynelw.png)
+![customer review](images/reviews/r19-8-dynelw.png)

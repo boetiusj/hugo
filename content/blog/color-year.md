@@ -254,4 +254,4 @@ Check out [insider tips - exterior paint]({{< relref "blog/color-tips-exterior-p
 
 Ready to confidently select colors for your home? Schedule your color consultation conveniently through our [easy and short online booking form]({{< relref "pages/estimate-scheduler.md" >}}). Appointments usually take 30 minutes or less, designed entirely around your schedule.
 
-![customer review](/images/reviews/r24-5-jeremyj.png)
+![customer review](images/reviews/r24-5-jeremyj.png)

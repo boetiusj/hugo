@@ -70,7 +70,7 @@ First impressions matter, and your office is a reflection of your brand. A fresh
 
 At Crestwood, we bring precision and attention to detail to every office painting project. Our approach ensures that the work is done correctly the first time, on time, and with minimal disruption to your office environment. Take a look at this nitty gritty [case study]({{< relref "pages/office-painting-case-study.md" >}}) of another office project we did.
 
-![office painting](/images/office/office102.jpg)
+![office painting](images/office/office102.jpg)
 
 ## Offices We’ve Painted
 
@@ -124,7 +124,7 @@ Paint manufacturers have come a long way in developing paints that give off litt
 
 Choosing low- and no-VOC paints for your office isn’t just about being environmentally friendly; it’s about creating a more comfortable, healthier space for everyone who walks through your doors.
 
-![office painting](/images/O-print-layout.webp)
+![office painting](images/O-print-layout.webp)
 
 ### Which Facilities Prefer Low- and No-VOC Paints?
 
@@ -204,16 +204,16 @@ A freshly painted office isn’t just about aesthetics—it’s a smart investme
 
 {{< gallery >}}
 
-* ![UMKC painting customer](/images/o-umkc1.webp)
-* ![Edward Jones painting office kansas city](/images/O-edwardjones.webp)
-* ![office painting fedex kansas city](/images/O-fedex-logo.webp)
-* ![office painting cintas](/images/O-Cintas.webp)
+* ![UMKC painting customer](images/o-umkc1.webp)
+* ![Edward Jones painting office kansas city](images/O-edwardjones.webp)
+* ![office painting fedex kansas city](images/O-fedex-logo.webp)
+* ![office painting cintas](images/O-Cintas.webp)
 {{< /gallery >}}
 
 {{< gallery >}}
 
-* ![office painting United Way](/images/O-UnitedWay.webp)
-* ![commercial painting warehouse Republic](/images/O-Republic.webp)
-* ![office painting Thrifty](/images/O-Thrifty.webp)
-* ![office painting Bluebird](/images/O-Bluebird.webp)
+* ![office painting United Way](images/O-UnitedWay.webp)
+* ![commercial painting warehouse Republic](images/O-Republic.webp)
+* ![office painting Thrifty](images/O-Thrifty.webp)
+* ![office painting Bluebird](images/O-Bluebird.webp)
 {{< /gallery >}}

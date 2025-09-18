@@ -19,7 +19,7 @@ Peel 'n Stick color samples have changed everything - they're cheap, easy and mo
 
 Paint color is one of the most visible decisions you’ll make—but tiny fan deck samples and color swatches from the paint store rarely tell the full story. Those printed squares are made with ink, not paint, and they’re often viewed under fluorescent lights.
 
-![exterior paint colors kansas city painter crestwood painting](/images/colors.webp)
+![exterior paint colors kansas city painter crestwood painting](images/colors.webp)
 
 Colors look dramatically different once they’re on a larger surface and exposed to natural and artificial light in your home. A small mistake in tone, undertone, or intensity can affect the entire room—or the whole house.
 
@@ -77,4 +77,4 @@ Once you’ve found the right color, we can help bring it to life. You can [book
 
 For more inspiration, check out our [colors interior]({{< relref "blog/colors-interior.md" >}}) gallery, read our guide on [painting kitchen cabinets]({{< relref "blog/painting-kitchen-cabinets.md" >}}), or explore why [touch-up paint]({{< relref "blog/touch-up-paint.md" >}}) isn’t always as easy as it seems.
 
-![customer review](/images/reviews/r23-6-cherylp.png)
+![customer review](images/reviews/r23-6-cherylp.png)

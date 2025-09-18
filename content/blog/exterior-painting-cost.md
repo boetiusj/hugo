@@ -19,7 +19,7 @@ After deciding to paint, the next question is always cost—and the answer is us
 
 Prices vary widely depending on the home’s size, condition, and architectural complexity.
 
-![exterior paint cost](/images/exterior/tudor-brick.jpg)
+![exterior paint cost](images/exterior/tudor-brick.jpg)
 
 ### Smaller Homes vs. Larger Projects
 
@@ -47,7 +47,7 @@ Different materials call for different prep techniques and paint systems.
 
 Fiber cement siding like James Hardie is extremely durable but still benefits from proper surface prep and paint selection. While not as labor-intensive as wood, care must be taken with caulking and surface cleaning before painting.
 
-![exterior paint cost](/images/exterior/ranch-white.jpg)
+![exterior paint cost](images/exterior/ranch-white.jpg)
 
 ### Shake Shingles and Cedar Clapboard Siding
 
@@ -71,7 +71,7 @@ Loose or peeling paint must be removed. Any bare wood needs to be primed, and al
 
 Each additional paint color adds complexity, especially on homes with detailed trim.
 
-![paint house exterior kansas city crestwood painting](/images/exterior/sm-ranch.jpg)
+![paint house exterior kansas city crestwood painting](images/exterior/sm-ranch.jpg)
 
 ### Architectural Styles Influence Color Needs
 
@@ -125,4 +125,4 @@ A fresh coat of paint is a great time to update other features. Now might be the
 
 You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) online by choosing a time that works best for you. The meeting usually takes 30 minutes or less, and there’s no pressure—just straightforward answers and advice tailored to your home.
 
-![customer review](/images/reviews/r20-3-jamest.png)
+![customer review](images/reviews/r20-3-jamest.png)

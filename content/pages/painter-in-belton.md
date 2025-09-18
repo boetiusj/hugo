@@ -65,7 +65,7 @@ Bathrooms need paint that can handle humidity and daily use. Moisture-resistant 
 
 A well-painted living room enhances your style and creates a cozy atmosphere. The right colors and finishes can make the space feel more open, intimate, or sophisticated. A fresh coat of paint keeps it looking clean and well-maintained.
 
-![painting review](/images/r18-2-ruben.webp)
+![painting review](images/r18-2-ruben.webp)
 
 #### Playroom Painting
 
@@ -115,4 +115,4 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 
 We know Belton homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 
-![customer review](/images/reviews/r18-1-cindym.png)
+![customer review](images/reviews/r18-1-cindym.png)

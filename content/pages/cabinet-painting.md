@@ -74,7 +74,7 @@ A full remodel can take months. Cabinet painting? More like days. It’s the per
 
 > A wonderful job on my kitchen cabinets! They gave an accurate and fair estimate, worked full days and were extremely neat and courteous.
 
-![Painted kitchen cabinets](/images/cabinets/c-loftgray.jpg)
+![Painted kitchen cabinets](images/cabinets/c-loftgray.jpg)
 
 ## Types of Cabinets
 
@@ -96,7 +96,7 @@ Even if they don’t get the same daily traffic, cabinets in laundry rooms or re
 
 It depends. If your interiors are wood or MDF (particle board), a protective coat of paint can help extend their life. But if they’re melamine (a smooth, plastic-like surface), painting them isn’t always necessary — unless the color is truly tragic.
 
-![kitchen cabinet paint peninsula](/images/cabinets/c-peninsula.jpg)
+![kitchen cabinet paint peninsula](images/cabinets/c-peninsula.jpg)
 
 ## Types of Cabinet Paint
 
@@ -206,4 +206,4 @@ At Crestwood Painting, we do the hard work so you don’t have to. Meticulous pr
 
 Great cabinets. No chaos. Just a stunning new space.
 
-![cabinet painting review](/images/r17-2-jimmye.webp)
+![cabinet painting review](images/r17-2-jimmye.webp)

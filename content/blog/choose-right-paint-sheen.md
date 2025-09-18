@@ -15,7 +15,7 @@ categories:
 ---
 When considering how to choose paint sheen, it’s essential to recognize that sheen is as important as color, influencing both appearance and practicality.
 
-![living room](/images/interior/lr-lighted-shelves.jpg)
+![living room](images/interior/lr-lighted-shelves.jpg)
 
 ## Light Reflectance & Sheen
 
@@ -35,7 +35,7 @@ Interior trim endures frequent contact, making satin or semi-gloss a practical c
 
 Flat finishes, also known as matte, create a non-reflective surface that absorbs light, making them especially appealing if you’re looking for the best paint sheen for bedrooms or formal living areas. They cover minor imperfections better than glossier paints and lend a serene, unified appearance to walls and ceilings. Many newer flat paints are also more stain-resistant, making them easier to maintain than older formulations.
 
-![paint sheens](/images/interior/sheens.webp)
+![paint sheens](images/interior/sheens.webp)
 
 ### Eggshell and Satin: The Middle Ground
 
@@ -87,4 +87,4 @@ When painting inside, take time to prep thoroughly—clean and prime surfaces, a
 
 Ultimately, deciding what is the best paint sheen comes down to your space’s needs, the look you’re aiming for, and the level of maintenance you’re prepared to handle. By considering factors like room traffic, climate, and personal style, you’ll land on a sheen that not only looks great but also holds up to daily demands. When all is said and done, you’ll have a paint job that truly reflects your vision—literally and figuratively.
 
-![customer review](/images/reviews/r24-2-shellib.png)
+![customer review](images/reviews/r24-2-shellib.png)

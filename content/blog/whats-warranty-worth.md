@@ -82,4 +82,4 @@ Looking for more smart planning advice? Check out [tips for painting trim]({{< r
 
 Need help evaluating more than just the price? We’re happy to walk you through what matters—and what doesn’t. You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) at your convenience. The visit usually takes less than 30 minutes, and there’s no pressure—just honest answers.
 
-![customer review](/images/reviews/r23-11-diedrep.png)
+![customer review](images/reviews/r23-11-diedrep.png)

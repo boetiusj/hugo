@@ -119,7 +119,7 @@ For example:
 * A 1990s two-story home might use three colors: body, trim, and an accent.  
 * A 1930s two-story home might shine with five colors: two body colors, trim, front door, and an accent.
 
-![exterior paint green ranch](/images/exterior/x-greenranch.webp)
+![exterior paint green ranch](images/exterior/x-greenranch.webp)
 
 ### Common House Color Terms
 
@@ -183,7 +183,7 @@ We’ll flag specific plants with caution tape, or if necessary, we can arrange 
 
 It's a good idea to trim back any greenery that’s close to the house to help protect your landscaping. We’re careful, but a little prep goes a long way in ensuring everything stays safe.
 
-![stucco paint gray house](/images/exterior/stately-great-paint.webp)
+![stucco paint gray house](images/exterior/stately-great-paint.webp)
 
 ## The Painting Process
 
@@ -257,6 +257,6 @@ There won’t be a test, but this list might save some searching. Yes, it’s bo
 * Corbels – Ornamental supports under eaves or overhangs.  
 * Brackets – Structural or decorative angled supports under porches, eaves, or beams.
 
-![customer review exterior painting](/images/reviews/r24-5-wineingerk.png)
+![customer review exterior painting](images/reviews/r24-5-wineingerk.png)
 
 #### ---

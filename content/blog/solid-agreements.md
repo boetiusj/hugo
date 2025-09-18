@@ -16,7 +16,7 @@ categories:
 
 3 Things: **Inclusions**, **Exclusions** and **Clarifications**. This foundation outlines exactly *what* will be done and *how* it will be done.
 
-![clear communication](/images/blog/clipboard.webp)
+![clear communication](images/blog/clipboard.webp)
 
 ### The Importance of Clarity
 
@@ -105,4 +105,4 @@ A thorough painting agreement is more than just “paperwork.” It sets the ton
 
 A painting agreement isn’t only about covering legal bases—though that’s part of it. More importantly, it’s about communicating exactly what will happen, when it will happen, and what each party should expect. That clarity is why a well-structured contract is one of the best ways to ensure how to have a great contractor experience.
 
-![painting review](/images/r17-4-glorfeld.webp)
+![painting review](images/r17-4-glorfeld.webp)

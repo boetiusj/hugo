@@ -16,7 +16,7 @@ This was a nice treat on New Years Eve - very kind and thoughtful words from a l
 
 The Proposal was sent in February, last contact was mid-March. Then, the note below arrived out of the blue - on December 31st! Fortunately, Crestwood Painting customers don't have this kind of experience.
 
-![crestwood yard sign](/images/other/yard-sign.jpg)
+![crestwood yard sign](images/other/yard-sign.jpg)
 
 > I chose a cheaper bid. And they were a band of idiots...I am so sorry I did not hire you, and won't make that mistake in the future.
 
@@ -41,4 +41,4 @@ Kansas City homeowners have a wide range of options available when they look for
 
 Give us a call and we can discuss the options that are best for your situation and budget. Meantime, see if [12 Questions to Ask Before You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}) might help you avoid some of what Barbara ran into.
 
-![review](/images/r15-2-goff.webp)
+![review](images/r15-2-goff.webp)

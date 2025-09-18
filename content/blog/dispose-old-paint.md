@@ -14,7 +14,7 @@ categories:
 ---
 Properly dealing with leftover paint not only keeps your home clutter-free but also safeguards the environment from hazardous chemicals. Whether you’ve just finished an interior project or wrapped up some exterior touch-up, understanding how to safely handle old paint is important.
 
-![Old Paint - Disposal](/images/oldpaintcans.webp)
+![Old Paint - Disposal](images/oldpaintcans.webp)
 
 ## The Leftover Paint Dilemma
 
@@ -78,4 +78,4 @@ If you’re looking for more ways to make your next painting project a success�
 
 At Crestwood Painting, we’re committed to delivering top-quality work and eco-friendly practices. Keeping leftover paint out of landfills and waterways is just another way we help protect our community. If you have any questions or want to explore your next project, let’s talk!  
 
-![customer review](/images/reviews/r25-3-deanr.png)
+![customer review](images/reviews/r25-3-deanr.png)

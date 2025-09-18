@@ -21,7 +21,7 @@ Defaulting to bright white trim may seem safe, but it often clashes with surroun
 
 Trim color is often chosen last—or not at all. Many homes end up with “trim white” by default, even though it might be too bright, too blue, or just too much in the space.
 
-![White Trim paint](/images/interior/balusters.jpg)
+![White Trim paint](images/interior/balusters.jpg)
 
 The goal isn’t to make the trim jump out—it’s to make it fit with the other elements in the room, especially wall color and fixed surfaces like floors.
 
@@ -34,7 +34,7 @@ Trim should frame and enhance a room, not steal the spotlight.
 When chosen well, trim provides visual structure to a room without drawing too much attention to itself. It’s like the outline on a drawing—meant to define the form, not become the focus.
 
 Of course, not all trim choices are meant to be subtle. Take this example:  
-![interior trim wild base](/images/interior/wild-base-1.jpg)  
+![interior trim wild base](images/interior/wild-base-1.jpg)  
 This leopard-pattern baseboard certainly *does* steal the show. And while it's not for everyone, it’s a reminder that there are exceptions to every rule.
 
 ## Let the Floors Help Guide the Choice
@@ -91,4 +91,4 @@ If you’re already planning other updates, be sure to [dispose of old paint]({{
 
 Need help selecting the right trim colors? We can walk through the options together. Just [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) using our simple online form—most meetings take under 30 minutes, and we’ll leave you with a clear plan and zero pressure.
 
-![customer review](/images/reviews/r20-12-jamesono.png)
+![customer review](images/reviews/r20-12-jamesono.png)

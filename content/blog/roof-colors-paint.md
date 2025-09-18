@@ -15,7 +15,7 @@ categories:
 ---
 The color and tone of your roof can have a surprising impact on how your house reads from the curb.
 
-![Paint colors roof colors](/images/exterior/brick-slate.jpg)
+![Paint colors roof colors](images/exterior/brick-slate.jpg)
 
 ## Why Roof Color Matters in Exterior Paint Planning
 
@@ -65,7 +65,7 @@ Brown, gold, or reddish roofs usually benefit from warmth—think taupe, tan, so
 
 This isn’t about choosing “brown for brown” or “blue for blue.” What matters are undertones. Complex, layered paint colors that include complementary or harmonizing undertones tend to look best.
 
-![roof colors](/images/exterior/clapboard-offwhite.jpg)
+![roof colors](images/exterior/clapboard-offwhite.jpg)
 
 ## There Are No Universal Rules
 
@@ -95,4 +95,4 @@ If you're not sure where to start, our guides on [best front door colors]({{< re
 
 Choosing the right exterior colors starts with a conversation. You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) at a time that works for you—most meetings take less than 30 minutes, and they come with clear answers, not a sales pitch.
 
-![customer review](/images/reviews/r24-2-shellib.png)
+![customer review](images/reviews/r24-2-shellib.png)

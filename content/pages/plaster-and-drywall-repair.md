@@ -68,7 +68,7 @@ Plaster and drywall both create smooth, paintable walls, but they have distinct 
 
 Plaster is a dense, hard surface traditionally applied by hand in multiple layers over wooden lath or metal mesh. It’s durable and sound-dampening but prone to cracking with structural movement.
 
-![Plumbing wall damage](/images/interior/plaster-dwall-plumbing.jpg)
+![Plumbing wall damage](images/interior/plaster-dwall-plumbing.jpg)
 
 #### Drywall - A Gypsum Sandwich
 
@@ -126,7 +126,7 @@ To prevent cracks from returning, paper tape is embedded in joint compound to re
 
 The final step is a smooth, seamless finish. Multiple thin coats of joint compound are applied and sanded between layers to blend the patch perfectly into the surrounding surface before priming and painting.
 
-![review exterior painting](/images/reviews/r24-2-shellib.png)
+![review exterior painting](images/reviews/r24-2-shellib.png)
 
 ### Plaster and Drywall Terms
 

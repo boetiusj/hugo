@@ -20,7 +20,7 @@ Peeling paint and cosmetic issues are often mistaken for rot—but the differenc
 
 In Kansas City, we hear it all the time: “I think we’ve got wood rot.” Sometimes that’s true—but often it’s not. Peeling paint, dry caulk, and surface cracking can make siding and trim look worse than they really are.
 
-![wood rot](/images/woodrot.webp)
+![wood rot](images/woodrot.webp)
 
 It’s important to know the difference. Because if it’s just weathered paint, the solution may be simpler than you think.
 
@@ -86,4 +86,4 @@ You’ll also see the difference in the finished product. Our repairs blend in, 
 
 Not sure if it’s rot or just rough paint? We’re happy to take a look. You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) online—appointments usually take 30 minutes or less. No pressure, just honest answers and a clear next step.
 
-![customer review](/images/reviews/r22-5-nickw.png)
+![customer review](images/reviews/r22-5-nickw.png)

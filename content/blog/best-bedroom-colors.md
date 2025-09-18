@@ -34,7 +34,7 @@ Avoid frequent pitfalls homeowners make when selecting bedroom hues.
 
 Selecting overly intense colors can interfere with restful sleep, leading to overstimulation. Bright colors might initially seem appealing but quickly become overwhelming.
 
-![choosing relaxing colors](/images/bedroompaintcolors.webp)
+![choosing relaxing colors](images/bedroompaintcolors.webp)
 
 ### Ignoring Personal Preferences
 
@@ -124,4 +124,4 @@ Have additional questions? See our [FAQs here]({{< relref "pages/frequently-aske
 
 Ready to transform your bedroom? Schedule a quick, stress-free consultation using our [easy online booking form]({{< relref "pages/estimate-scheduler.md" >}})—choose a convenient time; consultations typically take 30 minutes or less.
 
-![customer review](/images/reviews/r24-8-jeffo.png)
+![customer review](images/reviews/r24-8-jeffo.png)

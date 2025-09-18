@@ -34,7 +34,7 @@ It’s tempting to head straight to the paint store and stare at the wall of end
 
 [Sherwin Williams](https://www.sherwin-williams.com/en-us/color/color-tools/color-visualizer/active/scenes) and [Benjamin Moore](https://www.benjaminmoore.com/en-us/color-overview/personal-color-viewer) both offer online color selection tools that let you upload a photo of your home and test different colors. Sounds great, right? In theory, yes. In practice, expect to spend a good chunk of time uploading photos and fiddling with color placements. They’re a useful tool for narrowing down options, but they require patience.
 
-![tudor home exterior colors](/images/exterior/tudor-brick.jpg)
+![tudor home exterior colors](images/exterior/tudor-brick.jpg)
 
 #### Peel-And-Stick Options – Easier is Better
 
@@ -58,7 +58,7 @@ After years of helping hundreds of Kansas City homeowners navigate exterior colo
 
 A great exterior paint job should do more than just freshen up your home—it should make you proud every time you pull into the driveway. The right color combination highlights your home’s best features, creates a welcoming presence, and feels uniquely *you.*
 
-![painted victorian house](/images/house-shingle-gable.webp)
+![painted victorian house](images/house-shingle-gable.webp)
 
 ### Light Colors Look Whiter
 
@@ -121,4 +121,4 @@ Your walls don’t exist in a vacuum—flooring plays a big role in how a color 
 
 Fireplaces naturally draw attention, but if the original materials feel outdated (hello, 1970s brick!), a fresh color can work wonders. The goal is to enhance — not overpower — the rest of the room. Whether it’s brick, stone, or painted wood, coordinating your fireplace color with your walls creates a seamless, intentional look that ties the space together.
 
-![paint colors, painter review, crestwood painting](/images/r09-5-tonyl.webp)
+![paint colors, painter review, crestwood painting](images/r09-5-tonyl.webp)

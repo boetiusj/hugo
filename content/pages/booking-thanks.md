@@ -11,7 +11,7 @@ sitemap:
 schema_type: "CheckoutPage"
 ---
 
-![painting estimate request](/images/Thank-You-2-e1514038961814.jpg)
+![painting estimate request](images/Thank-You-2-e1514038961814.jpg)
 
 ## A confirmation is on its way. Til then - some things to consider
 

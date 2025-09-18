@@ -63,7 +63,7 @@ High humidity can take a toll on bathroom walls, leading to peeling and stains. 
 
 A well-painted living room enhances your style and creates a cozy atmosphere. The right colors and finishes can make the space feel more open, intimate, or sophisticated. A fresh coat of paint keeps it looking clean and well-maintained.
 
-![painting review](/images/reviews/r24-4-krausj.png)
+![painting review](images/reviews/r24-4-krausj.png)
 
 #### Playroom Painting
 
@@ -110,4 +110,4 @@ We use specialized coatings that not only enhance appearance but also prevent co
 * Know What to Ask – Read our guide [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}} "12 Questions to Ask Before You Hire a Painter")"  
 * Prairie Village homeowners count on us for beautiful work that stands the test of time. From prep to finish, we focus on quality that lasts.
 
-![customer review](/images/reviews/r24-5-jeremyj.png)
+![customer review](images/reviews/r24-5-jeremyj.png)

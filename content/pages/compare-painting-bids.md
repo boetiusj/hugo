@@ -54,7 +54,7 @@ Too many contractors work without basic insurance, hoping nothing goes wrong. Bu
 
 Be sure to get an industry-standard **ACORD certificate** from whomever you hire to do the work. For more insight, see the [top 5 uninsured contractor questions]({{< relref "blog/top-5-uninsured-contractor-questions.md" >}}) every homeowner should ask before signing anything.
 
-![ACORD insurance cert](/images/other/ins-cert.webp)
+![ACORD insurance cert](images/other/ins-cert.webp)
 
 ## Time, Communication, and Cleanliness
 
@@ -94,4 +94,4 @@ The more transparent the bid, the more confidence you can have in the outcome. A
 
 Curious how we break down a proposal? [Book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) online—it’s quick, usually less than 30 minutes, and you’ll get a clear scope of work with no pressure. Just the straight answers you need to make the right call for your home.
 
-![customer review](/images/reviews/r24-9-bethb.png)
+![customer review](images/reviews/r24-9-bethb.png)

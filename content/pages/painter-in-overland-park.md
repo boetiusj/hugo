@@ -63,7 +63,7 @@ High-humidity areas require the right paint and application. We use moisture-res
 
 As a central gathering space, your living room should feel warm and inviting. We help you choose colors and finishes that enhance your style and create a cozy atmosphere.
 
-![painting review](/images/r-23-4-laurie.jpg)
+![painting review](images/r-23-4-laurie.jpg)
 
 #### Playroom Painting
 
@@ -111,4 +111,4 @@ Scheduling a free estimate is quick and easy. Our [online form makes booking sim
 
 We love helping Overland Park homes look their best, inside and out. Every project is built to last and finished with care for a clean, beautiful result.
 
-![customer review](/images/reviews/r24-7-annies.png)
+![customer review](images/reviews/r24-7-annies.png)

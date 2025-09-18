@@ -77,7 +77,7 @@ A great-looking exterior adds charm, character, and lasting protection to your h
 
 A professionally painted door adds character, curb appeal, and a touch of polish. It’s the first thing people see—and the last thing they'll forget. We use high-quality materials for a finish that lasts through the seasons.
 
-![Leawood KS painting](/images/city/leawood.jpg)
+![Leawood KS painting](images/city/leawood.jpg)
 
 #### Garage Painting – Curb appeal doesn’t stop at the front door
 
@@ -113,4 +113,4 @@ We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, tak
 
 Painting in Leawood means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
 
-![customer review](/images/reviews/r24-9-bethb.png)
+![customer review](images/reviews/r24-9-bethb.png)

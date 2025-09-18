@@ -113,4 +113,4 @@ Get a hassle-free estimate at a time that works for you. We show up on time, tak
 
 We know Westwood homes deserve a finish that looks great and stays that way. That’s why we focus on creating results that are both beautiful and built to last.
 
-![customer review](/images/reviews/r24-4-krausj.png)
+![customer review](images/reviews/r24-4-krausj.png)

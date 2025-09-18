@@ -19,7 +19,7 @@ A properly painted surface should appear even and consistent under normal lighti
 
 It’s not about perfection—it’s about consistency, coverage, and how the surface looks under finished lighting from a normal viewing position.
 
-![Proper wall painting Kansas City](/images/interior/green-walls.jpg)
+![Proper wall painting Kansas City](images/interior/green-walls.jpg)
 
 Paint quality isn’t just about color. A properly painted wall looks uniform in texture, sheen, and coverage, with no obvious flaws or thin spots.
 
@@ -101,4 +101,4 @@ If you're not sure how to start a conversation about quality, check out our [top
 
 Every home has its quirks—but we're here to help you make the best of them. You can [book an estimate]({{< relref "pages/estimate-scheduler.md" >}}) at a time that works for you—most meetings take less than 30 minutes and give you the clarity you need without any pressure.
 
-![customer review](/images/reviews/r23-10-richards.png)
+![customer review](images/reviews/r23-10-richards.png)

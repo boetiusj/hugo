@@ -22,7 +22,7 @@ service_links_limit: 5
 
 Few things influence a home’s curb appeal like the front door. It’s the one place on your exterior where color can really make a statement—bold or subtle, elegant or playful. Whether you're selling your home or just refreshing its look, painting the front door is one of the simplest ways to make a strong, lasting impression.
 
-![front door color](/images/doors/fd-gloss.jpg)
+![front door color](images/doors/fd-gloss.jpg)
 
 A carefully chosen front door color sets a welcoming tone, hints at your style, and invites people in before they’ve even crossed the threshold. A deep black door suggests timeless sophistication. A cheery yellow or bold red feels warm and energetic. A slate blue or forest green leans classic and calm. The best part? There’s no “right” answer—just the one that fits *you*.
 
@@ -38,7 +38,7 @@ Your front door is the first detail people notice as they approach your home. Wh
 
 Unlike a full exterior repaint or landscape overhaul, painting the front door is a quick update with immediate results. It's one of the few projects that delivers both aesthetic value and potential financial return.
 
-![restained front door](/images/doors/fd-oak-refin.jpg)
+![restained front door](images/doors/fd-oak-refin.jpg)
 
 ### Harmony with Natural Elements
 
@@ -118,4 +118,4 @@ Your front door is a chance to express your style and elevate your home's exteri
 
 Whether you want your home to stand out or simply feel more inviting, a freshly painted door is a great place to start. [Get in touch with us]({{< relref "pages/estimate-scheduler.md" >}}) to schedule a color consultation or painting estimate.
 
-![painting review](/images/r09-5-tonyl.webp)
+![painting review](images/r09-5-tonyl.webp)

@@ -16,6 +16,29 @@
   {{- end -}}
 {{- end -}}
 
+{{/* ADD: hero.image as a representative fallback */}}
+{{- if (not $items) -}}  {{/* # ADD */}}
+  {{- with .Params.hero.image -}}  {{/* # ADD */}}
+    {{- $items = (slice (dict "src" . "representative" true)) -}}  {{/* # ADD */}}
+  {{- end -}}  {{/* # ADD */}}
+{{- end -}}  {{/* # ADD */}}
+
+{{/* ADD: hero_bg as a last-ditch fallback (often same hero) */}}
+{{- if (not $items) -}}  {{/* # ADD */}}
+  {{- with .Params.hero_bg -}}  {{/* # ADD */}}
+    {{- $items = (slice (dict "src" . "representative" true)) -}}  {{/* # ADD */}}
+  {{- end -}}  {{/* # ADD */}}
+{{- end -}}  {{/* # ADD */}}
+
+{{/* ADD: first markdown image in .RawContent (minimal regex, good-enough) */}}
+{{- if (not $items) -}}  {{/* # ADD */}}
+  {{- $m := findRE `!\\[[^\\]]*\\]\\(([^)]+)\\)` .RawContent 1 -}}  {{/* # ADD */}}
+  {{- if $m -}}  {{/* # ADD */}}
+    {{- $u := replaceRE `^!\\[[^\\]]*\\]\\(([^)]+)\\).*` "$1" (index $m 0) -}}  {{/* # ADD */}}
+    {{- $items = (slice (dict "src" $u "representative" true)) -}}  {{/* # ADD */}}
+  {{- end -}}  {{/* # ADD */}}
+{{- end -}}  {{/* # ADD */}}
+
 {{- if $items }}
   {{- $graph := slice -}}
   {{- $heroID := "" -}}

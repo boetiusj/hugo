@@ -79,7 +79,7 @@
 {{ dict "@context" "https://schema.org" "@graph" (slice $svc) | jsonify | safeHTML }}
 </script>
 <!-- ld:knowledge START -->
-<script type="application/ld+json">
+<script type="application/ld+json" data-partial="knowledge-panel-ld">
 {{- $node := dict
       "@context" "https://schema.org"
       "@graph" (slice (dict

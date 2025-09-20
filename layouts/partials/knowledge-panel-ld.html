@@ -77,7 +77,7 @@
 
 <!-- ld:knowledge START -->
 <script type="application/ld+json" data-partial="knowledge-panel-ld">
-  {{- $node := dict
+  {{- $kp := dict
         "@context" "https://schema.org"
         "@graph" (slice (dict
           "@type"  "Service"
@@ -87,24 +87,23 @@
   -}}
 
   {{- if $areas -}}
-    {{- $node = merge $node (dict
-          "@graph" (slice (merge (index $node "@graph" 0)
-                                  (dict "areaServed" $areas))))
-    -}}
+    {{- $first := index $kp "@graph" 0 -}}
+    {{- $first = merge $first (dict "areaServed" $areas) -}}
+    {{- $kp = merge $kp (dict "@graph" (slice $first)) -}}
   {{- end -}}
 
   {{- if $items -}}
-    {{- $node = merge $node (dict
-          "@graph" (slice (merge (index $node "@graph" 0)
-                                  (dict "hasOfferCatalog" (dict
-                                        "@type"          "OfferCatalog"
-                                        "name"           (printf "%s — Includes" .Title)
-                                        "itemListElement" $items))))
-        )
+    {{- $first := index $kp "@graph" 0 -}}
+    {{- $first = merge $first (dict "hasOfferCatalog" (dict
+          "@type"           "OfferCatalog"
+          "name"            (printf "%s — Includes" .Title)
+          "itemListElement" $items
+        ))
     -}}
+    {{- $kp = merge $kp (dict "@graph" (slice $first)) -}}
   {{- end -}}
 
-  {{ $node | jsonify | safeHTML }}
+  {{ $kp | jsonify | safeHTML }}
 </script>
 <!-- ld:knowledge END -->
 {{- end -}}

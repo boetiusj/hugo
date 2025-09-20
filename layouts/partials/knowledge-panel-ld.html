@@ -1,102 +1,33 @@
-{{- $p := . -}}
-{{- $k := .Params.knowledge -}}
-{{- if not $k }}{{- /* nothing to emit */ -}}{{- else -}}
-{{- $svcID := printf "%s#service" $p.Permalink -}}   {{/* same pattern as service-ld */}}
-{{- $url := $p.Permalink -}}
-
-{{/* Build Offer with price bounds if present */}}
-{{- $offer := dict "@type" "Offer" "url" $url -}}
-{{- if and $k.price_min $k.price_max -}}
-  {{- $offer = merge $offer (dict
-        "priceSpecification" (dict "@type" "PriceSpecification" "minPrice" $k.price_min "maxPrice" $k.price_max "priceCurrency" "USD")
-        "priceCurrency" "USD") -}}
-{{- else if $k.price_min -}}
-  {{- $offer = merge $offer (dict "price" $k.price_min "priceCurrency" "USD") -}}
-{{- else if $k.price_max -}}
-  {{- $offer = merge $offer (dict "price" $k.price_max "priceCurrency" "USD") -}}
-  {{- with $k.duration_days -}}
-  {{- $offer = merge $offer (dict "eligibleDuration" (printf "P%dD" .)) -}}
-{{- end -}}
-{{- end -}}
-
-{{/* Build OfferCatalog items from inclusions (optional) */}}
-{{- $items := slice -}}
-{{- with $k.inclusions -}}
-  {{- range . -}}
-    {{- $items = $items | append (dict "@type" "Offer" "itemOffered" (dict "@type" "Service" "name" .)) -}}
-  {{- end -}}
-{{- end -}}
-
-{{/* Build additionalProperty (PropertyValue[]) for service facts */}}
-{{- $props := slice -}}
-{{- with $k.duration_days -}}
-  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Typical timeline" "value" (printf "%d working days" .)) -}}
-{{- end -}}
-{{- with $k.coatings -}}
-  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Coatings" "value" (delimit . ", ")) -}}
-{{- end -}}
-{{- with $k.prep_highlights -}}
-  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Prep highlights" "value" (delimit . ", ")) -}}
-{{- end -}}
-{{- with $k.warranty -}}
-  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Warranty" "value" .) -}}
-{{- end -}}
-
-{{- $props := slice -}}
-{{- with $k.duration_days -}}
-  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Typical timeline" "value" (printf "%d working days" .)) -}}
-{{- end -}}
-{{- with $k.coatings -}}
-  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Coatings" "value" (delimit . ", ")) -}}
-{{- end -}}
-{{- with $k.prep_highlights -}}
-  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Prep highlights" "value" (delimit . ", ")) -}}
-{{- end -}}
-{{- with $k.warranty -}}
-  {{- $props = $props | append (dict "@type" "PropertyValue" "name" "Warranty" "value" .) -}}
-{{- end -}}
-
-{{/* If you want machine-readable duration on the Offer, use eligibleDuration */}}
-{{- with $k.duration_days -}}
-  {{- $offer = merge $offer (dict "eligibleDuration" (printf "P%dD" .)) -}}
-{{- end -}}
-
-{{/* areaServed remains the same (list of Place) */}}
-{{- $areas := slice -}}
-{{- with $k.service_areas -}}
-  {{- range . -}}
-    {{- $areas = $areas | append (dict "@type" "Place" "name" .) -}}
-  {{- end -}}
-{{- end -}}
-
-{{/* Assemble Service node */}}
-{{- $svc := dict "@type" "Service" "@id" $svcID "offers" $offer -}}
-{{- if $areas }}{{ $svc = merge $svc (dict "areaServed" $areas) }}{{ end -}}
-{{- if $items }}{{ $svc = merge $svc (dict "hasOfferCatalog" (dict "@type" "OfferCatalog" "name" (print $.Title " — Includes") "itemListElement" $items)) }}{{ end -}}
-{{- if $props }}{{ $svc = merge $svc (dict "additionalProperty" $props) }}{{ end -}}
-
-<script type="application/ld+json">
-{{ dict "@context" "https://schema.org" "@graph" (slice $svc) | jsonify | safeHTML }}
-</script>
 <!-- ld:knowledge START -->
 <script type="application/ld+json" data-partial="knowledge-panel-ld">
-{{- $node := dict
-      "@context" "https://schema.org"
-      "@graph" (slice (dict
-        "@type" "Service"
-        "@id"   $svcID
-        "offers" $offer
-      ))
--}}
-{{- if $areas }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "areaServed" $areas)))) }}{{ end -}}
-{{- if $items }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "hasOfferCatalog" (dict "@type" "OfferCatalog" "name" "Cabinet Painting — Includes" "itemListElement" $items))))) }}{{ end -}}
-<meta data-debug="kp-node-type" content="{{ printf "%T" $node }}">
-{{- $nodeType := printf "%T" $node -}}
-{{- if eq $nodeType "string" -}}
-  {{ $node | safeHTML }}
-{{- else -}}
+  {{- $node := dict
+        "@context" "https://schema.org"
+        "@graph" (slice (dict
+          "@type"  "Service"
+          "@id"    $svcID
+          "offers" $offer
+        ))
+  -}}
+
+  {{- if $areas -}}
+    {{- $node = merge $node (dict
+          "@graph" (slice (merge (index $node "@graph" 0)
+                                  (dict "areaServed" $areas))))
+    -}}
+  {{- end -}}
+
+  {{- if $items -}}
+    {{- $node = merge $node (dict
+          "@graph" (slice (merge (index $node "@graph" 0)
+                                  (dict "hasOfferCatalog" (dict
+                                        "@type"          "OfferCatalog"
+                                        "name"           (printf "%s — Includes" .Title)
+                                        "itemListElement" $items))))
+        )
+    -}}
+  {{- end -}}
+
   {{ $node | jsonify | safeHTML }}
-{{- end -}}
 </script>
 <!-- ld:knowledge END -->
 {{- end -}}

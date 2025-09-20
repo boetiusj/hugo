@@ -77,7 +77,34 @@
 
 <!-- ld:knowledge START -->
 <script type="application/ld+json" data-partial="knowledge-panel-ld">
-{"@context":"https://schema.org","@type":"Thing","name":"debug-placeholder"}
+  {{- $kp := dict
+        "@context" "https://schema.org"
+        "@graph" (slice (dict
+          "@type"  "Service"
+          "@id"    $svcID
+          "offers" $offer
+        ))
+  -}}
+
+  {{- if $areas -}}
+    {{- $first := index $kp "@graph" 0 -}}
+    {{- $first = merge $first (dict "areaServed" $areas) -}}
+    {{- $kp = merge $kp (dict "@graph" (slice $first)) -}}
+  {{- end -}}
+
+  {{- if $items -}}
+    {{- $first := index $kp "@graph" 0 -}}
+    {{- $first = merge $first (dict
+          "hasOfferCatalog" (dict
+            "@type"           "OfferCatalog"
+            "name"            (printf "%s — Includes" .Title)
+            "itemListElement" $items))
+    -}}
+    {{- $kp = merge $kp (dict "@graph" (slice $first)) -}}
+  {{- end -}}
+
+  {{ $kp | jsonify | safeHTML }}
 </script>
 <!-- ld:knowledge END -->
+
 {{- end -}}

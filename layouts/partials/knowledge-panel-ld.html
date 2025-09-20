@@ -90,6 +90,7 @@
 -}}
 {{- if $areas }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "areaServed" $areas)))) }}{{ end -}}
 {{- if $items }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "hasOfferCatalog" (dict "@type" "OfferCatalog" "name" "Cabinet Painting — Includes" "itemListElement" $items))))) }}{{ end -}}
+<meta data-debug="kp-node-type" content="{{ printf "%T" $node }}">
 {{- $nodeType := printf "%T" $node -}}
 {{- if eq $nodeType "string" -}}
   {{ $node | safeHTML }}

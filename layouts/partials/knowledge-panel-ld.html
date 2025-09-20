@@ -76,6 +76,8 @@
 {{- if $props }}{{ $svc = merge $svc (dict "additionalProperty" $props) }}{{ end -}}
 
 <!-- ld:knowledge START -->
-<script type="application/ld+json" data-partial="knowledge-panel-ld">TEST</script>
+<script type="application/ld+json" data-partial="knowledge-panel-ld">
+{"@context":"https://schema.org","@type":"Thing","name":"debug-placeholder"}
+</script>
 <!-- ld:knowledge END -->
 {{- end -}}

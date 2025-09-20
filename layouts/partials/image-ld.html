@@ -65,5 +65,5 @@
 
   {{- $out := dict "@context" "https://schema.org" "@graph" $graph -}}
   {{- $json := $out | jsonify -}}
-  <script type="application/ld+json">{{ $json | safeHTML }}</script>
+  <script type="application/ld+json"data-partial="image-ld">{{ $json | safeHTML }}</script>
   {{- end }}

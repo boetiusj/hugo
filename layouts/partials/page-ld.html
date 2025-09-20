@@ -8,7 +8,7 @@
   {{- with .Params.image }}
       {{- $img = cond (in . "http") . (absURL .) }}
   {{- end }}
-  <script type="application/ld+json">
+  <script type="application/ld+json" data-partial="page-ld">
   {
     "@context": "https://schema.org",
     "@type": "{{ $t }}",

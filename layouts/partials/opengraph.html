@@ -57,7 +57,7 @@
   {{- $date := .Date.Format "2006-02-01" -}}
   <meta property="article:published_time" content="{{ htmlUnescape $date }}" />
 
-  <script type="application/ld+json">
+  <script type="application/ld+json" data-partial="opengraph-1">
   {
     "@context": "http://schema.org",
     "@type": "BlogPosting",
@@ -89,7 +89,7 @@
 
 {{ with .Params.faqs }}
   {{ $faqs_len := sub (len .) 1 }}
-  <script type="application/ld+json">
+  <script type="application/ld+json" data-partial="opengraph-2">
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",

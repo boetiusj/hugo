@@ -85,5 +85,5 @@
     ) -}}
   {{- end -}}
 
-  <script type="application/ld+json">{{ $node | jsonify }}</script>
+  <script type="application/ld+json" data-partial="service-ld>{{ $node | jsonify }}</script>
 {{- end -}}

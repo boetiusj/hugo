@@ -76,9 +76,9 @@
 {{- if $props }}{{ $svc = merge $svc (dict "additionalProperty" $props) }}{{ end -}}
 
 <script type="application/ld+json">
-{{ dict "@context" "https://schema.org" "@graph" (slice $svc) | jsonify | safeJS }}
+{{ dict "@context" "https://schema.org" "@graph" (slice $svc) | jsonify | safeHTML }}
 </script>
-
+<!-- ld:knowledge START -->
 <script type="application/ld+json">
 {{- $node := dict
       "@context" "https://schema.org"
@@ -90,6 +90,7 @@
 -}}
 {{- if $areas }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "areaServed" $areas)))) }}{{ end -}}
 {{- if $items }}{{ $node = merge $node (dict "@graph" (slice (merge (index $node "@graph" 0) (dict "hasOfferCatalog" (dict "@type" "OfferCatalog" "name" "Cabinet Painting — Includes" "itemListElement" $items))))) }}{{ end -}}
-{{ $node | jsonify | safeJS }}
+{{ $node | jsonify | safeHTML }}
 </script>
+<!-- ld:knowledge END -->
 {{- end -}}

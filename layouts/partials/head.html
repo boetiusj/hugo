@@ -28,10 +28,15 @@
 
 <!-- Opengraph & JSON-LD -->
 {{ partial "opengraph.html" . }}
+<!-- ld:page -->
 {{ partial "page-ld.html" . }}
+<!-- ld:page -->
 {{ partial "image-ld.html" . }}
+<!-- ld:page -->
 {{ partial "service-ld.html" . }}
+<!-- ld:page -->
 {{ partial "breadcrumb-ld.html" . }}
+<!-- ld:page -->
 {{ partial "knowledge-panel-ld.html" . }}
 
 {{ with site.Params.license_url }}

@@ -1,6 +1,5 @@
 {{- $p := . -}}
 {{- $k := .Params.knowledge -}}
-{{- if not $k }}{{- /* nothing to emit */ -}}{{- else -}}
 {{- $svcID := printf "%s#service" $p.Permalink -}}   {{/* same pattern as service-ld */}}
 {{- $url := $p.Permalink -}}
 
@@ -77,6 +76,7 @@
 
 <!-- ld:knowledge START -->
 <script type="application/ld+json" data-partial="knowledge-panel-ld">
+  {{- if $k -}}
   {{- $kp := dict
         "@context" "https://schema.org"
         "@graph" (slice (dict
@@ -103,12 +103,17 @@
     {{- $kp = merge $kp (dict "@graph" (slice $first)) -}}
   {{- end -}}
 
-{{- $t := printf "%T" $node -}}
-{{- if or (eq $t "string") (eq $t "template.HTML") -}}
-  {{ $node | safeHTML }}
-{{- else -}}
-  {{ $node | jsonify | safeHTML }}
+  {{- /* Emit $kp without double-encoding if it’s already a string */ -}}
+  {{- $t := printf "%T" $kp -}}
+  {{- if or (eq $t "string") (eq $t "template.HTML") -}}
+    {{ $kp | safeHTML }}
+  {{- else -}}
+    +  {{- $kpType := printf "%T" $kp -}}
+  {{- if eq $kpType "string" -}}
+    {{- $kp | safeHTML -}}
+  {{- else -}}
+    {{- $kp | jsonify | safeHTML -}}
+  {{- end -}}
+</script>
+<!-- ld:knowledge END -->
 
-<!-- ld:knowledge END --> 
-
-{{- end -}}

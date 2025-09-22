@@ -85,5 +85,12 @@
     ) -}}
   {{- end -}}
 
-  <script type="application/ld+json" data-partial="service-ld">{{ $node | jsonify | safeHTML }}</script>
+  <script type="application/ld+json">
+  {{- $t := printf "%T" $node -}}
+  {{- if or (eq $t "string") (eq $t "template.HTML") -}}
+    {{ $node | safeHTML }}
+  {{- else -}}
+    {{ $node | jsonify | safeHTML }}
+  {{- end -}}
+</script>
 {{- end -}}

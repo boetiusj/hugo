@@ -2,7 +2,7 @@
 {{- $page := . -}}
 {{- with $page.Params.service -}}
   {{- $svc := . -}}
-{{- /* Page/site-level license URL (if provided) */ -}}
+  {{- /* Page/site-level license URL (if provided) */ -}}
   {{- $license := or $page.Params.license_url site.Params.license_url -}}
   {{- /* Resolve image to absolute if provided */ -}}
   {{- $img := "" -}}
@@ -85,5 +85,5 @@
     ) -}}
   {{- end -}}
 
-  <script type="application/ld+json" data-partial="service-ld>{{ $node | jsonify }}</script>
+  <script type="application/ld+json" data-partial="service-ld">{{ $node | jsonify | safeHTML }}</script>
 {{- end -}}

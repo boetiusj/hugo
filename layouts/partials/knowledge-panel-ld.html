@@ -103,8 +103,12 @@
     {{- $kp = merge $kp (dict "@graph" (slice $first)) -}}
   {{- end -}}
 
-  {{ $kp | jsonify | safeHTML }}
-</script>
-<!-- ld:knowledge END -->
+{{- $t := printf "%T" $node -}}
+{{- if or (eq $t "string") (eq $t "template.HTML") -}}
+  {{ $node | safeHTML }}
+{{- else -}}
+  {{ $node | jsonify | safeHTML }}
+
+<!-- ld:knowledge END --> 
 
 {{- end -}}

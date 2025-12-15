@@ -74,9 +74,10 @@
 {{- if $items }}{{ $svc = merge $svc (dict "hasOfferCatalog" (dict "@type" "OfferCatalog" "name" (print $.Title " — Includes") "itemListElement" $items)) }}{{ end -}}
 {{- if $props }}{{ $svc = merge $svc (dict "additionalProperty" $props) }}{{ end -}}
 
+{{- if $k -}}
 <!-- ld:knowledge START -->
 <script type="application/ld+json" data-partial="knowledge-panel-ld">
-  {{- if $k -}}
+  {{- /* Build the node once */ -}}
   {{- $kp := dict
         "@context" "https://schema.org"
         "@graph" (slice (dict
@@ -102,18 +103,16 @@
     -}}
     {{- $kp = merge $kp (dict "@graph" (slice $first)) -}}
   {{- end -}}
-
-  {{- /* Emit $kp without double-encoding if it’s already a string */ -}}
-  {{- $t := printf "%T" $kp -}}
-  {{- if or (eq $t "string") (eq $t "template.HTML") -}}
-    {{ $kp | safeHTML }}
-  {{- else -}}
-    +  {{- $kpType := printf "%T" $kp -}}
-  {{- if eq $kpType "string" -}}
-    {{- $kp | safeHTML -}}
-  {{- else -}}
-    {{- $kp | jsonify | safeHTML -}}
-  {{- end -}}
+{{ warnf "Debugging $kp: Type=%T, Value=%#v" $kp }}
+  {{- /* Emit without double-encoding */ -}}
+{{- $t := printf "%T" $kp -}}
+{{- if eq $t "string" -}}
+  {{ $kp | safeHTML }}
+{{- else -}}
+  {{ $kp | jsonify | safeHTML }}
+{{- end -}}
 </script>
 <!-- ld:knowledge END -->
+{{- end -}}
+
 

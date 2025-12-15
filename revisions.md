@@ -1,5 +1,7 @@
 # Revisions
 
+- New page Architectural Styles
+
 ~~- image Name defaults to Featured Image per image.html, does not recognize markdown Title ()~~
 - Social proof: PCA, Waldo, (Brookside?), APC magazine, inPaint, bloggerlocal, Summit Safety
 - image sizes revised on the fly, css needed for left alignment - <https://tracknut.ca/tech/markdown-image-handling/>

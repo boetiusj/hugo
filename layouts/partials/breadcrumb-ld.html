@@ -27,6 +27,7 @@
   "item" .Permalink
 ) -}}
 
+{{- if gt (len $crumbs) 0 -}}
 <script type="application/ld+json" data-partial="breadcrumb-ld">
 {{ dict
   "@context" "https://schema.org"
@@ -34,4 +35,5 @@
   "itemListElement" $crumbs
 | jsonify | safeHTML }}
 </script>
+{{- end -}}
 

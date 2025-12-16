@@ -103,16 +103,11 @@
     -}}
     {{- $kp = merge $kp (dict "@graph" (slice $first)) -}}
   {{- end -}}
-{{ warnf "Debugging $kp: Type=%T, Value=%#v" $kp }}
-  {{- /* Emit without double-encoding */ -}}
-{{- $t := printf "%T" $kp -}}
-{{- if eq $t "string" -}}
-  {{ $kp | safeHTML }}
-{{- else -}}
-  {{ $kp | jsonify | safeHTML }}
-{{- end -}}
+  {{- /* Emit the JSON-LD graph exactly once */ -}}
+  {{- $kp | jsonify | safeHTML }}
 </script>
 <!-- ld:knowledge END -->
 {{- end -}}
+
 
 

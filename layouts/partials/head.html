@@ -30,14 +30,14 @@
 {{ partial "opengraph.html" . }}
 <!-- ld:page -->
 {{ partial "page-ld.html" . }}
-<!-- ld:page -->
+<!-- ld:image
 {{ partial "image-ld.html" . }}
-<!-- ld:page -->
+comment ld:service
 {{ partial "service-ld.html" . }}
-<!-- ld:page -->
+comment ld:breadcrumb
 {{ partial "schema-breadcrumb-ld.html" . }}
-<!-- ld:page -->
-{{ partial "knowledge-panel-ld.html" . }}
+comment ld:knowledge-panel
+{{ partial "knowledge-panel-ld.html" . }}  -->
 
 {{ with site.Params.license_url }}
 <link rel="license" href="{{ . | absURL }}">

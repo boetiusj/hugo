@@ -34,7 +34,6 @@
       "itemListElement" $crumbs
     -}}
   {{- $json := $payload | jsonify -}}
-  {{ warnf "schema breadcrumb json=%s" $json }}
 <script type="application/ld+json" data-partial="schema-breadcrumb-ld">
   {{- $json | safeHTML }}
 </script>

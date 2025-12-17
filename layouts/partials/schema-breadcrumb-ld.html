@@ -33,8 +33,7 @@
       "@type"           "BreadcrumbList"
       "itemListElement" $crumbs
     -}}
-  {{- $json := $payload | jsonify -}}
 <script type="application/ld+json" data-partial="schema-breadcrumb-ld">
-  {{- $json | safeHTML }}
+  {{- $payload | jsonify | safeJS -}}
 </script>
 {{- end -}}

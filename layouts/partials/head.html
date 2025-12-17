@@ -43,18 +43,18 @@
 <link rel="license" href="{{ . | absURL }}">
 {{ end }}
 
-{{- /* Detect /ai/ pages */ -}}
+<!-- Detect /ai/ pages -->>
 {{- $isAI := strings.HasPrefix .RelPermalink "/ai/" -}}
 
-{{- /* If the theme already emits robots for index:false, don't duplicate it here */ -}}
+<!-- If the theme already emits robots for index:false, don't duplicate it here -->
 {{- $robotsAlready := eq .Params.index false -}}
 
-{{- /* Add robots only for /ai/ pages that are NOT already index:false */ -}}
+<!-- Add robots only for /ai/ pages that are NOT already index:false -->
 {{- if and $isAI (not $robotsAlready) -}}
   <meta name="robots" content="noindex,follow">
 {{- end -}}
 
-{{- /* Canonical for /ai/ pages: map /ai/slug/ -> /slug/ and normalize the URL */ -}}
+<!-- Canonical for /ai/ pages: map /ai/slug/ -> /slug/ and normalize the URL -->
 {{- if $isAI -}}
   {{- $canonRel := replace .RelPermalink "/ai/" "/" -}}
   {{- /* JoinPath avoids double slashes regardless of trailing/leading slashes */ -}}

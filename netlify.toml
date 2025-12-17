@@ -7,8 +7,10 @@
 # BUILD & ENVIRONMENT - 
 # =========================
 [build]
+# publish = "public"
+# command = "hugo --gc -b $URL"
 publish = "public"
-command = "hugo --gc -b $URL"
+command = "hugo --gc -b $URL && echo '--- breadcrumb in build artifact ---' && grep -n 'data-partial=\"schema-breadcrumb-ld\"' public/blog/index.html | head -n 1"
 
 [context.production.environment]
 HUGO_VERSION = "0.147.3"

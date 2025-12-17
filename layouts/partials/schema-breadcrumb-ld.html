@@ -33,7 +33,6 @@
       "@type"           "BreadcrumbList"
       "itemListElement" $crumbs
     -}}
-  {{ warnf "schema breadcrumb payload type=%T value=%#v" $payload $payload }}
 <script type="application/ld+json" data-partial="schema-breadcrumb-ld">
   {{- $payload | jsonify | safeHTML }}
 </script>

@@ -104,7 +104,7 @@
     {{- $kp = merge $kp (dict "@graph" (slice $first)) -}}
   {{- end -}}
   {{- /* Emit the JSON-LD graph exactly once */ -}}
-  {{- $kp | jsonify | safeHTML }}
+  {{- $kp | jsonify | safeJS -}}
 </script>
 <!-- ld:knowledge END  meaningless text-->
 {{- end -}}

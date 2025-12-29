@@ -29,10 +29,10 @@
 
 {{- if gt (len $crumbs) 0 -}}
 <script type="application/ld+json" data-partial="breadcrumb-ld">
-{{ dict
+{{- dict
   "@context" "https://schema.org"
   "@type" "BreadcrumbList"
   "itemListElement" $crumbs
-| jsonify | safeHTML }}
+| jsonify | safeJS -}}
 </script>
 {{- end -}}

@@ -1,0 +1,104 @@
+{{/* organization-ld.html – LocalBusiness schema for homepage */}}
+{{- if .IsHome -}}
+<script type="application/ld+json" data-partial="organization-ld">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": "{{ site.BaseURL }}#organization",
+  "name": "{{ site.Title }}",
+  "url": "{{ site.BaseURL }}",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "{{ absURL site.Params.logo }}",
+    "contentUrl": "{{ absURL site.Params.logo }}"
+  },
+  "image": "{{ absURL site.Params.logo }}",
+  "description": "{{ .Description }}",
+  "telephone": "{{ site.Params.phone }}",
+  "email": "{{ site.Params.email }}",
+  "foundingDate": "2007",
+  "priceRange": "$$",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Kansas City"
+    },
+    {
+      "@type": "City",
+      "name": "Leawood"
+    },
+    {
+      "@type": "City",
+      "name": "Lee's Summit"
+    },
+    {
+      "@type": "City",
+      "name": "Prairie Village"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Overland Park"
+    }
+  ],
+  "serviceArea": {
+    "@type": "GeoCircle",
+    "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "latitude": "39.0997",
+      "longitude": "-94.5786"
+    },
+    "geoRadius": "30mi"
+  },
+  {{- if site.Params.socials -}}
+  "sameAs": [
+    {{- range $i, $e := site.Params.socials -}}
+    {{- if $i }},{{ end }}
+    "{{ $e.profile }}"
+    {{- end -}}
+  ],
+  {{- end -}}
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Painting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Interior Painting",
+          "description": "Professional interior house painting services"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Exterior Painting",
+          "description": "Durable exterior house painting and protection"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cabinet Painting",
+          "description": "Kitchen and bathroom cabinet refinishing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Office Painting",
+          "description": "Commercial and office painting services"
+        }
+      }
+    ]
+  }
+}
+</script>
+{{- end -}}

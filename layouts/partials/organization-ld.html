@@ -19,6 +19,16 @@
   "foundingDate": "2007",
   "priceRange": "$$",
   "slogan": "No Drips, No Drama",
+  {{- $reviews := site.Data.googleReviews -}}
+  {{- if $reviews -}}
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ $reviews.rating }}",
+    "reviewCount": "{{ $reviews.reviews }}",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  {{- end -}}
   "knowsAbout": ["House Painting", "Interior Painting", "Exterior Painting", "Cabinet Refinishing", "Commercial Painting"],
   "areaServed": [
     {

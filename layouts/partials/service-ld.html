@@ -45,6 +45,7 @@
   {{- end -}}
 
   {{- /* Base Service node */ -}}
+  {{- $reviews := site.Data.googleReviews -}}
   {{- $node := dict
     "@context" "https://schema.org"
     "@type" "Service"
@@ -61,6 +62,18 @@
       "url" $page.Permalink
     )
   -}}
+  {{- if $reviews -}}
+    {{- $node = merge $node (dict
+      "aggregateRating" (dict
+        "@type" "AggregateRating"
+        "ratingValue" (string $reviews.rating)
+        "reviewCount" (string $reviews.reviews)
+        "bestRating" "5"
+        "worstRating" "1"
+      )
+    ) -}}
+  {{- end -}}
+  {{- $node = $node -}}
 
   {{- if not $page.Params.schema_type -}}
     {{- $node = merge $node (dict "mainEntityOfPage" (dict

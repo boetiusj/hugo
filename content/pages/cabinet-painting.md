@@ -42,6 +42,36 @@ service:
   areaServed: "Kansas City Metro"
   price: "Quoted"
 index: true
+faqs:
+  - question: What type of paint is best for cabinets?
+    id: paint-type
+    answer: |
+      Modern urethane-based paints like Benjamin Moore ADVANCE or Sherwin-Williams Emerald Urethane are the best choice. They're durable, scratch-resistant, low-odor, and water-cleanup. Oil-based paints yellow over time and chip more easily, while most latex paints don't hold up well on cabinets.
+
+  - question: How long does cabinet painting take?
+    id: timeline
+    answer: |
+      A typical kitchen cabinet project takes about 5 working days. This includes proper prep (cleaning, sanding, priming), spraying doors and drawer fronts, and allowing adequate drying time between coats. Bathroom vanities or smaller projects may take 2-3 days.
+
+  - question: Can you paint the inside of my cabinets?
+    id: cabinet-interiors
+    answer: |
+      It depends on the material. Wood or MDF (particle board) interiors benefit from a protective coat of paint. Melamine (smooth, plastic-like surface) doesn't need painting unless the color is truly unbearable. We'll assess and recommend the best approach during the estimate.
+
+  - question: How much does cabinet painting cost?
+    id: cost
+    answer: |
+      Small bathroom vanities start around $1,800, while large, high-end kitchens can run $15,000+. Cost depends on cabinet size, condition, complexity (moldings, glass inserts, hardware), and the finish quality you want. We provide detailed quotes after assessing your specific project.
+
+  - question: How long will painted cabinets last?
+    id: durability
+    answer: |
+      With proper prep and quality materials, painted cabinets can last 10+ years in light-use kitchens. High-traffic kitchens with daily cooking and heavy use may need touch-ups or a refresh in 5-7 years. The durability depends on both the quality of the paint job and how hard the cabinets work.
+
+  - question: Do you need to remove the cabinet doors?
+    id: removal
+    answer: |
+      Yes, we remove doors and drawer fronts to spray them properly in a controlled environment. This ensures a smooth, factory-like finish without overspray issues. Doors are carefully labeled, sprayed, and reinstalled with hardware once fully cured.
 # service links: "plaster","offices","basements","doors","interior","exterior","wallpaper","cabinets"
 show_service_links: true
 service_links_include: []                   

@@ -43,6 +43,36 @@ service:
   areaServed: "Kansas City Metro"
   price: "Quoted"
 index: true
+faqs:
+  - question: Can you paint during business hours without disrupting operations?
+    id: scheduling
+    answer: |
+      Yes. We offer flexible scheduling including nights, weekends, and after-hours work to minimize disruption to your business operations. We coordinate access with your facilities team and work around your schedule, not the other way around.
+
+  - question: What about the paint smell and VOCs?
+    id: odor
+    answer: |
+      We use low-VOC and zero-VOC paints specifically designed for occupied spaces. These modern coatings have minimal odor and are safe for employees to be around during and after application. Proper ventilation protocols ensure air quality remains acceptable.
+
+  - question: Do you have commercial liability insurance?
+    id: insurance
+    answer: |
+      Yes, we carry full commercial general liability insurance and workers compensation coverage. We can provide certificates of insurance for your property management or building requirements before work begins.
+
+  - question: How do you protect office furniture and equipment?
+    id: protection
+    answer: |
+      We stage and protect all furnishings, IT equipment, and fixtures before starting work. We use ZipWall containment systems, plastic sheeting, and drop cloths. HEPA dust control equipment contains airborne particles in work zones, and we perform daily cleanup and re-set to maintain a professional environment.
+
+  - question: How long does office painting take?
+    id: timeline
+    answer: |
+      A typical small office suite takes 2-3 working days. Larger spaces (5,000+ sq ft) may take 1-2 weeks depending on scope. We provide detailed schedules during the proposal phase and coordinate with your team to minimize business interruption.
+
+  - question: What's included in the office painting service?
+    id: whats-included
+    answer: |
+      Standard office painting includes walls, ceilings, doors, and trim per the agreed plan. We also handle minor drywall touch-ups and repairs. Tenant improvements outside paint scope (like flooring, signage, or specialty wallcoverings) are quoted separately if needed.
 # service links: "plaster","offices","basements","doors","interior","exterior","wallpaper","cabinets"
 show_service_links: true
 service_links_include: []                   

@@ -41,6 +41,36 @@ service:
   areaServed: "Kansas City Metro"
   price: "Quoted"  
 index: true
+faqs:
+  - question: What's the difference between plaster and drywall?
+    id: plaster-vs-drywall
+    answer: |
+      Plaster is a dense, hard surface traditionally applied by hand in multiple layers over wooden lath or metal mesh. It's durable and sound-dampening but prone to cracking with structural movement. Drywall is a modern, factory-made panel of gypsum sandwiched between layers of paper. It's easier to repair and more flexible, but less dense. Both create smooth, paintable walls but require different repair techniques.
+
+  - question: How much does plaster repair cost?
+    id: cost
+    answer: |
+      Plaster repair costs vary widely depending on the scope of damage, surface texture, and level of detail required. In Kansas City, we've seen repair costs range from $50 for a simple patch to $5,000 for extensive restoration. Typical small repairs (hairline cracks, small holes) run $800-$3,500 depending on complexity.
+
+  - question: How do you prevent dust from spreading during repairs?
+    id: dust-control
+    answer: |
+      We seal off the work area with plastic sheeting and zipper doors (ZipWall containment) to prevent fine plaster dust from migrating throughout your home. Floors, furniture, and fixtures are carefully covered with drop cloths and plastic sheeting. We use HEPA sanding equipment where feasible and perform daily cleanup to minimize mess.
+
+  - question: Can you match existing wall textures?
+    id: texture-matching
+    answer: |
+      Yes. A smooth patch on a textured wall sticks out like a sore thumb, so we blend repairs to match the existing surface—whether it's orange peel, knockdown, or popcorn texture. For older popcorn ceilings, we recommend testing for asbestos before making any changes.
+
+  - question: How long do plaster repairs take?
+    id: timeline
+    answer: |
+      Most plaster and drywall repair projects take 1 working day for typical small holes, stress cracks, and corner bead repairs. Larger projects with extensive damage may take longer depending on scope. Multiple thin coats of joint compound need to dry between layers before priming and painting.
+
+  - question: What types of cracks and damage can you repair?
+    id: repair-types
+    answer: |
+      We repair hairline cracks (common in all homes), larger holes from accidental impacts or plumbing work, water damage from leaks, nail pops from settling, and delaminated plaster. We can handle stress cracks, corner bead damage, and texture blending. Note: cosmetic repairs won't fix structural movement issues—those require addressing the underlying cause.
 # service links: "plaster","offices","basements","doors","interior","exterior","wallpaper","cabinets"
 show_service_links: true
 service_links_include: []                   

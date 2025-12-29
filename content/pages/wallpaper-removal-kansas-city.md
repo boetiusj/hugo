@@ -37,6 +37,36 @@ knowledge:
   cta_url: "/estimate-scheduler/"
   phone: "816-805-4515"
 index: true
+faqs:
+  - question: How much does wallpaper removal cost?
+    id: cost
+    answer: |
+      Wallpaper removal typically costs $1,800-$10,000 depending on several factors: number of layers (more layers mean more time), wall condition (damaged or poorly maintained walls need extra repairs), ceiling height (vaulted ceilings add complexity), and previous wall prep (wallpaper installed over unprimed surfaces bonds more tightly). We carefully evaluate these factors before providing an estimate.
+
+  - question: How long does wallpaper removal take?
+    id: timeline
+    answer: |
+      Most wallpaper removal projects take about 1 working day for typical rooms. This includes setup, removal using specialized tools and techniques, thorough scrubbing and rinsing to eliminate residue, and surface prep. Complex projects with multiple layers, tall ceilings, or extensive wall damage may take longer.
+
+  - question: Will wallpaper removal damage my walls?
+    id: wall-damage
+    answer: |
+      It depends on how the wallpaper was originally installed. If walls were properly sized (primed before wallpaper installation), removal is typically clean and damage-free. However, many walls were never properly prepped, meaning the paper has bonded tightly to the drywall or plaster. In these cases, some surface damage is possible—but we repair any wall damage, fill holes or cracks, seal stains, and sand rough spots to create a smooth, paint-ready surface.
+
+  - question: What's the wallpaper removal process?
+    id: process
+    answer: |
+      We start by setting up a tidy work area, carefully taping and tarping to protect floors, furniture, and trim from dust, debris, and moisture. We then remove the wallpaper and adhesive using specialized tools and techniques tailored to the wallpaper type and wall condition. Once removed, walls are thoroughly scrubbed and rinsed to eliminate any residue. Finally, we repair any wall damage, fill holes or cracks, seal stains with Zinsser Gardz primer, and sand rough spots—leaving your walls perfectly prepped for fresh paint.
+
+  - question: When should I paint over wallpaper instead of removing it?
+    id: paint-over
+    answer: |
+      Sometimes wallpaper removal just isn't the best option—too much time, too much mess, too much cost. If the wallpaper is well-adhered, the walls underneath are in questionable condition, or removal would cause extensive damage, painting over the wallpaper may be the most reasonable tradeoff. We'll assess your situation and advise you on the best approach.
+
+  - question: What if I have multiple layers of wallpaper?
+    id: multiple-layers
+    answer: |
+      Multiple layers add complexity and time to the removal process. We assess whether the layers are well-adhered and water-permeable—more layers mean more work. We test a small area first to determine the best removal method (scoring/steam or enzyme process) and provide an accurate estimate based on what we find.
 service:
   serviceType: "Wallpaper Revoval"
   areaServed: "Kansas City Metro"

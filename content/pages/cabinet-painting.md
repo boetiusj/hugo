@@ -100,9 +100,7 @@ Replacing cabinets is pricey. Painting gives you the same upgraded look at a fra
 
 ### Faster Results
 
-A full remodel can take months. Cabinet painting? More like days. It’s the perfect solution for busy households that want an update without the wait.
-
-> A wonderful job on my kitchen cabinets! They gave an accurate and fair estimate, worked full days and were extremely neat and courteous.
+A full remodel can take months. Cabinet painting? More like days. It's the perfect solution for busy households that want an update without the wait.
 
 ![Painted kitchen cabinets](images/cabinets/c-loftgray.jpg)
 
@@ -128,61 +126,6 @@ It depends. If your interiors are wood or MDF (particle board), a protective coa
 
 ![kitchen cabinet paint peninsula](images/cabinets/c-peninsula.jpg)
 
-## Types of Cabinet Paint
-
-Not all paints are created equal, especially when it comes to cabinets. Choosing the right one makes all the difference in durability and appearance.
-
-### Old Oil
-
-Once the gold standard, oil-based paints have fallen out of favor. They yellow over time, chip more easily, and come with strong odors and long drying times.
-
-### OK Latex
-
-Easy to clean, fast-drying, and low-odor, latex paints sound great — except most don’t hold up well on cabinets. Be sure to choose a high-quality, cabinet-grade formula.
-
-### Modern Urethane
-
-The best of both worlds - durable, scratch-resistant, and low-odor. Urethane-based paints stand up to heavy use and provide a beautiful, long-lasting finish. Bonus: they clean up with water, so no smelly thinners required.
-
-## How Long Does Cabinet Paint Last?
-
-A great paint job can last for years—but just how long depends on the use and abuse it sees.
-
-### A Long Time (infrequent use)
-
-For kitchens that don’t see much action, cabinet paint can stay looking fresh for a decade or more with minimal upkeep.
-
- > We are very happy with the quality of the work. I would recommend them for painting cabinets to anyone.
-
-### A Short Time (six teenage cooks)
-
-If your kitchen sees daily battles with sauce splatters and sticky fingers, expect more wear. Touch-ups or a refresh might be needed in a few years.
-
-## Cost of Kitchen Cabinet Painting
-
-Pricing varies, but here’s what factors in:
-
-### Size Matters
-
-More cabinets = more materials, more labor and, for sure, higher cost.
-
-### Condition Matters
-
-- A cabinet in rough shape needs extra prep work to bring it back to life.  
-- Water damage, heavy dings, sagging hinges - at some point other options might be worth considering.
-
-### Details Matter
-
-Intricate moldings, glass inserts, specialty hardware—all add complexity and time. On the other hand, flat-front cabinets are a much simpler (and cheaper) project.
-
-### Expectations Matter
-
-A basic refresh costs less than a showroom-quality, factory-smooth finish. Premium prep, top-tier materials, and skilled application all impact price.
-
-### Bottom Line
-
-Small bathroom vanities can start around $1,800, while large, high-end kitchens can run $15,000+. Having a clear discussion about expectations helps us guide you toward the right solution.
-
 ## How to Paint Cabinets
 
 From prep to final cleanup, this is the process we follow.
@@ -201,8 +144,6 @@ Painting cabinets isn’t just about a great finish—it’s about keeping your 
 - Temporary Dust Barriers – When needed, ZipWalls or plastic enclosures are set up to contain dust and minimize disruption to the rest of your home.
 
 A clean workspace means a better final result. Careful protection reduces cleanup time, prevents accidental messes, and ensures your freshly painted cabinets are the only thing that stands out when the job is done.
-
-> I feel like our cabinets look brand new and we are very happy with their work. We have used Crestwood before and we would definitely use them again in the future!
 
 ### Prep Work: The Foundation of a Fabulous Finish
 
@@ -226,7 +167,7 @@ Tape is removed, hardware is reattached, and everything is wiped down—so your 
 
 ### Dry vs Cured
 
-Paint feels dry to the touch in a few hours, but it takes weeks to fully cure. That means gentle use at first—because fresh paint is soft until fully hardened.
+Paint feels dry to the touch in a few hours, but it takes weeks to fully cure. That means gentle use at first—because fresh paint is soft until it has cured and is fully hardened.
 
 ## Let's Get Started
 

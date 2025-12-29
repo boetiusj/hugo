@@ -11,6 +11,66 @@ schema_images:
     representative: true
 
 index: true
+faqs:
+  - question: Do you have proof of insurance?
+    id: insurance-proof
+    answer: |
+      Every painter should carry General Liability insurance with not less than $1 million in coverage. This insurance protects the homeowner from damage done by the painter, like paint spilled on your roof or a ladder crashing onto your car. Proper insurance is Business 101. Ask for a certificate of insurance for your files.
+
+  - question: Who will be doing the work?
+    id: who-does-work
+    answer: |
+      All workers, whether employees or subcontractors, should be both informed and supervised. Informed means painters clearly understand the Scope of Work. Supervised means painters are accountable for delivering on company and customer expectations. Well-supervised projects meet expectations, resulting in happy customers and on-time completions.
+
+  - question: May I have a copy of your insurance certificate for my files?
+    id: insurance-certificate
+    answer: |
+      "Trust, but verify" is good policy. You don't want uninsured workers on ladders looking through your windows or unplugging your office server. If the certificate doesn't answer your questions, a call to the insurance agent should clear things up.
+
+  - question: Do you specialize in new homes or old homes?
+    id: new-vs-old
+    answer: |
+      Homes more than 30 years old have many layers of (lead) paint, aluminum storm windows to remove and replace, window putty, deeper soffits, and often more architectural detail. These homes require a slower, more methodical pace and different work processes. A paint crew used to new construction "blow & go" pace will likely not be familiar with the attention and careful prep work that an older home requires.
+
+  - question: Which brand of paint do you recommend?
+    id: paint-brand
+    answer: |
+      Painters establish relationships with particular stores for knowledgeable help, quality products, or attractive pricing. If a painter is reluctant to use another product, ask why. Strong belief in a product based on experience is fine, but when financial incentives trump all else, the advice may not be in your best interest. Quality materials matter—if you're being steered toward a low-cost product, find another painter.
+
+  - question: What is a properly painted surface?
+    id: properly-painted
+    answer: |
+      The Painting Contractors Association has established clear standards: a surface uniform in appearance, color, texture, hiding and sheen. It's also free of foreign material, lumps, skins, runs, sags, holidays, misses, or insufficient coverage. Also free of drips, spatters, spills or overspray caused by the painting contractor's workforce.
+
+  - question: Do you require any payment up front?
+    id: upfront-payment
+    answer: |
+      There's no single right answer. A large up-front payment is often an indicator of an under-capitalized business—the painter may use your payment to cover last month's bills and rush the job to pay workers. A reasonable approach is to make a partial payment after a couple of days, when the painter has committed labor and equipment and you can see work is progressing.
+
+  - question: Will you start on time every day and finish on time?
+    id: timing
+    answer: |
+      A motivated and well-run group of painters will arrive when they say they will, work a full day, and return each day until the job is complete. Some painters over-extend themselves and undertake too many jobs at once, causing work progress to slow or become intermittent as workers shuttle between jobs. Weather is another factor—with favorable weather work moves along, but unfavorable weather means everyone must be patient.
+
+  - question: Will my property be protected?
+    id: property-protection
+    answer: |
+      A quality painting company will tarp everything, arrange for prized plants to be moved or staked off, and make sure cars are out of overspray range. This conscientious preparation is often overlooked because it's a hassle—it's easier to tell workers to "watch out for the plants" or just hope they're not careless. Attention to detail at the start saves problems for everyone later.
+
+  - question: Will I hear loud music, objectionable language or find cigarette butts in my garden?
+    id: professional-conduct
+    answer: |
+      Some painters assume your home is their work area and act that way. Better to be clear with your expectations up front about professional conduct and respect for your property.
+
+  - question: What is your source for new product information?
+    id: product-knowledge
+    answer: |
+      Paint manufacturers, specialty distributors and inventors come out with new products every year. Paint stores carry only a small number of new products, even from their own manufacturers. Ask if the painter is confident that the primer, caulk or tools they've been using for years are still the best for the job. Do they subscribe to trade magazines and read industry blogs?
+
+  - question: What about lead paint and dust?
+    id: lead-paint
+    answer: |
+      This question tells you if the painter is informed about lead or if they'll downplay it to get the job. Assume any paint applied before 1978 contains lead. Any sanding should be collected in a HEPA (High Efficiency Particulate Air) filtered vacuum. Sanding without HEPA filtration and appropriate breathing protection is a violation of EPA guidelines and OSHA regulations.
 ---
 {{< figure1st src="/images/other/apple-n-orange.webp" >}}
 

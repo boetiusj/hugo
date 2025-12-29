@@ -45,7 +45,7 @@
 <link rel="license" href="{{ . | absURL }}">
 {{ end }}
 
-<!-- Detect /ai/ pages -->>
+<!-- Detect /ai/ pages -->
 {{- $isAI := strings.HasPrefix .RelPermalink "/ai/" -}}
 
 <!-- If the theme already emits robots for index:false, don't duplicate it here -->

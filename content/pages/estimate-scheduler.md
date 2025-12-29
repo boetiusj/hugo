@@ -9,6 +9,7 @@ images: "/images/schema-ogimage.jpg"
 index: true
 schema_type: "ContactPage"
 nofooter: true
+show_service_links: false
 ---
 
 {{< book-form >}}

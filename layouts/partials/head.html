@@ -26,19 +26,19 @@
   {{- .Scratch.Set "meta_robots_emitted" true -}}
 {{- end -}}
 
-<!-- Opengraph & JSON-LD -->
+<!-- Opengraph & JSON-LD Schema -->
 {{ partial "opengraph.html" . }}
-<!-- ld:organization -->
+<!-- ld:organization (homepage only) -->
 {{ partial "organization-ld.html" . }}
-<!-- ld:page -->
+<!-- ld:page (when schema_type set in frontmatter) -->
 {{ partial "page-ld.html" . }}
-<!-- ld:image -->
+<!-- ld:image (when schema_images or image in frontmatter) -->
 {{ partial "image-ld.html" . }}
-<!-- ld:service -->
+<!-- ld:service (when service in frontmatter) -->
 {{ partial "service-ld.html" . }}
-<!-- ld:breadcrumb -->
+<!-- ld:breadcrumb (all pages) -->
 {{ partial "schema-breadcrumb-ld.html" . }}
-<!-- ld:knowledge-panel -->
+<!-- ld:knowledge-panel (when knowledge in frontmatter) -->
 {{ partial "knowledge-panel-ld.html" . }} 
 
 {{ with site.Params.license_url }}

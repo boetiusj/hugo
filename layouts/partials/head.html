@@ -66,6 +66,15 @@
 
 
 
+<!-- Hero Image Preload (LCP optimization) -->
+{{- if .IsHome -}}
+  {{- with .Params.hero.image -}}
+    <link rel="preload" as="image" href="{{ absURL . }}" fetchpriority="high">
+  {{- end -}}
+{{- else if .Params.hero_bg -}}
+  <link rel="preload" as="image" href="{{ absURL .Params.hero_bg }}" fetchpriority="high">
+{{- end -}}
+
 <!-- Stylesheets -->
 {{ $bootstrap := resources.Get "bootstrap/bootstrap.min.css" }}
 {{ $custom    := resources.Get "scss/main.scss" | css.Sass | resources.Minify }}

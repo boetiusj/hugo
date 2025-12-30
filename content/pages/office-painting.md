@@ -133,8 +133,6 @@ The wrong paint color can contribute to poor lighting conditions, making an offi
 
 Frequent touch-ups due to low-quality paint result in higher maintenance costs. Investing in premium, durable paint reduces the need for regular maintenance, saving time and money in the long run.
 
-> A well-planned project means minimal office disruption.
-
 ### Inconsistent Color Schemes
 
 An office with mismatched colors can feel disjointed and unprofessional. A cohesive color scheme throughout your office promotes a sense of unity and professionalism.
@@ -143,46 +141,7 @@ An office with mismatched colors can feel disjointed and unprofessional. A cohes
 
 Traditional paints may contain VOCs, posing health risks. Low-VOC or no-VOC paint options ensure a healthier environment for employees and clients, aligning with safety and environmental standards.
 
-## Advantages of Low- and No-VOC Commercial Paints
-
-Paint manufacturers have come a long way in developing paints that give off little to no volatile organic compounds (VOCs). So, what’s the big deal about using these in your office space?
-
-* No Overpowering Smell: One of the biggest perks is the lack of that strong paint smell. This means your clients and employees won’t be bothered by lingering odors, making it easier to get back to business as usual.  
-* Better for the Environment: Low- and no-VOC paints are a greener choice. They release fewer pollutants into the air, which is better for the planet and improves indoor air quality.  
-* No Compromise on Quality or Cost: These paints are just as good as traditional ones when it comes to color, coverage, and durability. Plus, they’re priced about the same, so you don’t have to pay a premium for healthier paint.  
-* Health and Safety Compliance: Using low- and no-VOC paints helps you meet indoor air quality standards and creates a healthier workspace—great for peace of mind and potentially helpful if you’re aiming for LEED certification.
-
-Choosing low- and no-VOC paints for your office isn’t just about being environmentally friendly; it’s about creating a more comfortable, healthier space for everyone who walks through your doors.
-
 ![office painting](images/O-print-layout.webp)
-
-### Which Facilities Prefer Low- and No-VOC Paints?
-
-If you’re focused on employee health, safety, and supporting environmental initiatives, low-VOC or no-VOC paints are a smart choice. Many organizations are opting for these paints to create healthier spaces and reduce their environmental impact. Here are a few:
-
-* Doctors’ Offices and Hospitals
-* Laboratories and Agricultural Facilities
-* Food Production, Processing, and Dining Facilities
-* Libraries, Schools, and Universities  
-* Apartments and Housing Complexes
-* Hotels and Restaurants
-* Places of Worship
-
-Choosing low- or no-VOC paints isn’t just about going green—it’s about creating safer, healthier spaces for everyone who visits or works there.
-
-## Minimal Disruption to Your Workflow
-
-We know how important it is to keep your office running smoothly, even during a painting project. That’s why we take extra steps to ensure minimal disruption to your daily operations.
-
-### Your Schedule
-
-Our team works closely with you to create a customized painting schedule that fits your needs—whether that means working after hours, on weekends, or in sections to keep your office functional. We use efficient, organized techniques to keep noise and interruptions to a minimum, allowing your team to stay focused and productive.
-
-### Clear and Steady Communication
-
-We also prioritize clear communication and flexibility. Our project managers keep you informed every step of the way, so you always know what to expect. If adjustments are needed, we’re ready to adapt to keep your business moving forward.
-
-With Crestwood Painting, you get high-quality results without the headaches of a major disruption. We’re here to help you maintain a productive work environment while we transform your space.
 
 ## What to Expect During Your Office Painting Project
 

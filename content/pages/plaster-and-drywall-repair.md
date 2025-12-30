@@ -86,51 +86,21 @@ service_links_order: []
 
 ## Plaster & Drywall Repair
 
-Things shift, cracks appear, and sometimes walls just don’t cooperate. Whether it’s a sneaky leak or wood expanding and contracting with the seasons, plaster and drywall repairs are a standard part of any [interior painting project]({{< relref "pages/interior-painter-kansas-city.md" >}}). Because let’s be honest - paint looks best on a smooth, well-prepped surface.
-
-### Plaster vs. Drywall – What’s the Difference?
-
-Plaster and drywall both create smooth, paintable walls, but they have distinct characteristics.
+Things shift, cracks appear, and sometimes walls just don't cooperate. Whether it's a sneaky leak or wood expanding and contracting with the seasons, plaster and drywall repairs are a standard part of any [interior painting project]({{< relref "pages/interior-painter-kansas-city.md" >}}). Because let's be honest - paint looks best on a smooth, well-prepped surface.
 
 {{< knowledge >}}
 
-#### Dense Plaster
-
-Plaster is a dense, hard surface traditionally applied by hand in multiple layers over wooden lath or metal mesh. It’s durable and sound-dampening but prone to cracking with structural movement.
-
 ![Plumbing wall damage](images/interior/plaster-dwall-plumbing.jpg)
-
-#### Drywall - A Gypsum Sandwich
-
-Drywall, on the other hand, is a (relatively) modern (1940's-ish), factory-made panel composed of natural gypsum sandwiched between layers of recycled paper. Drywall really is a green product. Because of these differences, repairs require the right materials and techniques to ensure a seamless finish.
 
 ### Repairing Traditional Plaster
 
 Time-tested techniques like plaster washers, patching compounds, and bonding agents can restore damaged plaster without compromising its integrity. Often, large hole patches (say, after a plumber finishes) will involve techniques from both traditional plaster and drywall.
 
-> Excellent repair of water [damaged plaster ceiling]({{< relref "pages/reviews.md" >}}). Clear communication about project, professional workmanship.
-
 ### Repairing Drywall
 
 Drywall repairs start with secure screws and proper bracing. Setting-type joint compound provides strength and durability, while joint tape reinforces seams and prevents future cracking.
 
-### Types of Repairs – Hairline Cracks, Roof Leaks
-
-Plaster and drywall damage comes in all shapes and sizes. Hairline cracks are common in all homes, while larger holes often come from accidental impacts or plumbing work. Water damage from leaks can lead to weakened or crumbling plaster, requiring careful removal and reinforcement before repainting.
-
-### Textures – Matching the Original Finish
-
-A smooth patch on a textured wall sticks out like a sore thumb. Whether it’s orange peel, knockdown, or popcorn texture, repairs need to match the existing surface for a seamless look. And for older popcorn ceilings? Testing for asbestos is always a good idea before making any changes.
-
-## Cost of Plaster Repair
-
-Plaster repair costs vary widely depending on the scope of damage, surface texture, and level of detail required. A single hairline crack over a doorway? That's pretty straightforward. A ceiling full of spiderweb cracks or an entire wall with delaminated plaster? Now that’s a different story.
-
-In Kansas City, we’ve seen repair costs range from $50 for a simple patch to $5,000 for extensive restoration. Whether it’s a minor fix or a full-scale repair, proper prep ensures a seamless finish that looks great — just don’t count on cosmetic repairs to hold buildings together.
-
-> A wide range of crack repair and plaster products mean almost every situation can be addressed.
-
-### Plaster Repair Process
+## Plaster Repair Process
 
 #### Seal the Area to Help Prevent Dust Migration
 

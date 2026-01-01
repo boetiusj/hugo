@@ -1,0 +1,31 @@
+{{/* page-ld.html – WebPage schema for non-blog pages when schema_type is set */}}
+
+{{/* Skip blog posts - they already have BlogPosting schema from opengraph.html */}}
+{{- if ne .Section "blog" -}}
+  {{- if .Params.schema_type -}}
+    <script type="application/ld+json" data-partial="page-ld">
+    {
+      "@context": "https://schema.org",
+      "@type": "{{ .Params.schema_type }}",
+      "@id": "{{ .Permalink }}#webpage",
+      "url": "{{ .Permalink }}",
+      "name": "{{ .Title }}",
+      "description": "{{ .Description | default .Summary }}",
+      "inLanguage": "{{ .Lang }}",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "{{ site.BaseURL }}#website",
+        "url": "{{ site.BaseURL }}",
+        "name": "{{ site.Title }}"
+      }
+      {{- if .Params.image -}}
+      ,
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "{{ absURL .Params.image }}"
+      }
+      {{- end -}}
+    }
+    </script>
+  {{- end -}}
+{{- end -}}

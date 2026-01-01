@@ -1,0 +1,226 @@
+{{/* organization-ld.html – Service Area Business schema for homepage */}}
+{{- if .IsHome -}}
+<script type="application/ld+json" data-partial="organization-ld">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": "{{ site.BaseURL }}#organization",
+  "name": "{{ site.Title }}",
+  "url": "{{ site.BaseURL }}",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "{{ absURL site.Params.logo }}",
+    "contentUrl": "{{ absURL site.Params.logo }}",
+    "@id": "{{ site.BaseURL }}#logo"
+  },
+  "image": "{{ absURL site.Params.logo }}",
+  "description": "{{ .Description }}",
+  "telephone": "{{ site.Params.phone }}",
+  "email": "{{ site.Params.email }}",
+  "foundingDate": "2007",
+  "priceRange": "$$",
+  "slogan": "No Drips, No Drama",
+  "paymentAccepted": ["Cash", "Check", "Credit Card", "Visa", "Mastercard", "American Express", "Discover"],
+  "currenciesAccepted": "USD",
+  {{- $reviews := site.Data.googleReviews -}}
+  {{- if $reviews -}}
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ $reviews.rating }}",
+    "reviewCount": "{{ $reviews.reviews }}",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  {{- end -}}
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Painting Contractors Association",
+      "url": "https://www.pdca.org/"
+    },
+    {
+      "@type": "Organization",
+      "name": "Waldo Area Business Association",
+      "url": "https://www.waldokc.org/"
+    }
+  ],
+  "knowsAbout": [
+    "House Painting",
+    "Interior Painting", 
+    "Exterior Painting", 
+    "Cabinet Refinishing", 
+    "Commercial Painting",
+    "Deck Staining",
+    "Drywall Repair",
+    "Color Consultation",
+    "Wallpaper Removal",
+    "Trim Painting"
+  ],
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Kansas City",
+      "addressRegion": "MO"
+    },
+    {
+      "@type": "City",
+      "name": "Leawood",
+      "addressRegion": "KS"
+    },
+    {
+      "@type": "City",
+      "name": "Lee's Summit",
+      "addressRegion": "MO"
+    },
+    {
+      "@type": "City",
+      "name": "Prairie Village",
+      "addressRegion": "KS"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills",
+      "addressRegion": "KS"
+    },
+    {
+      "@type": "City",
+      "name": "Overland Park",
+      "addressRegion": "KS"
+    },
+    {
+      "@type": "City",
+      "name": "Brookside",
+      "addressRegion": "MO"
+    },
+    {
+      "@type": "City",
+      "name": "Waldo",
+      "addressRegion": "MO"
+    },
+    {
+      "@type": "City",
+      "name": "Shawnee",
+      "addressRegion": "KS"
+    },
+    {
+      "@type": "City",
+      "name": "Lenexa",
+      "addressRegion": "KS"
+    }
+  ],
+  "serviceArea": {
+    "@type": "GeoCircle",
+    "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "latitude": "39.0997",
+      "longitude": "-94.5786"
+    },
+    "geoRadius": "30 mi"
+  },
+  {{- if site.Params.socials -}}
+  "sameAs": [
+    {{- range $i, $e := site.Params.socials -}}
+    {{- if $i }},{{ end }}
+    "{{ $e.profile }}"
+    {{- end -}}
+  ],
+  {{- end -}}
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Painting Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Interior Painting",
+          "description": "Professional interior house painting services including walls, ceilings, trim, and doors",
+          "serviceType": "Interior Painting",
+          "areaServed": {
+            "@type": "GeoCircle",
+            "geoMidpoint": {
+              "@type": "GeoCoordinates",
+              "latitude": "39.0997",
+              "longitude": "-94.5786"
+            },
+            "geoRadius": "30 mi"
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Exterior Painting",
+          "description": "Durable exterior house painting and protection for siding, trim, decks, and fences",
+          "serviceType": "Exterior Painting",
+          "areaServed": {
+            "@type": "GeoCircle",
+            "geoMidpoint": {
+              "@type": "GeoCoordinates",
+              "latitude": "39.0997",
+              "longitude": "-94.5786"
+            },
+            "geoRadius": "30 mi"
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cabinet Painting",
+          "description": "Kitchen and bathroom cabinet refinishing and painting",
+          "serviceType": "Cabinet Refinishing",
+          "areaServed": {
+            "@type": "GeoCircle",
+            "geoMidpoint": {
+              "@type": "GeoCoordinates",
+              "latitude": "39.0997",
+              "longitude": "-94.5786"
+            },
+            "geoRadius": "30 mi"
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Commercial Painting",
+          "description": "Office and commercial space painting services",
+          "serviceType": "Commercial Painting",
+          "areaServed": {
+            "@type": "GeoCircle",
+            "geoMidpoint": {
+              "@type": "GeoCoordinates",
+              "latitude": "39.0997",
+              "longitude": "-94.5786"
+            },
+            "geoRadius": "30 mi"
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Deck Staining",
+          "description": "Professional deck and fence staining and sealing",
+          "serviceType": "Deck Staining",
+          "areaServed": {
+            "@type": "GeoCircle",
+            "geoMidpoint": {
+              "@type": "GeoCoordinates",
+              "latitude": "39.0997",
+              "longitude": "-94.5786"
+            },
+            "geoRadius": "30 mi"
+          }
+        }
+      }
+    ]
+  }
+}
+</script>
+{{- end -}}

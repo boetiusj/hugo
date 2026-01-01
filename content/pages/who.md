@@ -1,10 +1,11 @@
 ---
 title: "Who & Why"
 slug: "who"
-description: "Communicate often, set clear expectations and meet them. Be courteous, responsive, tidy, prompt. Always professional."
+description: "The trusted painting contractor in Kansas City since 2007. What sets us apart: detailed written estimates, daily project updates, professional crew management, and PCA-certified quality standards. Serving Brookside and KC metro."
 keywords: "no drips no drama, story, who we are, about"
 date: "2011-09-27"
 images: "/images/schema-ogimage.jpg"
+schema_type: "AboutPage"
 index: true
 ---
 {{< figure1st

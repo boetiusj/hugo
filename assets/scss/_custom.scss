@@ -1,3 +1,29 @@
+/* Rating Summary (Customer Raves section) */
+.rating-summary {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.rating-summary .stars {
+  font-size: 1.25rem;
+  line-height: 1;
+}
+.rating-summary .rating {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #222;
+}
+.rating-summary .count {
+  color: #666;
+  font-size: 0.95rem;
+}
+@media (max-width: 576px) {
+  .rating-summary {
+    justify-content: center;
+  }
+}
+
 /* Popular Services — consistent, minimal */
 .popular-services { margin-block: 1.5rem; }
 .popular-services__title { margin: 0 0 .75rem 0; }

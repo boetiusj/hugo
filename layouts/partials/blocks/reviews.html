@@ -9,6 +9,23 @@
 				</div>
 			</div>
 		</div>
+
+		{{- $reviews := site.Data.googleReviews -}}
+		{{- if $reviews -}}
+		{{- $rating := float $reviews.rating -}}
+		{{- $fullStars := int (math.Round $rating) -}}
+		<div class="row">
+			<div class="col-12">
+				<div class="rating-summary text-center text-lg-start mb-4">
+					<span class="stars">
+						{{- range seq $fullStars -}}⭐{{- end -}}
+					</span>
+					<span class="rating">{{ printf "%.1f" $rating }} out of 5 stars</span>
+					<span class="count">Based on {{ $reviews.reviews }}+ verified reviews</span>
+				</div>
+			</div>
+		</div>
+		{{- end -}}
 	</div>
 
   {{ with site.Data.reviews }}

@@ -3,8 +3,9 @@ title: "Solid Agreements"
 slug: "solid-agreements"           # lock new canonical
 aliases: ["/solid-agreements/"]       # preserve old
 description: "Get a clear painting agreement."
+summary: "Essential elements of professional painting contracts"
 keywords: "contract, agreement, clause, expectations, paint contractor"
-date: "2023-10-22" 
+date: "2023-10-22"
 index: true
 feature: "2"
 images: "/images/schema-ogimage.jpg"

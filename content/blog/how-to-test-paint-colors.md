@@ -3,6 +3,7 @@ title: "How to Test Paint Colors"
 slug: "how-to-test-paint-colors"           # lock new canonical
 aliases: ["/blog/how-to-test-paint-colors/"]       # preserve old
 description: "Helpful info when thinking about exterior painting."
+summary: "The right way to test colors before committing"
 keywords: "paint colors test"
 date: "2025-04-20"
 index: true

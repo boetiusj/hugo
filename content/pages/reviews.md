@@ -5,6 +5,7 @@ description: "Melissa J. said: I have dealt with A LOT of contractors and I have
 keywords: "customer reviews, testimonials, feedback, painter reviews"
 date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
+schema_type: "webPage"
 index: true
 ---
 ## Customer Reviews and Feedback

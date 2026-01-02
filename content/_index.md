@@ -36,10 +36,15 @@ cta:
   description: "We're ready for your project."
   phone: "816-805-4515"
   show: true # turn to false to hide
-  # image: 
+  # image:
   button:
     url: "/estimate-scheduler/"
     label: "Schedule an Estimate"
+  benefits_title: "Schedule Your Free Estimate Today"
+  benefits:
+    - "30-minute consultation"
+    - "Quote within 24 hours"
+    - "Projects start in 2-3 weeks"
 index: true
 # about:
 #   headline: "Who we are"

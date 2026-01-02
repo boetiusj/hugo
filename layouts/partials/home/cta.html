@@ -15,6 +15,24 @@
 						<a href="{{ .url }}" class="btn btn-main btn-round-full">{{ .label }}{{ $imageAngleRight := resources.Get "images/svg/angle-right-solid.svg" }}
             <span class="btn-icon flex aling-items-center ml-2 svg-h-8 mr-2"> {{ $imageAngleRight.Content | safeHTML }} </span></a>
             {{ end }}
+
+					{{ if $cta.benefits }}
+						<div class="cta-benefits mt-4">
+							{{ with $cta.benefits_title }}
+								<h4 class="h6 mb-3">{{ . }}</h4>
+							{{ end }}
+							<ul class="list-unstyled mb-0">
+								{{ range $cta.benefits }}
+									<li class="mb-2">
+										<svg class="benefit-check" width="20" height="20" viewBox="0 0 20 20" fill="currentColor" style="display: inline-block; vertical-align: middle; margin-right: 8px; color: #27ae60;">
+											<path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"/>
+										</svg>
+										{{ . }}
+									</li>
+								{{ end }}
+							</ul>
+						</div>
+					{{ end }}
 					<!-- <h3><a href="tel:+{{ default site.Params.phone $cta.phone }}" class="mr-3 text-color">{{ default site.Params.phone $cta.phone }}</a></h3> -->
 				</div>
 			</div>

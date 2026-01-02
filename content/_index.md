@@ -11,6 +11,7 @@ hero:
   button:
     url: "/estimate-scheduler/"
     label: Schedule an Estimate
+  subtext: "PCA Member • Family Owned • Licensed & Insured"
 intro:
   title: "Trusted. Since 2007"
   headline: "Clean and Tidy Painters"

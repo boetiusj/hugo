@@ -1,8 +1,8 @@
 ---
-title: "Best Front Door Colors"
-slug: "best-front-door-colors"        # lock new canonical
+title: "Best Front Door Colors For Your Home"
+slug: "best-front-door-colors-for-your-home"        # lock new canonical
 aliases: ["/blog/best-front-door-colors/"]             # preserve old
-description: "Choosing front door colors"
+description: "Expert guidance on selecting front door colors that boost curb appeal and reflect your home's style, from timeless classics to bold statement choices."
 summary: "Expert tips on choosing entry colors that boost curb appeal"
 keywords: "front door, paint colors"
 date: "2023-07-22"

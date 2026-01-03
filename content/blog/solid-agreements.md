@@ -1,8 +1,8 @@
 ---
-title: "Solid Agreements"
-slug: "solid-agreements"           # lock new canonical
+title: "Essential Elements of a Painting Agreement"
+slug: "Essential Elements of a Painting Agreement"           # lock new canonical
 aliases: ["/solid-agreements/"]       # preserve old
-description: "Get a clear painting agreement."
+description: "Essential elements of professional painting contracts including inclusions, exclusions, and clarifications that prevent misunderstandings and ensure project success."
 summary: "Essential elements of professional painting contracts"
 keywords: "contract, agreement, clause, expectations, paint contractor"
 date: "2023-10-22"

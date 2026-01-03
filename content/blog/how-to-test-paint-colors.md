@@ -7,7 +7,7 @@ summary: "The right way to test colors before committing"
 keywords: "paint colors test"
 date: "2025-04-20"
 index: true
-feature: "1"
+feature: "4"
 images: "/images/schema-ogimage.jpg"
 image: "/images/color-chips.webp"
 categories:

@@ -2,8 +2,7 @@
 title: "Architectural Styles"
 slug: "architectural-styles"        # lock new canonical
 aliases: ["/blog/best-front-door-colors/"]             # preserve old
-description: "
-"
+description: "Architectural styles in Kansas City"
 keywords: "styles"
 date: "2025-12-07"
 index: true

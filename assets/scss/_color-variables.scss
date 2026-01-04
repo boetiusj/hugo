@@ -4,12 +4,14 @@
 
 :root {
   /* Brand Colors */
-  --accent: #E76F51;           /* Coral - new primary accent */
-  --accent-dark: #D95F41;      /* Darker coral for hovers */
-  --accent-light: #F08B73;     /* Lighter coral for subtle backgrounds */
+  --accent: #D85A3C;           /* Deep coral - stands up to navy */
+  --accent-dark: #C24A31;      /* Darker coral for hovers */
+  --accent-light: #FFE5E0;     /* Light coral for subtle backgrounds */
+  --accent-lighter: #FFF5F2;   /* Barely-there coral tint */
 
   --navy: #232B4A;             /* Primary dark blue */
   --navy-dark: #1a2136;        /* Darker navy for hovers */
+  --navy-light: #3A4A6A;       /* Lighter navy variant */
 
   /* Grayscale */
   --gray-50: #FAFAFA;
@@ -43,7 +45,7 @@
   --bg-primary: #FFFFFF;
   --bg-secondary: #F8F9FA;
   --bg-tertiary: #F5F8F9;
-  --bg-accent: #E76F51;
+  --bg-accent: #D85A3C;
 
   /* Semantic Colors */
   --success: #10B981;

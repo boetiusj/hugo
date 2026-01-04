@@ -1,0 +1,340 @@
+/* Service Area Featured Section */
+.service-area-featured {
+  background: linear-gradient(to bottom, #ffffff 0%, #f8f9fa 100%);
+  padding: 80px 20px;
+  margin: 60px 0 0 0;
+}
+
+.service-area-featured .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Section Header */
+.service-area-featured .section-header {
+  text-align: center;
+  max-width: 750px;
+  margin: 0 auto 50px;
+}
+
+.service-area-featured h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #232B4A;
+  margin-bottom: 15px;
+  line-height: 1.2;
+}
+
+.service-area-featured .intro {
+  font-size: 18px;
+  line-height: 1.7;
+  color: #555;
+  margin: 0;
+}
+
+/* Map + Cards Wrapper */
+.map-cards-wrapper {
+  position: relative;
+  padding: 40px 0;
+  margin-bottom: 50px;
+  min-height: 500px; /* Ensure space for map background */
+}
+
+/* Background Map (Faded/Blurred) */
+.map-background {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90%;
+  max-width: 1000px;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 16px;
+  z-index: 0;
+  pointer-events: none; /* Allow clicks through to cards */
+}
+
+.service-map-bg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  opacity: 0.6; /* Very subtle - adjust between 0.06-0.12 */
+  filter: grayscale(40%) blur(1.5px);
+}
+
+/* Featured Areas Grid (Overlays Map) */
+.featured-areas-grid {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  margin-bottom: 50px;
+}
+
+/* Individual Area Card */
+.area-card {
+  background: rgba(255, 255, 255, 0.97); /* Slightly transparent to show map hint */
+  backdrop-filter: blur(10px); /* Glass effect */
+  -webkit-backdrop-filter: blur(10px); /* Safari */
+  border: 2px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 30px;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.area-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: #232B4A;
+  transform: scaleY(0);
+  transition: transform 0.3s ease;
+}
+
+.area-card:hover {
+  background: rgba(255, 255, 255, 1); /* Fully opaque on hover */
+  border-color: #232B4A;
+  box-shadow: 0 8px 24px rgba(35, 43, 74, 0.15);
+  transform: translateY(-4px);
+  text-decoration: none;
+}
+
+.area-card:hover::before {
+  transform: scaleY(1);
+}
+
+/* Card Header */
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+
+.area-card h3 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #232B4A;
+  margin: 0;
+  line-height: 1.2;
+}
+
+.location-tag {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: white;
+  background: #232B4A;
+  padding: 6px 14px;
+  border-radius: 6px;
+  white-space: nowrap;
+  box-shadow: 0 2px 6px rgba(35, 43, 74, 0.25);
+}
+
+.area-card:hover .location-tag {
+  background: #1a2136;
+  box-shadow: 0 3px 8px rgba(35, 43, 74, 0.35);
+  transform: scale(1.05);
+}
+
+/* Card Description */
+.card-description {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #555;
+  margin: 0 0 20px 0;
+  flex-grow: 1;
+}
+
+/* Card Link */
+.card-link {
+  font-size: 15px;
+  font-weight: 600;
+  color: #232B4A;
+  display: inline-flex;
+  align-items: center;
+  transition: gap 0.3s ease;
+  gap: 5px;
+}
+
+.area-card:hover .card-link {
+  gap: 10px;
+}
+
+/* Service Area Footer */
+.service-area-footer {
+  text-align: center;
+  padding-top: 30px;
+  border-top: 1px solid #e5e7eb;
+}
+
+.coverage-text {
+  font-size: 16px;
+  color: #555;
+  margin: 0 0 25px 0;
+  line-height: 1.6;
+}
+
+.cta-buttons {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cta-buttons .btn-secondary,
+.cta-buttons .btn-primary {
+  display: inline-block;
+  padding: 14px 28px;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.cta-buttons .btn-secondary {
+  background: white;
+  color: #232B4A;
+  border: 2px solid #232B4A;
+}
+
+.cta-buttons .btn-secondary:hover {
+  background: #232B4A;
+  color: white;
+  text-decoration: none;
+}
+
+.cta-buttons .btn-primary {
+  background: #232B4A;
+  color: white;
+  border: 2px solid #232B4A;
+}
+
+.cta-buttons .btn-primary:hover {
+  background: #1a2136;
+  border-color: #1a2136;
+  color: white;
+  text-decoration: none;
+}
+
+/* Tablet Responsive (768px - 1024px) */
+@media (max-width: 1024px) {
+  .service-area-featured {
+    padding: 60px 20px;
+  }
+
+  .featured-areas-grid {
+    gap: 20px;
+  }
+
+  .area-card {
+    padding: 25px;
+  }
+}
+
+/* Mobile Responsive (below 768px) */
+@media (max-width: 768px) {
+  .service-area-featured {
+    padding: 50px 15px;
+    margin: 40px 0 0 0;
+  }
+
+  .service-area-featured h2 {
+    font-size: 28px;
+  }
+
+  .service-area-featured .intro {
+    font-size: 16px;
+  }
+
+  .map-cards-wrapper {
+    padding: 20px 0;
+    min-height: auto;
+  }
+
+  /* Map more subtle on mobile */
+  .service-map-bg {
+    opacity: 0.05;
+  }
+
+  .map-background {
+    width: 100%;
+  }
+
+  /* Single column layout */
+  .featured-areas-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .area-card {
+    padding: 25px 20px;
+  }
+
+  .card-header {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .location-tag {
+    align-self: flex-start;
+  }
+
+  .area-card h3 {
+    font-size: 22px;
+  }
+
+  .card-description {
+    font-size: 14px;
+  }
+
+  .cta-buttons {
+    flex-direction: column;
+  }
+
+  .cta-buttons .btn-secondary,
+  .cta-buttons .btn-primary {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+/* Small Mobile (below 480px) */
+@media (max-width: 480px) {
+  .service-area-featured h2 {
+    font-size: 24px;
+  }
+
+  .area-card h3 {
+    font-size: 20px;
+  }
+}
+
+/* Reduced Motion Preference */
+@media (prefers-reduced-motion: reduce) {
+  .area-card,
+  .area-card::before,
+  .card-link,
+  .cta-buttons .btn-secondary,
+  .cta-buttons .btn-primary {
+    transition: none;
+  }
+
+  .area-card:hover {
+    transform: none;
+  }
+}

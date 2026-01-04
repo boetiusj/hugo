@@ -1,0 +1,98 @@
+{{/* layouts/partials/home/service-area.html */}}
+<section class="service-area-featured" id="service-area">
+  <div class="container">
+
+    <!-- Section Header -->
+    <div class="section-header">
+      <h2>Serving Greater Kansas City Metro</h2>
+      <p class="intro">
+        Professional residential and commercial painting services throughout the Kansas City
+        metropolitan area. Based in Waldo, we serve a 30-mile radius covering communities
+        across both Missouri and Kansas.
+      </p>
+    </div>
+
+    <!-- Map Container with Cards Overlay -->
+    <div class="map-cards-wrapper">
+
+      <!-- Background Map (faded) -->
+      <div class="map-background">
+        <img src="/images/bg/kc-map.webp"
+             alt="Crestwood Painting service area map covering Kansas City metro"
+             class="service-map-bg"
+             loading="lazy">
+      </div>
+
+      <!-- Featured Area Cards (overlay on map) -->
+      <div class="featured-areas-grid">
+
+      <!-- Card 1: Brookside / Waldo -->
+      <a href="{{ relref . `pages/brookside-waldo-painter.md` }}" class="area-card">
+        <div class="card-header">
+          <h3>Brookside / Waldo</h3>
+          <span class="location-tag">Our Home Base</span>
+        </div>
+        <p class="card-description">
+          Historic neighborhoods where we've painted homes since 2007.
+          Craftsman styles, charming bungalows, and local expertise.
+        </p>
+        <span class="card-link">Learn More →</span>
+      </a>
+
+      <!-- Card 2: Leawood South -->
+      <a href="{{ relref . `pages/painter-in-leawood.md` }}" class="area-card">
+        <div class="card-header">
+          <h3>Leawood South</h3>
+          <span class="location-tag">Premium Service</span>
+        </div>
+        <p class="card-description">
+          Luxury homes deserve meticulous attention. Expert painting for
+          Leawood's most beautiful properties.
+        </p>
+        <span class="card-link">Learn More →</span>
+      </a>
+
+      <!-- Card 3: Prairie Village -->
+      <a href="{{ relref . `pages/painter-in-prairie-village.md` }}" class="area-card">
+        <div class="card-header">
+          <h3>Prairie Village</h3>
+          <span class="location-tag">Residential Expert</span>
+        </div>
+        <p class="card-description">
+          Tree-lined streets and well-maintained homes. Professional painting
+          for one of Kansas City's most desirable communities.
+        </p>
+        <span class="card-link">Learn More →</span>
+      </a>
+
+      <!-- Card 4: Lee's Summit -->
+      <a href="{{ relref . `pages/painter-in-lees-summit.md` }}" class="area-card">
+        <div class="card-header">
+          <h3>Lee's Summit</h3>
+          <span class="location-tag">Growing Community</span>
+        </div>
+        <p class="card-description">
+          Kansas City's fastest-growing suburb. Quality painting for new
+          construction, established homes, and commercial projects.
+        </p>
+        <span class="card-link">Learn More →</span>
+      </a>
+
+      </div>
+
+    </div>
+
+    <!-- Bottom CTA -->
+    <div class="service-area-footer">
+      <p class="coverage-text">
+        We also serve Overland Park, Mission Hills, Liberty, Independence,
+        and all communities within 30 miles.
+      </p>
+      <div class="cta-buttons">
+        <a href="{{ relref . `pages/map.md` }}" class="btn-secondary">View All Service Areas</a>
+        <a href="{{ relref . `pages/estimate-scheduler.md` }}" class="btn-primary">Schedule Free Estimate</a>
+      </div>
+    </div>
+
+  </div>
+</section>

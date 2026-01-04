@@ -32,42 +32,8 @@
   margin: 0;
 }
 
-/* Map + Cards Wrapper */
-.map-cards-wrapper {
-  position: relative;
-  padding: 40px 0;
-  margin-bottom: 50px;
-  min-height: 500px; /* Ensure space for map background */
-}
-
-/* Background Map (Faded/Blurred) */
-.map-background {
-  position: absolute;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 90%;
-  max-width: 1000px;
-  height: 100%;
-  overflow: hidden;
-  border-radius: 16px;
-  z-index: 0;
-  pointer-events: none; /* Allow clicks through to cards */
-}
-
-.service-map-bg {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
-  opacity: 0.6; /* Very subtle - adjust between 0.06-0.12 */
-  filter: grayscale(40%) blur(1.5px);
-}
-
-/* Featured Areas Grid (Overlays Map) */
+/* Featured Areas Grid */
 .featured-areas-grid {
-  position: relative;
-  z-index: 1;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 25px;
@@ -76,9 +42,7 @@
 
 /* Individual Area Card */
 .area-card {
-  background: rgba(255, 255, 255, 0.97); /* Slightly transparent to show map hint */
-  backdrop-filter: blur(10px); /* Glass effect */
-  -webkit-backdrop-filter: blur(10px); /* Safari */
+  background: #ffffff;
   border: 2px solid #e5e7eb;
   border-radius: 12px;
   padding: 30px;
@@ -104,7 +68,7 @@
 }
 
 .area-card:hover {
-  background: rgba(255, 255, 255, 1); /* Fully opaque on hover */
+  background: #ffffff;
   border-color: #232B4A;
   box-shadow: 0 8px 24px rgba(35, 43, 74, 0.15);
   transform: translateY(-4px);
@@ -259,20 +223,6 @@
 
   .service-area-featured .intro {
     font-size: 16px;
-  }
-
-  .map-cards-wrapper {
-    padding: 20px 0;
-    min-height: auto;
-  }
-
-  /* Map more subtle on mobile */
-  .service-map-bg {
-    opacity: 0.05;
-  }
-
-  .map-background {
-    width: 100%;
   }
 
   /* Single column layout */

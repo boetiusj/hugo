@@ -55,7 +55,7 @@
   --kn-border: rgba(0,0,0,.08);
   --kn-text: #1c1c1c;
   --kn-muted: #555;
-  --kn-accent: #b40909; /* fall back to your $primary-color if you prefer */
+  --kn-accent: var(--accent); /* Uses new coral accent */
 
   background: var(--kn-bg);
   border: 1px solid var(--kn-border);
@@ -194,7 +194,7 @@
   --bd: rgba(0,0,0,.08);
   --tx: #1b1b1b;
   --muted: #666;
-  --accent: #b40909; /* align with your brand */
+  --accent: var(--accent); /* Uses new coral accent */
   display: flex;
   flex-wrap: wrap;
   gap: 6px 10px;
@@ -291,7 +291,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #b40909;
+  color: var(--accent);
   background-color: transparent;
   padding: 0.4rem .7rem;
   transition: background-color 0.3s, color 0.3s, border-color 0.3s;
@@ -527,7 +527,7 @@ position:absolute;
 }
 
 .input [type="radio"] {
-  accent-color: darkred;
+  accent-color: var(--accent);
 }
 
 .figure1st img {

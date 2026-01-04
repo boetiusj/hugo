@@ -1,0 +1,190 @@
+/* ==========================================
+   Section Background Colors & Patterns
+   Homepage Flow
+   ========================================== */
+
+/* Hero Section - Darker overlay for better contrast (accessibility) */
+.hero-banner {
+  position: relative;
+
+  .hero-blur,
+  .hero-hires {
+    &::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(35, 43, 74, 0.45); /* Navy overlay at 45% for WCAG contrast */
+      z-index: 1;
+      pointer-events: none;
+    }
+  }
+
+  .container {
+    position: relative;
+    z-index: 2;
+  }
+}
+
+/* Intro Section - Pure white with subtle dots pattern */
+.section.intro {
+  background-color: #FFFFFF;
+  background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23232B4A' fill-opacity='0.06'%3E%3Ccircle cx='10' cy='10' r='1.5'/%3E%3C/g%3E%3C/svg%3E");
+  background-size: 20px 20px;
+}
+
+/* About Section - Pure white */
+.about {
+  background-color: #FFFFFF;
+}
+
+/* Stats Section - Soft gray */
+.stats {
+  background-color: #F8F9FA;
+}
+
+/* Services Section - Soft gray */
+.section.service {
+  background-color: #F8F9FA;
+}
+
+/* CTA Section - Contemporary geometric pattern background */
+.section.cta {
+  /* Override inline style with modern SVG pattern */
+  background: #F5F7F9 !important;
+  background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23232B4A' fill-opacity='0.03'%3E%3Cpath d='M0 0h40v40H0V0zm40 40h40v40H40V40z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E") !important;
+  background-size: 80px 80px !important;
+  position: relative;
+
+  /* Alternative patterns - uncomment to try different styles */
+
+  /* Diagonal lines pattern:
+  background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' stroke='%23232B4A' stroke-opacity='0.03' stroke-width='1'%3E%3Cpath d='M0 40L40 0M20 40L40 20M0 20L20 0'/%3E%3C/g%3E%3C/svg%3E") !important;
+  */
+
+  /* Hexagon pattern:
+  background-image: url("data:image/svg+xml,%3Csvg width='56' height='100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M28 66L0 50L0 16L28 0L56 16L56 50L28 66L28 100' fill='none' stroke='%23232B4A' stroke-opacity='0.03' stroke-width='1'/%3E%3Cpath d='M28 0L28 34L0 50L0 84L28 100L56 84L56 50L28 34' fill='none' stroke='%23232B4A' stroke-opacity='0.03' stroke-width='1'/%3E%3C/svg%3E") !important;
+  background-size: 56px 100px !important;
+  */
+
+  /* Subtle waves pattern:
+  background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 10 Q 12.5 5, 25 10 T 50 10 T 75 10 T 100 10' stroke='%23232B4A' stroke-opacity='0.04' fill='none' stroke-width='1'/%3E%3C/svg%3E") !important;
+  background-size: 100px 20px !important;
+  */
+
+  .cta-item {
+    background: #FFFFFF !important;
+    box-shadow: 0 10px 30px rgba(35, 43, 74, 0.15);
+    border: 1px solid rgba(35, 43, 74, 0.1);
+
+    /* Ensure proper text colors on white card */
+    h2, h3, h4, h5, h6 {
+      color: #232B4A !important;
+    }
+
+    p {
+      color: #555555 !important;
+    }
+
+    .text-color {
+      color: #D85A3C !important;
+    }
+  }
+
+  /* Coral button styling */
+  .btn-main {
+    background-color: #D85A3C !important;
+    border-color: #D85A3C !important;
+
+    &:hover {
+      background-color: #C24A31 !important;
+      border-color: #C24A31 !important;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(216, 90, 60, 0.3);
+    }
+  }
+}
+
+/* Testimonials/Reviews - Pure white */
+.section.testimonial,
+.section.reviews {
+  background-color: #FFFFFF;
+}
+
+/* Service Area Section - Soft gray with topography pattern */
+.service-area-featured {
+  background-color: #F5F7F9 !important;
+  background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 50c0-13.8 11.2-25 25-25s25 11.2 25 25-11.2 25-25 25S0 63.8 0 50zm50 0c0-13.8 11.2-25 25-25s25 11.2 25 25-11.2 25-25 25-25-11.2-25-25z' fill='none' stroke='%23232B4A' stroke-opacity='0.06' stroke-width='1'/%3E%3C/svg%3E") !important;
+  background-size: 100px 100px !important;
+}
+
+/* Blog/Articles Section - Navy blue (replaces brick texture) */
+.latest-blog,
+.blog-section {
+  background-color: #232B4A !important;
+  background-image: none !important; /* Override brick from _backgrounds.scss */
+  color: #FFFFFF;
+
+  h2, h3, h4, h5, h6 {
+    color: #FFFFFF !important;
+  }
+
+  .text-white {
+    color: #FFFFFF !important;
+  }
+}
+
+/* Override bg-2 brick background for articles section */
+.bg-2.latest-blog {
+  background-image: none !important;
+  background-color: #232B4A !important;
+}
+
+/* Footer - Navy background */
+.footer {
+  background-color: #232B4A !important;
+  color: #FFFFFF;
+
+  /* Social proof section at top - dotted pattern like Intro */
+  > .container:first-child {
+    background-color: #FFFFFF;
+    background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23232B4A' fill-opacity='0.06'%3E%3Ccircle cx='10' cy='10' r='1.5'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: 20px 20px;
+    padding: 40px 0;
+    margin-bottom: 0;
+  }
+
+  /* Main footer links section - plus pattern */
+  .footer-middle {
+    background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23FFFFFF' fill-opacity='0.06'%3E%3Cpath d='M20 18h-2v4h2v-2h2v-2h-2zm0-2h2v-2h-2v2zm-2 0v-2h-2v2h2z'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: 40px 40px;
+
+    /* Ensure dark text on light background */
+    h3, h4, h5, h6 {
+      color: #232B4A !important;
+    }
+
+    ul {
+      color: #555555 !important;
+
+      li {
+        color: #555555 !important;
+      }
+    }
+
+    p, a {
+      color: #555555;
+    }
+  }
+}
+
+/* Padding adjustments for visual separation */
+.section {
+  padding: 80px 0;
+
+  @media (max-width: 768px) {
+    padding: 50px 0;
+  }
+}

@@ -1,4 +1,5 @@
 @import "variables.scss";
+@import "color-variables.scss";
 @import "mixins.scss";
 @import "media-query.scss";
 @import "typography.scss";
@@ -18,6 +19,7 @@
 @import "templates/cta.scss";
 @import "templates/review.scss";
 @import "templates/service-area.scss";
+@import "templates/section-backgrounds.scss";
 @import "templates/pricing.scss";
 @import "templates/portfolio.scss";
 @import "templates/contact.scss";

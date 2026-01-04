@@ -3,7 +3,7 @@
    Homepage Flow
    ========================================== */
 
-/* Hero Section - Light overlay on image */
+/* Hero Section - Darker overlay for better contrast (accessibility) */
 .hero-banner {
   position: relative;
 
@@ -16,7 +16,7 @@
       left: 0;
       right: 0;
       bottom: 0;
-      background-color: rgba(250, 250, 250, 0.15);
+      background-color: rgba(35, 43, 74, 0.45); /* Navy overlay at 45% for WCAG contrast */
       z-index: 1;
       pointer-events: none;
     }
@@ -50,9 +50,41 @@
   background-color: #F8F9FA;
 }
 
-/* CTA Section - Light coral tint */
+/* CTA Section - Vibrant coral gradient with subtle animated waves */
 .section.cta {
-  background: linear-gradient(135deg, #FFE5DE 0%, #FFF0EB 100%);
+  position: relative;
+  background: linear-gradient(135deg, #FFD4C4 0%, #FFE5DE 50%, #FFF0EB 100%);
+  background-size: 200% 200%;
+  animation: gradientShift 15s ease infinite;
+
+  /* Add subtle wave pattern overlay */
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 10 Q 25 5, 50 10 T 100 10' fill='none' stroke='%23E76F51' stroke-opacity='0.08' stroke-width='1'/%3E%3C/svg%3E");
+    background-size: 100px 20px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .container {
+    position: relative;
+    z-index: 1;
+  }
+}
+
+/* Subtle gradient animation */
+@keyframes gradientShift {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
 }
 
 /* Testimonials/Reviews - Pure white */
@@ -68,18 +100,47 @@
   background-size: 100px 100px !important;
 }
 
-/* Blog/Articles Section - Pure white */
+/* Blog/Articles Section - Navy blue (replaces brick texture) */
 .latest-blog,
 .blog-section {
-  background-color: #FFFFFF;
+  background-color: #232B4A !important;
+  background-image: none !important; /* Override brick from _backgrounds.scss */
+  color: #FFFFFF;
+
+  h2, h3, h4, h5, h6 {
+    color: #FFFFFF !important;
+  }
+
+  .text-white {
+    color: #FFFFFF !important;
+  }
 }
 
-/* Footer - Navy with subtle plus pattern */
+/* Override bg-2 brick background for articles section */
+.bg-2.latest-blog {
+  background-image: none !important;
+  background-color: #232B4A !important;
+}
+
+/* Footer - Navy background */
 .footer {
   background-color: #232B4A !important;
-  background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23FFFFFF' fill-opacity='0.06'%3E%3Cpath d='M20 18h-2v4h2v-2h2v-2h-2zm0-2h2v-2h-2v2zm-2 0v-2h-2v2h2z'/%3E%3C/g%3E%3C/svg%3E") !important;
-  background-size: 40px 40px !important;
   color: #FFFFFF;
+
+  /* Social proof section at top - dotted pattern like Intro */
+  > .container:first-child {
+    background-color: #FFFFFF;
+    background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23232B4A' fill-opacity='0.06'%3E%3Ccircle cx='10' cy='10' r='1.5'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: 20px 20px;
+    padding: 40px 0;
+    margin-bottom: 0;
+  }
+
+  /* Main footer links section - plus pattern */
+  .footer-middle {
+    background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23FFFFFF' fill-opacity='0.06'%3E%3Cpath d='M20 18h-2v4h2v-2h2v-2h-2zm0-2h2v-2h-2v2zm-2 0v-2h-2v2h2z'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: 40px 40px;
+  }
 }
 
 /* Padding adjustments for visual separation */

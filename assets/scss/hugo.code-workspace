@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../cwp-scripts"
+		}
+	],
+	"settings": {
+		"svg.preview.background": "editor"
+	}
+}

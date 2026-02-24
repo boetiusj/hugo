@@ -15,17 +15,17 @@ schema_type: "CheckoutPage"
 
 ## A confirmation is on its way. Til then - some things to consider
 
-1. [Insurance in place?](#areyouinsured)
-2. [Send a Copy](#prove)
-3. [New or Old?](#neworold)
-4. [Which Paint?](#whichpaint)
-5. [What's Proper?](#proper)
-6. [Up Front?](#upfront)
-7. [Start & Finish?](#start)
-8. [Protection?](#protection)
-9. [Butts & Music?](#butts)
-10. [What Do You Know?](#know)
-11. [Lead - Tell Me About It](#lead)
+1. [Insurance in place?](#are-you-insured)
+2. [Send a Copy](#may-i-have-a-copy-of-your-insurance-certificate-for-my-files)
+3. [New or Old?](#new-homes-or-old)
+4. [Which Paint?](#which-brand-of-paint-do-you-recommend)
+5. [What's Proper?](#what-is-a-properly-painted-surface)
+6. [Up Front?](#do-you-require-any-payment-up-front)
+7. [Start & Finish?](#will-you-start-on-time-every-day-will-you-finish-on-time)
+8. [Protection?](#will-my-property-be-protected)
+9. [Butts & Music?](#will-i-hear-loud-music-objectionable-language-or-find-cigarette-butts-in-my-garden)
+10. [What Do You Know?](#what-is-your-source-for-new-product-information)
+11. [Lead - Tell Me About It](#what-about-lead-paint-and-dust)
 
 > "May I have a copy of your insurance certificate for my files?"
 

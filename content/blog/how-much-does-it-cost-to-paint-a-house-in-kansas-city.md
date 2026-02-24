@@ -84,7 +84,7 @@ Bathrooms and kitchens take longer per square foot than living rooms. Doors and 
 
 This is why room count and finish level matter more than raw square footage.
 
-You can see typical scopes on our [interior painting services](/interior-painting-kansas-city/) page.
+You can see typical scopes on our {{< link "pages/interior-painter-kansas-city" "interior painting services" >}} page.
 
 ## Living in the Home During Painting
 
@@ -111,7 +111,7 @@ Fiber cement is more forgiving.
 Stucco requires crack management.
 Brick often involves masonry coatings rather than standard paint.
 
-Details vary, which is why exterior estimates must be specific. More information is on our [exterior painting services](/exterior-painting-kansas-city/) page.
+Details vary, which is why exterior estimates must be specific. More information is on our {{< link "pages/exterior-painting-kansas-city" "exterior painting services" >}} page.
 
 ## Paint Quality and Why It Is Not the Lever
 

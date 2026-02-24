@@ -79,7 +79,7 @@ Paint labels are functional, not suggestions.
 
 Interior paint often lasts longer because conditions are gentler.
 
-Exterior lifespan depends heavily on prep quality. For guidance, see [how to prepare for professional painters](/blog/how-to-prepare-for-professional-painters/).
+Exterior lifespan depends heavily on prep quality. For guidance, see {{< link "blog/how-to-prepare-for-professional-painters" "how to prepare for professional painters" >}}.
 
 ## Frequently Asked Questions
 

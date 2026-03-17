@@ -107,7 +107,7 @@ jobs:
         if: ${{ env.changed == 'true' }}
         uses: peter-evans/create-pull-request@v7
         with:
-          commit-message: chore: refresh Google review badge
+          commit-message: "chore: refresh Google review badge"
           branch: automation/google-review-badge
           delete-branch: true
           title: "chore: refresh Google review badge"

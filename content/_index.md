@@ -25,7 +25,7 @@ intro:
     - title: Comfy Interiors
       summary: "Cleanable and durable surfaces for homes, condos, lofts - dust-free, noise-free."
       svcimg: /images/admin/dr-orange-500.webp
-      link: /interior-painter-kansas-city/
+      link: /interior-painting-kansas-city/
     - title: Busy Offices
       svcimg: /images/admin/blue-mfg-500.webp
       summary: "Quiet and careful, one room at a time - on your schedule."

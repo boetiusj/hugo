@@ -2,6 +2,7 @@
 title: "Interior Painting Kansas City"
 slug: "interior-painting-kansas-city"  # lock new
 aliases:                       # preserve old
+  - /interior-painter-kansas-city/
   - /pages/interior-painter/
 description: "Organized jobs, tidy painters, happy customers."
 keywords: "painting cost, price interior painting, bedroom, living room"

@@ -56,23 +56,31 @@ faqs:
   - question: "How Much Does Interior Painting Cost?"
     id: "costx"
     answer: |
-      A small Kansas City bedroom can be painted for less than $1000; a whole house interior can run over $100k - really.  Many factors so, when we’re asked, well - it depends.
-  - question: "How Long Does an Interior Painting Estimate Take?"
+      Interior painting in Kansas City costs $1,500-$40,000 depending on size. A typical 2,000 sq ft home runs $4,500-$7,000 including materials and labor. Single bedrooms start at $500-800. Costs increase with ceiling height, trim work, and wall repairs.
+  - question: "Which paint brands do you use?"
     id: "est-int"
     answer: |
-      It's quick and easy to [schedule an estimate]({{< relref "pages/estimate-scheduler.md" >}}) or, call our friendly phone service (816-805-4515). You’ll get a confirmation email right away and then a reminder 24 hours before. Most estimates take 30 minutes or less. Our goal is to leave you feeling informed and comfortable with the process ahead.
-  - question: "How Long Does Interior Painting in Lee's Summit Take?"
+      We use premium Benjamin Moore (Regal Select, Aura) and Sherwin-Williams (Cashmere, Emerald) exclusively. These professional-grade paints cost $60-90/gallon vs builder-grade at $30-40/gallon. Better coverage, durability, and you can buy matching touch-up paint at any local Benjamin Moore or Sherwin-Williams store.
+  - question: "Do I have to move furniture?"
     id: "int-time"
     answer: |
-      A Living Room (walls, ceiling and trim) can usually be completed in two days. Or longer, with plaster repair and extensive trim prep.
+      We handle most furniture protection ourselves. You move small valuables, wall art, and breakables. We move large furniture (sofas, beds, dressers) to the room's center and cover everything completely with drop cloths and plastic. Built-ins are protected in place.
+  - question: "Should I use flat or satin paint?"
+    id: "costx"
+    answer: |
+      Flat paint hides wall imperfections and absorbs light—best for ceilings and low-traffic rooms. Satin paint is washable and durable—better for high-traffic areas like hallways, kitchens, and kids' rooms. We typically recommend satin for most Kansas City home walls and flat for ceilings.
   - question: Do I Have to Move Out for Interior Painting?
     id: "move-out"
     answer: |
       Nope! Most homeowners stay put while we paint. Thanks to low-VOC, low-odor paints and fast drying times, there’s minimal disruption to your daily routine. While some areas may be off-limits for a short time, we’ll work with you to schedule the project in a way that keeps your home livable—whether that means painting one room at a time or prioritizing high-traffic areas first.
-  - question: "Do I Have to Be Careful with New Paint?"
+  - question: "What prep work is included?"
     id: "careful"
     answer: |
-      A little caution goes a long way! While paint dries quickly, it takes about two to three weeks to fully cure—meaning it reaches maximum hardness and durability. During this time, it’s best to avoid scrubbing, bumping, or placing heavy objects against freshly painted surfaces. If you need to clean a spot, a gentle wipe with a damp cloth will do the trick. After curing, your walls and trim will be fully ready for everyday life.
+      Standard prep includes light sanding, filling nail holes, caulking trim joints, spot-priming stains, and complete floor/furniture protection. Major repairs like large holes, water damage, or extensive plaster cracks are quoted separately so you control costs. We discuss all needed repairs during your estimate.
+  - question: "Can you match my existing paint color?"
+    id: "careful"
+    answer: |
+      Yes. If you have the original paint can or color code, we can match it exactly. Without it, we take a chip sample to Benjamin Moore or Sherwin-Williams for computer color matching (95%+ accuracy). Note: aged paint may look different than fresh paint due to fading.
 ---
 {{< knowledge-strip >}}
 
@@ -82,7 +90,7 @@ faqs:
 
 ## Interior Painting – What to Expect
 
-Interior painting in Kansas City shouldn't be complicated. Since 2007, we've painted over 2,000 Kansas City homes—from century-old plaster in Brookside to new construction in Leawood. Our process: show up on time, protect your stuff, paint carefully, clean up completely. No Drips, No Drama.
+Interior painting in Kansas City shouldn't be complicated. Since 2007, we've painted over 2,000 interior painting projects across Kansas City—from century-old plaster in Brookside to new construction in Leawood. Our process: show up on time, protect your stuff, paint carefully, clean up completely. No Drips, No Drama.
 
 {{< knowledge >}}
 

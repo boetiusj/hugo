@@ -1,6 +1,6 @@
 ---
 title: "Interior Painting Kansas City"
-slug: "interior-painter-kansas-city"  # lock new
+slug: "interior-painting-kansas-city"  # lock new
 aliases:                       # preserve old
   - /pages/interior-painter/
 description: "Organized jobs, tidy painters, happy customers."

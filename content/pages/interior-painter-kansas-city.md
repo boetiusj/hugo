@@ -88,7 +88,7 @@ faqs:
   src="/images/interior/entry-stairs.webp"
 >}}
 
-## Interior Painting – What to Expect
+## What Should I Expect from Interior Painting?
 
 Interior painting in Kansas City shouldn't be complicated. Since 2007, we've painted over 2,000 interior painting projects across Kansas City—from century-old plaster in Brookside to new construction in Leawood. Our process: show up on time, protect your stuff, paint carefully, clean up completely. No Drips, No Drama.
 
@@ -124,11 +124,11 @@ When in doubt, we’ll help you weigh the options so you get the right balance o
 
 > The team was on time, professional and made clean up a breeze. My house looks way better! Thank you!
 
-### Repairs: Finding the Right Fit for Your Project
+### How Are Repairs Handled?
 
 Every home—and every budget—is different. Some repairs are essential, while others are a matter of preference. We’ll talk through the options and tailor the work to fit your needs, so you get the right balance of prep and paint for your space.
 
-## How We Safeguard Your Space While We Paint
+## How Do You Protect My Home During Painting?
 
 Your home deserves to be treated with care and respect and that means jobsite protection. Before we pick up a paintbrush, we go the extra mile to ensure that every surface, piece of furniture, and personal item in your space is properly protected.
 
@@ -174,7 +174,7 @@ Homes settle, water leaks happen and plaster cracks. Sometimes bringing everythi
 
 If you just need your blue walls light gray, we can do that. And if you’re after a higher level of finish, we can do that too. Let's talk about what's important to you. Those details will be clearly spelled out in our three page proposal so you know exactly what you can expect once work gets started.
 
-## Interior Prep Work: The Secret to a Lasting Finish
+## What Prep Work Is Included with Interior Painting?
 
 A beautifully painted interior starts with a strong foundation, so we take extra care to ensure your walls, trim, and other surfaces are perfectly prepped before the first coat of paint goes on.
 

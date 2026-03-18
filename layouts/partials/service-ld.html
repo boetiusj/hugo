@@ -62,17 +62,6 @@
       "url" $page.Permalink
     )
   -}}
-  {{- if $reviews -}}
-    {{- $node = merge $node (dict
-      "aggregateRating" (dict
-        "@type" "AggregateRating"
-        "ratingValue" $reviews.rating
-        "reviewCount" $reviews.reviews
-        "bestRating" 5
-        "worstRating" 1
-      )
-    ) -}}
-  {{- end -}}
   {{- $node = $node -}}
 
   {{- if not $page.Params.schema_type -}}

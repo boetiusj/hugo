@@ -29,7 +29,9 @@
     {{ end }}
 
     {{ .Content }}
-    
+
+    {{- with .Params.faqs }}{{ partial "faqs.html" $ }}{{ end -}}
+
     {{- $isService := eq .Section "pages" -}}
     {{- $explicitOn := eq .Params.show_service_links true -}}
     {{- $explicitOff := eq .Params.show_service_links false -}}

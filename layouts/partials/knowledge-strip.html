@@ -44,6 +44,22 @@
     </div>
   {{- end -}}
 
+  {{- with $k.founded -}}
+    <div class="kn-chip">
+      {{ partial "kn-icon.html" (dict "name" "calendar") }}
+      <span class="kn-label">Since</span>
+      <span class="kn-val">{{ . }}</span>
+    </div>
+  {{- end -}}
+
+  {{- with $k.rating -}}
+    <div class="kn-chip">
+      {{ partial "kn-icon.html" (dict "name" "star") }}
+      <span class="kn-label">Rated</span>
+      <span class="kn-val">{{ . }}</span>
+    </div>
+  {{- end -}}
+
   {{- if or $k.cta_url $k.phone -}}
     <div class="kn-chip kn-cta-chip">
       {{- if $k.cta_url -}}

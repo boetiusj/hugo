@@ -1,6 +1,8 @@
 ---
-title: "Interior Painters"
-slug: "interior-painter-kansas-city"
+title: "Interior Painting Kansas City"
+slug: "interior-painter-kansas-city"  # lock new
+aliases:                       # preserve old
+  - /pages/interior-painter/
 description: "Organized jobs, tidy painters, happy customers."
 keywords: "painting cost, price interior painting, bedroom, living room"
 date: "2011-09-18"
@@ -34,6 +36,8 @@ knowledge:
     - "Major drywall replacement"
     - "Custom glazing/faux finishes"
   service_areas: ["Kansas City MO","Leawood KS","Overland Park KS","Prairie Village KS","Mission Hills KS","Lee’s Summit MO"]
+  founded: "2007 (2,000+ Kansas City projects)"
+  rating: "4.7 stars (167 reviews) • EPA Lead-Safe Certified"
   cta_text: "Book an Estimate"
   cta_url: "/estimate-scheduler/"
   phone: "816-805-4515"
@@ -78,7 +82,7 @@ faqs:
 
 ## Interior Painting – What to Expect
 
-A well-planned painting project means minimal disruption and maximum results. We’ll handle the prep, protect your space, and keep you updated every step of the way — so you know exactly what’s happening and when. There are specific and helpful [Interior FAQs](#---) down below and hundreds of ([customer reviews]({{< relref "pages/reviews.md" >}})), too. [Cabinet painting?]({{/< relref "pages/cabinet-painting.md" >/}}) Yep, we do that.
+Interior painting in Kansas City shouldn't be complicated. Since 2007, we've painted over 2,000 Kansas City homes—from century-old plaster in Brookside to new construction in Leawood. Our process: show up on time, protect your stuff, paint carefully, clean up completely. No Drips, No Drama.
 
 {{< knowledge >}}
 
@@ -239,5 +243,3 @@ We’ll help narrow objectives and priorities and go over best options - there a
 - Picture Frame Molding – Trim arranged in rectangles on walls for a decorative effect.
 
 ![house painting review](images/reviews/r23-4-karenp.png)
-
-### ---

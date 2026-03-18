@@ -52,33 +52,33 @@ service_links_include: []
 service_links_exclude: ["interior"] 
 service_links_limit: 6
 service_links_order: []
-faqs: 
+faqs:
   - question: "How Much Does Interior Painting Cost?"
-    id: "costx"
+    id: "cost"
     answer: |
       Interior painting in Kansas City costs $1,500-$40,000 depending on size. A typical 2,000 sq ft home runs $4,500-$7,000 including materials and labor. Single bedrooms start at $500-800. Costs increase with ceiling height, trim work, and wall repairs.
   - question: "Which paint brands do you use?"
-    id: "est-int"
+    id: "brands"
     answer: |
-      We use premium Benjamin Moore (Regal Select, Aura) and Sherwin-Williams (Cashmere, Emerald) exclusively. These professional-grade paints cost $60-90/gallon vs builder-grade at $30-40/gallon. Better coverage, durability, and you can buy matching touch-up paint at any local Benjamin Moore or Sherwin-Williams store.
+      Crestwood uses Benjamin Moore (Regal Select, Aura) and Sherwin-Williams (Cashmere, Emerald) — professional-grade paints chosen for coverage, durability, and color consistency. They cost $60-90/gallon vs. builder-grade at $30-40/gallon, and touch-up paint is available at any local Benjamin Moore or Sherwin-Williams store.
   - question: "Do I have to move furniture?"
-    id: "int-time"
+    id: "furniture"
     answer: |
-      We handle most furniture protection ourselves. You move small valuables, wall art, and breakables. We move large furniture (sofas, beds, dressers) to the room's center and cover everything completely with drop cloths and plastic. Built-ins are protected in place.
+      You only need to move small valuables, wall art, and breakables. We handle the rest — moving large furniture (sofas, beds, dressers) to the room’s center and covering everything completely with drop cloths and plastic. Built-ins are protected in place.
   - question: "Should I use flat or satin paint?"
-    id: "costx"
+    id: "sheen"
     answer: |
-      Flat paint hides wall imperfections and absorbs light—best for ceilings and low-traffic rooms. Satin paint is washable and durable—better for high-traffic areas like hallways, kitchens, and kids' rooms. We typically recommend satin for most Kansas City home walls and flat for ceilings.
-  - question: Do I Have to Move Out for Interior Painting?
+      Flat paint hides wall imperfections and absorbs light—best for ceilings and low-traffic rooms. Satin paint is washable and durable—better for high-traffic areas like hallways, kitchens, and kids’ rooms. We typically recommend satin for most Kansas City home walls and flat for ceilings.
+  - question: "Do I have to move out for interior painting?"
     id: "move-out"
     answer: |
-      Nope! Most homeowners stay put while we paint. Thanks to low-VOC, low-odor paints and fast drying times, there’s minimal disruption to your daily routine. While some areas may be off-limits for a short time, we’ll work with you to schedule the project in a way that keeps your home livable—whether that means painting one room at a time or prioritizing high-traffic areas first.
+      No — most homeowners stay home during interior painting. Low-VOC, low-odor paints and fast dry times mean minimal disruption. We work room by room and keep your home livable throughout the project.
   - question: "What prep work is included?"
-    id: "careful"
+    id: "prep"
     answer: |
       Standard prep includes light sanding, filling nail holes, caulking trim joints, spot-priming stains, and complete floor/furniture protection. Major repairs like large holes, water damage, or extensive plaster cracks are quoted separately so you control costs. We discuss all needed repairs during your estimate.
   - question: "Can you match my existing paint color?"
-    id: "careful"
+    id: "color-match"
     answer: |
       Yes. If you have the original paint can or color code, we can match it exactly. Without it, we take a chip sample to Benjamin Moore or Sherwin-Williams for computer color matching (95%+ accuracy). Note: aged paint may look different than fresh paint due to fading.
 ---

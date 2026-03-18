@@ -93,11 +93,11 @@ faqs:
 
 Interior painting in Kansas City shouldn't be complicated. Since 2007, we've painted over 2,000 interior painting projects across Kansas City—from century-old plaster in Brookside to new construction in Leawood. Our process: show up on time, protect your stuff, paint carefully, clean up completely. No Drips, No Drama.
 
-{{< knowledge >}}
-
 ## Let’s Talk: Colors & Expectations
 
 Your estimate isn’t just about numbers—it’s a chance to fine-tune the details. We’ll discuss any needed repairs, [go over color]({{< relref "pages/color-help.md" >}}) and sheen options, and set clear expectations for the project. We'll even help you to [compare paint bids]({{< relref "pages/compare-painting-bids.md" >}}). This conversation ensures everything is planned out before work begins, so the process is smooth and stress-free.
+
+{{< knowledge >}}
 
 ![white living room](images/interior/brick-fp-paint.jpg)
 
@@ -129,6 +129,26 @@ When in doubt, we’ll help you weigh the options so you get the right balance o
 
 Every home—and every budget—is different. Some repairs are essential, while others are a matter of preference. We’ll talk through the options and tailor the work to fit your needs, so you get the right balance of prep and paint for your space.
 
+## Insider Tips
+
+A few things worth knowing before your estimate.
+
+### Rule of Thumb
+
+Generally, the biggest bang for the buck is wall paint - because walls are less labor-intensive and the visual transformation is greatest. Trim is more labor intensive and will usually be repainted some kind of white - so a relatively small visual change.
+
+### Do You Have to Paint Everything?
+
+Options range from Everything (walls, ceilings, trim) right down to painting an accent wall. We’ll work with your budget and time constraints to find the best match for your situation. And yes, it’s OK to mix and match - everything in the Living Room, but walls only in the kitchen.
+
+### Repairs Are Subjective
+
+Homes settle, water leaks happen and plaster cracks. Sometimes bringing everything up to showroom level is just not in the cards. As they say, Rome wasn’t built in a day. We’ll assess the situation and discuss options, then make a plan.
+
+### Nitty Gritty
+
+If you just need your blue walls light gray, we can do that. And if you’re after a higher level of finish, we can do that too. Let’s talk about what’s important to you. Those details will be clearly spelled out in our three page proposal so you know exactly what you can expect once work gets started.
+
 ## How Do You Protect My Home During Painting?
 
 Your home deserves to be treated with care and respect and that means jobsite protection. Before we pick up a paintbrush, we go the extra mile to ensure that every surface, piece of furniture, and personal item in your space is properly protected.
@@ -154,26 +174,6 @@ We also take care of items like pianos and Plaza Art Fair finds by covering them
 Since tails and paint don’t (or shouldn’t) mix, it’s best to make arrangements for pets in order to preserve their natural look.
 
 With our meticulous approach, you can be sure your home will remain clean, organized, and free of damage while we work. No Drips. No Drama. Just the care and protection your home deserves.
-
-### Insider Tips
-
-There are always option, it helps to know what to ask.
-
-#### Rule of Thumb
-
-Generally, the biggest bang for the buck is wall paint - because walls are less labor-intensive and the visual transformation is greatest. Trim is more labor intensive and will usually be repainted some kind of white - so a relatively small visual change.  
-
-#### Do You Have to Paint Everything?
-
-Options range from Everything (walls, ceilings, trim) right down to painting an accent wall. We’ll work with your budget and time constraints to find the best match for your situation. And yes, it’s OK to mix and match - everything in the Living Room, but walls only in the kitchen.
-
-#### Repairs Are Subjective
-
-Homes settle, water leaks happen and plaster cracks. Sometimes bringing everything up to showroom level is just not in the cards. As they say, Rome wasn't built in a day. We’ll assess the situation and discuss options, then make a plan.
-
-#### Nitty Gritty
-
-If you just need your blue walls light gray, we can do that. And if you’re after a higher level of finish, we can do that too. Let's talk about what's important to you. Those details will be clearly spelled out in our three page proposal so you know exactly what you can expect once work gets started.
 
 ## What Prep Work Is Included with Interior Painting?
 
@@ -231,10 +231,6 @@ Once the painting is complete, we take care of every detail to leave your home s
 
 Partnering with Crestwood Painting means a hassle-free process, exceptional craftsmanship, and a beautiful home transformation you’ll love.
 
-## Book An Estimate Today
-
-We’ll help narrow objectives and priorities and go over best options - there are many ways to approach this. [Book an Estimate with us]({{< relref "pages/estimate-scheduler.md" >}}) and let’s find what works best for your situation.
-
 ## Interior Painting Terms
 
 - Baseboard – A trim piece running along the bottom of walls to cover gaps.  
@@ -250,5 +246,9 @@ We’ll help narrow objectives and priorities and go over best options - there a
 - Apron – A horizontal trim under a windowsill.  
 - Door Stop – A strip of trim inside door frames that helps seal the door.  
 - Picture Frame Molding – Trim arranged in rectangles on walls for a decorative effect.
+
+## Book An Estimate Today
+
+We’ll help narrow objectives and priorities and go over best options - there are many ways to approach this. [Book an Estimate with us]({{< relref "pages/estimate-scheduler.md" >}}) and let’s find what works best for your situation.
 
 ![house painting review](images/reviews/r23-4-karenp.png)

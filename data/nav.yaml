@@ -14,8 +14,8 @@
 - name: "Painting Services"
   url: "#"
   submenu:
-    - name: "Interior Painters"
-      url: "/interior-painter-kansas-city/"
+    - name: "Interior Painting"
+      url: "/interior-painting-kansas-city/"
     - name: "Exterior Painting"
       url: "/exterior-painting-kansas-city/"
     - name: "Cabinet Painting"

@@ -97,11 +97,9 @@ faqs:
 
 ## If You’re New to Painting
 
-Relax - we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions.
+Exterior painting in Kansas City is a bigger commitment than a weekend project — weather, prep, and product choice all affect how long it lasts. Since 2007, we’ve painted over 2,000 KC homes, from century-old craftsmans in Brookside to new construction in Leawood. Most customers haven’t been through it before, and that’s fine. We handle the details. No Drips, No Drama.
 
 > They did a fantastic job, were easy to work with, professional, and clearly care about the work they are doing.
-
-{{< knowledge >}}
 
 ### How Many Colors?
 
@@ -125,6 +123,8 @@ For example:
 * Front Door – A chance to make a statement!
 
 No need to memorize the lingo — just tell us what catches your eye, and we’ll guide you from there. [See our color page]({{< relref "pages/color-help.md" >}}) for some more ideas.
+
+{{< knowledge >}}
 
 ### How Do I Prepare My Home for Painting?
 

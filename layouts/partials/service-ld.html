@@ -66,10 +66,10 @@
     {{- $node = merge $node (dict
       "aggregateRating" (dict
         "@type" "AggregateRating"
-        "ratingValue" (string $reviews.rating)
-        "reviewCount" (string $reviews.reviews)
-        "bestRating" "5"
-        "worstRating" "1"
+        "ratingValue" $reviews.rating
+        "reviewCount" $reviews.reviews
+        "bestRating" 5
+        "worstRating" 1
       )
     ) -}}
   {{- end -}}

@@ -39,7 +39,7 @@ knowledge:
   service_areas: ["Kansas City MO","Leawood KS","Overland Park KS","Prairie Village KS","Mission Hills KS","Lee’s Summit MO"]
   founded: "2007 (2,000+ Kansas City projects)"
   rating_suffix: "• EPA Lead-Safe Certified"
-  cta_text: "Book an Estimate"
+  cta_text: "Schedule an Estimate"
   cta_url: "/estimate-scheduler/"
   phone: "816-805-4515"
 service:

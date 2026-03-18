@@ -1,5 +1,5 @@
 ---
-title: "Exterior Painting"
+title: "Exterior Painting Kansas City"
 slug: "exterior-painting-kansas-city"           # lock new canonical
 description: "Tidy jobs, on-time completion, color help. Book us today - No Drips, No Drama"
 keywords: "Brookside, Lee's Summit, Leawood, Mission Hills, Prairie Village"
@@ -34,7 +34,9 @@ knowledge:
     - "Masonry/stone unless already painted"
     - "Full carpentry replacement outside scope"
   service_areas: ["Neighborhoods: Brookside, Hyde Park, Valentine","Kansas City MO","Leawood KS","Overland Park KS","Prairie Village KS","Liberty MO"]
-  cta_text: "Book an Estimate"
+  founded: "2007 (2,000+ Kansas City projects)"
+  rating_suffix: "• EPA Lead-Safe Certified"
+  cta_text: "Schedule an Estimate"
   cta_url: "/estimate-scheduler/"
   phone: "816-805-4515"
   # image: "/images/exterior/panel-thumb.webp"
@@ -50,46 +52,40 @@ show_service_links: true          # force on (if using global guard)
 service_links_include: []
 service_links_exclude: ["exterior"]
 service_links_limit: 7
-faqs: 
+faqs:
+  - question: "Do I Need to Be Home During Exterior Painting?"
+    id: "ex-home"
+    answer: |
+      No — most customers aren't home during the workday. We just need access to outdoor spigots and a clear path around the house. We'll confirm all details before the start date, and you'll get a daily update on progress. For gated properties or alarm systems, we'll coordinate access in advance.
+  - question: "How Do You Handle Repairs Found During Painting?"
+    id: "ex-repairs"
+    answer: |
+      Prep work sometimes uncovers damage that wasn't visible from the ground — siding hidden behind landscaping, trim on upper or attic windows. We photograph what we find and review options with you before any additional work begins. Any repairs beyond standard prep are quoted separately and only done with your approval. Nothing unexpected shows up on your final invoice.
+  - question: "Will Exterior Painting Disturb My Neighbors?"
+    id: "ex-neighbors"
+    answer: |
+      Exterior painting is low-impact for neighbors — no loud equipment, no blocking streets. Spraying can drift if conditions are windy, so we check weather before spray days and notify neighbors when we're working close to property lines. We're typically set up and working by 8am and wrapped up by 5pm.
   - question: "What is Included in Exterior House Painting?"
     id: "ex-incl"
     answer: |
-      If it’s painted now, it’ll be painted again. If it’s not, we won’t. Simple, right? That means siding, trim, doors, soffits, fascia, and accent trim all get a fresh coat. 
-      - Garages? Usually included—unless you’ve got something unique going on. 
-      - Sheds? Sometimes, if they need love too. 
-      - Playhouses? Not so much—though we’ll gladly offer color advice for the mini-mansion in your backyard! 
-      - Stone foundation? Nope. Unless it's already painted. 
-      
-      We keep things straightforward so you know exactly what’s covered.    
+      Exterior painting covers everything that’s currently painted: siding, trim, doors, soffits, fascia, and accent trim. Garages are usually included; sheds sometimes. Stone foundations and unpainted masonry are excluded unless already painted. We’ll confirm exactly what’s in scope during your estimate — no surprises.
   - question: "How Long Does Exterior Paint Last in Kansas City?"
     id: "ex-last"
     answer: |
-      Let’s talk real-world results. In year 14, two of our very first customers called to repaint. Fourteen years is a solid data point - good homeowner value. It’s attention to detail, great products and a process designed to stand the test of time.
+      Exterior paint in Kansas City typically lasts 8–14 years, depending on prep quality, paint brand, and sun exposure. South- and west-facing walls take the most UV and often show wear first. Two of our first customers — painted in 2007 — called back in year 14 for their first repaint. That’s the result of thorough prep, premium paints (Benjamin Moore Regal Select, Sherwin-Williams Duration), and a two-coat system. Cutting corners on prep is the most common reason paint fails early.
   - question: "How Much Does Exterior Painting Cost?"
-    id: "ex-cost" 
+    id: "ex-cost"
     answer: |
-      Painting costs can vary, but here’s the ballpark. 
-      - Small ranch-style home? Around $5,000. 
-      - Larger, more detailed homes can go up to $40,000. 
-      
-      Pricing depends on size, the number of colors, color placement complexity, accessibility, and any needed repairs. While some painters may offer lower pricing, we focus on lasting results and a smooth experience—so no do-overs in a few years.
+      Exterior painting in Kansas City typically runs $5,000–$30,000. A small ranch is usually around $5,000; larger, more detailed homes run higher. Price depends on size, number of colors, accessibility, and needed repairs. We focus on lasting results — proper prep and premium paint — so you’re not repainting in three years.
   - question: "When Is It OK to Paint Exteriors?"
     id: "ex-season"
     answer: |
-      Kansas City’s seasons can be unpredictable, but we work within the best temperature and weather conditions to get great results. Spring through Thanksgiving is our typical painting season, though the exact start and stop dates vary each year. 
-      - Cold weather? Most high-performance paints work down to 35°F, but we won’t push our painters to test it. 
-      - Summer heat? No problem\! Unlike what many think, there’s no “perfect” painting season. As long as best practices are followed, we can paint right through a KC summer. 
-      
-      Moral of the story? If the weather’s cooperating, we’re painting.
+      We paint spring through Thanksgiving — roughly March to November in most years. Most high-performance paints work down to 35°F, and Kansas City summers are fine as long as we follow best practices (early starts, shaded surfaces). Cold, wet, or windy days get rescheduled. If the weather’s cooperating, we’re painting.
 
   - question: "What’s the Best Exterior Sheen for Kansas City?"
     id: "ex-sheen"
     answer: |
-      Sheen is mostly about looks rather than durability. Here’s the usual breakdown. - Body of the house? Flat or satin — this is a coin toss. 
-      - Trim? Satin or semi-gloss — a little shine adds crispness. 
-      - Front doors & shutters? Gloss or semi-gloss—to spiff things up! 
-      
-      In suburban homes, satin all around is a safe bet. Older, traditional homes often mix two different sheens for contrast. Higher sheens clean up easier but can also highlight imperfections more than lower sheen finishes.
+      Sheen is mostly about looks, not durability. Standard breakdown: body of house — flat or satin (either works); trim — satin or semi-gloss for crispness; front doors and shutters — gloss or semi-gloss to make them pop. Satin throughout is a safe, low-maintenance choice. Higher sheens are easier to clean but show surface imperfections more.
 
 ---
 {{< knowledge-strip >}}
@@ -101,7 +97,7 @@ faqs:
 
 ## If You’re New to Painting
 
-Relax - we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions; also check the Exterior FAQs [down below](#---), too.
+Relax - we’ve done this before. Most of our customers have never painted a house before, so you’re in good company. We’ll share some hints and offer some suggestions.
 
 > They did a fantastic job, were easy to work with, professional, and clearly care about the work they are doing.
 
@@ -130,7 +126,7 @@ For example:
 
 No need to memorize the lingo — just tell us what catches your eye, and we’ll guide you from there. [See our color page]({{< relref "pages/color-help.md" >}}) for some more ideas.
 
-### Getting Ready: A Few Simple Steps
+### How Do I Prepare My Home for Painting?
 
 After a project is Set To Go and so things run smoothly, we’ll share a quick checklist of things to do before we get started.
 
@@ -141,7 +137,7 @@ After a project is Set To Go and so things run smoothly, we’ll share a quick c
 
 No stress, no surprises—we’ll walk you through everything and make sure you’re set for a smooth, easy process.
 
-## Exterior Prep
+## What Does Exterior Prep Work Include?
 
 Before we begin painting, we make sure everything is ready for a smooth and safe work process.
 
@@ -185,7 +181,7 @@ It's a good idea to trim back any greenery that’s close to the house to help p
 
 ![stucco paint gray house](images/exterior/stately-great-paint.webp)
 
-## The Painting Process
+## How Does Exterior Painting Work?
 
 When it comes time to paint, a combination of spray, roll, and brush techniques may be used. Spraying gives an  even, consistent coverage, while brush and roll are used where spraying isn't as efficient. When needed, surfaces may be backrolled to ensure the best finish.
 
@@ -207,17 +203,11 @@ After we’re finished, we make sure everything is cleaned up. This includes rem
 
 ## Book an Estimate
 
-We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this - let’s find what works best for your situation. You can [book an estimate time]({{< relref "pages/estimate-scheduler.md" >}}) here.
+We can take a look at your objectives and priorities and then narrow down the best options. There are many ways to approach this — let’s find what works best for your situation. [Book an estimate time]({{< relref "pages/estimate-scheduler.md" >}}) and let’s get started. No Drips. No Drama. Just your great-looking home.
 
 ### What Else Should I Ask?
 
-Learn how to [compare painting bids]({{< relref "pages/compare-painting-bids.md" >}}), then see [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}). Still more questions? Call or email - we're ready to answer your questions.
-
-### Final Thoughts
-
-Painting your home is a big deal, but it doesn’t have to be a big hassle. We’ll guide you through each step, make sure you love the results, and leave you with a finish that lasts for years to come.
-
-No Drips. No Drama. Just your great-looking home.
+Learn how to [compare painting bids]({{< relref "pages/compare-painting-bids.md" >}}), then see [12 Questions to Ask _Before_ You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}). Still more questions? Call or email - we’re ready to answer your questions.
 
 ## Vocabulary List
 
@@ -258,5 +248,3 @@ There won’t be a test, but this list might save some searching. Yes, it’s bo
 * Brackets – Structural or decorative angled supports under porches, eaves, or beams.
 
 ![customer review exterior painting](images/reviews/r24-5-wineingerk.png)
-
-#### ---

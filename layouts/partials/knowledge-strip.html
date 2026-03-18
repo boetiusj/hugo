@@ -52,11 +52,12 @@
     </div>
   {{- end -}}
 
-  {{- with $k.rating -}}
+  {{- $reviews := site.Data.googleReviews -}}
+  {{- if $reviews -}}
     <div class="kn-chip">
       {{ partial "kn-icon.html" (dict "name" "star") }}
       <span class="kn-label">Rated</span>
-      <span class="kn-val">{{ . }}</span>
+      <span class="kn-val">{{ $reviews.rating }} stars ({{ $reviews.reviews }} reviews){{ with $k.rating_suffix }} {{ . }}{{ end }}</span>
     </div>
   {{- end -}}
 

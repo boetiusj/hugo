@@ -129,6 +129,22 @@ When in doubt, we’ll help you weigh the options so you get the right balance o
 
 Every home—and every budget—is different. Some repairs are essential, while others are a matter of preference. We’ll talk through the options and tailor the work to fit your needs, so you get the right balance of prep and paint for your space.
 
+Always included:
+
+- Filling nail holes
+- Caulking trim joints
+- Light sanding
+- Spot-priming stains
+
+Quoted separately:
+
+- Large drywall patches
+- Water damage repair
+- Extensive plaster cracking
+- Matching textured finishes (knockdown, orange-peel)
+
+We’ll show you what we find, explain the options, and let you decide what’s worth addressing.
+
 ## Insider Tips
 
 A few things worth knowing before your estimate.

@@ -7,7 +7,7 @@ keywords: "paint color tips crestwood painting"
 date: "2013-02-05"
 index: true
 images: "/images/schema-ogimage.jpg"
-image: "/images/StewartAfter_opt.jpg"
+image: "/images/exterior/StewartAfter_opt.jpg"
 categories:
   - "color-tips"
   - "exterior"

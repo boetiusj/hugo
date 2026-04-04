@@ -58,7 +58,7 @@ After years of helping hundreds of Kansas City homeowners navigate exterior colo
 
 A great exterior paint job should do more than just freshen up your home—it should make you proud every time you pull into the driveway. The right color combination highlights your home’s best features, creates a welcoming presence, and feels uniquely *you.*
 
-![painted victorian house](images/house-shingle-gable.webp)
+![painted victorian house](images/exterior/house-shingle-gable.webp)
 
 ### Light Colors Look Whiter
 

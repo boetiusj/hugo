@@ -6,7 +6,7 @@ keywords: "Painting vinyl window trim"
 date: "2013-11-21"
 index: true
 images: "/images/schema-ogimage.jpg"
-image: "/images/white-wall-tire.webp"
+image: "/images/exterior/white-wall-tire.webp"
 categories:
   - "painting-tips"
   - "color-tips"

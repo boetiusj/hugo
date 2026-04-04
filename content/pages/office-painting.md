@@ -141,7 +141,7 @@ An office with mismatched colors can feel disjointed and unprofessional. A cohes
 
 Traditional paints may contain VOCs, posing health risks. Low-VOC or no-VOC paint options ensure a healthier environment for employees and clients, aligning with safety and environmental standards.
 
-![office painting](images/O-print-layout.webp)
+![office painting](images/office/O-print-layout.webp)
 
 ## What to Expect During Your Office Painting Project
 
@@ -193,16 +193,16 @@ A freshly painted office isn’t just about aesthetics—it’s a smart investme
 
 {{< gallery >}}
 
-* ![UMKC painting customer](images/o-umkc1.webp)
-* ![Edward Jones painting office kansas city](images/O-edwardjones.webp)
-* ![office painting fedex kansas city](images/O-fedex-logo.webp)
-* ![office painting cintas](images/O-Cintas.webp)
+* ![UMKC painting customer](images/office/o-umkc1.webp)
+* ![Edward Jones painting office kansas city](images/office/O-edwardjones.webp)
+* ![office painting fedex kansas city](images/office/O-fedex-logo.webp)
+* ![office painting cintas](images/office/O-Cintas.webp)
 {{< /gallery >}}
 
 {{< gallery >}}
 
-* ![office painting United Way](images/O-UnitedWay.webp)
-* ![commercial painting warehouse Republic](images/O-Republic.webp)
-* ![office painting Thrifty](images/O-Thrifty.webp)
-* ![office painting Bluebird](images/O-Bluebird.webp)
+* ![office painting United Way](images/office/O-UnitedWay.webp)
+* ![commercial painting warehouse Republic](images/office/O-Republic.webp)
+* ![office painting Thrifty](images/office/O-Thrifty.webp)
+* ![office painting Bluebird](images/office/O-Bluebird.webp)
 {{< /gallery >}}

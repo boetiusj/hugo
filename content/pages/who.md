@@ -9,7 +9,7 @@ schema_type: "AboutPage"
 index: true
 ---
 {{< figure1st
-  src="/images/crestwood-neighborhood.jpg"
+  src="/images/exterior/crestwood-neighborhood.jpg"
 >}}
 
 ## No Drips, No Drama – since 2007
@@ -20,8 +20,8 @@ We believe a good painting experience starts with clear communication and ends w
 
 {{< gallery >}}
 
-- ![Painting Contractors Assoc](images/logo-pca100.webp)
-- ![EPA Lead paint certified](images/Lead-Safe-Certified120.webp)
+- ![Painting Contractors Assoc](images/other/logo-pca100.webp)
+- ![EPA Lead paint certified](images/admin/Lead-Safe-Certified120.webp)
 {{< /gallery >}}
 
 From day one, we’ve held a KCMO business license and full insurance. You’ll get a copy of our insurance certificate with your proposal—because we believe peace of mind starts with transparency.

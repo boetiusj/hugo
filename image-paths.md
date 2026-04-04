@@ -225,3 +225,69 @@ images/svg/*.svg (dynamic — icon filenames from nav.yaml `icon` field)
 /images/svg/twitter.svg
 /images/svg/x-facebook-f.svg
 /images/svg/xx-fb.svg
+
+## Root-level assets/images files active on the site (candidates to move to subfolders)
+
+### Certification / compliance logos
+
+/images/Lead-Safe-Certified120.webp
+/images/lead-safe-certified-155.webp
+/images/ins-cert.webp
+
+### Brand / partner logos
+
+/images/logo-crestwood.webp
+/images/logo-pca100.webp
+/images/logo-sq-ppg100.webp
+/images/logosq-SW100.webp
+/images/logosqBM100.webp
+/images/blogger-local.png
+
+### Office / commercial client photos
+
+/images/O-Bluebird.webp
+/images/O-Cintas.webp
+/images/O-Republic.webp
+/images/O-Thrifty.webp
+/images/O-UnitedWay.webp
+/images/O-edwardjones.webp
+/images/O-fedex-logo.webp
+/images/O-print-layout.webp
+/images/o-umkc1.webp
+
+### Exterior / project photos
+
+/images/MN-front-e1485211429554.jpg
+/images/StewartAfter_opt.jpg
+/images/crestwood-neighborhood.jpg
+/images/house-shingle-gable.webp
+/images/peeling-exterior-paint-warranty.webp
+/images/renovate-right.jpg
+/images/Safety-Bollards-300x300.jpg
+/images/white-wall-tire.webp
+
+### Interior / misc project photos
+
+/images/cimg2382.webp
+/images/Lift-1-1024x1024.jpg
+/images/nail-pop-drywall.webp
+/images/nail-pop-surface-intact.webp
+/images/sheen-stripes.webp
+/images/sketchy.webp
+
+### Blog / content images
+
+/images/bedroompaintcolors.webp
+/images/caulk-here.webp
+/images/color-chips.webp
+/images/colors.webp
+/images/duration.jpg
+/images/faq-pic.webp
+/images/fuhgeddaboudit.webp
+/images/leftover-paint.webp
+/images/oldpaintcans.webp
+/images/painters-whites.webp
+/images/popcorn-ceiling-300x200.jpg
+/images/Thank-You-2-e1514038961814.jpg
+/images/wallpaper-removal.webp
+/images/woodrot.webp

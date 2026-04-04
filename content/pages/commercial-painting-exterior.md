@@ -6,10 +6,10 @@ keywords: "commercial exterior painting, Kansas City, office"
 date: "2017-07-08"
 images: "/images/schema-ogimage.jpg"
 schema_images:
-  - src: "/images/MN-front-e1485211429554.jpg"
+  - src: "/images/exterior/MN-front-e1485211429554.jpg"
     caption: "Commercial paint colors - Kansas City, MO"
     representative: true
-  - src: "/images/Safety-Bollards-300x300.jpg"
+  - src: "/images/exterior/Safety-Bollards-300x300.jpg"
     caption: "Commercial painting, Kansas City"
 index: true
 service:
@@ -18,7 +18,7 @@ service:
   price: "Quoted"
 ---
 {{< figure1st
-  src="/images/MN-front-e1485211429554.jpg"
+  src="/images/exterior/MN-front-e1485211429554.jpg"
   >}}
 
 This brand new senior health center in Olathe, KS was painted safely and ahead of schedule. A clear plan was key.
@@ -62,7 +62,7 @@ We'll go through our commercial painting checklist to be sure to cover the top p
 
 As a rule of thumb, commercial painting in Kansas City starts at $1200 for small projects; the scale changes quite a bit with larger projects like those pictured. Give us a call and we'll let you know how efficient we can be with your project.
 
-![commercial safety painting kansas city](images/Safety-Bollards-300x300.jpg)
+![commercial safety painting kansas city](images/exterior/Safety-Bollards-300x300.jpg)
 
 Commercial maintenance painting: Safety yellow paint helps heavy equipment to steer clear.
 

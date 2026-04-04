@@ -7,7 +7,7 @@ keywords: "painter certification, kansas city, lead paint,"
 date: "2020-09-01"
 index: true
 images: "/images/schema-ogimage.jpg"
-image: "/images/lead-safe-certified-155.webp"
+image: "/images/admin/lead-safe-certified-155.webp"
 categories:
   - "good-to-know"
 
@@ -16,7 +16,7 @@ categories:
 
 For homes built before 1978, lead paint may be a factor in how painting work is done. To see that both homeowners and contractors are protected, EPA-accredited training and certification is required of all contractors working on older homes.
 
-![Lead paint certification](images/lead-safe-certified-155.webp)
+![Lead paint certification](images/admin/lead-safe-certified-155.webp)
 
 The RRP rule (Renovation, Repair and Painting) has been in place since 2011, regular refresher courses are required to maintain certification.
 
@@ -43,4 +43,4 @@ Lead poisoning is serious - young children and pregnant women are especially vul
 
 There is a slight cost difference in complying: more time in implementing lead-safe protection, more materials also. On the flip-side, our work systems allow us to protect very efficiently and clean up much more effectively than we ever did before implementing lead-safe work practices.
 
-![EPA lead paint brochure](images/renovate-right.jpg)
+![EPA lead paint brochure](images/exterior/renovate-right.jpg)

@@ -59,7 +59,7 @@ From prep to cleanup, we handle every detail with care. Trust our [Kansas City w
 
 Bathrooms need paint that can handle humidity and daily use. Moisture-resistant paints prevent mold, mildew, and unsightly drip marks. A fresh coat keeps your bathroom looking clean and inviting.
 
-![painting review](images/r11-7-kara.webp)
+![painting review](images/reviews/r11-7-kara.webp)
 
 #### Living Room Painting
 

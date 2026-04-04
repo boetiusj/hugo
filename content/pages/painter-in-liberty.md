@@ -56,7 +56,7 @@ A simple coat of paint can turn your basement into a stylish and functional exte
 
 Wallpaper removal is harder than it looks—unless you call us. Our [wallpaper removal pros]({{< relref "pages/wallpaper-removal-kansas-city.md" >}}) deliver smooth walls and a fresh, modern appearance with zero hassle.
 
-![painting review](images/r18-2-ruben.webp)
+![painting review](images/reviews/r18-2-ruben.webp)
 
 #### Bathroom Painting – A fresh look, even in high humidity
 

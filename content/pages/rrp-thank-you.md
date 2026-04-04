@@ -11,4 +11,4 @@ sitemap:
 
 ---
 
-![customer review painter kansas city crestwood painting](images/r17-4-glorfeld.webp)
+![customer review painter kansas city crestwood painting](images/reviews/r17-4-glorfeld.webp)

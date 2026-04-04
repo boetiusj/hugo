@@ -65,7 +65,7 @@ Bathrooms need paint that can handle humidity and daily use. Moisture-resistant 
 
 A well-painted living room enhances your style and creates a cozy atmosphere. The right colors and finishes can make the space feel more open, intimate, or sophisticated. A fresh coat of paint keeps it looking clean and well-maintained.
 
-![painting review](images/r18-2-ruben.webp)
+![painting review](images/reviews/r18-2-ruben.webp)
 
 #### Playroom Painting
 

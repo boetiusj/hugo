@@ -119,4 +119,4 @@ Your front door is a chance to express your style and elevate your home's exteri
 
 Whether you want your home to stand out or simply feel more inviting, a freshly painted door is a great place to start. [Get in touch with us]({{< relref "pages/estimate-scheduler.md" >}}) to schedule a color consultation or painting estimate.
 
-![painting review](images/r09-5-tonyl.webp)
+![painting review](images/reviews/r09-5-tonyl.webp)

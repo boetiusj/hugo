@@ -109,4 +109,4 @@ We make it easy to get a clear, non-salesy estimate. We’ll arrive on time, tak
 
 Painting in Mission Hills means balancing charm and protection. Our work adds lasting beauty you can see every time you pull into the driveway.
 
-![painting review](images/r12-7-dianah.webp)
+![painting review](images/reviews/r12-7-dianah.webp)

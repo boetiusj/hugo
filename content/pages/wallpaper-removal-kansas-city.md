@@ -10,7 +10,7 @@ schema_images:
   - src: "/images/interior/wallpaper-layers.jpg"
     caption: "Wallpaper layers"
     representative: true
-  - src: "/images/r16-6-borchers.webp"
+  - src: "/images/reviews/r16-6-borchers.webp"
     caption: "Interior painter"
 knowledge:
   title: "Wallpaper Removal — Quick Facts"
@@ -88,6 +88,6 @@ Ideally, wallpaper removal is quick and easy—just peel it off, with no mess, n
 
 Unfortunately, wallpaper removal rarely goes as planned. Many walls were never properly sized (primed before wallpaper installation), meaning the paper has bonded tightly to the drywall or plaster. Instead of peeling off in large, satisfying strips, it tears into tiny, stubborn pieces. The adhesive might refuse to release, leaving behind a sticky, patchy mess. The removal process can quickly turn into a nightmare—damaged walls, gouged drywall, unexpected repairs, and frustration levels rising. What starts as a simple DIY project often ends in regret, stress, and maybe even a drink to ease the pain.
 
-![painter review crestwood painting](images/r16-6-borchers.webp)
+![painter review crestwood painting](images/reviews/r16-6-borchers.webp)
 
 ![wallpaper removal valuted ceiling](images/fuhgeddaboudit.webp)

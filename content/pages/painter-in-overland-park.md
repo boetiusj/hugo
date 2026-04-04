@@ -63,7 +63,7 @@ High-humidity areas require the right paint and application. We use moisture-res
 
 As a central gathering space, your living room should feel warm and inviting. We help you choose colors and finishes that enhance your style and create a cozy atmosphere.
 
-![painting review](images/r-23-4-laurie.jpg)
+![painting review](images/reviews/r-23-4-laurie.jpg)
 
 #### Playroom Painting
 

@@ -121,4 +121,4 @@ Your walls don’t exist in a vacuum—flooring plays a big role in how a color 
 
 Fireplaces naturally draw attention, but if the original materials feel outdated (hello, 1970s brick!), a fresh color can work wonders. The goal is to enhance — not overpower — the rest of the room. Whether it’s brick, stone, or painted wood, coordinating your fireplace color with your walls creates a seamless, intentional look that ties the space together.
 
-![paint colors, painter review, crestwood painting](images/r09-5-tonyl.webp)
+![paint colors, painter review, crestwood painting](images/reviews/r09-5-tonyl.webp)

@@ -84,4 +84,4 @@ For us, *No Drips, No Drama* means:
 
 Give us a call and see how easy it can be to work with true service professionals.
 
-![painter review testimonial kansas city crestwood](images/r15-2-goff.webp)
+![painter review testimonial kansas city crestwood](images/reviews/r15-2-goff.webp)

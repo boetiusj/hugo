@@ -41,4 +41,4 @@ Kansas City homeowners have a wide range of options available when they look for
 
 Give us a call and we can discuss the options that are best for your situation and budget. Meantime, see if [12 Questions to Ask Before You Hire a Painter]({{< relref "pages/12-top-painter-questions.md" >}}) might help you avoid some of what Barbara ran into.
 
-![review](images/r15-2-goff.webp)
+![review](images/reviews/r15-2-goff.webp)

@@ -23,4 +23,4 @@ Exclusions also include:
 
 Crestwood Painting is not responsible for differences in paint color or sheen when performing warranty work.
 
-![customer review crestwood painting](images/r11-7-kara.webp)
+![customer review crestwood painting](images/reviews/r11-7-kara.webp)

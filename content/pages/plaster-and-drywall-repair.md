@@ -10,7 +10,7 @@ schema_images:
   - src: "/images/interior/plaster-holes-ceil-wall.jpg"
     caption: "Plaster holes, Kansas City, MO"
     representative: true
-  - src: "/images/interior/plaster-dwall-plumbing.jpg"
+  - src: "/images/interior/dwall-plumbing.jpg"
     caption: "Plumbing wall damage"
 knowledge:
   title: "Plaster & Drywall Repair — Quick Facts"
@@ -90,7 +90,7 @@ Things shift, cracks appear, and sometimes walls just don't cooperate. Whether i
 
 {{< knowledge >}}
 
-![Plumbing wall damage](images/interior/plaster-dwall-plumbing.jpg)
+![Plumbing wall damage](images/interior/dwall-plumbing.jpg)
 
 ### Repairing Traditional Plaster
 

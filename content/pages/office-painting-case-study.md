@@ -7,7 +7,7 @@ images: "/images/schema-ogimage.jpg"
 index: true
 ---
 {{< figure1st
-  src="/images/Office-2-e1514756940438.jpg"
+  src="/images/office/Office-2-e1514756940438.jpg"
 >}}
 
 ## The Situation - Dated

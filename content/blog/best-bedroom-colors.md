@@ -6,7 +6,7 @@ keywords: "paint bedroom color crestwood painting"
 date: "2013-04-30"
 index: true
 images: "/images/schema-ogimage.jpg"
-image: "/images/bedroompaintcolors.webp"
+image: "/images/blog/bedroompaintcolors.webp"
 categories:
   - "color-tips"
   - "interior"
@@ -34,7 +34,7 @@ Avoid frequent pitfalls homeowners make when selecting bedroom hues.
 
 Selecting overly intense colors can interfere with restful sleep, leading to overstimulation. Bright colors might initially seem appealing but quickly become overwhelming.
 
-![choosing relaxing colors](images/bedroompaintcolors.webp)
+![choosing relaxing colors](images/blog/bedroompaintcolors.webp)
 
 ### Ignoring Personal Preferences
 

@@ -7,14 +7,14 @@ keywords: "drywall nail pops repair painting crestwood"
 date: "2014-06-20"
 index: true
 images: "/images/schema-ogimage.jpg"
-image: "/images/nail-pop-surface-intact.webp"
+image: "/images/interior/nail-pop-surface-intact.webp"
 categories:
   - "good-to-know"
 
 ---
 > nail pop *(noun)* | ˈnāl ˌpäp| A condition in which a nail protrudes above the surface of drywall or siding due to structural movement, wood shrinkage, or improper installation.
 
-![nail pop intact](images/nail-pop-surface-intact.webp)
+![nail pop intact](images/interior/nail-pop-surface-intact.webp)
 
 ## Nail Pops: What They Are and How to Fix Them
 
@@ -26,7 +26,7 @@ On [exterior surfaces]({{< relref "pages/exterior-painting-kansas-city.md" >}}),
 
 If the original siding crew had taken an extra second to properly set each nail—just dimpling the surface without overdriving—it could have prevented many of these issues. But time and budgets don’t always allow for that level of care.
 
-![nail pops test](images/nail-pop-drywall.webp)
+![nail pops test](images/interior/nail-pop-drywall.webp)
 
 #### When to Fix Exterior Nail Pops
 

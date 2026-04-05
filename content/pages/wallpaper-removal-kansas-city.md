@@ -90,4 +90,4 @@ Unfortunately, wallpaper removal rarely goes as planned. Many walls were never p
 
 ![painter review crestwood painting](images/reviews/r16-6-borchers.webp)
 
-![wallpaper removal valuted ceiling](images/fuhgeddaboudit.webp)
+![wallpaper removal valuted ceiling](images/blog/fuhgeddaboudit.webp)

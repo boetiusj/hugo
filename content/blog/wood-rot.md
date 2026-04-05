@@ -7,7 +7,7 @@ keywords: "painting prep wood rot kansas city"
 date: "2012-08-20"
 index: true
 images: "/images/schema-ogimage.jpg"
-image: "/images/woodrot.webp"
+image: "/images/blog/woodrot.webp"
 categories:
   - "exterior"
 
@@ -20,7 +20,7 @@ Peeling paint and cosmetic issues are often mistaken for rot—but the differenc
 
 In Kansas City, we hear it all the time: “I think we’ve got wood rot.” Sometimes that’s true—but often it’s not. Peeling paint, dry caulk, and surface cracking can make siding and trim look worse than they really are.
 
-![wood rot](images/woodrot.webp)
+![wood rot](images/blog/woodrot.webp)
 
 It’s important to know the difference. Because if it’s just weathered paint, the solution may be simpler than you think.
 

@@ -131,7 +131,7 @@ faqs:
       We pay well enough to attract high quality people. Our painters are real people with real lives and real families, living right here in Kansas City.
 
 ---
-![paint FAQ questions image](images/faq-pic.webp)
+![paint FAQ questions image](images/blog/faq-pic.webp)
 
 ## FAQs
 

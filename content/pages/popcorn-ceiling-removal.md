@@ -7,7 +7,7 @@ images: "/images/schema-ogimage.jpg"
 index: true"
 ---
 {{< figure1st
-  src="/images/popcorn-ceiling-300x200.jpg"
+  src="/images/blog/popcorn-ceiling-300x200.jpg"
 >}}
 
 ## Popcorn Ceilings Make an Impression

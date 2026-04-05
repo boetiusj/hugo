@@ -7,14 +7,14 @@ keywords: "Paint disposal kansas city crestwood"
 date: "2012-12-10"
 index: true
 images: "/images/schema-ogimage.jpg"
-image: "/images/oldpaintcans.webp"
+image: "/images/blog/oldpaintcans.webp"
 categories:
   - "good-to-know" 
 
 ---
 Properly dealing with leftover paint not only keeps your home clutter-free but also safeguards the environment from hazardous chemicals. Whether you’ve just finished an interior project or wrapped up some exterior touch-up, understanding how to safely handle old paint is important.
 
-![Old Paint - Disposal](images/oldpaintcans.webp)
+![Old Paint - Disposal](images/blog/oldpaintcans.webp)
 
 ## The Leftover Paint Dilemma
 

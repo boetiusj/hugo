@@ -7,7 +7,7 @@ keywords: "paint storage tips"
 date: "2014-06-02"
 index: true
 images: "/images/schema-ogimage.jpg"
-image: "/images/leftover-paint.webp"
+image: "/images/blog/leftover-paint.webp"
 categories:
   - "good-to-know"
 
@@ -20,7 +20,7 @@ Leftover paint can be a problem or a solution—depending on how you store it.
 
 Most homes have a few partially used cans of paint sitting in a corner or shelf. Whether you’re planning to touch up trim or repaint a whole room, proper storage can mean the difference between usable paint and a hazardous mess.
 
-![paint storage](images/leftover-paint.webp)
+![paint storage](images/blog/leftover-paint.webp)
 
 Done right, a can of latex paint can last for years. Done wrong, it becomes unusable—and eventually a disposal issue.
 

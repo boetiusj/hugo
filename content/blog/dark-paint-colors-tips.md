@@ -7,9 +7,9 @@ keywords: "paint color tips crestwood painting"
 date: "2014-01-24"
 index: true
 images: "/images/schema-ogimage.jpg"
-image: "/images/duration.jpg"
+image: "/images/blog/duration.jpg"
 schema_images:
-  - src: "/images/duration.jpg"
+  - src: "/images/blog/duration.jpg"
     caption: "Dark paint colors, Kansas City, MO"
     representative: true
 categories:
@@ -18,7 +18,7 @@ categories:
 ---
 Deep, vibrant paint colors can transform a room with dramatic flair, but you might be wondering how many coats of paint does it take to get that full, even coverage. As it turns out, extra steps and careful planning are often necessary for rich, saturated shades.
 
-![Paint colors - deep base](images/duration.jpg)
+![Paint colors - deep base](images/blog/duration.jpg)
 
 ## Why Deep Colors Don’t Cover as Well
 

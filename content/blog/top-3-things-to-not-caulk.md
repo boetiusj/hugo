@@ -6,7 +6,7 @@ keywords: "painting caulk best practices"
 date: "2014-07-15"
 index: true
 images: "/images/schema-ogimage.jpg"
-image: "/images/caulk-here.webp"
+image: "/images/blog/caulk-here.webp"
 categories:
   - "nitty-gritty"
 
@@ -17,7 +17,7 @@ Caulk is a vital part of any exterior painting or maintenance job, but sealing e
 
 Caulk is designed to seal joints around windows, doors, and trim. It prevents moisture infiltration and creates a seamless, unified look, especially on exterior surfaces. Because it smooths over gaps, cracks, and small crevices, caulk contributes significantly to a home’s curb appeal and structural integrity when used correctly.
 
-![caulk here but not there](images/caulk-here.webp)
+![caulk here but not there](images/blog/caulk-here.webp)
 
 ### Why Proper Caulking Matters
 

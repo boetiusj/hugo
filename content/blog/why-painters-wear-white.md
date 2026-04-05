@@ -7,7 +7,7 @@ keywords: painters wear white
 date: "2011-09-21"
 images: "/images/schema-ogimage.jpg"
 schema_images:
-  - src: "/images/painters-whites.webp"
+  - src: "/images/blog/painters-whites.webp"
     caption: "Painters' whites, Kansas City, MO"
     representative: true
 categories:
@@ -16,7 +16,7 @@ index: true
 ---
 The practice of painters wearing white dates back to the 19th century, a period that also saw major developments in the painting industry. Sherwin-Williams was founded in 1866, bringing ready-mixed paint to the market. The Painting Contractors Association (PCA) was established in 1884, formalizing the standards of the trade.
 
-![why painters wear whites](images/painters-whites.webp)
+![why painters wear whites](images/blog/painters-whites.webp)
 
 These milestones aligned with the rise of white workwear as a symbol of pride, skill, and professional identity.
 

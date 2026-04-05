@@ -32,7 +32,7 @@ Proof of proper insurance, sure - but also consistent training and screening of 
 1. Disruption - we'll work around entrances at off-peak times and will work with your staff to ensure proper communication about work flow. There's usually caution tape where appropriate and signage to advise and direct traffic.
 2. Noise - painting shouldn't disrupt. Clear communication means expectations are clear for all involved. Best to let us know if we need to avoid an area at certain times so exterior painting doesn't distract your staff.
 
-![exterior commercial painting](images/Lift-1-1024x1024.jpg)
+![exterior commercial painting](images/interior/Lift-1-1024x1024.jpg)
 
 Aerial lifts allow efficient painting and avoids the distractions of noisy ladders.
 

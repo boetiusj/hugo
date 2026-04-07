@@ -5,10 +5,10 @@ description: "Paint colors can look different depending on sunlight, shadows, re
 keywords: "paint colors kansas city"
 date: "2016-02-02"
 index: true
-image: "/images/interior/wild-lips.jpg"
+image: "/images/blog/wild-lips.jpg"
 images: "/images/schema-ogimage.jpg"
 schema_images:
-  - src: "/images/interior/wild-kisses-cr.jpg" 
+  - src: "/images/blog/wild-kisses-cr.jpg" 
     caption: "Painted walls in Kansas City"
     representative: true
 categories:
@@ -18,7 +18,7 @@ show_service_links: include
 
 ---
 
-{{< figure-blog src="/images/interior/wild-kisses-cr.jpg" alt="weird walls" >}}
+{{< figure-blog src="/images/blog/wild-kisses-cr.jpg" alt="weird walls" >}}
 
 Paint colors often behave like chameleons, shifting their appearance as the light changes throughout the day.
 

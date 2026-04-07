@@ -7,7 +7,7 @@ keywords: "wallpaper removal"
 date: "2011-09-18"
 images: "/images/schema-ogimage.jpg"
 schema_images:
-  - src: "/images/interior/wallpaper-layers.jpg"
+  - src: "/images/blog/wallpaper-layers.jpg"
     caption: "Wallpaper layers"
     representative: true
   - src: "/images/reviews/r16-6-borchers.webp"
@@ -75,7 +75,7 @@ service:
 {{< knowledge-strip >}}
 
 {{< figure1st
-  src="/images/interior/wallpaper-layers.jpg"
+  src="/images/blog/wallpaper-layers.jpg"
 >}}
 
 ## Wallpaper is Not Easy

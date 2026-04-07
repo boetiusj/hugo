@@ -7,10 +7,10 @@ keywords: "interior vs exterior paint, kansas city painting"
 date: "2026-01-02"
 index: true
 feature: "6"
-image: "/images/exterior/bgCanadaLake.webp"
+image: "/images/blog/bgCanadaLake.webp"
 images: "/images/schema-ogimage.jpg"
 schema_images:
-  - src: "/images/exterior/bgCanadaLake.webp"
+  - src: "/images/blog/bgCanadaLake.webp"
     caption: "Scenic lake"
     representative: true
 categories:

@@ -7,7 +7,7 @@ keywords: "house paint warranty kansas city crestwood"
 date: "2013-08-23"
 index: true
 images: "/images/schema-ogimage.jpg"
-image: "/images/exterior/peeling-exterior-paint-warranty.webp"
+image: "/images/blog/peeling-exterior-paint-warranty.webp"
 categories:
   - "hiring-painters"
 

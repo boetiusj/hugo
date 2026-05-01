@@ -97,25 +97,7 @@ jobs:
           git add "$SITE_DIR/data/googleReviews.json"
           if git diff --cached --quiet; then
             echo "No review badge changes to commit."
-            echo "changed=false" >> "$GITHUB_ENV"
           else
             git commit -m "chore: refresh Google review badge"
-            echo "changed=true" >> "$GITHUB_ENV"
+            git push origin HEAD:mk
           fi
-
-      - name: Open PR instead of pushing to working branch
-        if: ${{ env.changed == 'true' }}
-        uses: peter-evans/create-pull-request@v7
-        with:
-          commit-message: "chore: refresh Google review badge"
-          branch: automation/google-review-badge
-          delete-branch: true
-          title: "chore: refresh Google review badge"
-          body: |
-            Automated update of `data/googleReviews.json` from the scheduled Google Places refresh workflow.
-
-            This opens a PR instead of pushing directly to the site branch so local work on `mk` does not diverge from scheduled badge refreshes.
-
-      - name: Trigger Netlify build (optional)
-        if: ${{ env.NETLIFY_BUILD_HOOK_URL != '' }}
-        run: curl -s -X POST -d '{}' "$NETLIFY_BUILD_HOOK_URL"

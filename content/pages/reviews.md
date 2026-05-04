@@ -32,6 +32,11 @@ Scot P.
 Mike was responsive, honest, and didn't waste time. It was so easy to work with him. He was on site regularly to make sure the work was done right, and made sure ALL my questions were answered. 10/10, would hire again.
 Sarah C.
 
+**On-Time And Within Budget**
+10/25
+Hired Crestwood Painting for an older residence in Brookside. The home was long overdue for exterior painting and required some siding repair. The house was painted quickly, on-time, and within budget. Satisfied with the final color and results.
+Bill M.
+
 **Integrity and Transparency Mean Everything**
 9/25
 Crestwood Painting did a marvelous job painting and repairing the outside of our house. Their work-ethic and attention to detail were impressive. In this day and age, integrity and transparency mean everything. What we were promised was completely delivered and more. We would highly recommend Mike Kelly and his team without reservation. Thank you, Mike, for restoring the beauty of our Brookside home. We truly appreciate your team and their expertise.

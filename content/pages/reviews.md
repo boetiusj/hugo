@@ -12,7 +12,28 @@ index: true
 
 > I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed. *Melissa J*
 
+**Professional, Timely, Communicated Well**
+4/26
+We had our house exterior painted. Mike and the Crestwood crew were professional, timely and communicated well.
+Brian W.
+
+**Would Use Again**
+4/26
+I had a great experience with Crestwood Painting. They were transparent with pricing and expectations and did a great job on the job I needed done. Would use again.
+Lyndsey K.
+
+**Excellent Job**
+3/26
+We hired Crestwood to sand, smooth, and, repaint our living room walls which had a lot texture on them. And also to fix some issues with our bedroom ceiling. They did an excellent job for a good price.
+Scot P.
+
+**Made Sure ALL Questions Were Answered**
+2/26
+Mike was responsive, honest, and didn't waste time. It was so easy to work with him. He was on site regularly to make sure the work was done right, and made sure ALL my questions were answered. 10/10, would hire again.
+Sarah C.
+
 **Integrity and Transparency Mean Everything**
+9/25
 Crestwood Painting did a marvelous job painting and repairing the outside of our house. Their work-ethic and attention to detail were impressive. In this day and age, integrity and transparency mean everything. What we were promised was completely delivered and more. We would highly recommend Mike Kelly and his team without reservation. Thank you, Mike, for restoring the beauty of our Brookside home. We truly appreciate your team and their expertise.
 Greg & Janann V. ❤️❤️❤️
 

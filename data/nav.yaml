@@ -8,9 +8,9 @@
     - name: "Reviews"
       url: "/reviews/"
     - name: "12 Best Questions"
-      url: "/12-questions-ask-painter/"
+      url: "/12-top-painter-questions/"
     - name: "FAQs"
-      url: "/faqs/"
+      url: "/frequently-asked-questions/"
 - name: "Painting Services"
   url: "#"
   submenu:
@@ -26,7 +26,7 @@
   url: "#"
   submenu:
     - name: "Email Us"
-      url: "/contact/"
+      url: "/contact-us/"
     - name: "Blog - the Nitty Gritty"
       url: "/blog/"
     - name: "Payments"

@@ -6,6 +6,7 @@ enableEmoji = true
 googleAnalytics = "G-Y229K0TNJR"
 # old G (before '24) analytics: UA-1372967-1
 disableHugoGeneratorInject = true
+disableKinds = ['RSS']
 
 [permalinks]
   pages     = "/:slug/"            # content/pages/...  → /<slug>/
@@ -20,15 +21,12 @@ disableHugoGeneratorInject = true
 
 [params]
 license_url = "https://crestwoodpainting.com/licensing/"
-acquire_license_url = "mailto:admin@crestwoodpainting.com"      
+acquire_license_url = "mailto:admin@crestwoodpainting.com"
 
 [taxonomies]
 category = "categories"
 # tag = "tags"
 # tags = ["Products", "Tips", "Color", "Best Practices"]
-
-disableKinds = ['RSS']
-enableRobotsTXT = true
 
 [[module.mounts]]
 source = 'assets'

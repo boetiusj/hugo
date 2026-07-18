@@ -1,35 +1,33 @@
-{{/* page-ld.html – emits JSON-LD for non-service resource pages          */}}
-{{- $license := .Params.license_url | default site.Params.license_url -}}
-{{- $.Scratch.Set "webpage_id" .Permalink -}}
-{{- $t := .Params.schema_type -}}
-{{- /* If nothing set, do nothing so we don’t disturb Service / Blog / FAQ */}}
-{{- if $t }}
-  {{- $img := "" }}
-  {{- with .Params.image }}
-      {{- $img = cond (in . "http") . (absURL .) }}
-  {{- end }}
-  <script type="application/ld+json" data-partial="page-ld">
-  {
-    "@context": "https://schema.org",
-    "@type": "{{ $t }}",
-    "name": "{{ .Title }}",
-    "description": "{{ .Description | default .Summary }}",
-    "url": "{{ .Permalink }}"{{ if $img }},
-    "image": {
-      "@type": "ImageObject",
-      "url": "{{ $img }}",
-      "contentUrl": "{{ $img }}"{{ with $license }},
-      "license": "{{ . | absURL }}"{{ end }}
-    }{{ end }}
-    {{- /* Article-only extras */ -}}
-    {{- if eq $t "Article" -}}
-      {{ with .Params.datePublished }},
-      "datePublished": "{{ . }}"{{ end }}
-      {{ with .Params.dateModified }},
-      "dateModified": "{{ . }}"{{ end }}
-      ,"mainEntityOfPage": { "@type": "WebPage", "@id": "{{ .Permalink }}" }
-    {{- end }}
-    {{- /* ContactPage & CheckoutPage need no extra required props */ -}}
-  }
-  </script>
-{{- end }}
+{{/* page-ld.html – WebPage schema for non-blog pages when schema_type is set */}}
+
+{{/* Skip blog posts - check both .Section AND .File.Dir to catch posts with custom slugs */}}
+{{- $isBlog := or (eq .Section "blog") (and .File (strings.HasPrefix .File.Dir "blog")) -}}
+
+{{- if not $isBlog -}}
+  {{- if .Params.schema_type -}}
+    <script type="application/ld+json" data-partial="page-ld">
+    {
+      "@context": "https://schema.org",
+      "@type": "{{ .Params.schema_type }}",
+      "@id": "{{ .Permalink }}#webpage",
+      "url": "{{ .Permalink }}",
+      "name": "{{ .Title }}",
+      "description": "{{ .Description | default .Summary }}",
+      "inLanguage": "{{ .Lang }}",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "{{ site.BaseURL }}#website",
+        "url": "{{ site.BaseURL }}",
+        "name": "{{ site.Title }}"
+      }
+      {{- if .Params.image -}}
+      ,
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "{{ absURL .Params.image }}"
+      }
+      {{- end -}}
+    }
+    </script>
+  {{- end -}}
+{{- end -}}

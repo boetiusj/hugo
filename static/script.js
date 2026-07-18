@@ -1,49 +1,6 @@
 (function ($) {
 	'use strict';
 
-	// testimonial-wrap
-	if ($('.testimonial-wrap').length !== 0 && $('.testimonial-wrap').slick) {
-		$('.testimonial-wrap').slick({
-			slidesToShow: 2,
-			slidesToScroll: 2,
-			infinite: true,
-			dots: true,
-			arrows: false,
-			autoplay: true,
-			autoplaySpeed: 6000,
-			responsive: [{
-					breakpoint: 1024,
-					settings: {
-						slidesToShow: 1,
-						slidesToScroll: 1,
-						infinite: true,
-						dots: true
-					}
-				},
-				{
-					breakpoint: 900,
-					settings: {
-						slidesToShow: 1,
-						slidesToScroll: 1
-					}
-				}, {
-					breakpoint: 600,
-					settings: {
-						slidesToShow: 1,
-						slidesToScroll: 1
-					}
-				},
-				{
-					breakpoint: 480,
-					settings: {
-						slidesToShow: 1,
-						slidesToScroll: 1
-					}
-				}
-			]
-		});
-	}
-
 	// navbarDropdown
   $('#navbar .dropdown-toggle').on('click', function () {
     $(this).siblings('.dropdown-menu').animate({
@@ -70,26 +27,6 @@
 				scrollTop: 0
 			}, 600);
 			return false;
-		});
-	}
-
-	// portfolio-gallery
-	if ($('.portfolio-gallery').length !== 0) {
-		$('.portfolio-gallery').each(function () {
-			$(this).find('.popup-gallery').magnificPopup({
-				type: 'image',
-				gallery: {
-					enabled: true
-				}
-			});
-		});
-	}
-
-	// Counter
-	if ($('.counter-stat').length !== 0) {
-		$('.counter-stat').counterUp({
-			delay: 10,
-			time: 1000
 		});
 	}
 

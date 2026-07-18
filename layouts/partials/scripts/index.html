@@ -8,12 +8,6 @@ Essential Scripts
 <!-- Bootstrap 4.3.1 -->
 <script src={{ absURL "plugins/bootstrap/bootstrap.min.js" }} defer></script>
 
-<!-- Google Map -->
-{{ if .Params.googleMaps }}
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=marker" defer></script>
-  <script src={{ absURL "plugins/google-map/map.js" }} defer></script>
-{{ end }}
-
 <script src={{ absURL "/script.js" }} defer></script>
 
 {{- $variablesPath := "js/variables.js" }}

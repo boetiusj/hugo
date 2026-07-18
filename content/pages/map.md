@@ -7,7 +7,6 @@ keywords: "project map crestwood painting"
 date: "2018-09-27"
 images: "/images/schema-ogimage.jpg"
 index: true
-googleMap: true
 
 ---
 ## We've Painted in Your Neighborhood

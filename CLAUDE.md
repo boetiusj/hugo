@@ -170,8 +170,8 @@ Site navigation and service lists are managed via YAML in `data/`:
   - Robots meta tag logic for noindex scenarios
 - `layouts/partials/nav/` - Navigation components
 - `layouts/partials/blocks/` - Reusable page blocks (page-title, reviews)
-- `layouts/partials/blog/` - Blog-specific components (author, comments, sidebar)
-- `layouts/partials/scripts/` - Google Analytics and other scripts
+- `layouts/partials/blog/` - Blog-specific components (author, sidebar)
+- `layouts/partials/scripts/` - Script loading (jQuery/Bootstrap plugins, bundled site JS)
 - `layouts/partials/func/` - Utility functions
 
 ### Shortcodes
@@ -188,14 +188,10 @@ Available in content markdown (`layouts/shortcodes/`):
 - `{{</* contact-regrets */>}}` - Contact form variant for regrets pages
 - `{{</* gallery */>}}...{{</* /gallery */>}}` - Inline image gallery (wraps markdown list items)
 - `{{</* youtube "url" */>}}` - YouTube embed
-- `{{</* youtube-enhanced "url" */>}}` - Enhanced YouTube embed variant
-- `{{</* text "content" */>}}` or `{{</* text */>}}...{{</* /text */>}}` - Contrast-enhanced text styling
 - `{{</* figure1st */>}}`, `{{</* figure-blog */>}}` - Specialized image displays for different contexts
-- `{{</* sub "text" */>}}` - Subscript text
-- `{{</* line_break */>}}` - Manual line break
 - `{{</* knowledge */>}}`, `{{</* knowledge-strip */>}}` - Knowledge panel elements
 - `{{</* link */>}}` - Custom link handling
-- `{{</* paypal */>}}`, `{{</* paypal-form */>}}` - PayPal payment integration
+- `{{</* paypal-form */>}}` - PayPal payment integration
 
 ## Styling & Assets
 
@@ -214,16 +210,14 @@ Stylesheets processed via Hugo Pipes in `head.html`:
 - `static/plugins/` - Third-party libraries:
   - jQuery
   - Bootstrap JS
-  - Slick carousel
-  - Google Maps integration (`google-map/map.js`)
 - Loaded via `layouts/partials/scripts/index.html`
 
 ### Static Assets
-- `static/images/` - All images including logo, project photos, SVG icons
-  - Logo is WebP format (`logo-crestwood.webp`)
-  - Schema OG image at `/images/schema-ogimage.jpg`
-- `static/plugins/` - Third-party JavaScript and CSS libraries
-- `static/fonts/` - Web fonts
+- `assets/images/` - Primary image tree, organized by subject (`exterior/`, `interior/`, `cabinets/`, `office/`, `city/`, `admin/`, `other/`, `svg/`, ...); each dir has a `file - <dirname>/` archive subdir for parked/unused images
+  - Logo: `assets/images/other/logo-crestwood.webp` (referenced by params.toml `logo`)
+- `static/images/` - Root-served images (schema OG image at `/images/schema-ogimage.jpg`, email/payment assets, active SVGs)
+- `static/plugins/` - Third-party JavaScript and CSS libraries (jQuery, Bootstrap)
+- Fonts: system-ui stack via `assets/scss/templates/_system-ui-fonts.scss` (no web font files)
 
 ### Module Mounts
 Config mounts both `assets/` and `static/` to Hugo's assets pipeline:
@@ -245,9 +239,8 @@ target = 'assets'
   - Taxonomies (categories enabled, tags disabled)
   - Related content configuration (threshold: 30, indices: keywords weight 100, categories weight 80, date weight 10)
   - Module mounts for assets and static directories
-  - RSS disabled, robots.txt enabled
+  - RSS disabled; robots.txt served from `static/robots.txt`
   - Timeout set to 100s for large builds
-  - Google Analytics ID: G-Y229K0TNJR
 
 - `params.toml` - Site parameters:
   - Contact info (email, phone)
@@ -282,8 +275,8 @@ Key settings:
 - Pages with `index: false` param: Noindex, follow
 
 ### Analytics
-- Google Analytics 4: G-Y229K0TNJR
-- GTM integration via partials
+- Google Tag Manager container GTM-WB46J8DN via `gtm_head.html` / `gtm_body.html` partials
+- Emitted only when `HUGO_ENV=production` (set by Netlify), so local builds carry no GTM
 
 ## Common Development Patterns
 
@@ -387,7 +380,7 @@ faqs:
   - `book-form` - Standard booking (regrets URL: `/regrets/`)
   - `book-form-calls` - Call center variant (regrets URL: `/call-center-regrets/`)
   - `book-form-wild` - Wildcard bookings (has additional job type option)
-- **Contact forms** - Used on `/contact/` and regrets pages
+- **Contact forms** - Used on `/contact-us/` and regrets pages
 - **Future enhancement**: hCaptcha integration (noted in revisions.md)
 
 ### Image Handling

@@ -1,7 +1,7 @@
 ---
 title: "What Color Should I Paint My House?"
 slug: "what-color-should-i-paint-my-house"      # lock new canonical
-aliases: ["color-help"]                         # preserve old
+aliases: ["color-help", "/colors-interior/"]     # preserve old
 description: "Choose the right colors for your home - with confidence. The right resources make it easy."
 keywords: "house paint, colors, living room color, exterior colors, kansas city, crestwood painting"
 date: "2011-05-05"

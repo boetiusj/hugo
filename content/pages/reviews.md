@@ -13,6 +13,16 @@ index: true
 
 > I have dealt with A LOT of contractors and I have rarely, if ever, encountered one as professional and committed. *Melissa J*
 
+**A Pleasure To Work With**
+7/26
+Mike and the entire professional family with Crestwood Painting provide excellent work and do so with a quick step, exceptional value and the caliber of a finished product that should be the norm. We have lived in our Brookside home for more than 40 years and have used Mike and Crestwood for several painting jobs, both interior and exterior. This summer, Peter painted the exterior window trim on about 12 windows on the 3rd floor and below. Together with Mike, Peter was a pleasure to work with. We enjoyed having Peter on our property and would HIGHLY recommend both to you for their professionalism and valuable service. We won’t use any other painting company.
+Robert S.
+
+**Punctual, Thorough and Professional!**
+5/26
+Big house projects can be stressful but Mike and team made it easy. It was simple to schedule a quote. Quick to respond, punctual, and most importantly they did a thorough and professional job. Would recommend!
+Cara B.
+
 **Professional, Timely, Communicated Well**
 4/26
 We had our house exterior painted. Mike and the Crestwood crew were professional, timely and communicated well.

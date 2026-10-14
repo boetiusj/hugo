@@ -17,7 +17,7 @@ index: true
 8/26
 Mike Kelly and his team at Crestwood Painting should be the first and only option when it comes time to paint your house. Mike was timely, considerate and informative from the time of his estimate until the completion of the job. The quality of the work and the follow up throughout the job shows in the final product. His knowledge and care of painting our Brookside home is evident in that he has the experience and wants to to take care of the customer and their home. We had several neighbors and even walkers passing by making positive comments on how the house was coming along during the process.
 Price was good, delivered finished work in time promised and the outcome of the project met and exceeded expectations. Thanks Mike and all at Crestwood!
-Catherine S.
+Catherine S. 
 
 **A Pleasure To Work With**
 7/26

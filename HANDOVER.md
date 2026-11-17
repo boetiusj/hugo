@@ -51,7 +51,7 @@ A way to picture it:
 
 **The catch:** changes are made by editing files and "saving" them to GitHub, not by clicking around on the live site. Section 6 walks through this.
 
-**The original Hugo theme [(Themefisher Megakit Bootstrap)](https://github.com/themefisher/megakit-bootstrap)** - is the set of layout and organization files for the Hugo site. These files have been greatly altered, very little of the original structure remains.
+**Original Hugo theme [(Themefisher Megakit Bootstrap)](https://github.com/themefisher/megakit-bootstrap)** is the set of layout and organization files for the Hugo site. These files have been greatly altered, very little of the original structure remains.
 
 ---
 
